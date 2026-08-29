@@ -1,0 +1,105 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#PLAYLIST:Rugby & League Flagship
+
+#EXTINF:0 group-title="Rugby & League" ,2G-SKY SPORTS ACTION | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/258.ts
+
+#EXTINF:0 group-title="Rugby & League" ,2G-SKY SPORTS ARENA | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/2106.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORT ACTION L | HD (UK)
+http://main.cctvlive.org:8000/live/sam3/sam3/15356.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORT ARENA L | HD (UK)
+http://main.cctvlive.org:8000/live/sam3/sam3/10423.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORT ARENA | SD (UK)
+http://ipsatpro.org:8080/live/pierre3225/iudj652k/1558.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION 576P | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/2133.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (UK)
+http://xxultraxx.com:80/live/sumsum/sumsum/9772.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (UK)
+http://focusiptv.com:4512/live/lutfu/lutfu1/11400.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (UK)
+http://ipsatpro.org:8080/live/pierre3225/iudj652k/545.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (_)
+http://piesustv.net:8000/live/chris/chris/321.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (_)
+http://kingtveu.com:25461/live/mani/mani/18158.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (_)
+http://kingtveu.com:25461/live/next/next/18158.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (_)
+http://kingtveu.com:25461/live/next/next/23600.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (_)
+http://kingtveu.com:25461/live/rola/rola/18158.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (_)
+http://piesustv.net:8000/live/sakkarinsai8/exchange10/321.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | HD (_)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/18158.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | SD (UK)
+http://xxultraxx.com:80/live/sumsum/sumsum/38.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | SD (UK)
+http://main.cctvlive.org:8000/live/sam2/sam2/4651.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | SD (UK)
+http://main.cctvlive.org:8000/live/sam3/sam3/4651.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | SD (UK)
+http://vip-src.com:8080/live/sedat29/sedat29/7234.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | SD (UK)
+http://ipsatpro.org:8080/live/pierre3225/iudj652k/1560.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | SD (_)
+http://piesustv.net:8000/live/chris/chris/20.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ACTION | SD (_)
+http://piesustv.net:8000/live/sakkarinsai8/exchange10/20.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA 576P | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/2136.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA V | SD (UK)
+http://main.cctvlive.org:8000/live/sam2/sam2/9077.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA V | SD (UK)
+http://main.cctvlive.org:8000/live/sam3/sam3/9077.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA | HD (UK)
+http://xxultraxx.com:80/live/sumsum/sumsum/9773.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA | HD (_)
+http://kingtveu.com:25461/live/mani/mani/20445.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA | HD (_)
+http://kingtveu.com:25461/live/next/next/20445.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA | HD (_)
+http://kingtveu.com:25461/live/next/next/23598.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA | HD (_)
+http://kingtveu.com:25461/live/rola/rola/20445.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA | HD (_)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/20445.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA | SD (UK)
+http://xxultraxx.com:80/live/sumsum/sumsum/3963.ts
+
+#EXTINF:0 group-title="Rugby & League" ,SKY SPORTS ARENA | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/2104.ts
+

@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:0, tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8c/03/f1/8c03f1a7-a5f6-707c-87ed-252e93ea9eaa/contsched.yoepvqdw.lsr/600x600bb.jpg" group-title="",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+

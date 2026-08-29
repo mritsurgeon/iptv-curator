@@ -1,0 +1,249 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#PLAYLIST:Cricket Flagship
+
+#EXTINF:0 group-title="Cricket" ,2G-PTV SPORTS | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/136.ts
+
+#EXTINF:0 group-title="Cricket" ,2G-SKY SPORTS CRICKET | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/257.ts
+
+#EXTINF:0 group-title="Cricket" ,2G-SONY SIX | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/143.ts
+
+#EXTINF:0 group-title="Cricket" ,2G-STAR SPORTS 1 | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/133.ts
+
+#EXTINF:0 group-title="Cricket" ,2G-STAR SPORTS 2 | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/134.ts
+
+#EXTINF:0 group-title="Cricket" ,2G-WILLOW CRICKET | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/139.ts
+
+#EXTINF:-1 group-title="Cricket" tvg-id="CricketGold.au@SD" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" ,Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+
+#EXTINF:0 group-title="Cricket" ,OSN CRICKET | HD (_)
+http://kingtveu.com:25461/live/next/next/28544.ts
+
+#EXTINF:0 group-title="Cricket" ,OSN SPORTS CRICKET | HD (_)
+http://xxultraxx.com:80/live/sumsum/sumsum/9382.ts
+
+#EXTINF:0 group-title="Cricket" ,OSN TEN CRICKET | SD (_)
+http://xxultraxx.com:80/live/sumsum/sumsum/9381.ts
+
+#EXTINF:0 group-title="Cricket" ,OSN TEN CRICKET | SD (_)
+http://arvstv.dynv6.net:25461/live/TigV2xRXXTNMY/CcfSjhHyxn/3815.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS BACKUP | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/859.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (PK)
+http://kingtveu.com:25461/live/mani/mani/16525.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (PK)
+http://kingtveu.com:25461/live/mani/mani/24974.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (PK)
+http://kingtveu.com:25461/live/next/next/16525.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (PK)
+http://kingtveu.com:25461/live/next/next/24974.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (PK)
+http://kingtveu.com:25461/live/rola/rola/16525.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (PK)
+http://kingtveu.com:25461/live/rola/rola/24974.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (PK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16525.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (PK)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/24974.ts
+
+#EXTINF:0 group-title="Cricket" ,PTV SPORTS | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/147.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORT CRICKET L | HD (UK)
+http://main.cctvlive.org:8000/live/sam3/sam3/15376.ts
+
+#EXTINF:-1 group-title="Cricket" tvg-id="SkySportsCricket.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" ,Sky Sports Cricket
+https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET 576P | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/2132.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET BACKUP | HD (UK)
+http://pr01.donvolga.com:8000/live/gurol/pxdg7oG55U/3274.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET V | HD (UK)
+http://main.cctvlive.org:8000/live/sam2/sam2/2751.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET V | HD (UK)
+http://main.cctvlive.org:8000/live/sam3/sam3/2751.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (UK)
+http://xxultraxx.com:80/live/sumsum/sumsum/9774.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (UK)
+http://main.cctvlive.org:8000/live/sam2/sam2/558.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (UK)
+http://main.cctvlive.org:8000/live/sam3/sam3/558.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (UK)
+http://focusiptv.com:4512/live/lutfu/lutfu1/11399.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (UK)
+http://ipsatpro.org:8080/live/pierre3225/iudj652k/547.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (UK)
+http://pr01.donvolga.com:8000/live/gurol/pxdg7oG55U/3273.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (_)
+http://piesustv.net:8000/live/chris/chris/322.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (_)
+http://kingtveu.com:25461/live/mani/mani/18162.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (_)
+http://kingtveu.com:25461/live/next/next/18162.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (_)
+http://kingtveu.com:25461/live/next/next/23601.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (_)
+http://kingtveu.com:25461/live/rola/rola/18162.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (_)
+http://piesustv.net:8000/live/sakkarinsai8/exchange10/322.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | HD (_)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/18162.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | SD (UK)
+http://xxultraxx.com:80/live/sumsum/sumsum/37.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | SD (UK)
+http://vip-src.com:8080/live/sedat29/sedat29/7235.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | SD (UK)
+http://ipsatpro.org:8080/live/pierre3225/iudj652k/1564.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | SD (_)
+http://piesustv.net:8000/live/chris/chris/19.ts
+
+#EXTINF:0 group-title="Cricket" ,SKY SPORTS CRICKET | SD (_)
+http://piesustv.net:8000/live/sakkarinsai8/exchange10/19.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY SIX BACKUP | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/766.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY SIX | HD (_)
+http://kingtveu.com:25461/live/next/next/16745.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY SIX | SD (_)
+http://kingtveu.com:25461/live/next/next/23306.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY SIX | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/6.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY TEN 1 BACKUP | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/312.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY TEN 1 | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/153.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY TEN 2 BACKUP | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/313.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY TEN 2 | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/152.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY TEN 3 BACKUP | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/314.ts
+
+#EXTINF:0 group-title="Cricket" ,SONY TEN 3 | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/815.ts
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS 1 BACKUP | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/435.ts
+
+#EXTINF:-1 group-title="Cricket" tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" ,Star Sports 1 HD (1080p)
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS 1 | HD (UK)
+http://kingtveu.com:25461/live/next/next/28989.ts
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS 1 | HD (_)
+http://kingtveu.com:25461/live/next/next/16740.ts
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS 1 | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/115.ts
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS 2 BACKUP | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/436.ts
+
+#EXTINF:-1 group-title="Cricket" tvg-id="StarSports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" ,Star Sports 2 HD (720p)
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS 2 | HD (_)
+http://kingtveu.com:25461/live/next/next/16739.ts
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS 2 | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/150.ts
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS SELECT 1 | HD (_)
+http://kingtveu.com:25461/live/next/next/22638.ts
+
+#EXTINF:-1 group-title="Cricket" tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" ,Star Sports Select 2 HD (720p)
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+
+#EXTINF:0 group-title="Cricket" ,STAR SPORTS SELECT 2 | HD (_)
+http://kingtveu.com:25461/live/next/next/22639.ts
+
+#EXTINF:0 group-title="Cricket" ,TEN SPORTS | SD (PK)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/2564.ts
+
+#EXTINF:0 group-title="Cricket" ,TEN SPORTS | SD (_)
+http://kingtveu.com:25461/live/next/next/19739.ts
+
+#EXTINF:-1 group-title="Cricket" tvg-id="Willow.us@SD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" ,Willow (720p)
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET BACKUP | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/434.ts
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET | HD (US)
+http://main.cctvlive.org:8000/live/Amos/Amos/8737.ts
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET | HD (_)
+http://kingtveu.com:25461/live/mani/mani/16732.ts
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET | HD (_)
+http://kingtveu.com:25461/live/next/next/16732.ts
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET | HD (_)
+http://kingtveu.com:25461/live/next/next/22542.ts
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET | HD (_)
+http://kingtveu.com:25461/live/rola/rola/16732.ts
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET | HD (_)
+http://163.172.51.84:25461/live/superiptv1/superiptv111/16732.ts
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET | SD (US)
+http://ipsatpro.org:8080/live/pierre3225/iudj652k/1492.ts
+
+#EXTINF:0 group-title="Cricket" ,WILLOW CRICKET | SD (_)
+http://live1.livetvindia.co.in:8000/live/0001_jshdfkbjsd/0001_jshdfkbjsd/117.ts
+
+#EXTINF:-1 group-title="Cricket" tvg-id="WillowSports.us@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" ,Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="WillowSports.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" ,Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+
+#EXTINF:-1 group-title="Cricket" ,Willow Sports (Geo)
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+

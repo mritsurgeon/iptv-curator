@@ -1,0 +1,20 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:-1 tvg-id="bluezoom.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" tvg-country="CH" tvg-language="French" group-title="CH sport",blue zoom F HD 720p
+https://netplus.zappr.stream/bluezoomfr.m3u8
+
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" tvg-country="FR" tvg-language="French" group-title="FR sport",La chaine L'EQUIPE 720p
+https://netplus.zappr.stream/lequipe21.m3u8
+
+#EXTINF:-1 tvg-id="sport1.de" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" tvg-country="DE" tvg-language="German" group-title="DE sport",sport1 HD
+https://netplus.zappr.stream/sport1.m3u8
+
+#EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" tvg-country="CH" tvg-language="German" group-title="CH Sport",blue zoom D HD 720p
+https://netplus.zappr.stream/bluezoomde.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" tvg-country="DE" tvg-language="German" group-title="DE sport",eurosport1 D
+https://netplus.zappr.stream/eurosportde.m3u8
+
+#EXTINF:-1 tvg-id="Raisport1.it" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png" tvg-country="IT" tvg-language="Italian" group-title="IT sport",Rai Sport HD
+https://netplus.zappr.stream/raisport1.m3u8
+

@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:-1 tvg-id="africa24tv.com/sport" tvg-logo="",Africa24 Sport
+https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+

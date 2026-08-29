@@ -1,0 +1,36 @@
+name: Auto-Update Sports EPG Guide
+
+on:
+  schedule:
+    # Run every day at 03:00 UTC (05:00 SAST / 06:00 EEST)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build Custom EPG & Sync to Cloud Gist
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          python build_custom_epg.py
+
+      - name: Commit & Push Updated EPG File (Optional Repo Backup)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add sports_epg.xml verified_premier_sports.m3u8 || true
+          git commit -m "Auto-update Sports EPG Guide [skip ci]" || echo "No changes to commit"
+          git push || echo "No push needed"

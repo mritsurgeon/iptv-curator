@@ -1,0 +1,14 @@
+# Logs & cache
+*.log
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
+
+# Large raw search dumps
+downloaded_playlists/
+all_sports_master_curated.m3u8
+curated_sports_playlist.m3u
+pvr_access_log.txt
+stream_benchmark_report.json
+deep_validation_report.json
