@@ -121,8 +121,7 @@ CHANNEL_ALIASES: Dict[str, List[str]] = {
     "Sky.Sport.8.nz": ["Sky.Sport.8.nz", "SkySport8.nz"],
     "Sky.Sport.9.nz": ["Sky.Sport.9.nz", "SkySport9.nz"],
     "Sky.Sport.Premier.League.nz": ["Sky.Sport.Premier.League.nz"],
-    "Sky.Sport.Select.nz": ["Sky.Sport.Select.nz"],
-    "DStv.za": ["GRANDSTAND.za", "SS.Events.za", "SS.Variety.1.za"]
+    "Sky.Sport.Select.nz": ["Sky.Sport.Select.nz"]
 }
 
 

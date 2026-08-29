@@ -60,7 +60,7 @@ NON_SPORTS_KEYWORDS = [
     r"\bsky\s*news\b", r"\bbbc\s*news\b", r"\bmarried\b", r"\blifetime\b", r"\byerli\b", r"\baile\b",
     r"\b48\s*hours\b", r"\beverybody\s*hates\s*chris\b", r"\bfox\s*foxi\b", r"\bfix\s*foxi\b",
     r"\bcam\b", r"\bradio\b", r"\bpop[\s-]?up\b", r"\bbang\s*bang\b", r"\bstingray\b", r"\bshows?\b",
-    r"\be-?sports?\b", r"\bretake\b"
+    r"\be-?sports?\b", r"\bretake\b", r"\bdstv\b(?!.*supersport)"
 ]
 NON_SPORTS_REGEX = re.compile("|".join(NON_SPORTS_KEYWORDS), re.IGNORECASE)
 
@@ -183,7 +183,7 @@ def is_valid_english_sports_candidate(ch: Dict[str, str]) -> bool:
     # 3. Must match valid sports terms or live match format
     sports_keywords = [
         r"\bsport\w*\b", r"\bcricket\b", r"\brugby\b", r"\bfootball\b", r"\bsoccer\b",
-        r"\bespn\w*\b", r"\bwillow\b", r"\bsupersport\b", r"\bdstv\b", r"\bbein\b",
+        r"\bespn\w*\b", r"\bwillow\b", r"\bsupersport\b", r"\bbein\b",
         r"\bsky\s*sport\w*\b", r"\btnt\s*sport\w*\b", r"\bpremier\s*league\b", r"\bpremier\s*sport\w*\b",
         r"\bf1\b", r"\bformula\s*1\b", r"\bmotogp\b", r"\bmma\b", r"\bufc\b",
         r"\bboxing\b", r"\bfight\b", r"\bnfl\b", r"\bnba\b", r"\bmlb\b", r"\bnhl\b",
