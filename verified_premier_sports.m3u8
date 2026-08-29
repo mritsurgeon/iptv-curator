@@ -19,6 +19,9 @@ http://stream.mcquack.net/235/index.m3u8
 # =============================================================
 # 🏏 CRICKET
 # =============================================================
+#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="SuperSport Cricket" tvg-logo="https://i.imgur.com/vHq8sR7.png" group-title="Cricket",SuperSport Cricket (1080p FHD)
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:BC:25:43&stream=691198&extension=m3u8
+
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket HD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports HD
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 
@@ -46,6 +49,9 @@ https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e
 # =============================================================
 # ⚽ FOOTBALL & SOCCER
 # =============================================================
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://i.imgur.com/jM8vD9P.png" group-title="Football & Soccer",SuperSport Premier League (1080p FHD)
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=833281&extension=m3u8
+
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football & Soccer",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
@@ -70,6 +76,12 @@ http://stream.mcquack.net/235/index.m3u8
 # =============================================================
 # 🌟 MAIN EVENTS & FLAGSHIP SPORTS
 # =============================================================
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://i.imgur.com/wPZ3vUf.png" group-title="Main Events & Flagship Sports",SuperSport Variety 1 (DStv)
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=144415&extension=m3u8
+
+#EXTINF:-1 tvg-id="DStv.za" tvg-name="DStv Network" tvg-logo="https://i.imgur.com/5lFqj7e.png" group-title="Main Events & Flagship Sports",DStv Live Network (1080p)
+http://46.249.95.140:8081/hls/data.m3u8
+
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1 Fox Sports 1 HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Main Events & Flagship Sports",Fox Sports 1 (FS1 - 720p 60fps)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
