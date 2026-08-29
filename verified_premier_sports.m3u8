@@ -1,56 +1,74 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
-#PLAYLIST:Master Curated English Flagship Sports (100% Live Verified & English Commentary)
+#PLAYLIST:Master Flagship & Event Sports (Self-Healing Daily Auto-Curated)
 
 # =============================================================
-# 🏉 RUGBY & LEAGUE
+# RUGBY & LEAGUE
 # =============================================================
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 HD" tvg-logo="https://i.imgur.com/eOybZMU.png" group-title="Rugby & League",Premier Sports 1 (URC & Top 14)
-https://7nyaler.streamhostingcdn.top/stream/47/index.m3u8
-
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2 HD" tvg-logo="https://i.imgur.com/Fx1n84p.png" group-title="Rugby & League",Premier Sports 2 (URC & European Champions Cup)
-https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="Rugby & League",Setanta Sports 1 (Top 14 Rugby)
-http://stream.mcquack.net/313/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="Rugby & League",Setanta Sports 2 (European Rugby & Tests)
 http://stream.mcquack.net/235/index.m3u8
 
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="Rugby & League",Setanta Sports 1 (Top 14 Rugby)
+http://stream.mcquack.net/313/index.m3u8
+
+#EXTINF:-1 tvg-id="21999eb74cfd3d50" tvg-name="1608 RugbyPass TV" tvg-logo="http://img.platform.wurl.dev/channel/1872/lg/c984c0/LG-Logo-PNG-100x100_v1.png" group-title="Rugby & League" platform="lgchannels" country="gb",1608 RugbyPass TV
+https://wurlworldrugby.global.transmit.live/hls/689a67f6391f9819c668c2c5/v1/world_rugby_rugbypasstv_1/lg_gb/latest/main/hls/playlist.m3u8?wurl_channel=1872&wurl_name=RugbyPassTV&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-id="RugbyPassTV.uk@SD" group-title="Rugby & League",Rugby Pass TV (720p)
+https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
+
 # =============================================================
-# 🏏 CRICKET
+# CRICKET
 # =============================================================
+
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket HD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports 1080p
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
+
 #EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name="SuperSport Cricket" tvg-logo="https://i.imgur.com/vHq8sR7.png" group-title="Cricket",SuperSport Cricket (1080p FHD)
 http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:BC:25:43&stream=691198&extension=m3u8
 
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket HD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports HD
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket HD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports 1080p
-https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
-
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Cricket US (720p)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Cricket",Sky Sports Cricket HD
-https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Cricket",Star Sports 1 HD (1080p 50fps)
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Cricket",Star Sports Select 2 HD (720p)
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 group-title="Cricket" ,Willow Sports (Geo)
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Cricket",Star Sports 2 HD (720p)
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Cricket",Star Sports 1 HD
+http://103.155.18.186:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-id="CricketGold.au" tvg-name="Cricket Gold" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Cricket",Cricket Gold (Australia)
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Willow Cricket 2" tvg-logo="https://i.postimg.cc/V6Cy4crv/WILLOW-2.png" group-title="Cricket",Willow Cricket 2
+http://185.80.197.55:80/play/live.php?mac=00:1a:79:7b:3d:32&stream=1104677&extension=ts&play_token=Dula307sgv
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Star Sports 3" tvg-logo="https://i.postimg.cc/tTm4ZkbP/star-sports.png" group-title="Cricket",Star Sports 3
+http://185.80.197.55:80/play/live.php?mac=00:1a:79:7b:3d:32&stream=1104675&extension=ts&play_token=IeAFOemrVq
+
+#EXTINF:-1 group-title="Cricket" tvg-id="Willow.us@SD",Willow (720p)
+http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="WillowSports.us@SD",Willow Sports (1080p) [Geo-blocked]
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="228" tvg-id="plex.tv.Willow.Sports.plex" tvg-name="Willow Sports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s164602_dark_360w_270h.png" group-title="Cricket",Willow Sports
+https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
 
 # =============================================================
-# ⚽ FOOTBALL & SOCCER
+# FOOTBALL & SOCCER
 # =============================================================
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://i.imgur.com/jM8vD9P.png" group-title="Football & Soccer",SuperSport Premier League (1080p FHD)
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=833281&extension=m3u8
+
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="Football & Soccer",CCTV-Storm Football (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="SetantaSports1.ie" tvg-name="Setanta Sports 1" tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="Football & Soccer",Setanta Sports 1 Eurasia (1080p)
+http://stream.mcquack.net/234/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSportsPlus.ua" tvg-name="Setanta Sports+" tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="Football & Soccer",Setanta Sports+ (1080p 25fps)
+http://stream.mcquack.net/390/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football & Soccer",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
@@ -61,23 +79,72 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us" tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Football & Soccer",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-name="CBS Sports Golazo Network" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Football & Soccer",CBS Sports Golazo Network (720p)
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+#EXTINF:-1 group-title="Football & Soccer" tvg-id="StrongmanChampionsLeague.uk@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" ,Strongman Champions League (720p)
+https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SetantaSportsPlus.ua" tvg-name="Setanta Sports+" tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="Football & Soccer",Setanta Sports+ (1080p 25fps)
-http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 group-title="Football & Soccer" tvg-id="Strongman.us@Germany" tvg-logo="https://i.imgur.com/bVQBF6R.png" ,Strongman Champions League (720p)
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SetantaSports1.ie" tvg-name="Setanta Sports 1" tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="Football & Soccer",Setanta Sports 1 Eurasia (1080p)
-http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 group-title="Football & Soccer" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/Bein-Sports-Xtra.png",🇲🇽 | BeIN Sports XTRA Ñ
+https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785
 
-#EXTINF:-1 tvg-id="SetantaSports2.ie" tvg-name="Setanta Sports 2" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Football & Soccer",Setanta Sports 2 Eurasia (1080p)
-http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sky Sports Laliga" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Football & Soccer",Sky Sports Laliga
+http://181.78.106.127:5000/play/ca029/index.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="BEIN SPORTS 1" group-title="Football & Soccer",BEIN SPORTS 1-ATOM
+https://corestream.ardastream.live//beintv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="BEIN SPORTS 3" group-title="Football & Soccer",BEIN SPORTS 3
+https://corestream.ardastream.live//bein3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="BEIN SPORTS 2" group-title="Football & Soccer",BEIN SPORTS 2
+https://corestream.ardastream.live//bein2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-5" tvg-name="BEIN SPORTS 5" group-title="Football & Soccer",BEIN SPORTS 5
+https://corestream.ardastream.live//bein5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-max-1" tvg-name="BEIN SPORTS MAX 1" group-title="Football & Soccer",BEIN SPORTS MAX 1
+https://corestream.ardastream.live//beinmax1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Football & Soccer",Bein Bigo tv
+https://proxy.cors.sh/https://yayinlarfidanafidanlaragaca.xyz/hls/4.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="BEIN SPORTS 4" group-title="Football & Soccer",BEIN SPORTS 4
+https://corestream.ardastream.live//bein4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bein-sports-max-2" tvg-name="BEIN SPORTS MAX 2" group-title="Football & Soccer",BEIN SPORTS MAX 2
+https://corestream.ardastream.live//beinmax2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Football & Soccer",beIN SPORTS 5-Tal
+http://taliptv01.xyz:8080/play/live.php?mac=00:1A:79:4D:06:6C&stream=620422&extension=ts
+
+#EXTINF:-1 group-title="Football & Soccer",ukskysportsfootball
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc340/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQwOjE3ODgwMTE3NzI2NTY6Y2RubGl2ZXR2LnR2OmY4YTdiMzRlNDdhYWVhMmIuMjNmZDRjNjRmM2YyZDFiMjNiMjU4Y2Q1OTcxZmNkNTExNDlkZDJmOGFjNTllNWE4NmQwODk2NzFhNDJlOTljYQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="Football & Soccer",beIN Sports Haber-tul
+https://trn03.tulix.tv/gt-beinsportshaber/index.m3u8?token=ae8ebfde63142e4716ab799a5aa7df6d
+
+#EXTINF:-1 tvg-id="frbeinsports1" tvg-name="frbeinsports1" tvg-logo="" group-title="Football & Soccer",frbeinsports1
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a2/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWEyOjE3ODgwMTE3OTEzMTI6Y2RubGl2ZXR2LnR2OjFhZmNhNDRiMzU5ZDZmZjIuODlkZDg5OTU1MzE2ZGZmNWQ5M2FiNzgyNjFkNWFlMGEwMGVjZTY2ZWExZjIyZDA0MzRlNzE4MDY3NDhlNzRiNw
+
+#EXTINF:-1 tvg-id="frbeinsports2" tvg-name="frbeinsports2" tvg-logo="" group-title="Football & Soccer",frbeinsports2
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a4/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWE0OjE3ODgwMTE3OTEzMzA6Y2RubGl2ZXR2LnR2OmNiYzc0ZDBjZjllNGI1NmEuNmQ5ZjI1Mzk1MjQ3NDhkYzVmYzM2YzVlMWQxNDhkMjhiODdmODVjM2Q4ZTQ1ZDU5NjM0NjZjOGQyNGY4MjljMQ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTTxc9G3/Bein-gurme-removebg-preview.png" group-title="Football & Soccer",beIN GURME
+https://vavoo.biz-az.workers.dev/play/9503946568377e1ba14c8.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus (Alt)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66879_dark_360w_270h.png" group-title="Football & Soccer",Fox Soccer Plus (Alt)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cbe68/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZTY4OjE3ODgwMDMwMzQ5MjM6Y2RubGl2ZXR2LnR2OmIwYTE2NzU1YWI1ODVhMDYuZTA3ZTU2NTM4ZmY4NjI3NGEyMjdjMGM0Y2IyYTlhNDA3ZGE3MDRkYmU4NjM3NTMxZWI1MjNhZGNmY2Q2N2NjZQ
+
+#EXTINF:-1 tvg-id="6a5bd5f5327f3814" tvg-name="1603 GFN Football" tvg-logo="http://img.platform.wurl.dev/channel/2093/lg/7cec6f/LG-Logo-PNG-100x100_v1.png" group-title="Football & Soccer" platform="lgchannels" country="gb",1603 GFN Football
+https://473dfa36.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfR0ZOU29jY2VyX0hMUw/manifest.m3u8
 
 # =============================================================
-# 🌟 MAIN EVENTS & FLAGSHIP SPORTS
+# MAIN EVENTS & FLAGSHIP SPORTS
 # =============================================================
-#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://i.imgur.com/wPZ3vUf.png" group-title="Main Events & Flagship Sports",SuperSport Variety 1 (DStv)
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=144415&extension=m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Main Events & Flagship Sports",ESPNU HD (720p 60fps)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="DStv.za" tvg-name="DStv Network" tvg-logo="https://i.imgur.com/5lFqj7e.png" group-title="Main Events & Flagship Sports",DStv Live Network (1080p)
 http://46.249.95.140:8081/hls/data.m3u8
@@ -85,32 +152,781 @@ http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1 Fox Sports 1 HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Main Events & Flagship Sports",Fox Sports 1 (FS1 - 720p 60fps)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2 Fox Sports 2 HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Main Events & Flagship Sports",Fox Sports 2 (FS2)
-https://tvsen7.aynascope.net/foxsports2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Main Events & Flagship Sports",ESPNU HD (720p 60fps)
-http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ESPNews_2017.svg/1024px-ESPNews_2017.svg.png" group-title="Main Events & Flagship Sports",ESPNews (720p 60fps)
-http://85.237.89.160:9590/usa-s/ESPNews-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Main Events & Flagship Sports",ESPN (1080p 30fps)
-http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-name="Bellator MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Main Events & Flagship Sports",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Main Events & Flagship Sports",ESPN 4 (1080p 30fps)
 http://181.78.197.59:8000/play/a07n/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="Main Events & Flagship Sports",Sky Sports Main Event
-https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Main Events & Flagship Sports",ESPN (1080p 30fps)
+http://181.78.197.59:8000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Main Events & Flagship Sports",Sky Sports F1 (1080p 50fps)
 https://xemzi.short.gy/2000005
 
-#EXTINF:-1 tvg-id="FightBoxHD.us" tvg-name="FightBox HD" tvg-logo="https://i.imgur.com/KzM5Vv1.png" group-title="Main Events & Flagship Sports",FightBox HD (1080p)
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="ESPNU.us@SD" tvg-logo="https://i.imgur.com/HiBrysh.png" ,ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
-#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-name="Bellator MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Main Events & Flagship Sports",Bellator MMA
-https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="ESPNDeportes.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" ,ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
 
-#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA TV.com" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Main Events & Flagship Sports",MMA TV.com (1080p)
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="ESPN3.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" ,ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="PFLMMA.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" ,PFL MMA (720p)
+https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
+
+#EXTINF:0 group-title="Main Events & Flagship Sports", tvg-logo="https://i.kinja-img.com/gawker-media/image/upload/s--NxekXGiy--/c_scale,f_auto,fl_progressive,q_80,w_800/wnja60hjmxcsqg7hqnmf.png" ,Fox Sports
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TSports7.th@SD",T Sports 7
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="PKSports.pk@SD",PK Sports (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="SkyNewsUrdu.pk@SD",Sky News Urdu (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="AlAimmaTV.iq@SD",Al-Aimma TV (1080p)
+https://alaimma.tv/live/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="F1Channel.ie@US",F1 Channel (1080p) [Geo-blocked]
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="AlIraqiaSport.iq@SD",Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="SkyNews.ie@HD",Sky News HD (1080p)
+https://xemzi.short.gy/1000018
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Premiere 4 HD.png" group-title="Main Events & Flagship Sports",Kino Premiere 4 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3604.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Kino Premiere 2 HD.png" group-title="Main Events & Flagship Sports",Kino Premiere 2 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3606.m3u8
+
+#EXTINF:-1 tvg-logo="https://moneroiptv.net/logot/germany/skycinema.png" group-title="Main Events & Flagship Sports",DE: Sky Cinema WESTERN
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3445.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Ks Premier 1.png" group-title="Main Events & Flagship Sports",AL: Ks Premier 1
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3328.m3u8
+
+#EXTINF:-1 tvg-logo="https://moneroiptv.net/logot/germany/Sky_Cinema_Premieren_%2B24_HD_DE_2020_Logo.png" group-title="Main Events & Flagship Sports",DE: Sky Cinema Premieren HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3461.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Main Events & Flagship Sports",DE: Sky Documentaries
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5965.m3u8
+
+#EXTINF:-1 tvg-logo="https://moneroiptv.net/logot/germany/skycinema24.png" group-title="Main Events & Flagship Sports",DE: Sky Cinema +24 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3453.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/ex-yu/premiere 1 cinestar.png" group-title="Main Events & Flagship Sports",MK: Cinestar Premiere 1
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3069.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/eurosport1.png" group-title="Main Events & Flagship Sports",DE: EuroSport 1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/125.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvgjolli.com/germany/SKYSELECT1.png" group-title="Main Events & Flagship Sports",DE: Sky Select 1 4K
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3435.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvgjolli.com/germany/SKYSELECT5.png" group-title="Main Events & Flagship Sports",DE: Sky Select Premiere 5 FHD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3421.m3u8
+
+#EXTINF:-1 tvg-logo="https://moneroiptv.net/logot/germany/skyhits.png" group-title="Main Events & Flagship Sports",DE: Sky Cinema Hits SD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3441.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/TNTFILMHD.png" group-title="Main Events & Flagship Sports",DE: TNT Film
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/635.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/ex-yu/CineStar_TV_premiere_2_logo.png" group-title="Main Events & Flagship Sports",MK: Cinestar Premiere 2
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3070.m3u8
+
+#EXTINF:-1 tvg-logo="https://moneroiptv.net/logot/germany/skys.png" group-title="Main Events & Flagship Sports",DE: Sky Cinema Special HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3459.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/SuperSport 5.png" group-title="Main Events & Flagship Sports",AL: Super Sport 5 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Main Events & Flagship Sports",DE: Sky Select 6 4K
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3430.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/SuperSport 6.png" group-title="Main Events & Flagship Sports",AL: Super Sport 6 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/361.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/kujtesa4.png" group-title="Main Events & Flagship Sports",AL: Kujtesa Sport 4 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/886.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/SuperSport 1.png" group-title="Main Events & Flagship Sports",AL: Super Sport 1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/63.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png" group-title="Main Events & Flagship Sports",AL: ART Sport 1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3555.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/SuperSport 3.png" group-title="Main Events & Flagship Sports",AL: Super Sport 3 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/65.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/ART Sport 5 HD.png" group-title="Main Events & Flagship Sports",AL: ART Sport 5 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5166.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png" group-title="Main Events & Flagship Sports",AL: ART Sport 2 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3554.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/Super Sport Kosova 1.png" group-title="Main Events & Flagship Sports",AL: Super Sport Kosova 1
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5602.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png" group-title="Main Events & Flagship Sports",AL: ART Sport 3 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3553.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/Sky_Sport_News_HD_Logo_2016.png" group-title="Main Events & Flagship Sports",DE:Sky Sports News HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3168.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/albanian/kujtesa3.png" group-title="Main Events & Flagship Sports",AL: Kujtesa Sport 3 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/885.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Main Events & Flagship Sports",DE: DAZN SPORT 1 HD*
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/968.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Main Events & Flagship Sports",DE: Dazn Rise HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5973.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SKYSPORT2.png" group-title="Main Events & Flagship Sports",DE: Sky Bundesliga 2
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/303.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SKYSPORT9HD.png" group-title="Main Events & Flagship Sports",DE: Sky Sport 9 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/621.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SKYSPORT2HD.png" group-title="Main Events & Flagship Sports",DE: Sky Sport 2 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/300.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SKYSPORT3HD.png" group-title="Main Events & Flagship Sports",DE: Sky Sport 3 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/626.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SPORT 1+ FHD.png" group-title="Main Events & Flagship Sports",DE: SPORT 1+ FHD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5617.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SKYSPORT6HD.png" group-title="Main Events & Flagship Sports",DE: Sky Sport 6 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/625.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SKYSPORT7HD.png" group-title="Main Events & Flagship Sports",DE: Sky Sport 7 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/624.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/Sky Sport F1 HD.png" group-title="Main Events & Flagship Sports",DE: Sky Sport F1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/4921.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SKYSPORT5HD.png" group-title="Main Events & Flagship Sports",DE: Sky Bundesliga 5
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/306.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/SKYSPORT6HD.png" group-title="Main Events & Flagship Sports",DE: Sky Bundesliga 6
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/620.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/eurosport1.png" group-title="Main Events & Flagship Sports",DE: EuroSport 1
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/283.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Main Events & Flagship Sports",DE: Sky Sport Golf HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5974.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Main Events & Flagship Sports",SE: SPORT EXPRESSEN FHD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5637.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Main Events & Flagship Sports",DE: Sport1 ᶠᴴᴰ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5838.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/Sky_Sport_Austria_Logo_2016.png" group-title="Main Events & Flagship Sports",DE: Sky Sport Austria
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/307.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/germany/eurosport2.png" group-title="Main Events & Flagship Sports",DE: Eurosport 2 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/284.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/EchoSports.png",🇺🇸 | EchoSports
+https://a-cdn.klowdtv.com/live2/echosports_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/FTFSports.jpg",🇺🇸 | FTF Sports
+https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/skynews.png",🇬🇧 | SkyNews
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream06/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/tivibu-png-4.png" group-title="Main Events & Flagship Sports",TR: TIVIBU SPOR-1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/1644.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/turkey/FOX TV.png" group-title="Main Events & Flagship Sports",TR: FOX TV
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3622.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/foxnews.png",🇺🇸 | Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://iptvbeka.net/ex-yu/arenasport2.png" group-title="Main Events & Flagship Sports",EX-YU: RS Arena Sport 2
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/3004.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Main Events & Flagship Sports",IT: DAZN 1 HD
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/6147.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT%20Sport.jpg",🇨🇿 | CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Main Events & Flagship Sports",FR: Amazon Prime 6 ⁴ᴷ
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5842.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/sporty_tv_logo.jpg",🇨🇿 | Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Estland/GO3Sport1.png",🇪🇪 | Go3 Sport 1
+http://stream.mcquack.net/416/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSport3png.png",🇵🇱 | Polsat Sport 3
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7303/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/ESPNews.png",🇺🇸 | ESPNews
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSport1png.png",🇵🇱 | Polsat Sport 1
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7296/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSportP2.png",🇵🇱 | Polsat Sport Premium 2
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7305/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/E4K.png",🇨🇿 | Eurosport 4K
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/ACI%20SPORT.jpg",🇮🇹 | ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M4%20Sport.png",🇭🇺 | M4 Sport
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSport2png.png",🇵🇱 | Polsat Sport 2
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7310/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/A3-SPORTTV.jpg",🇻🇪 | AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport2.png",🇭🇺 | Sport 2
+http://88.212.15.19/live/sport2_hun/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSportP1.png",🇵🇱 | Polsat Sport Premium 1
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Tigo%2B.jpg",🇵🇾 | Tigo Sports+
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport1.png",🇭🇺 | Sport 1
+http://88.212.15.19/live/sport1_hun/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Tigo_Sports_2025.png",🇵🇾 | Tigo Sports
+http://45.170.130.224:8000/play/a04k/index.m3u8?hls
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/AYM3.png",🇲🇽 | AYM Sports 3
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/TNT.png",🇷🇺 |TNT
+http://stream.mcquack.net/135/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kazachstan/QazSport.png",🇰🇿 | QAZ Sports HD
+http://stream.mcquack.net/72/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/OkkoPrimeSport.png",🇷🇺 | Okko Prime Sport
+http://stream.mcquack.net/493/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/OkkoSport.png",🇷🇺 | Okko Sport
+http://stream.mcquack.net/492/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Realitatea%20Sportiva.jpg",🇷🇴 | Realitatea Sportiva
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/5Sport.png",🇮🇱 | 5Sport
+http://stream.mcquack.net/41/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/SNA.png",🇦🇪 | Sky News Arabia
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://i.imgur.com/PPwZaN6.jpg",HORSE TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/FightBoxHD.jpg",🇷🇴 | FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Filipijnen/PremierSports-ph.png",🇵🇭 | Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://i.imgur.com/sNE75Lf.jpg",FIFA+ SPORT
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Filipijnen/PremierSports-2.png",🇵🇭 | Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://i.imgur.com/lYfXQRd.jpg",IMPACT! WRESTLING
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://i.imgur.com/AVvISbb.jpg",JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://i.imgur.com/bbWhcdO.jpg",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVJVdXD6NTy8nMOIOb_mqewV8NZMUjHdPog&s",DAZN RINGSIDE
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://i.imgur.com/lJoFi92.jpg",BARCA TV ᴴᴰ
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="FIFA +" tvg-logo="https://i.postimg.cc/8CkXGTpB/FIFA_tv.png" group-title="Main Events & Flagship Sports",FIFA +
+https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/TPXLgqKZ/ESPN-Premium.jpg" group-title="Main Events & Flagship Sports",ESPN Premium
+http://181.78.106.127:5000/play/ca027/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Strongman" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Main Events & Flagship Sports",Strongman
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Ten Sports HD" tvg-logo="https://i.postimg.cc/YC88ss92/ten-sports.png" group-title="Main Events & Flagship Sports",Ten Sports HD
+https://streamhub.dhruvpatil681.workers.dev/1098.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="sky cinema action and adventure" tvg-logo="https://i.postimg.cc/W3dw2wSM/sky-cinema-action.jpg" group-title="Main Events & Flagship Sports",sky cinema action and adventure
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884638/hls/master.m3u8?ads.xumo_channelId=88884638
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sony Sports Ten 5 HD" tvg-logo="https://i.postimg.cc/0QL3ns2s/Sony-Sports-TEN-5-HD.png" group-title="Main Events & Flagship Sports",Sony Sports Ten 5 HD
+http://103.155.18.186:8000/play/a0ao/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sun Gemini HD" tvg-logo="https://sund-images.sunnxt.com/194392/200x200_SunGeminiHD_194392_7cf12398-9a75-48a1-b707-b3c4da0564e9.png" group-title="Main Events & Flagship Sports",Sun Gemini HD
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6709/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Ten Sports HD" tvg-logo="https://i.postimg.cc/YC88ss92/ten-sports.png" group-title="Main Events & Flagship Sports",Ten Sports HD
+http://66.102.126.10:8000/play/a018/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="SuperTennis" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" group-title="Main Events & Flagship Sports",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Eurospot HD" tvg-logo="https://i.postimg.cc/MG5smh9G/Eurospots.jpg" group-title="Main Events & Flagship Sports",Eurospot HD
+http://103.155.18.186:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Tennis Channel T2" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Main Events & Flagship Sports",Tennis Channel T2
+https://amg01444-amg01444c2-freelivesports-emea-11541.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelfast-tennischannelus-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Sky News HD" tvg-logo="https://i.imgur.com/nYRPdry.jpeg" group-title="Main Events & Flagship Sports",Sky News HD
+https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/YCLy5Bfd/IPTV-logo.png" tvg-id="Tennis Channel" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Main Events & Flagship Sports",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="s-sport" tvg-name="S SPORT" group-title="Main Events & Flagship Sports",S SPORT
+https://corestream.ardastream.live//s-sport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",ukskysportsgolf
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3ODgwMTE3NzM2MTI6Y2RubGl2ZXR2LnR2OjFkZTE2OTMzMjgzNDc4MzcuNDIzYTFiOWQwYjAzMjcxNGQ4NDMyYzNmZDUzOTQ3ZjNhM2EzNjY0NDRlYjA4ZTE2ZjdiZDBjNzJiZmExZjlhMg
+
+#EXTINF:-1 tvg-id="s-sport-2" tvg-name="S SPORT 2" group-title="Main Events & Flagship Sports",S SPORT 2
+https://corestream.ardastream.live//s-sport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",ukchannel5
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc383/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzgzOjE3ODgwMTE3NzY4Njk6Y2RubGl2ZXR2LnR2OjNhZmY5MzFiOThiZTU0NGQuYzE1ZTFlN2U1N2EzNjQ0MDg0OTE3ZDUxYWVmOWRlNjBiNmUwZjQwMzc1YTVjNzk1ZjAxYTRiOWEzNWJhMmM5MA
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",ukeurosport2
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzViOjE3ODgwMTE3NzU5MDM6Y2RubGl2ZXR2LnR2OmQ0Mzk1MTIwNmM0MmNmMjMuNjM4MmZiNzRiZmFmMzhhYjU1Yjk2NjUxZTVlNDE5N2JjZGM4MDRlNmM0ODJlY2NiZTc3MDY0YzYwMjVlYTAxYQ
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",deskysportbundesliga1
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccca9/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjY2E5OjE3ODgwMTE4MDM3ODI6Y2RubGl2ZXR2LnR2OmYwZGFjYjAzNmFhYjE0NWIuMjEyYzVlM2I2M2FiNGRmZGE1ZmVkMmUzMDEwYjk0ZDhlZWJiNGYyZTNlMmM1OTZlZDU3NzBkMGQ1ZTIzN2M0Yg
+
+#EXTINF:-1 tvg-logo="https://filedn.eu/l5ABGVFVcpIfW9YXHkcxLX7/freelogo/fox-turkiye-logo.png" group-title="Main Events & Flagship Sports",Now TV FHD (tv724)
+https://trn03.tulix.tv/gt-nowtv-live/index.m3u8?token=10a5253f5ee4a368d5ffae3e332099c8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYTEuoR.png" group-title="Main Events & Flagship Sports",Ekol Sports
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-id="Dummy" ,Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="frcanalplussport360" tvg-name="frcanalplussport360" tvg-logo="" group-title="Main Events & Flagship Sports",frcanalplussport360
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd1f7/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMWY3OjE3ODgwMTE3OTA5MjM6Y2RubGl2ZXR2LnR2OjU0ODJjMjU0Y2ZlYmU5MjQuYTZmMGJlYWNmYjAxN2RkOWVmNWQyMjBhMGU2ZDc5MzdhNzYwNTA4MjQxZmFmNjk4Mzk0MmZhYjMxMTJhMzhlYQ
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TyCSports.ar@SD",TyC Sports (1080p)
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="CanalShowsport.ar@SD",Canal Showsport (720p)
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="MDF1.de@SD",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="casportsnetontario" tvg-name="casportsnetontario" tvg-logo="" group-title="Main Events & Flagship Sports",casportsnetontario
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2bc/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmJjOjE3ODgwMTE4MjQwNjU6Y2RubGl2ZXR2LnR2OjEwZTExNGRhMGNjODIyYzEuNWI4YjM3MmFiMWVjZjdjMjc4ODg3OTUwMmJmOTEyNTc1M2NmNjEwZjFkMDA1MmE5NDlmMWVmZWJiNGY2YTc3Nw
+
+#EXTINF:-1 tvg-id="ptsporttv1" tvg-name="ptsporttv1" tvg-logo="" group-title="Main Events & Flagship Sports",ptsporttv1
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd412/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNDEyOjE3ODgwMTE4MjQ3MDc6Y2RubGl2ZXR2LnR2OmVjODZjOTRiZmEzZTNiOGEuZDZlYzU5ZTEzZjc4NGY0NGRlYzMxMDg1YzI5ODljOTZkNDBmYzVhMzdhYzY3MzI1OTRjNTNhYzRlZjY0MDQwZg
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="ExtremaKidsTV.cr@HD",Extrema Kids TV [Not 24/7]
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="Sport3.ua@SD",Sport 3 (1080p)
+http://stream.mcquack.net/393/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TyCSportsUSA.ar@SD",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="Sport4.ua@SD",Sport 4 (576p)
+http://stream.mcquack.net/394/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="Sport1.ua@SD",Sport 1 (576p)
+http://stream.mcquack.net/391/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="MaincastCybersport.ua@SD",Maincast Cybersport (1080p)
+http://stream.mcquack.net/487/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="DiviSport.ua@SD",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="Sport5.ua@SD",Sport 5 (1080p)
+http://stream.mcquack.net/212/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="SuspilneSport.ua@SD",Suspilne. Sport (1080p)
+http://stream.mcquack.net/444/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="Sport1Baltic.ua@SD",Sport 1 Baltic (1080p)
+http://stream.mcquack.net/461/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="MaincastSport.ua@SD",Maincast Sport (1080p)
+http://stream.mcquack.net/490/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FoxNewsChannel.us@SD",Fox News Channel (144p)
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="CTNTVConneticut.us@SD",CT-N TV Conneticut (720p) [Not 24/7]
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TyCSports.ar@SD",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FoxDeportes.us@SD",Fox Deportes (720p)
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (480p)
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="Fox.us@East",Fox (720p)
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FuboSportsNetwork.us@SD",Fubo Sports Network (720p)
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="Fox.us@West",Fox West (720p)
+http://stream.cammonitorplus.net/1799/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FoxSports1.us@HD",Fox Sports 1 (720p)
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="talkSPORT.uk@SD",talkSPORT (1080p)
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TVSClassicSports.us@SD",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://45.190.28.50/FOX_NEWS/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TNTNovelas.us@Panregional",TNT Novelas (1080p)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TVSSports.us@SD",TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FoxWeather.us@SD",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FoxNewsRadio.us@SD",Fox News Radio (720p)
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="LiveNOWfromFOX.us@SD",LiveNOW from FOX (720p) [Geo-blocked]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FTFSports.us@SD",FTF Sports (720p)
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TVSWomenSports.us@SD",TVS Women Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TVSSportsBureau.us@SD",TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+
+#EXTINF:-1 tvg-chno="196" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Main Events & Flagship Sports",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TNTNovelas.us@Brazil",TNT Novelas Brazil (720p)
+http://168.197.104.22/TNT_NOVELAS/index.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="FTFSports.us@SD",FTF Sports (720p)
+https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports" tvg-id="TNTNovelas.us@Brazil",TNT Novelas Brazil (720p)
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-chno="152" tvg-id="[SKYNWS].Sky.News.PEACOCK" tvg-name="Sky News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16234_dark_360w_270h.png" group-title="Main Events & Flagship Sports",Sky News
+https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+
+#EXTINF:-1 tvg-chno="155" tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Main Events & Flagship Sports",Sky Sports F1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Main Events & Flagship Sports",ESPN2 (Alt)
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59c/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3ODgwMDMwMjY4Mjk6Y2RubGl2ZXR2LnR2OmUyNTBkOTEyMjBkZjY1MTkuY2ZkMDM5YzVlNjFiZWU5ZjFkMjBjMzRmNmVkZmUwMDNhM2I2NmUzYmU0OWM2MDk3MGIwZjliNzIwZjA2YTg0MA
+
+#EXTINF:-1 tvg-chno="153" tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="Main Events & Flagship Sports",Sky Sports Action
+http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
+
+#EXTINF:-1 tvg-chno="158" tvg-id="SkySp.Golf.uk" tvg-name="Sky Sports Golf (Alt)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Main Events & Flagship Sports",Sky Sports Golf (Alt)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3ODgwMDMwNDQ1NDQ6Y2RubGl2ZXR2LnR2OmVkNTZlNzdjZjM3YjY2ZWUuODEyMThiNTM2YzZhYmY3OWJjMWVlMDI4MTdkYjViNzQ5M2I4NjY2M2E5MGQ2ZjYxNTEzNzE5MGZmMjQ0YzMyOQ
+
+#EXTINF:-1 tvg-chno="174" tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" group-title="Main Events & Flagship Sports",Sportsnet East (Alt)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc168/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTY4OjE3ODgwMDMwMjkwODU6Y2RubGl2ZXR2LnR2OmI2ZWNhNDkwNTNjOGRhZDQuZDIzYWRmYWNjMzE5NmIzMWRjMzM4OGU5ZDNmNTk4ZTNjODM2ZjVkODUzNzVmMWNkZWY4YjhkMzdmZWZmY2FjYw
+
+#EXTINF:-1 tvg-chno="56" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Main Events & Flagship Sports",ESPN
+http://stream.bottledesk.net/6500/index.m3u8
+
+#EXTINF:-1 tvg-chno="198" tvg-id="TNT.HD.us2" tvg-name="TNT (Alt 2)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Main Events & Flagship Sports",TNT (Alt 2)
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb402/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDAyOjE3ODgwMDMwMzcwNjc6Y2RubGl2ZXR2LnR2OmQwODA2NzhkNmYwNWNhMjAuZDYzYzkwY2RlYmYxNjRkNWM5YjU3Njc0MWVmNWNkYzFmZTlmZDc1YzA5Y2FlMTczNDhiYWIxMjU5N2UwODQ3Yg
+
+#EXTINF:-1 tvg-chno="165" tvg-id="SkySp.Racing.HD.uk" tvg-name="Sky Sports Racing (Alt)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="Main Events & Flagship Sports",Sky Sports Racing (Alt)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc333/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzMzOjE3ODgwMDMwMzYyNTE6Y2RubGl2ZXR2LnR2OmUwOTdlNDFmYmZmNGY1ZmEuM2U0ODg0ZTRkZWY0M2VkYjdlZmExZjRkZTYyNTU4YzJmMDA3MGQ1MjY1MzMyMjJhOTVhZTZjMTBjOWYxZTExZg
+
+#EXTINF:-1 tvg-chno="206" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 (Alt)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46594_dark_360w_270h.png" group-title="Main Events & Flagship Sports",TNT Sports 4 (Alt)
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc34e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzRlOjE3ODgwMDMwMzM2OTI6Y2RubGl2ZXR2LnR2OmVkMjYxYjIyODY5MmEwMTUuZjQ5ZmJjNmNkYTFkYzQzMTRiYzVlZWNmMTViNDMxYjg2MTEzOGIzNjBmMWQ0YTYxMzkxNTQyOTM5ZDQwMTk0Yw
+
+#EXTINF:-1 tvg-id="cbc3bfe8e38f0e94" tvg-name="1486 Pluto TV Conspiracy" tvg-logo="https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1486 Pluto TV Conspiracy
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhmMDFjYzNiLTM3YTgtNGJlNC05MGQwLTk2YzBmNDI0YTQwMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg4MDI0NDQ5LCJpYXQiOjE3ODc5MzgwNDksImp0aSI6ImNmNTBlMDMzLWQwMDctNGEzMC04YWYxLWM2YjdiYzIzY2NjNyJ9.zI7ZlyhjXLSvbnllwOhtoAJwiC1Gk_bekz20pa6_eqM
+
+#EXTINF:-1 tvg-id="3001ebfb5d701b3b" tvg-name="1115 Icon Film Channel Classics" tvg-logo="http://img.platform.wurl.dev/channel/1624/lg/0f1805/LG-Logo-PNG-100x100_v3.png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1115 Icon Film Channel Classics
+https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15594f8400cf1ece" tvg-name="1127 Sparkle Movies - Light & Love" tvg-logo="http://img.platform.wurl.dev/channel/1019/lg/08b9d7/LG-Logo-PNG-100x100_v1.png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1127 Sparkle Movies - Light & Love
+https://4e7a7263575046f8a1d1770818e39216.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-gb_SparkleMovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4398c9b8f80db107" tvg-name="1631 PFL MMA" tvg-logo="http://img.platform.wurl.dev/channel/1309/lg/235364/LG-Logo-PNG-100x100_v1.png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1631 PFL MMA
+https://68fd966a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfUEZMTU1BX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="d756a894810bf128" tvg-name="1630 GLORY Kickboxing" tvg-logo="http://img.platform.wurl.dev/channel/1360/lg/e8ee82/LG-Logo-PNG-100x100_v2.png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1630 GLORY Kickboxing
+https://3539cc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fb97f11ab5b94355" tvg-name="1001 LG 1: Film" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/anamorphic-logo/400x200/sin_titulo_7_0.png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1001 LG 1: Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="7ed93b65f10e0055" tvg-name="1856 Video Game Heroes" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/lightning/KCvideogame/Lglogos/VGH%20NEW%20LOGO_400x200.png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1856 Video Game Heroes
+https://amg01076-amg01076c16-lg-gb-10383.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-kcvideogameseng-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="cba2ae2f63297998" tvg-name="1642 Trace Stars" tvg-logo="https://d3dj3gmzxw0r4q.cloudfront.net/Trace_SportStars/LG_Ch_Logo_460x200.png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1642 Trace Stars
+https://trace-sportstars-lg-uk.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-lg-uk/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+
+#EXTINF:-1 tvg-id="aebee24c4086ac8e" tvg-name="1956 Breaking Sports News" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/leadstory/BreakingSportsNewsEurope/Breaking Sports News Logo 400x200.png" group-title="Main Events & Flagship Sports" platform="lgchannels" country="gb",1956 Breaking Sports News
+https://amg02703-amg02703c47-amgplt0029.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02703-amg02703c47-amgplt0029/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME
+
+#EXTINF:-1 tvg-id="48Hours.us@CA" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Main Events & Flagship Sports",48 Hours
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",Auto Motor Sport
+https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" group-title="Main Events & Flagship Sports",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",Dyn Sport Mix (720p)
+https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
+
+#EXTINF:-1 tvg-id="FilmesSuspense.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+
+#EXTINF:-1 tvg-id="CinebyPlutoTV.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" group-title="Main Events & Flagship Sports",Ciné by Pluto TV
+https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
+
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" group-title="Main Events & Flagship Sports",Arirang World
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="BobEsponja.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Bob Esponja (720p)
+https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Karaoke por Stingray (720p)
+https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
+
+#EXTINF:-1 tvg-id="Boligkobiblinde.se@DK" tvg-logo="https://images.pluto.tv/channels/63c6a27a4faf1c0007b48f7b/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Boligkøb i blinde
+https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
+
+#EXTINF:-1 tvg-id="EverybodyHatesChris.se@DK" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Everybody Hates Chris
+https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",Matched Married Meet by Lifetime (720p)
+https://jmp2.uk/plu-6887a86be3703b7d42b3eca3.m3u8
+
+#EXTINF:-1 tvg-id="Hogspanning.se@SE" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Högspänning
+https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
+
+#EXTINF:-1 tvg-id="LasTortugasNinja.de@ES" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Las Tortugas Ninja (720p)
+https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Estelar
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+
+#EXTINF:-1 tvg-id="GustavLinsepaudebane.se@DK" tvg-logo="https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png" group-title="Main Events & Flagship Sports",Gustav & Linse på udebane
+https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Acción
+https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Bang Bang
+https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Comédia
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineRomantico.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Romántico
+https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
+
+#EXTINF:-1 tvg-id="CineTerror.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Terror
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Romance
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Familia
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCocina.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Main Events & Flagship Sports",Pluto TV Cine Família
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVComedyMovies.de@GB" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Comedy Movies
+https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVConspiracy.de@GB" tvg-logo="https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Conspiracy
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="Main Events & Flagship Sports",Pluto TV Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVEsportes.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg" group-title="Main Events & Flagship Sports",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDocumentales.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png" group-title="Main Events & Flagship Sports",Pluto TV Documentales
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Filmes Ação
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+
+#EXTINF:-1 tvg-id="LuksusfellenSverige.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1e0f1d6d97900076ea16f/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Luksusfellen Sverige
+https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVESports.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV E-Sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistoria.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png" group-title="Main Events & Flagship Sports",Pluto TV Historia
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+
+#EXTINF:-1 tvg-id="Investiga.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Investiga
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistoria.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png" group-title="Main Events & Flagship Sports",Pluto TV História
+https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJunior.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Junior
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Karaokê por Stingray (720p)
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVReality.de@FR" tvg-logo="https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Reality
+https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Misterios
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJunior.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" group-title="Main Events & Flagship Sports",Pluto TV Junior (720p)
+https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us@BR" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMystery.de@DACH" tvg-logo="https://images.pluto.tv/channels/617aad99b68ef100072608cd/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetroCrimeDrama.us@CA" tvg-logo="https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Retro Crime Drama
+https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMinhaObsessaoFavorita.us@BR" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Minha Obsessão Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",Retake E-sport Live
+https://jmp2.uk/plu-69a164f76c0414a7ec68de54.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistoire.de@FR" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Histoire (720p)
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSport.de@IT" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png" group-title="Main Events & Flagship Sports",Pluto TV Sport
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+
+#EXTINF:-1 group-title="Main Events & Flagship Sports",Retake E-sport Live (720p)
+https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNatureza.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKids.de@GB" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" group-title="Main Events & Flagship Sports",Pluto TV Kids
+https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeAccion.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Series de Acción
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVWestern.de@DACH" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" group-title="Main Events & Flagship Sports",Pluto TV Western
+https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeries.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Pluto TV Series
+https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+
+#EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" group-title="Main Events & Flagship Sports",Sky Folk
+https://skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+
+#EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" tvg-logo="https://i.imgur.com/ya5xpUL.png" group-title="Main Events & Flagship Sports",Sky Folk TV (720p) [Not 24/7]
+https://eu.live.skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-id="SvenskaTruckers.se@SE" tvg-logo="https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Svenska Truckers
+https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Main Events & Flagship Sports",Sky News Arabia (1080p) [Not 24/7]
+https://stream.skynewsarabia.com/ott/ott.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkRockinOut.se@DK" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoPNG.png" group-title="Main Events & Flagship Sports",South Park Rockin' Out
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+
+#EXTINF:-1 tvg-id="SvenskaTruckers.se@NO" tvg-logo="https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png" group-title="Main Events & Flagship Sports",Svenske Truckers
+https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
+
+# =============================================================
+# ⚡ TEMPORARY & EVENT SPORTS
+# =============================================================
+
+#EXTINF:-1 tvg-logo="" group-title="⚡ Temporary & Event Sports",SE: TV4 SPORT LIVE 3
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/5951.m3u8
+
+#EXTINF:-1 group-title="⚡ Temporary & Event Sports" tvg-logo="https://i.imgur.com/2T3vsGO.jpg",BOXING TV
+https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
+
+#EXTINF:-1 group-title="⚡ Temporary & Event Sports" tvg-id="BloombergTV.us@EMEALiveEvent",Bloomberg TV EMEA Live Event (720p)
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+
+#EXTINF:-1 group-title="⚡ Temporary & Event Sports" tvg-id="BloombergTV.us@PoliticsLiveEvent",Bloomberg TV US Politics Live Event (720p)
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+
+#EXTINF:-1 tvg-id="EventyrligOppussing.se@NO" tvg-logo="https://images.pluto.tv/channels/61c1de93244e500007581d69/colorLogoPNG.png" group-title="⚡ Temporary & Event Sports",Eventyrlig Oppussing
+https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
+
