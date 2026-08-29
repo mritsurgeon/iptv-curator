@@ -26,9 +26,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Run Daily Scraper, Live Tester & Cloud Sync
+      - name: Run Daily Scraper, English Sports Validator & Cloud Sync
         env:
           GIST_PAT: ${{ secrets.GIST_PAT || secrets.GITHUB_TOKEN }}
+          PYTHONUNBUFFERED: "1"
         run: |
           python daily_curator_pipeline.py
 
@@ -37,5 +38,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add verified_premier_sports.m3u8 temporary_sports.m3u8 sports_epg.xml || true
-          git commit -m "Auto-curate sports streams, event feeds & EPG [skip ci]" || echo "No changes to commit"
+          git commit -m "Auto-curate English sports streams, event feeds & EPG [skip ci]" || echo "No changes to commit"
           git push || echo "No push needed"
