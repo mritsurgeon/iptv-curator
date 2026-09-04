@@ -10,87 +10,81 @@ http://stream.mcquack.net/313/index.m3u8
 # =============================================================
 # CRICKET
 # =============================================================
+#EXTINF:-1 tvg-id="Star.Sports.3.us" tvg-name="Star Sports 3" tvg-logo="" group-title="Cricket",Star Sports 3
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Sony.ten.5.us" tvg-name="Sony ten 5" tvg-logo="" group-title="Cricket",Sony ten 5
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Sony.Ten.2.us" tvg-name="Sony Ten 2" tvg-logo="" group-title="Cricket",Sony Ten 2
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Ten.Cricket.HD.us" tvg-name="Ten Cricket HD" tvg-logo="" group-title="Cricket",Ten Cricket HD
+http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket" tvg-logo="https://i.imgur.com/vHq8sR7.png" group-title="Cricket",SuperSport Cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Sony.Ten.1.us" tvg-name="Sony Ten 1" tvg-logo="" group-title="Cricket",Sony Ten 1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Sony.ten.4.us" tvg-name="Sony ten 4" tvg-logo="" group-title="Cricket",Sony ten 4
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Sony.Ten.3.us" tvg-name="Sony Ten 3" tvg-logo="" group-title="Cricket",Sony Ten 3
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Star.Sports.Select.2.HD.us" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Cricket",Star Sports Select 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="CR...Cricket.Gold.us" tvg-name="CR | Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png" group-title="Cricket",CR | Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (1080p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports (1080p)
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="--Live(WiLLoW HD)--" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",--Live(WiLLoW HD)--
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
-#EXTINF:-1 tvg-id="Sony.Ten.2.us" tvg-name="Sony Ten 2" tvg-logo="" group-title="Cricket",Sony Ten 2
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Sony.Ten.1.us" tvg-name="Sony Ten 1" tvg-logo="" group-title="Cricket",Sony Ten 1
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Ten.Cricket.HD.us" tvg-name="Ten Cricket HD" tvg-logo="" group-title="Cricket",Ten Cricket HD
-http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Sony.ten.5.us" tvg-name="Sony ten 5" tvg-logo="" group-title="Cricket",Sony ten 5
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Sony.Ten.3.us" tvg-name="Sony Ten 3" tvg-logo="" group-title="Cricket",Sony Ten 3
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Star.Sports.3.us" tvg-name="Star Sports 3" tvg-logo="" group-title="Cricket",Star Sports 3
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket" tvg-logo="https://i.imgur.com/vHq8sR7.png" group-title="Cricket",SuperSport Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Star.Sports.Select.2.HD.us" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Cricket",Star Sports Select 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Sony.ten.4.us" tvg-name="Sony ten 4" tvg-logo="" group-title="Cricket",Sony ten 4
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="CR...Cricket.Gold.us" tvg-name="CR | Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png" group-title="Cricket",CR | Cricket Gold
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
-#EXTINF:-1 tvg-id="CR...Fox.Cricket.501.HD.us" tvg-name="CR | Fox Cricket 501 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg" group-title="Cricket",CR | Fox Cricket 501 HD
-http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (Geo)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports (Geo)
-https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (1080p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports (1080p)
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-#EXTINF:-1 tvg-id="ASTRO.CRICKET.HD.us" tvg-name="ASTRO CRICKET HD" tvg-logo="" group-title="Cricket",ASTRO CRICKET HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=809382&extension=ts&play_token=B5GYWtyJcR
+#EXTINF:-1 tvg-id="CR...Star.Sports.1.Hindi.us" tvg-name="CR | Star Sports 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Cricket",CR | Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 tvg-id="CR...Fox.Cricket.501.HD.us" tvg-name="CR | Fox Cricket 501 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg" group-title="Cricket",CR | Fox Cricket 501 HD
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTINF:-1 tvg-id="CR...Fox.Cricket.501.us" tvg-name="CR | Fox Cricket 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Cricket",CR | Fox Cricket 501
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (Geo)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports (Geo)
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="┃WC┃ WILLOW CRICKET HD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",┃WC┃ WILLOW CRICKET HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/809386.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="WILLOW CRICKET HD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",WILLOW CRICKET HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=809386&extension=ts&play_token=B5GYWtyJcR
-#EXTINF:-1 tvg-id="CR...Star.Sports.1.Hindi.us" tvg-name="CR | Star Sports 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Cricket",CR | Star Sports 1 Hindi
-https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Cricket",Star Sports Select 2 HD
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Cricket",Star Sports 2 HD
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow (720p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow (720p)
+http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
 #EXTINF:-1 tvg-id="STAR.SPORTS.1.HD.us" tvg-name="STAR SPORTS 1 HD" tvg-logo="" group-title="Cricket",STAR SPORTS 1 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C6:D9:58&stream=809383&extension=ts&play_token=B5GYWtyJcR
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Cricket US
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow (720p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow (720p)
-http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2 HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Cricket",Star Sports 2 HD
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Cricket",Star Sports Select 2 HD
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Cricket",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="SONY.TEN.CRICKET.us" tvg-name="SONY TEN CRICKET" tvg-logo="" group-title="Cricket",SONY TEN CRICKET
+http://66.102.126.10:8000/play/a018/index.m3u8
 # =============================================================
 # FOOTBALL & SOCCER
 # =============================================================
-#EXTINF:-1 tvg-id="Live.FOOTBALL.us" tvg-name="--Live(FOOTBALL)--" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Football & Soccer",--Live(FOOTBALL)--
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="REAL.MADRID.TV.us" tvg-name="REAL MADRID TV ᴴᴰ" tvg-logo="https://i.imgur.com/wddA7nT.jpg" group-title="Football & Soccer",REAL MADRID TV ᴴᴰ
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="Live.FOOTBALL.us" tvg-name="--Live(FOOTBALL)--" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Football & Soccer",--Live(FOOTBALL)--
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-name="CCTV-Storm Football (1080p)" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="Football & Soccer",CCTV-Storm Football (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-name="Strongman Champions League (720p)" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Football & Soccer",Strongman Champions League (720p)
-https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk@SD" tvg-name="Strongman Champions League (720p)" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="Football & Soccer",Strongman Champions League (720p)
-https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.SD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png" group-title="Football & Soccer",┃UK┃ SKY SPORTS PREMIER LEAGUE SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312239.m3u8
-#EXTINF:-1 tvg-id="MIXER...Strongman.Champions.League.us" tvg-name="MIXER | Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png" group-title="Football & Soccer",MIXER | Strongman Champions League
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.FOOTBALL.SD.us" tvg-name="┃UK┃ SKY SPORTS FOOTBALL SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="Football & Soccer",┃UK┃ SKY SPORTS FOOTBALL SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312240.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.FOOTBALL.HD.us" tvg-name="┃UK┃ SKY SPORTS FOOTBALL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="Football & Soccer",┃UK┃ SKY SPORTS FOOTBALL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312178.m3u8
+#EXTINF:-1 tvg-id="Strongman.us@Germany" tvg-name="Strongman Champions League (720p)" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Football & Soccer",Strongman Champions League (720p)
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Setanta Sports+" tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="Football & Soccer",Setanta Sports+ (1080p 25fps)
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football & Soccer",beIN SPORTS XTRA (1080p)
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Beinsports.Xtra.us" tvg-name="Beinsports Xtra" tvg-logo="" group-title="Football & Soccer",Beinsports Xtra
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="sports" tvg-name="sports" tvg-logo="https://i.imgur.com/MB5PCHf.jpeg" group-title="Football & Soccer",English Premier League
-https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.FOOTBALL.HD.us" tvg-name="┃UK┃ SKY SPORTS FOOTBALL HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png" group-title="Football & Soccer",┃UK┃ SKY SPORTS FOOTBALL HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312178.m3u8
+#EXTINF:-1 tvg-id="MIXER...Strongman.Champions.League.us" tvg-name="MIXER | Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png" group-title="Football & Soccer",MIXER | Strongman Champions League
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-name="NBC Sports NOW (1080p)" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Football & Soccer",NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-name="CBS Sports Golazo Network (720p)" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Football & Soccer",CBS Sports Golazo Network (720p)
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 # =============================================================
 # AMERICAN FOOTBALL & US SPORTS
 # =============================================================
@@ -104,26 +98,26 @@ https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 3 (1080p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN 3 (1080p)
 http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1 (720p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="American Football & US Sports",Fox Sports 1 (720p)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2" tvg-logo="https://www.izzigo.tv/images/repository/712/17055712-SNAPSHOT-m.jpg" group-title="American Football & US Sports",FOX SPORTS 2
 http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117737.m3u8
-#EXTINF:-1 tvg-id="NSW-SydneyFOXCRICKET.au" tvg-name="FOX SPORTS 501" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="American Football & US Sports",FOX SPORTS 501
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:A0:E1:74&stream=809389&extension=ts&play_token=SflIpSbnz6
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1 (720p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="American Football & US Sports",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX SPORTS" tvg-logo="https://www.izzigo.tv/images/repository/711/17055711-SNAPSHOT-m.jpg" group-title="American Football & US Sports",FOX SPORTS
 http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117736.m3u8
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1 (Alt)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="American Football & US Sports",Fox Sports 1 (Alt)
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN 2
 http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117725.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3" tvg-logo="https://www.izzigo.tv/images/repository/713/17055713-SNAPSHOT-m.jpg" group-title="American Football & US Sports",FOX SPORTS 3
 http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117738.m3u8
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1 (Alt)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="American Football & US Sports",Fox Sports 1 (Alt)
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN (1080p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.us" tvg-name="Fox Sports" tvg-logo="https://i.kinja-img.com/gawker-media/image/upload/s--NxekXGiy--/c_scale,f_auto,fl_progressive,q_80,w_800/wnja60hjmxcsqg7hqnmf.png" group-title="American Football & US Sports",Fox Sports
-https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="NSW-SydneyFOXCRICKET.au" tvg-name="FOX SPORTS 501" tvg-logo="http://icons.tw:8080/images/175d7963936f16d8d5b81f02bf3e4796.png" group-title="American Football & US Sports",FOX SPORTS 501
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:A0:E1:74&stream=809389&extension=ts&play_token=SflIpSbnz6
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN
 http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117724.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.us" tvg-name="Fox Sports" tvg-logo="https://i.kinja-img.com/gawker-media/image/upload/s--NxekXGiy--/c_scale,f_auto,fl_progressive,q_80,w_800/wnja60hjmxcsqg7hqnmf.png" group-title="American Football & US Sports",Fox Sports
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] St. Louis Cardinals at Los Angeles Dodgers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="American Football & US Sports",[MLB] St. Louis Cardinals at Los Angeles Dodgers (SPRTSPASS)
+https://188a2110c0c0aa3d.mediapackage.us-east-2.amazonaws.com/out/v1/35624f8104d04bada03c2d7694a8c6d6/index.m3u8
 # =============================================================
 # MOTORSPORT & COMBAT SPORTS
 # =============================================================
@@ -131,269 +125,251 @@ http://jumangis.cloud:2082/live/Margarito/tXBU2WnnL8/117724.m3u8
 https://d1kqz1q7knpsue.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6imqvc1ng6dh/865532b0-a6fe-4943-9c23-193c5c3788ce/4.m3u8
 #EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
-#EXTINF:-1 tvg-id="65c69ee3d77d450008c80438" tvg-name="F1 Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df07efa9-4dbf-470b-86d6-c12a4a43d18c/F1Channel_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" group-title="Motorsport & Combat Sports",F1 Channel
-https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a51e4f9d2b44b6d640d4821ab882c95a9f15866bf9409bc6edda8643d0d29966af06ba305f025617f1817d80875ab2ca881b51f61713613a65d49ec980245087435012faeac5bb69fa1acafb4beb0c0c9a30a870a605a44f862c9abb0dcac2badb510f3da1d2526222adeaa48ff74743d708c086cceb5a5fbcc9395763ec41e5785152fbfccf07cac01a83b83797ad1b7652a9aa66b4a89cb7dd89b010ec4facc6f08b734b5e116268e2668baa50816ab717a9ca006f5b4954bf995aca95dc5024103fecee65f3372b8be4a8acf13d1ee4542600a90ab75a017f8230696aec2efc973d678c5465ef5806df7d03a961d98701d48cfed85c4bdfb8c646ec21fab478b49c6692581d6458cb98415e415f33d4e16802246ac649e8a1ad8b123224c2c4f0a4b2395f063d041c058de39517f1ebfb003b37fc09650a1b1113854ad779cf135d0f3ccc0bc1a07b04ef681a0cd697006e6e43a4ed84b3abeb9005df11d2cbee772e2b4975b821162f61ddc4e23390036a4e4a62b62a56709428747fb0eaa38898847d808977ba2a6b0262c6e9652f633e485639a4a05afe68c3b02484c1b136a7ee89010b842cb30f1193d5ae009287bae67f3faf84763442aa8966af1d2cc3049a2f8dc479dbb5411f0c393227a8e36fdb7a8ff6b9e214ae159d6a3e249112d09de7a0986f50e6855323367b397d15695f0a2d87eeec542546b6f84d8a5ce2f81bbd4346343a53df86722aec9a4c28bd0759459181efb48ce62f3ffd4bd048931d69ca56093dafc83dfc8ab1f6f3831d396ab28d8f698d88aba4f3ffee1b247906579ac54c1b7bd93282eb6d84963151dbb4b9e5b016fff449a8d9fed41bd77ecdfeb207ba9599bec863164a5f448eb99d983afaccc7c12619a12003178e9eecb444f6dfae0e7beb2780cf673ce856f63ab8283eff6c6b38c419537fb4ea9c2e600a61aa900711cd36ae233332d2c5886d3ac8cc35422cf180da0056850412e5080b2ffc3cb2aabe6a66efa81c1359b64b2e826381c499715871eebd5565124d5d45368015637bad7e4bb50abee1d5b46a0b8715c55a6ce837fc9417ef8924dadee8bfeee9316ea2b72b13f104e842f900c6cb80f53deb0235f926c15432e88f9ccdc9eac6a5c6904b094fd817cd7ba71cfee99ad14d746d2b8e306a1f17ab6784616f749bcb52c6a23f09a7ceed0fc67c39660a063fc21cfed155677663b1a41ab9d879697d6320e2a157e7f3d5b1ca5bfc11573123955e54f2e3ab6751e554ccfbf3/10/1920x1080_5287612/index.m3u8
-#EXTINF:-1 tvg-id="TVSBoxing.us@SD" tvg-name="TVS Boxing (360p)" tvg-logo="" group-title="Motorsport & Combat Sports",TVS Boxing (360p)
-https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="┃UK┃ SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",┃UK┃ SKY SPORTS F1
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1172220.m3u8
+#EXTINF:-1 tvg-id="65c69ee3d77d450008c80438" tvg-name="F1 Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df07efa9-4dbf-470b-86d6-c12a4a43d18c/F1Channel_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png" group-title="Motorsport & Combat Sports",F1 Channel
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a51e4f9d2b44b6d640d4821ab882c95a9f15866bf9409bc6edda8643d0d29966af06ba305f025617f1817d80875ab2ca881b51f61713613a65d49ec980245087435012faeac5bb69fa1acafb4beb0c0c9a30a870a605a44f862c9abb0dcac2badb510f3da1d2526222adeaa48ff74743d708c086cceb5a5fbcc9395763ec41e5785152fbfccf07cac01a83b83797ad1b7652a9aa66b4a89cb7dd89b010ec4facc6f08b734b5e116268e2668baa50816ab717a9ca006f5b4954bf995aca95dc5024103fecee65f3372b8be4a8acf13d1ee4542600a90ab75a017f8230696aec2efc973d678c5465ef5806df7d03a961d98701d48cfed85c4bdfb8c646ec21fab478b49c6692581d6458cb98415e415f33d4e16802246ac649e8a1ad8b123224c2c4f0a4b2395f063d041c058de39517f1ebfb003b37fc09650a1b1113854ad779cf135d0f3ccc0bc1a07b04ef681a0cd697006e6e43a4ed84b3abeb9005df11d2cbee772e2b4975b821162f61ddc4e23390036a4e4a62b62a56709428747fb0eaa38898847d808977ba2a6b0262c6e9652f633e485639a4a05afe68c3b02484c1b136a7ee89010b842cb30f1193d5ae009287bae67f3faf84763442aa8966af1d2cc3049a2f8dc479dbb5411f0c393227a8e36fdb7a8ff6b9e214ae159d6a3e249112d09de7a0986f50e6855323367b397d15695f0a2d87eeec542546b6f84d8a5ce2f81bbd4346343a53df86722aec9a4c28bd0759459181efb48ce62f3ffd4bd048931d69ca56093dafc83dfc8ab1f6f3831d396ab28d8f698d88aba4f3ffee1b247906579ac54c1b7bd93282eb6d84963151dbb4b9e5b016fff449a8d9fed41bd77ecdfeb207ba9599bec863164a5f448eb99d983afaccc7c12619a12003178e9eecb444f6dfae0e7beb2780cf673ce856f63ab8283eff6c6b38c419537fb4ea9c2e600a61aa900711cd36ae233332d2c5886d3ac8cc35422cf180da0056850412e5080b2ffc3cb2aabe6a66efa81c1359b64b2e826381c499715871eebd5565124d5d45368015637bad7e4bb50abee1d5b46a0b8715c55a6ce837fc9417ef8924dadee8bfeee9316ea2b72b13f104e842f900c6cb80f53deb0235f926c15432e88f9ccdc9eac6a5c6904b094fd817cd7ba71cfee99ad14d746d2b8e306a1f17ab6784616f749bcb52c6a23f09a7ceed0fc67c39660a063fc21cfed155677663b1a41ab9d879697d6320e2a157e7f3d5b1ca5bfc11573123955e54f2e3ab6751e554ccfbf3/10/1920x1080_5287612/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="┃UK┃ SKY SPORTS F1 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",┃UK┃ SKY SPORTS F1 SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312243.m3u8
-#EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC (720p)
-https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
-#EXTINF:-1 tvg-id="PFL.MMA.us" tvg-name="PFL MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Professional_Fighters_League_logo.svg/800px-Professional_Fighters_League_logo.svg.png" group-title="Motorsport & Combat Sports",PFL MMA
-https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
-#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-name="Bellator MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Motorsport & Combat Sports",Bellator MMA
-https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC
-https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="☰☰☰☰ ┃UK┃ SKY SPORTS F1 ☰☰☰☰" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",☰☰☰☰ ┃UK┃ SKY SPORTS F1 ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1172219.m3u8
-#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-name="Bellator MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Motorsport & Combat Sports",Bellator MMA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC
-https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us@SD" tvg-name="TVS Boxing (360p)" tvg-logo="" group-title="Motorsport & Combat Sports",TVS Boxing (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="┃UK┃ SKY SPORTS F1 HEVC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",┃UK┃ SKY SPORTS F1 HEVC HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1172225.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="☰☰☰☰ ┃UK┃ SKY SPORTS F1 ☰☰☰☰" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",☰☰☰☰ ┃UK┃ SKY SPORTS F1 ☰☰☰☰
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1172219.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="┃UK┃ SKY SPORTS F1 HEVC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",┃UK┃ SKY SPORTS F1 HEVC HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312044.m3u8
+#EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC (720p)
+https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
+#EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC
+https://jmp2.uk/plu-677d9adfa9a51b0008497fa0.m3u8
+#EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC
+https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
+#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-name="Bellator MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Motorsport & Combat Sports",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1 tvg-id="PFL.MMA.us" tvg-name="PFL MMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Professional_Fighters_League_logo.svg/800px-Professional_Fighters_League_logo.svg.png" group-title="Motorsport & Combat Sports",PFL MMA
+https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
 #EXTINF:-1 tvg-id="PFL.MMA.us" tvg-name="PFL MMA (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Professional_Fighters_League_logo.svg/800px-Professional_Fighters_League_logo.svg.png" group-title="Motorsport & Combat Sports",PFL MMA (720p)
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-name="MMA TV.com (1080p)" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Motorsport & Combat Sports",MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",Sky Sports F1
+https://s7.iptv-24.net/blocked/index.m3u8
 # =============================================================
 # MAIN EVENTS & FLAGSHIP SPORTS
 # =============================================================
-#EXTINF:-1 tvg-id="Bein.Sports.Xtra.us" tvg-name="Bein Sports Xtra" tvg-logo="" group-title="Main Events & Flagship Sports",Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.Total.FM.us" tvg-name="Sport Total FM" tvg-logo="" group-title="Main Events & Flagship Sports",Sport Total FM
-https://livesptfm.com/SPTFM/Live/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-name="World of Freesports (1080p)" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Main Events & Flagship Sports",World of Freesports (1080p)
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DD.Sports.HD..1080p.us" tvg-name="DD Sports HD (1080p)" tvg-logo="" group-title="Main Events & Flagship Sports",DD Sports HD (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id="Bein.Sports.1...Serbia..FIFA.us" tvg-name="Bein Sports 1 - Serbia (FIFA)" tvg-logo="" group-title="Main Events & Flagship Sports",Bein Sports 1 - Serbia (FIFA)
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id="BeIN.Sports.XTRA..1080p.us" tvg-name="BeIN Sports XTRA (1080p)" tvg-logo="" group-title="Sports",BeIN Sports XTRA (1080p)
+#EXTINF:-1 tvg-id="BeIN.Sports.XTRA..1080p.us" tvg-name="BeIN Sports XTRA (1080p)" tvg-logo="" group-title="Main Events & Flagship Sports",BeIN Sports XTRA (1080p)
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ELEVENSPORTS1 4K PL" tvg-name="ELEVENSPORTS1" tvg-logo="https://epg.v1.mk/logo/ELEVENSPORTS1.png" group-title="Main Events & Flagship Sports",Eleven Sports 1 4K PL
-http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/20068/index.m3u8
 # =============================================================
 # LIVE MATCHDAY & EVENT FEEDS
 # =============================================================
-#EXTINF:-1 tvg-id="AYM.SPORT.us" tvg-name="AYM SPORT 🇺🇸" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",AYM SPORT 🇺🇸
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 tvg-id="MIXER...SportsGrid.us" tvg-name="MIXER | SportsGrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg" group-title="⚡ Live Matchday & Event Feeds",MIXER | SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 tvg-id="AYM.SPORT.us" tvg-name="AYM SPORT 🇺🇸" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",AYM SPORT 🇺🇸
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us@SD" tvg-name="Fubo Sports Network (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Fubo Sports Network (720p)
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/tennis_logo.png" group-title="⚡ Live Matchday & Event Feeds",Tennis Channel
-http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 2 SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1311950.m3u8
 #EXTINF:-1 tvg-id="TSports7.th@SD" tvg-name="T Sports 7" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 2 SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1311950.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 1 SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 1 SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1311948.m3u8
-#EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-name="Auto Motor und Sport" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="⚡ Live Matchday & Event Feeds",Auto Motor und Sport
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.GOLF.SD.us" tvg-name="┃UK┃ SKY SPORTS GOLF SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS GOLF.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS GOLF SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312245.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-name="BeIN Sports Xtra" tvg-logo="noimage.png" group-title="⚡ Live Matchday & Event Feeds",BeIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174239.m3u8
-#EXTINF:-1 tvg-id="Fight.us" tvg-name="Fight" tvg-logo="https://i.imgur.com/bBv4p5K.png" group-title="⚡ Live Matchday & Event Feeds",Fight
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b0f2237a6ff45d16c3f9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=726&terminate=false&userId=
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 HEVC HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 2 HEVC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174227.m3u8
 #EXTINF:-1 tvg-id="Live.DD.Sports.us" tvg-name="---Live(DD Sports)---" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="⚡ Live Matchday & Event Feeds",---Live(DD Sports)---
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 4 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174239.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-name="World of Freesports (1080p)" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="⚡ Live Matchday & Event Feeds",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.Sport.in.90.Seconds.us" tvg-name="ABC Sport in 90 Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg" group-title="⚡ Live Matchday & Event Feeds",ABC Sport in 90 Seconds
+https://c.mjh.nz/sport_in_90_seconds
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/tennis_logo.png" group-title="⚡ Live Matchday & Event Feeds",Tennis Channel
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 HEVC HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 2 HEVC HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174227.m3u8
+#EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-name="Auto Motor und Sport" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="⚡ Live Matchday & Event Feeds",Auto Motor und Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.TENNIS.SD.us" tvg-name="┃UK┃ SKY SPORTS TENNIS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS TENNIS SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312248.m3u8
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.MIX.SD.us" tvg-name="┃UK┃ SKY SPORTS MIX SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS MIX SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312241.m3u8
-#EXTINF:-1 tvg-id="Bein.Sports.1.us" tvg-name="Bein Sports 1" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Bein Sports 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174237.m3u8
-#EXTINF:-1 tvg-id="ABC.Sport.in.90.Seconds.us" tvg-name="ABC Sport in 90 Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg" group-title="⚡ Live Matchday & Event Feeds",ABC Sport in 90 Seconds
-https://c.mjh.nz/sport_in_90_seconds
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 1 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174236.m3u8
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.NEWS.SD.us" tvg-name="┃UK┃ SKY SPORTS NEWS SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS NEWS SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312237.m3u8
-#EXTINF:-1 tvg-id="Unite8Sports2..sun.us" tvg-name="Unite8Sports2 (sun)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Unite8Sports2 (sun)
-http://103.155.18.186:8000/play/a126/index.m3u8
-#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-name="BEK Sports West" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="⚡ Live Matchday & Event Feeds",BEK Sports West
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VSIN.Vegas.Sports.and.Information.Network.us2" tvg-name="VSiN (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",VSiN (720p)
-https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS..HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS+ HEVC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS+ HEVC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312050.m3u8
-#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.2.UHD.EN.SD..MATCH.TIME.us" tvg-name="┃UK┃ BEIN SPORTS 2 UHD EN SD (MATCH TIME)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 2 UHD EN SD (MATCH TIME)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313574.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174236.m3u8
 #EXTINF:-1 tvg-id="Fubo.Sports.us" tvg-name="Fubo Sports Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" group-title="⚡ Live Matchday & Event Feeds",Fubo Sports Network
 https://dnf08l6u6uxnz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwrh2vjyudfjo/5999cb1e-489e-434e-b70a-755f69ec828e/5.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.TENNIS.HEVC.FHD.us" tvg-name="┃UK┃ SKY SPORTS TENNIS HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS TENNIS HEVC FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312026.m3u8
-#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.1.UHD.EN.HEVC..MATCH.TIME.us" tvg-name="┃UK┃ BEIN SPORTS 1 UHD EN HEVC (MATCH TIME)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 1 UHD EN HEVC (MATCH TIME)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313569.m3u8
-#EXTINF:-1 tvg-id="UK..SUPERSPORT.TENNIS.HD.us" tvg-name="┃UK┃ SUPERSPORT TENNIS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTTENNIS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SUPERSPORT TENNIS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/396878.m3u8
+#EXTINF:-1 tvg-id="Fight.us" tvg-name="Fight" tvg-logo="https://i.imgur.com/bBv4p5K.png" group-title="⚡ Live Matchday & Event Feeds",Fight
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b0f2237a6ff45d16c3f9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=726&terminate=false&userId=
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174237.m3u8
+#EXTINF:-1 tvg-id="Bein.Sports.1...Serbia..FIFA.us" tvg-name="Bein Sports 1 - Serbia (FIFA)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Bein Sports 1 - Serbia (FIFA)
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id="VSIN.Vegas.Sports.and.Information.Network.us2" tvg-name="VSiN (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",VSiN (720p)
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein.Sports.1.us" tvg-name="Bein Sports 1" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Bein Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="5.SPORT.us" tvg-name="5 SPORT 🇮🇱" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",5 SPORT 🇮🇱
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS..HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS+ HEVC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS+.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS+ HEVC HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312050.m3u8
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.TENNIS.HD.us" tvg-name="┃UK┃ SKY SPORTS TENNIS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS TENNIS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312186.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 3 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174238.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.NEWS.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS NEWS HEVC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS NEWS HEVC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312039.m3u8
-#EXTINF:-1 tvg-id="TVSClassicSports.us@SD" tvg-name="TVS Classic Sports (360p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Classic Sports (360p)
-https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="AR..BEIN.SPORTS.6.HD.S1.us" tvg-name="┃AR┃ BEIN SPORTS 6 HD S1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="⚡ Live Matchday & Event Feeds",┃AR┃ BEIN SPORTS 6 HD S1
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/242250.m3u8
-#EXTINF:-1 tvg-id="AR..BEIN.SPORTS.8.HD.S1.us" tvg-name="┃AR┃ BEIN SPORTS 8 HD S1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="⚡ Live Matchday & Event Feeds",┃AR┃ BEIN SPORTS 8 HD S1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/242248.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 3 SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 3 SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1311951.m3u8
+#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.2.UHD.EN.SD..MATCH.TIME.us" tvg-name="┃UK┃ BEIN SPORTS 2 UHD EN SD (MATCH TIME)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 2 UHD EN SD (MATCH TIME)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313574.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us@SD" tvg-name="TVS Classic Sports (360p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.1.UHD.EN.HEVC..MATCH.TIME.us" tvg-name="┃UK┃ BEIN SPORTS 1 UHD EN HEVC (MATCH TIME)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 1 UHD EN HEVC (MATCH TIME)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313569.m3u8
 #EXTINF:-1 tvg-id="NOVA.SPORT.1.HD.us" tvg-name="NOVA SPORT 1 HD 🇨🇿" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",NOVA SPORT 1 HD 🇨🇿
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
-#EXTINF:-1 tvg-id="ZIGGO.SPORT.3.HD.us" tvg-name="ZIGGO SPORT 3 HD 🇳🇱" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",ZIGGO SPORT 3 HD 🇳🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.TENNIS.HEVC.FHD.us" tvg-name="┃UK┃ SKY SPORTS TENNIS HEVC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS TENNIS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS TENNIS HEVC FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312026.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 3 SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 3 SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1311951.m3u8
+#EXTINF:-1 tvg-id="AR..BEIN.SPORTS.8.HD.S1.us" tvg-name="┃AR┃ BEIN SPORTS 8 HD S1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png" group-title="⚡ Live Matchday & Event Feeds",┃AR┃ BEIN SPORTS 8 HD S1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/242248.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.NEWS.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS NEWS HEVC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS NEWS HEVC HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312039.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="⚡ Live Matchday & Event Feeds",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
-#EXTINF:-1 tvg-id="ZIGGO.SPORT.LIVE.us" tvg-name="ZIGGO SPORT LIVE 🇳🇱" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",ZIGGO SPORT LIVE 🇳🇱
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
 #EXTINF:-1 tvg-id="TVSWomenSports.us@SD" tvg-name="TVS Women Sports (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Women Sports (720p)
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="┃UK┃ TNT SPORTS 3 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ TNT SPORTS 3 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174238.m3u8
+#EXTINF:-1 tvg-id="ZIGGO.SPORT.LIVE.us" tvg-name="ZIGGO SPORT LIVE 🇳🇱" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",ZIGGO SPORT LIVE 🇳🇱
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
 #EXTINF:-1 tvg-id="ZIGGO.SPORT.2.HD.us" tvg-name="ZIGGO SPORT 2 HD 🇳🇱" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",ZIGGO SPORT 2 HD 🇳🇱
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
+#EXTINF:-1 tvg-id="ZIGGO.SPORT.3.HD.us" tvg-name="ZIGGO SPORT 3 HD 🇳🇱" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",ZIGGO SPORT 3 HD 🇳🇱
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
 #EXTINF:-1 tvg-id="TVSSports.us@SD" tvg-name="TVS Sports (720p) [Not 24/7]" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Sports (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="☰☰☰☰ ┃UK┃ TNT SPORTS RAW ☰☰☰☰" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",☰☰☰☰ ┃UK┃ TNT SPORTS RAW ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174222.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.FHD.us" tvg-name="☰☰☰☰ ┃UK┃ SKY SPORTS FHD ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png" group-title="⚡ Live Matchday & Event Feeds",☰☰☰☰ ┃UK┃ SKY SPORTS FHD ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312075.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="☰☰☰☰ ┃UK┃ TNT SPORTS HD ☰☰☰☰" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",☰☰☰☰ ┃UK┃ TNT SPORTS HD ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174235.m3u8
-#EXTINF:-1 tvg-id="UK..PREMIER.SPORTS.2.HD..IRELAND.us" tvg-name="┃UK┃ PREMIER SPORTS 2 HD (IRELAND)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ PREMIER SPORTS 2 HD (IRELAND)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312724.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-name="TyC Sports (1080p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TyC Sports (1080p)
-http://45.181.87.106/TYCSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.NEWS.HD.us" tvg-name="┃UK┃ SKY SPORTS NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS NEWS HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312175.m3u8
+#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-name="BEK Sports West" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="⚡ Live Matchday & Event Feeds",BEK Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSSportsBureau.us@SD" tvg-name="TVS Sports Bureau (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Sports Bureau (720p)
 https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 tvg-id="CT.SPORT.HD.us" tvg-name="CT SPORT HD 🇨🇿" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",CT SPORT HD 🇨🇿
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.2.EN.HD.us" tvg-name="┃UK┃ BEIN SPORTS 2 EN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 2 EN HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313538.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="REDBULL TV" tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="⚡ Live Matchday & Event Feeds",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.HEVC.HD.us" tvg-name="☰☰☰☰ ┃UK┃ SKY SPORTS HEVC HD ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png" group-title="⚡ Live Matchday & Event Feeds",☰☰☰☰ ┃UK┃ SKY SPORTS HEVC HD ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312038.m3u8
-#EXTINF:-1 tvg-id="UK..PREMIER.SPORTS.1.SD..IRELAND.us" tvg-name="┃UK┃ PREMIER SPORTS 1 SD (IRELAND)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ PREMIER SPORTS 1 SD (IRELAND)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312721.m3u8
-#EXTINF:-1 tvg-id="AR..BEIN.SPORTS.9.HD.S1.us" tvg-name="┃AR┃ BEIN SPORTS 9 HD S1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="⚡ Live Matchday & Event Feeds",┃AR┃ BEIN SPORTS 9 HD S1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/242247.m3u8
-#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-name="NBC Sports NOW (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",NBC Sports NOW (720p)
-https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
-#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.2.UHD.EN.FHD..MATCH.TIME.us" tvg-name="┃UK┃ BEIN SPORTS 2 UHD EN FHD (MATCH TIME)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 2 UHD EN FHD (MATCH TIME)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313568.m3u8
-#EXTINF:-1 tvg-id="HorseTV.us" tvg-name="HORSE TV" tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="⚡ Live Matchday & Event Feeds",HORSE TV
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="MIXER | Unbeaten Sports Channel" tvg-logo="https://i.postimg.cc/YC88ss92/ten-sports.png" group-title="⚡ Live Matchday & Event Feeds",MIXER | Unbeaten Sports Channel
-https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.HD.us" tvg-name="☰☰☰☰ ┃UK┃ SKY SPORTS HD ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png" group-title="⚡ Live Matchday & Event Feeds",☰☰☰☰ ┃UK┃ SKY SPORTS HD ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312174.m3u8
-#EXTINF:-1 tvg-id="UK..PREMIER.SPORTS.2.8K.us" tvg-name="┃UK┃ PREMIER SPORTS 2 8K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/PREMIERSPORTS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ PREMIER SPORTS 2 8K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/827989.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-name="TyC Sports (1080p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TyC Sports (1080p)
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-id="FB...BeIN.Sports.2.us" tvg-name="FB | BeIN Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg" group-title="⚡ Live Matchday & Event Feeds",FB | BeIN Sports 2
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.1.EN.HD.us" tvg-name="┃UK┃ BEIN SPORTS 1 EN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 1 EN HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313537.m3u8
-#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="GolfPass (720p)" tvg-logo="https://i.imgur.com/golf_logo.png" group-title="⚡ Live Matchday & Event Feeds",GolfPass (720p)
-https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
-#EXTINF:-1 tvg-id="Auto.Motor.Sport.us" tvg-name="Auto Motor Sport" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Auto Motor Sport
-https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.NEWS.HD.us" tvg-name="┃UK┃ SKY SPORTS NEWS HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS NEWS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS NEWS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312175.m3u8
+#EXTINF:-1 tvg-id="CT.SPORT.HD.us" tvg-name="CT SPORT HD 🇨🇿" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",CT SPORT HD 🇨🇿
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="UK..PREMIER.SPORTS.2.HD..IRELAND.us" tvg-name="┃UK┃ PREMIER SPORTS 2 HD (IRELAND)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ PREMIER SPORTS 2 HD (IRELAND)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312724.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.FHD.us" tvg-name="☰☰☰☰ ┃UK┃ SKY SPORTS FHD ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png" group-title="⚡ Live Matchday & Event Feeds",☰☰☰☰ ┃UK┃ SKY SPORTS FHD ☰☰☰☰
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312075.m3u8
+#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.2.UHD.EN.FHD..MATCH.TIME.us" tvg-name="┃UK┃ BEIN SPORTS 2 UHD EN FHD (MATCH TIME)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 2 UHD EN FHD (MATCH TIME)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313568.m3u8
+#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.2.EN.HD.us" tvg-name="┃UK┃ BEIN SPORTS 2 EN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 2 EN HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313538.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="☰☰☰☰ ┃UK┃ TNT SPORTS HD ☰☰☰☰" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",☰☰☰☰ ┃UK┃ TNT SPORTS HD ☰☰☰☰
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1174235.m3u8
+#EXTINF:-1 tvg-id="AR..BEIN.SPORTS.9.HD.S1.us" tvg-name="┃AR┃ BEIN SPORTS 9 HD S1" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="⚡ Live Matchday & Event Feeds",┃AR┃ BEIN SPORTS 9 HD S1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/242247.m3u8
+#EXTINF:-1 tvg-id="UK..PREMIER.SPORTS.1.SD..IRELAND.us" tvg-name="┃UK┃ PREMIER SPORTS 1 SD (IRELAND)" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ PREMIER SPORTS 1 SD (IRELAND)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312721.m3u8
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-name="NBC Sports NOW (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",NBC Sports NOW (720p)
+https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.MAIN.EVENTS.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS MAIN EVENTS HEVC HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312049.m3u8
+#EXTINF:-1 tvg-id="UK..SKY.SPORTS.HEVC.HD.us" tvg-name="☰☰☰☰ ┃UK┃ SKY SPORTS HEVC HD ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS.png" group-title="⚡ Live Matchday & Event Feeds",☰☰☰☰ ┃UK┃ SKY SPORTS HEVC HD ☰☰☰☰
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312038.m3u8
 #EXTINF:-1 tvg-id="FB...BeIN.Sports.3.us" tvg-name="FB | BeIN Sports 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/BeIN_Sports_3_2017_Square.png" group-title="⚡ Live Matchday & Event Feeds",FB | BeIN Sports 3
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-id="FB...BeIN.Sports.4.us" tvg-name="FB | BeIN Sports 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg" group-title="⚡ Live Matchday & Event Feeds",FB | BeIN Sports 4
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="UK........UK..BEIN.SPORTS.EN.UHD..MATCH.TIME.us" tvg-name="┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN UHD (MATCH TIME) ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN UHD (MATCH TIME) ☰☰☰☰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313550.m3u8
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="┃PK┃ TEN SPORTS FHD" tvg-logo="https://i.postimg.cc/YC88ss92/ten-sports.png" group-title="⚡ Live Matchday & Event Feeds",┃PK┃ TEN SPORTS FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/911326.m3u8
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="MIXER | Unbeaten Sports Channel" tvg-logo="https://i.postimg.cc/YC88ss92/ten-sports.png" group-title="⚡ Live Matchday & Event Feeds",MIXER | Unbeaten Sports Channel
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="REDBULL TV" tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="⚡ Live Matchday & Event Feeds",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="Auto.Motor.Sport.us" tvg-name="Auto Motor Sport" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Auto Motor Sport
+https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+#EXTINF:-1 tvg-id="UK..BEIN.SPORTS.1.EN.HD.us" tvg-name="┃UK┃ BEIN SPORTS 1 EN HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ BEIN SPORTS 1 EN HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313537.m3u8
 #EXTINF:-1 tvg-id="AR..BEIN.SPORTS.6.HD.S3.us" tvg-name="┃AR┃ BEIN SPORTS 6 HD S3" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="⚡ Live Matchday & Event Feeds",┃AR┃ BEIN SPORTS 6 HD S3
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/985166.m3u8
-#EXTINF:-1 tvg-id="TennisTV247.us" tvg-name="Tennis TV 2" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Tennis TV 2
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/681109b688b9d85d0938c6ba/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7d2214c9-9aea-438e-8722-a430fbb943b4
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="┃PK┃ TEN SPORTS FHD" tvg-logo="https://i.postimg.cc/YC88ss92/ten-sports.png" group-title="⚡ Live Matchday & Event Feeds",┃PK┃ TEN SPORTS FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/911326.m3u8
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="GolfPass (720p)" tvg-logo="https://i.imgur.com/golf_logo.png" group-title="⚡ Live Matchday & Event Feeds",GolfPass (720p)
+https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us@SD" tvg-name="Women's Sports Network (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Women's Sports Network (720p)
 https://jmp2.uk/plu-686d8dd294a028da3ac59566.m3u8
+#EXTINF:-1 tvg-id="HorseTV.us" tvg-name="HORSE TV" tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="⚡ Live Matchday & Event Feeds",HORSE TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="UK........UK..BEIN.SPORTS.EN.UHD..MATCH.TIME.us" tvg-name="┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN UHD (MATCH TIME) ☰☰☰☰" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN UHD (MATCH TIME) ☰☰☰☰
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1313550.m3u8
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.MAIN.EVENT.HD.us" tvg-name="┃UK┃ SKY SPORTS MAIN EVENT HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ SKY SPORTS MAIN EVENT HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312176.m3u8
+#EXTINF:-1 tvg-id="X.SPORT.us" tvg-name="X SPORT 🇷🇺" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 tvg-id="TennisTV247.us" tvg-name="Tennis TV 2" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Tennis TV 2
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/681109b688b9d85d0938c6ba/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7d2214c9-9aea-438e-8722-a430fbb943b4
+#EXTINF:-1 tvg-id="UK..MUTV.SD.us" tvg-name="┃UK┃ MUTV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ MUTV SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312843.m3u8
 #EXTINF:-1 tvg-id="UK..LFC.SD.us" tvg-name="┃UK┃ LFC SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LFC.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ LFC SD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312842.m3u8
 #EXTINF:-1 tvg-id="UK..RACING.COM.FHD.us" tvg-name="┃UK┃ RACING.COM FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING COM.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ RACING.COM FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312819.m3u8
-#EXTINF:-1 tvg-id="X.SPORT.us" tvg-name="X SPORT 🇷🇺" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",X SPORT 🇷🇺
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="⚡ Live Matchday & Event Feeds",Sky Sports Action
-http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
-#EXTINF:-1 tvg-id="UK..MUTV.SD.us" tvg-name="┃UK┃ MUTV SD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/MUTV.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ MUTV SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312843.m3u8
 #EXTINF:-1 tvg-id="FB...FIFA.us" tvg-name="FB | FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png" group-title="⚡ Live Matchday & Event Feeds",FB | FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="PBRRidePass.us" tvg-name="PBR RidePass" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="⚡ Live Matchday & Event Feeds",PBR RidePass
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
-#EXTINF:-1 tvg-id="TennisChannel.us@Plus2" tvg-name="TennisChannel 2 (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TennisChannel 2 (720p)
-https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 #EXTINF:-1 tvg-id="Horse...Country.us" tvg-name="Horse & Country" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="⚡ Live Matchday & Event Feeds",Horse & Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="⚡ Live Matchday & Event Feeds",Sky Sports Action
+http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8
+#EXTINF:-1 tvg-id="UK..RACING.COM.HD.us" tvg-name="┃UK┃ RACING.COM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING COM.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ RACING.COM HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312830.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@Plus2" tvg-name="TennisChannel 2 (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TennisChannel 2 (720p)
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 #EXTINF:-1 tvg-id="FB...FIFA.us" tvg-name="FB | FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png" group-title="⚡ Live Matchday & Event Feeds",FB | FIFA+
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="GloryKickboxing.us@Poland" tvg-name="GLORY Kickboxing (720p)" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="⚡ Live Matchday & Event Feeds",GLORY Kickboxing (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="UK..RACING.COM.HD.us" tvg-name="┃UK┃ RACING.COM HD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/RACING COM.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ RACING.COM HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312830.m3u8
-#EXTINF:-1 tvg-id="FIFA...720p.us" tvg-name="FIFA+ (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ (720p)
-https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
-#EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="⚡ Live Matchday & Event Feeds",PGA Tour
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
-#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-name="FIFA+ Spain (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ Spain (720p)
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="IMPACT..WRESTLING.us" tvg-name="IMPACT! WRESTLING" tvg-logo="https://i.imgur.com/lYfXQRd.jpg" group-title="⚡ Live Matchday & Event Feeds",IMPACT! WRESTLING
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Strongman..720p.us" tvg-name="Strongman (720p)" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="⚡ Live Matchday & Event Feeds",Strongman (720p)
-https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk@SD" tvg-name="DAZN Combat (684p)" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="⚡ Live Matchday & Event Feeds",DAZN Combat (684p)
-https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us@Germany" tvg-name="World Poker Tour" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="⚡ Live Matchday & Event Feeds",World Poker Tour
-https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
-#EXTINF:-1 tvg-id="US1000012ML" tvg-name="UEFA Champion League" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",UEFA Champion League
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c83aaae4-b7a8-4127-ae41-0b5fd27ac4f2
-#EXTINF:-1 tvg-id="FIFA..Women..720p.us" tvg-name="FIFA+ Women (720p)" tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ Women (720p)
-https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-name="FIFA+ German (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ German (720p)
-https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.us@East" tvg-name="Fox (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Fox (720p)
-http://stream.cammonitorplus.net/1752/index.m3u8
-#EXTINF:-1 tvg-id="UK..LFC.FHD.us" tvg-name="┃UK┃ LFC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LFC.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ LFC FHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312823.m3u8
 #EXTINF:-1 tvg-id="2TV.Sport.us" tvg-name="2TV Sport 🇳🇴" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",2TV Sport 🇳🇴
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="RACING...Motor.Vision.us" tvg-name="RACING | Motor Vision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg" group-title="⚡ Live Matchday & Event Feeds",RACING | Motor Vision
-https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-#EXTINF:-1 tvg-id="JUST.FISHING.us" tvg-name="JUST FISHING" tvg-logo="https://i.imgur.com/AVvISbb.jpg" group-title="⚡ Live Matchday & Event Feeds",JUST FISHING
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
-#EXTINF:-1 tvg-id="AR..AL.KASS.4.4K.us" tvg-name="┃AR┃ AL KASS 4 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="⚡ Live Matchday & Event Feeds",┃AR┃ AL KASS 4 4K
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/242230.m3u8
+#EXTINF:-1 tvg-id="Strongman..720p.us" tvg-name="Strongman (720p)" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="⚡ Live Matchday & Event Feeds",Strongman (720p)
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-name="FIFA+ Spain (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZNCombat.uk@SD" tvg-name="DAZN Combat (684p)" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="⚡ Live Matchday & Event Feeds",DAZN Combat (684p)
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1 tvg-id="FIFA..Women..720p.us" tvg-name="FIFA+ Women (720p)" tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ Women (720p)
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA...720p.us" tvg-name="FIFA+ (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ (720p)
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+#EXTINF:-1 tvg-id="PBRRidePass.us" tvg-name="PBR RidePass" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="⚡ Live Matchday & Event Feeds",PBR RidePass
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
+#EXTINF:-1 tvg-id="Fox.us@East" tvg-name="Fox (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Fox (720p)
+http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us@West" tvg-name="Fox West (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",Fox West (720p)
 http://stream.cammonitorplus.net/1799/index.m3u8
-#EXTINF:-1 tvg-id="BTV.us" tvg-name="BTV" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",BTV
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-name="Fast&FunBox" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="⚡ Live Matchday & Event Feeds",Fast&FunBox
-https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-name="FIFA+ German (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ German (720p)
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us@Germany" tvg-name="World Poker Tour" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="⚡ Live Matchday & Event Feeds",World Poker Tour
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
+#EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="⚡ Live Matchday & Event Feeds",PGA Tour
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
+#EXTINF:-1 tvg-id="UK..LFC.FHD.us" tvg-name="┃UK┃ LFC FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/LFC.png" group-title="⚡ Live Matchday & Event Feeds",┃UK┃ LFC FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312823.m3u8
+#EXTINF:-1 tvg-id="IMPACT..WRESTLING.us" tvg-name="IMPACT! WRESTLING" tvg-logo="https://i.imgur.com/lYfXQRd.jpg" group-title="⚡ Live Matchday & Event Feeds",IMPACT! WRESTLING
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="AR..AL.KASS.4.4K.us" tvg-name="┃AR┃ AL KASS 4 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png" group-title="⚡ Live Matchday & Event Feeds",┃AR┃ AL KASS 4 4K
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/242230.m3u8
+#EXTINF:-1 tvg-id="RACING...Motor.Vision.us" tvg-name="RACING | Motor Vision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg" group-title="⚡ Live Matchday & Event Feeds",RACING | Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-id="US1000012ML" tvg-name="UEFA Champion League" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",UEFA Champion League
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=c83aaae4-b7a8-4127-ae41-0b5fd27ac4f2
 #EXTINF:-1 tvg-id="FRBA3300037Y7" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20251028T011417SQUARE.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+
 https://jmp2.uk/stvp-FRBA3300037Y7
+#EXTINF:-1 tvg-id="JUST.FISHING.us" tvg-name="JUST FISHING" tvg-logo="https://i.imgur.com/AVvISbb.jpg" group-title="⚡ Live Matchday & Event Feeds",JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+#EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-name="Fast&FunBox" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="⚡ Live Matchday & Event Feeds",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV.us" tvg-name="BTV" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",BTV
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
