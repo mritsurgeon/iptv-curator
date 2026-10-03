@@ -1,55 +1,44 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Master Flagship & Event Sports (Self-Healing Daily Auto-Curated English Only)
 # =============================================================
-# RUGBY & LEAGUE
-# =============================================================
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="[English Premiership Rugby] Bath vs Exeter Chiefs (FAWA)" tvg-logo="https://i.namu.wiki/i/LGf4j-Q5V2vAb3zluQtGa1fAwNH6-Qp4W4qZJGMhb36aPdPDHeUowt_ptSLTDh2k88_r4LdkEBTYM8-wcUOQug.webp" group-title="Rugby & League",[English Premiership Rugby] Bath vs Exeter Chiefs (FAWA)
-http://193.47.62.55/hls/AYYY.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[United Rugby Championship] Benetton vs Connacht (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Rugby & League",[United Rugby Championship] Benetton vs Connacht (FAWA)
-http://193.47.62.55/hls/AYYYA.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[United Rugby Championship] Cardiff Rugby vs Zebre (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Rugby & League",[United Rugby Championship] Cardiff Rugby vs Zebre (FAWA)
-http://193.47.62.55/hls/AYYYAA.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="[United Rugby Championship] Edinburgh vs Stormers (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Rugby & League",[United Rugby Championship] Edinburgh vs Stormers (FAWA)
-http://193.47.62.55/hls/AYYYAAA.m3u8
-# =============================================================
 # CRICKET
 # =============================================================
-#EXTINF:-1 tvg-id="Sony.Ten.1.us" tvg-name="Sony Ten 1" tvg-logo="" group-title="Cricket",Sony Ten 1
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (1080p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
+#EXTINF:-1 tvg-id="CR...Cricket.Gold.us" tvg-name="CR | Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png" group-title="Cricket",CR | Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
 #EXTINF:-1 tvg-id="Sony.ten.5.us" tvg-name="Sony ten 5" tvg-logo="" group-title="Cricket",Sony ten 5
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Sony.ten.4.us" tvg-name="Sony ten 4" tvg-logo="" group-title="Cricket",Sony ten 4
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Ten.Cricket.HD.us" tvg-name="Ten Cricket HD" tvg-logo="" group-title="Cricket",Ten Cricket HD
-http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Sony.Ten.2.us" tvg-name="Sony Ten 2" tvg-logo="" group-title="Cricket",Sony Ten 2
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="Star.Sports.3.us" tvg-name="Star Sports 3" tvg-logo="" group-title="Cricket",Star Sports 3
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="Sony.Ten.3.us" tvg-name="Sony Ten 3" tvg-logo="" group-title="Cricket",Sony Ten 3
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Star.Sports.3.us" tvg-name="Star Sports 3" tvg-logo="" group-title="Cricket",Star Sports 3
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="Star.Sports.Select.2.HD.us" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Cricket",Star Sports Select 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket" tvg-logo="https://i.imgur.com/vHq8sR7.png" group-title="Cricket",SuperSport Cricket
 http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-id="CR...Cricket.Gold.us" tvg-name="CR | Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png" group-title="Cricket",CR | Cricket Gold
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+#EXTINF:-1 tvg-id="Sony.Ten.2.us" tvg-name="Sony Ten 2" tvg-logo="" group-title="Cricket",Sony Ten 2
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Sony.ten.4.us" tvg-name="Sony ten 4" tvg-logo="" group-title="Cricket",Sony ten 4
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Sony.Ten.1.us" tvg-name="Sony Ten 1" tvg-logo="" group-title="Cricket",Sony Ten 1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-id="Ten.Cricket.HD.us" tvg-name="Ten Cricket HD" tvg-logo="" group-title="Cricket",Ten Cricket HD
+http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="CR...Star.Sports.1.Hindi.us" tvg-name="CR | Star Sports 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Cricket",CR | Star Sports 1 Hindi
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="--Live(WiLLoW HD)--" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",--Live(WiLLoW HD)--
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Cricket",Star Sports Select 2 HD
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (1080p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports (1080p)
-https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Cricket",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (1080p)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports (1080p)
 https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-name="Cricket Gold (1080p)" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Cricket",Cricket Gold (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Cricket",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (Geo)" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports (Geo)
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="Cricket",Sky Sports Cricket
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3OTA5ODIwMzc2NzI6Y2RubGl2ZXR2LnR2OmFlOWJhMTM1NzcwMzEwNTEuYzQzMDE3ZjU5ZmMzNWRiYzk4YmNjZjliYmY5Njg3NTM4NWFlNWYxMTkyMDNmYjFkODkwNjc0NDIyYzEyM2U2ZQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFhOjE3OTEwMzA2Mzc2MDY6Y2RubGl2ZXR2LnR2Ojk1NmU5YjNmOGJkODU5YmUuYWNjNTM2MmNmNTE3NGRjYzAyY2NjMTkyMjNlMjgyMGM1YzFlNTMxN2Q4N2I5M2ZhMTQyMjMwZjdjZTI2YmUzYw
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Cricket",Willow Sports
+https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
 # =============================================================
 # FOOTBALL & SOCCER
 # =============================================================
@@ -65,96 +54,8 @@ https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="Football & Soccer",Sky Sports Premier League
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-name="CBS Sports Golazo Network (720p)" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="Football & Soccer",CBS Sports Golazo Network (720p)
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Bolivia Copa] SA Bulo Bulo vs Academia del Balompie (FAWA)" tvg-logo="https://copadebolivia.com/wp-content/uploads/2025/11/Copa-de-Bolivia.png" group-title="Football & Soccer",[Bolivia Copa] SA Bulo Bulo vs Academia del Balompie (FAWA)
-http://193.47.62.55/hls/YLLLQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Saint Lucia vs Guadeloupe (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="Football & Soccer",[CONCACAF Nations League] Saint Lucia vs Guadeloupe (FAWA)
-http://193.47.62.55/hls/YLLLQQQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Dutch Eerste Divisie] Helmond vs Heracles (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Football & Soccer",[Dutch Eerste Divisie] Helmond vs Heracles (FAWA)
-http://193.47.62.55/hls/YLLLQQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Euro U21 Qualification] England U21 vs Slovakia U21 (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Football & Soccer",[Euro U21 Qualification] England U21 vs Slovakia U21 (FAWA)
-http://193.47.62.55/hls/VAAAQaaaaaAA.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Ireland Premier Division] Dundalk vs Bohemians (FAWA)" tvg-logo="https://assets.football-logos.cc/logos/republic-of-ireland/1500x1500/league-of-ireland-premier-division.bbd4823a.png" group-title="Football & Soccer",[Ireland Premier Division] Dundalk vs Bohemians (FAWA)
-http://193.47.62.55/hls/AYYYAAAA.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Friendly Match] Sevilla vs Aston Villa (FAWA)" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="Football & Soccer",[Friendly Match] Sevilla vs Aston Villa (FAWA)
-http://193.47.62.55/hls/VAAAQaaaaa.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA Bank of Utah Championship (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Football & Soccer",[Golf PGA] Golf PGA Bank of Utah Championship (FAWA)
-http://193.47.62.41/hls/zfffAA.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Eldense vs Oviedo (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Football & Soccer",[Spanish Segunda Liga] Eldense vs Oviedo (FAWA)
-http://193.47.62.55/hls/VAAAQaaaaaA.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Belgium vs Turkey 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Belgium vs Turkey 1 (FAWA)
-http://193.47.62.41/hls/OIIIQQQQQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Bosnia-Herzegovina vs Sweden 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Bosnia-Herzegovina vs Sweden 1 (FAWA)
-http://193.47.62.41/hls/OIIIQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] France vs Italy 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] France vs Italy 1 (FAWA)
-http://193.47.62.41/hls/OIIIQQQQQQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Faroe Islands vs Slovakia 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Faroe Islands vs Slovakia 1 (FAWA)
-http://193.47.62.41/hls/OIII.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Bosnia-Herzegovina vs Sweden 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Bosnia-Herzegovina vs Sweden 2 (FAWA)
-https://www.rtmpcdn.com/live/d5bc34e3-4238-46a4-8015-9542cedfaf11.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Belgium vs Turkey 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Belgium vs Turkey 2 (FAWA)
-https://www.rtmpcdn.com/live/ab1ea1d1-7137-44ee-8592-90789d7aa234.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Hungary vs Georgia 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Hungary vs Georgia 1 (FAWA)
-http://193.47.62.41/hls/OIIIQQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] France vs Italy 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] France vs Italy 2 (FAWA)
-https://www.rtmpcdn.com/live/4ad41d19-13f6-40f4-b283-06dd152fa8a1.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Poland vs Romania 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Poland vs Romania 1 (FAWA)
-http://193.47.62.41/hls/OIIIQQQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Faroe Islands vs Slovakia 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Faroe Islands vs Slovakia 2 (FAWA)
-https://www.rtmpcdn.com/live/4063080c-6559-4ba9-8dbc-6a739792c166.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] UEFA Nations League Simulcast (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] UEFA Nations League Simulcast (FAWA)
-http://193.47.62.55/hls/YLLL.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA NATIONS] Italy vs France | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA NATIONS] Italy vs France | English (STRMGATE)
-https://instreams.online/live3/tv401861103/index.m3u8?st=_9mWuqPfSOoZgYMB3StAKA&e=1790976637
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Ukraine vs Northern Ireland 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Ukraine vs Northern Ireland 1 (FAWA)
-http://193.47.62.41/hls/OIIIQQQQ.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA NATIONS] Slovakia vs Faroe Islands | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA NATIONS] Slovakia vs Faroe Islands | English (STRMGATE)
-https://instreams.live/live3/tv401861110/index.m3u8?st=MWz3gkSYmQcFkP2KsweRTQ&e=1790976636
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA NATIONS] Georgia vs Hungary | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA NATIONS] Georgia vs Hungary | English (STRMGATE)
-https://instreams.live/live3/tv401861102/index.m3u8?st=7NBsiz0Jv3ItrsrnFEr1vQ&e=1790976637
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Belgium vs Turkey 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Belgium vs Turkey 3 (FAWA)
-https://live5.dyrur1.com/live/68931482_c0517297e3888cb4b4085498ab7072de_540p.m3u8?auth_key=1790981769-0-0-6102265fc7cf16abc4be9c3d875dcb3d
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA NATIONS] Sweden vs Bosnia-Herzegovina | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA NATIONS] Sweden vs Bosnia-Herzegovina | English (STRMGATE)
-https://instreams.online/live3/tv401861107/index.m3u8?st=icTF-L1F_7pMw4o7JGXOQA&e=1790976635
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA NATIONS] Türkiye vs Belgium | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA NATIONS] Türkiye vs Belgium | English (STRMGATE)
-https://instreams.online/live3/tv401861109/index.m3u8?st=U0zIqB6kgWktqndFaQ59pA&e=1790976634
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA NATIONS] Northern Ireland vs Ukraine | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA NATIONS] Northern Ireland vs Ukraine | English (STRMGATE)
-https://instreams.online/live3/tv401861106/index.m3u8?st=QNE2bz5Jrm2-gi8RQsaC7A&e=1790976639
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA NATIONS] Romania vs Poland | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA NATIONS] Romania vs Poland | English (STRMGATE)
-https://instreams.live/live3/tv401861108/index.m3u8?st=lTxrq5qtqxXBqVAq6aMS_A&e=1790976638
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Hungary vs Georgia 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Hungary vs Georgia 2 (FAWA)
-https://www.rtmpcdn.com/live/dd4f0f71-8990-45e8-952e-da9f0f47f2e6.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Bosnia-Herzegovina vs Sweden 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Bosnia-Herzegovina vs Sweden 3 (FAWA)
-https://live.dyrur1.com/live/68932618_73bce96784225356daa4315a1c418c5a_540p.m3u8?auth_key=1790981779-0-0-6cc1d45a8f6b360bf7f3c816b4daed47
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Poland vs Romania 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Poland vs Romania 2 (FAWA)
-https://www.rtmpcdn.com/live/b6f7004b-8766-48c4-b07d-4571e70f601c.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Faroe Islands vs Slovakia 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Faroe Islands vs Slovakia 3 (FAWA)
-https://live2.dyrur1.com/live/68932366_98b1caf605c2f7e73ddf5335fd527dca_540p.m3u8?auth_key=1790981779-0-0-6061cd0ec439f379664b7bcb7b36c892
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] France vs Italy 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] France vs Italy 3 (FAWA)
-https://live3.dyrur1.com/live/68931484_1330fccffa2388799b42689d7f664f9b_540p.m3u8?auth_key=1790981771-0-0-c3dd5bcae2f0fcb96705bf4f4f47ba42
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Hungary vs Georgia 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Hungary vs Georgia 3 (FAWA)
-https://live.dyrur1.com/live/68932758_0381b0119be974544bbc1a2a544b9e32_540p.m3u8?auth_key=1790981779-0-0-36f5ad592d9f2bf26f67dbefd96bc0c7
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Ukraine vs Northern Ireland 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Ukraine vs Northern Ireland 2 (FAWA)
-https://www.rtmpcdn.com/live/7222e93f-0e0e-4cc8-9743-538aa9567487.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Poland vs Romania 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Poland vs Romania 3 (FAWA)
-https://live4.dyrur1.com/live/68932620_309222219754e5e5d52e4e6def2c981e_540p.m3u8?auth_key=1790981779-0-0-7e5fb0c4a3aabb7c17ad79a6de7dbab2
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Ukraine vs Northern Ireland 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Ukraine vs Northern Ireland 3 (FAWA)
-https://live1.dyrur1.com/live/68932760_4e77a53a2862e2eae5451ba270c116fc_540p.m3u8?auth_key=1790981771-0-0-fd23c4fca2f230a976afaf1353b3ae65
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Belgium vs Turkey 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Belgium vs Turkey 3 (FAWA)
-https://live5.dyrur1.com/live/68931482_c0517297e3888cb4b4085498ab7072de_540p.m3u8?auth_key=1790981769-0-0-6102265fc7cf16abc4be9c3d875dcb3d|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Bosnia-Herzegovina vs Sweden 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Bosnia-Herzegovina vs Sweden 3 (FAWA)
-https://live.dyrur1.com/live/68932618_73bce96784225356daa4315a1c418c5a_540p.m3u8?auth_key=1790981779-0-0-6cc1d45a8f6b360bf7f3c816b4daed47|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Faroe Islands vs Slovakia 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Faroe Islands vs Slovakia 3 (FAWA)
-https://live2.dyrur1.com/live/68932366_98b1caf605c2f7e73ddf5335fd527dca_540p.m3u8?auth_key=1790981779-0-0-6061cd0ec439f379664b7bcb7b36c892|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] France vs Italy 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] France vs Italy 3 (FAWA)
-https://live3.dyrur1.com/live/68931484_1330fccffa2388799b42689d7f664f9b_540p.m3u8?auth_key=1790981771-0-0-c3dd5bcae2f0fcb96705bf4f4f47ba42|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Hungary vs Georgia 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Hungary vs Georgia 3 (FAWA)
-https://live.dyrur1.com/live/68932758_0381b0119be974544bbc1a2a544b9e32_540p.m3u8?auth_key=1790981779-0-0-36f5ad592d9f2bf26f67dbefd96bc0c7|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Poland vs Romania 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Poland vs Romania 3 (FAWA)
-https://live4.dyrur1.com/live/68932620_309222219754e5e5d52e4e6def2c981e_540p.m3u8?auth_key=1790981779-0-0-7e5fb0c4a3aabb7c17ad79a6de7dbab2|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Ukraine vs Northern Ireland 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="Football & Soccer",[UEFA Nations League] Ukraine vs Northern Ireland 3 (FAWA)
-https://live1.dyrur1.com/live/68932760_4e77a53a2862e2eae5451ba270c116fc_540p.m3u8?auth_key=1790981771-0-0-fd23c4fca2f230a976afaf1353b3ae65|Referer=http%3A//www.fawanews.sc/&Origin=http%3A//www.fawanews.sc/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-name="beIN SPORTS XTRA (1080p)" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Football & Soccer",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 # =============================================================
 # AMERICAN FOOTBALL & US SPORTS
 # =============================================================
@@ -162,116 +63,106 @@ https://live1.dyrur1.com/live/68932760_4e77a53a2862e2eae5451ba270c116fc_540p.m3u
 https://file.genoads.com/ch1.m3u8
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/500px-NHL_Network_2012.svg.png" group-title="American Football & US Sports",NHL Network
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="American Football & US Sports",ESPNU HD (720p 60fps)
-http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Network Strike Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75219_dark_360w_270h.png" group-title="American Football & US Sports",MLB Network Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1 (720p)" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="American Football & US Sports",Fox Sports 1 (720p)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN2
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN
-http://stream.bottledesk.net/6500/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPNEWS
-http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="American Football & US Sports",ESPNU HD (720p 60fps)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN (1080p)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="American Football & US Sports",NBA TV
-http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Baskonia vs Olimpia Milano 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Baskonia vs Olimpia Milano 1 (FAWA)
-http://193.47.62.55/hls/VAAAQaaaa.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Bayern Munchen vs Partizan 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Bayern Munchen vs Partizan 1 (FAWA)
-http://193.47.62.55/hls/VAAAQa.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Fenerbahce vs Dubai (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Fenerbahce vs Dubai (FAWA)
-http://193.47.62.55/hls/VAAAQ.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Besiktas vs Barcelona 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Besiktas vs Barcelona 1 (FAWA)
-http://193.47.62.55/hls/RRUUU.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Lyon-Villeurbanne vs Valencia 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Lyon-Villeurbanne vs Valencia 1 (FAWA)
-http://193.47.62.55/hls/VAAAQaa.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Panathinaikos vs Maccabi Tel Aviv 1 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Panathinaikos vs Maccabi Tel Aviv 1 (FAWA)
-http://193.47.62.55/hls/VAAAQaaa.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Bayern Munchen vs Partizan 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Bayern Munchen vs Partizan 2 (FAWA)
-https://www.rtmpcdn.com/live/18a99d7e-7772-4e00-a06e-1eb6839ad01b.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Baskonia vs Olimpia Milano 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Baskonia vs Olimpia Milano 2 (FAWA)
-https://www.rtmpcdn.com/live/3bf88417-d6e5-4873-94b5-f13038df97f8.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Fenerbahce vs Dubai 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Fenerbahce vs Dubai 2 (FAWA)
-https://www.rtmpcdn.com/live/d3e27d5c-873a-4dee-b4bd-47d11199178f.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Lyon-Villeurbanne vs Valencia 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Lyon-Villeurbanne vs Valencia 2 (FAWA)
-https://www.rtmpcdn.com/live/806b5e7a-9708-4c1a-92e1-13d2e5fe7d7a.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="[Basketball Euroleague] Panathinaikos vs Maccabi Tel Aviv 2 (FAWA)" tvg-logo="https://www.euroleaguebasketball.net/images/logo-default.png" group-title="American Football & US Sports",[Basketball Euroleague] Panathinaikos vs Maccabi Tel Aviv 2 (FAWA)
-https://www.rtmpcdn.com/live/ea487101-bbb7-45c0-9df7-23a4f351bae4.m3u8
-#EXTINF:-1 tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Sodertalje vs Ostersund (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="American Football & US Sports",[Sweden HockeyAllsvenskan] Sodertalje vs Ostersund (FAWA)
-http://193.47.62.55/hls/FAAADDD.m3u8
-#EXTINF:-1 tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] BIK Karlskoga vs Leksand (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="American Football & US Sports",[Sweden HockeyAllsvenskan] BIK Karlskoga vs Leksand (FAWA)
-http://193.47.62.55/hls/FAAA.m3u8
-#EXTINF:-1 tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Nybro vs AIK (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="American Football & US Sports",[Sweden HockeyAllsvenskan] Nybro vs AIK (FAWA)
-http://193.47.62.55/hls/FAAADD.m3u8
-#EXTINF:-1 tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Kalmar vs Mora (FAWA)" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="American Football & US Sports",[Sweden HockeyAllsvenskan] Kalmar vs Mora (FAWA)
-http://193.47.62.55/hls/FAAAD.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="American Football & US Sports",ESPN
+http://stream.bottledesk.net/6500/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.us" tvg-name="Fox Sports" tvg-logo="https://i.kinja-img.com/gawker-media/image/upload/s--NxekXGiy--/c_scale,f_auto,fl_progressive,q_80,w_800/wnja60hjmxcsqg7hqnmf.png" group-title="American Football & US Sports",Fox Sports
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34710_dark_360w_270h.png" group-title="American Football & US Sports",NFL Network
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb306/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA2OjE3OTEwMzA2MzYxNzQ6Y2RubGl2ZXR2LnR2OjY5MGExNjRiYThkMGFlYjQuMGUzOTYwNzJkMjc0ZWY0N2VlMWJiYjhkOWYzN2E5YmQ1M2IwZGQ2MTdlMDQ5ZGNjN2I0Y2NmYTQ2MjZlZTJjMg
+#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="American Football & US Sports",Fox Sports 2
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5c5/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWM1OjE3OTEwMzA2MzM1MTE6Y2RubGl2ZXR2LnR2Ojk1ODFlNTU2YTg5ZGJlODAuZjc3OTUwNzQzN2VkNzNkMWRhNWI4NjE2ODJmZThiNjczZDUyNTdmZGM1ZGQ2NGRjNWZlYzU5NTMzYzU3ODAwNQ
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="American Football & US Sports",MLB Network
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5cf/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3OTEwMzA2MzU1NzE6Y2RubGl2ZXR2LnR2OjM2MTNhYTc2MGFmMzZkOWYuOTNiYzU2NzQzZjFlNTJhZGFjNmE3NGVmYWI5ODNhMmJjMjZlMTFkNzFlMDc0YjFiMGI3MDBjOTY4OWUzMjc0Nw
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Dallas Stars vs St. Louis Blues (REED)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="American Football & US Sports",[NHL] Dallas Stars vs St. Louis Blues (REED)
+https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Vegas Golden Knights vs Anaheim Ducks (REED)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="American Football & US Sports",[NHL] Vegas Golden Knights vs Anaheim Ducks (REED)
+https://admin.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Boston Bruins at Winnipeg Jets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="American Football & US Sports",[NHL] Boston Bruins at Winnipeg Jets (SPRTSPASS)
+https://ghostinpixels.s3.us-east-1.amazonaws.com/jets.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Anaheim Ducks at Vegas Golden Knights (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="American Football & US Sports",[NHL] Anaheim Ducks at Vegas Golden Knights (SPRTSPASS)
+https://ghostinpixels.s3.us-east-1.amazonaws.com/ducks.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] St. Louis Blues at Dallas Stars (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="American Football & US Sports",[NHL] St. Louis Blues at Dallas Stars (SPRTSPASS)
+https://ghostinpixels.s3.us-east-1.amazonaws.com/stars.m3u8
 # =============================================================
 # MOTORSPORT & COMBAT SPORTS
 # =============================================================
 #EXTINF:-1 tvg-id="MainEventUFC.au" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1024px-UFC_logo.svg.png" group-title="Motorsport & Combat Sports",UFC
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",Sky Sports F1
-http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #EXTINF:-1 tvg-id="PFL.MMA.us" tvg-name="PFL MMA (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Professional_Fighters_League_logo.svg/800px-Professional_Fighters_League_logo.svg.png" group-title="Motorsport & Combat Sports",PFL MMA (720p)
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Boxing Primetime Fight Night Vol 10 (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Motorsport & Combat Sports",[Boxing] Boxing Primetime Fight Night Vol 10 (FAWA)
-http://193.47.62.55/hls/GAGAGA.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="Motorsport & Combat Sports",Sky Sports F1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-name="Bellator MMA" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Motorsport & Combat Sports",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 # =============================================================
 # MAIN EVENTS & FLAGSHIP SPORTS
 # =============================================================
-#EXTINF:-1 tvg-id="DD.Sports.HD..1080p.us" tvg-name="DD Sports HD (1080p)" tvg-logo="" group-title="Main Events & Flagship Sports",DD Sports HD (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id="BeIN.Sports.XTRA..1080p.us" tvg-name="BeIN Sports XTRA (1080p)" tvg-logo="" group-title="Sports",BeIN Sports XTRA (1080p)
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Dummy" tvg-name="BeIN Sports Xtra" tvg-logo="noimage.png" group-title="Main Events & Flagship Sports",BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/tennis_logo.png" group-title="Main Events & Flagship Sports",Tennis Channel
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="Main Events & Flagship Sports",Sky Sports News
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc334/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzM0OjE3OTA5ODIwMzg3MDM6Y2RubGl2ZXR2LnR2OjQzYzliNmEyZTcxYTdmMjkuMjE4NGM2ZDZkZWUyOTY2YTE5NDU1NjA5NGZmYTdhZmM2NDQ0MzEyYzUzMmNhNDQ0ZjBiYTljNGQwZTgyZTgwMQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc334/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzM0OjE3OTEwMzA2Mzg2NjE6Y2RubGl2ZXR2LnR2OjJkYjE1ODQ4NTgwMjg5MGYuYTFhY2U0ZWUxNzc2ZWQ1MzFhMzVmZWRhNTljZTA4YmIwMjgzOGI4MDg0MWM0MTc2ZmMzYWI5NGE1N2M4OWEwZg
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="Main Events & Flagship Sports",Sky Sports Tennis
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTA5ODIwMzkxMDA6Y2RubGl2ZXR2LnR2OjdiYzcxM2IxMGRkOThiNTMuM2Q2NmY0N2IyMjA4ODNlZGRiOGE3ODgzYzg4ZDA2Mjc1NmFmNGUyZTZlYjhlOWZhODQ2N2Y1ZTgwYjEwY2ZiZA
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc320/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzIwOjE3OTEwMzA2MzkwMzQ6Y2RubGl2ZXR2LnR2OmY1MDI4YTA4ZDU0NTJhODQuNzUyZmUwYWI0YWMyYzEzYWY3MWM2NDM5OTViMjgxZWI4Yjg3MWFjYzUxMDE5MGUxYTZmMDE2ZDdhMzMxMTFiMA
 #EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="Main Events & Flagship Sports",Sportsnet One
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTA5ODIwNDAxMjI6Y2RubGl2ZXR2LnR2OmExZjFiMTk5MmRiMGVjMWUuMWQxYzdlODAyNmE3ZjU1NzI5ZTJiYWJhYmJiZWEwM2FmODRiYTBhYmExNGNmYTQ5YzMxYjlkYmZjNGQ2NTZlZQ
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="Main Events & Flagship Sports",Premier Sports 1
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc35e/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzVlOjE3OTA5ODIwMzY4NTk6Y2RubGl2ZXR2LnR2OjYwYmJkYjg4MzdlZmZkZmEuZGFlMTUwNzY0MGMzMDA4OTEzNGFmNjNiZmZjNzgyZTZhOGJkM2I4NGM2YzMxMTY1Y2ZlYTBmNzk2YWViMmExYg
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc2b0/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMmIwOjE3OTEwMzA2NDAwNjg6Y2RubGl2ZXR2LnR2OjEzNWM5OGQwNjM3NmM1ZGMuMDUxZTczMjMyNWY1ZjEwZDE3NzE3OTJkNjhiMDQxYmUyYTBlNjkzNjRlMTYwZDI1ODMyYzAzZTQ5ZTVlNDlkMA
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="Main Events & Flagship Sports",Sky Sports Golf
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc31d/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzFkOjE3OTEwMzA2MzgwMTE6Y2RubGl2ZXR2LnR2OjVmN2FmN2Y2ZjViZTM4MDkuZGEyMjk1ZGMwOWZkMWE2ODMzZWY1MTAwNzY3ZTBjYjI4NjcwYzM5MzgwZjkyNjVjMmUwZDc5YjA0YzU1MDU2MA
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="TNT Sports 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="Main Events & Flagship Sports",TNT Sports 2
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc347/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ3OjE3OTEwMzA2NDI3MzQ6Y2RubGl2ZXR2LnR2OmM2ZmUxZGEwZTdjY2QzNzguMDJiMmFmOGMwM2Q4M2ZkMjgwMmUyZDNjZTYwMGNhOGZiZTMzZDFkZTBiZjVlYjZhN2FkNzk5YWVkNWYwOTFlMg
+#EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="TNT Sports 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="Main Events & Flagship Sports",TNT Sports 1
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc344/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ0OjE3OTEwMzA2NDI1MTY6Y2RubGl2ZXR2LnR2OjZmNzljMDc0NGRhMjA4Y2QuM2JmMDRmYmM3YTIxOWI5ODJiN2MzNTQ2YjQyMGIyNjBkMDk4MzJjN2JmNTdkZjFmMWI5NzQ5ZmViZWJlNjMwYQ
+#EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-name="Auto Motor und Sport" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="Main Events & Flagship Sports",Auto Motor und Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
 # =============================================================
 # LIVE MATCHDAY & EVENT FEEDS
 # =============================================================
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel 2" tvg-logo="https://i.imgur.com/tennis_logo.png" group-title="⚡ Live Matchday & Event Feeds",Tennis Channel 2
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
-#EXTINF:-1 tvg-id="ABC.Sport.in.90.Seconds.us" tvg-name="ABC Sport in 90 Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg" group-title="⚡ Live Matchday & Event Feeds",ABC Sport in 90 Seconds
-https://c.mjh.nz/sport_in_90_seconds
-#EXTINF:-1 tvg-id="AYM.SPORT.us" tvg-name="AYM SPORT 🇺🇸" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",AYM SPORT 🇺🇸
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
-#EXTINF:-1 tvg-id="MIXER...SportsGrid.us" tvg-name="MIXER | SportsGrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg" group-title="⚡ Live Matchday & Event Feeds",MIXER | SportsGrid
-https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
-#EXTINF:-1 tvg-id="TSports7.th@SD" tvg-name="T Sports 7" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",T Sports 7
-https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.Sports.Box.Office.uk" tvg-name="TNT SPORTS Premium" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png" group-title="⚡ Live Matchday & Event Feeds",TNT SPORTS Premium
 http://200.115.120.1:8000/play/ca040/index.m3u8
-#EXTINF:-1 tvg-id="VSIN.Vegas.Sports.and.Information.Network.us2" tvg-name="VSiN (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",VSiN (720p)
-https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
-#EXTINF:-1 tvg-id="HorseTV.us" tvg-name="HORSE TV" tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="⚡ Live Matchday & Event Feeds",HORSE TV
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="AYM.SPORT.us" tvg-name="AYM SPORT 🇺🇸" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",AYM SPORT 🇺🇸
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="REDBULL TV" tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="⚡ Live Matchday & Event Feeds",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="TVSClassicSports.us@SD" tvg-name="TVS Classic Sports (360p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Classic Sports (360p)
-https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="ABC.Sport.in.90.Seconds.us" tvg-name="ABC Sport in 90 Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg" group-title="⚡ Live Matchday & Event Feeds",ABC Sport in 90 Seconds
+https://c.mjh.nz/sport_in_90_seconds
+#EXTINF:-1 tvg-id="TSports7.th@SD" tvg-name="T Sports 7" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",T Sports 7
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+#EXTINF:-1 tvg-id="MIXER...SportsGrid.us" tvg-name="MIXER | SportsGrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg" group-title="⚡ Live Matchday & Event Feeds",MIXER | SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 tvg-id="HorseTV.us" tvg-name="HORSE TV" tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="⚡ Live Matchday & Event Feeds",HORSE TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="VSIN.Vegas.Sports.and.Information.Network.us2" tvg-name="VSiN (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",VSiN (720p)
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports XTRA" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113143_dark_360w_270h.png" group-title="⚡ Live Matchday & Event Feeds",beIN Sports XTRA
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8a8f4738-31fd-49f4-83a0-95660fe6be33/2.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel 2" tvg-logo="https://i.imgur.com/tennis_logo.png" group-title="⚡ Live Matchday & Event Feeds",Tennis Channel 2
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us@SD" tvg-name="TVS Classic Sports (360p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us@SD" tvg-name="TVS Sports Bureau (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-id="TVSSports.us@SD" tvg-name="TVS Sports (720p) [Not 24/7]" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Sports (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="⚡ Live Matchday & Event Feeds",NBC Sports Philadelphia
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-#EXTINF:-1 tvg-id="TVSSportsBureau.us@SD" tvg-name="TVS Sports Bureau (720p)" tvg-logo="" group-title="⚡ Live Matchday & Event Feeds",TVS Sports Bureau (720p)
-https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-id="Horse...Country.us" tvg-name="Horse & Country" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="⚡ Live Matchday & Event Feeds",Horse & Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RACING...Motor.Vision.us" tvg-name="RACING | Motor Vision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg" group-title="⚡ Live Matchday & Event Feeds",RACING | Motor Vision
-https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="FB...FIFA.us" tvg-name="FB | FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png" group-title="⚡ Live Matchday & Event Feeds",FB | FIFA+
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="RACING...Motor.Vision.us" tvg-name="RACING | Motor Vision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg" group-title="⚡ Live Matchday & Event Feeds",RACING | Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-name="FIFA+ Spain (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="⚡ Live Matchday & Event Feeds",FIFA+ Spain (720p)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-name="Fast&FunBox" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="⚡ Live Matchday & Event Feeds",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="⚡ Live Matchday & Event Feeds",Sky Sports Main Event
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc30f/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzBmOjE3OTEwMzA2MzgyMTg6Y2RubGl2ZXR2LnR2OmY4NjIyMjQ2MWNmMmUxZGEuYzgxYzM0YjA5NDM3NDZhYjhmYWE1MmM2ZDk1MDJmNTJiNWUxYmViZGE3MGIyODA2Mzc4YzcxMDgxMjEyYmFmMw
