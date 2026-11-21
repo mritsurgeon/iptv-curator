@@ -1,15 +1,15 @@
 """
 Keyless Hybrid Search-Engine & Google Dork Discovery Provider.
-- Dynamically generates search queries from config/sports_catalogue.json and
-  config/broadcaster_catalogue.json (competitions, aliases, broadcasters, formats).
-- Supports keyless public search endpoints (DuckDuckGo HTML/Lite, optional SearXNG)
-  plus optional Google CSE / Bing when keys exist, and exports Google Dork URLs
-  for manual reference.
-- Never attempts to bypass CAPTCHAs or anti-bot gates; gracefully falls back on
-  block/403/429 and records per-query discovery yield metrics in SQLite.
+- Integrates config/discovery_queries.json (including intitle:"index of" M3U/M3U8 dorks)
+  with dynamically generated queries from config/sports_catalogue.json and
+  config/broadcaster_catalogue.json (no duplicate query definitions).
+- Supports keyless public search backends (optional SEARXNG_URL, DuckDuckGo HTML,
+  Bing HTML fallback) without requiring paid API keys.
+- Enforces a per-run circuit breaker on CAPTCHA / throttling / HTTP errors so blocked
+  providers are never repeatedly retried and never halt the wider pipeline.
 """
 
-import json
+import base64
 import os
 import re
 import time
@@ -28,46 +28,80 @@ from discovery.base_provider import (
 )
 from discovery.github_provider import parse_m3u_to_candidates
 
+BOT_GATE_MARKERS = (
+    "captcha",
+    "anomaly.js",
+    "verify you are human",
+    "robot check",
+    "unusual traffic",
+)
+
 
 def generate_dynamic_dork_queries(
     sports_catalogue: Dict[str, Any],
     broadcaster_catalogue: Optional[Dict[str, Any]] = None,
-    max_queries: int = 40,
+    queries_config: Optional[Dict[str, Any]] = None,
+    max_queries: int = 60,
 ) -> List[Dict[str, str]]:
     """
-    Dynamically generate search queries from sports_catalogue.json & broadcaster_catalogue.json
-    covering M3U, M3U8, XMLTV, EPG, JSON and alternative Git platforms.
+    Build deduplicated discovery queries from:
+      1. config/discovery_queries.json (general_channel_discovery incl. intitle:"index of",
+         epg_discovery, by_sport)
+      2. config/sports_catalogue.json (sports, competitions, aliases)
+      3. config/broadcaster_catalogue.json (broadcasters, channel names, TVG IDs)
     """
-    queries: List[Dict[str, str]] = [
-        {"query": 'site:github.com filetype:m3u sports', "sport": ""},
-        {"query": 'site:gitlab.com filetype:m3u sports', "sport": ""},
-        {"query": 'site:codeberg.org IPTV playlist sports', "sport": ""},
-        {"query": 'filetype:xml.gz xmltv sports', "sport": ""},
-        {"query": '"tvg-id" "group-title" filetype:m3u sports', "sport": ""},
-    ]
-    seen: Set[str] = {q["query"].lower() for q in queries}
+    queries: List[Dict[str, str]] = []
+    seen: Set[str] = set()
 
+    def _add(qtext: str, sport: str = "", origin: str = "dynamic_dork") -> None:
+        cleaned = qtext.strip()
+        if not cleaned or cleaned.lower() in seen or len(queries) >= max_queries:
+            return
+        seen.add(cleaned.lower())
+        queries.append({"query": cleaned, "sport": sport, "origin": origin})
+
+    # 1. Integrate configured queries (single source of truth: config/discovery_queries.json)
+    qcfg = queries_config or {}
+    for q in qcfg.get("general_channel_discovery", []):
+        _add(q, origin="config_general")
+    for q in qcfg.get("epg_discovery", []):
+        _add(q, origin="config_epg")
+    for sp, sp_qs in qcfg.get("by_sport", {}).items():
+        for q in sp_qs:
+            _add(q, sport=sp, origin="config_sport")
+
+    # Core cross-platform & public directory index templates
+    for base_q in (
+        'site:github.com filetype:m3u sports',
+        'site:gitlab.com filetype:m3u sports',
+        'site:codeberg.org IPTV playlist sports',
+        'filetype:xml.gz xmltv sports',
+        '"tvg-id" "group-title" filetype:m3u sports',
+        'intitle:"index of" ("sports.m3u8" OR "sports.m3u")',
+    ):
+        _add(base_q, origin="dynamic_dork")
+
+    # 2. Expand dynamically from sports_catalogue.json (competitions & aliases)
     for sport_name, sdata in sports_catalogue.get("sports", {}).items():
+        _add(f'intitle:"index of" m3u8 "{sport_name}"', sport=sport_name)
         for _, comp_list in sdata.get("competition_types", {}).items():
             for comp in comp_list:
                 if not comp.get("active", True):
                     continue
                 cname = comp["name"]
-                for fmt_term in ('"m3u"', '"xmltv"'):
-                    q = f'"{cname}" {fmt_term}'
-                    if q.lower() not in seen:
-                        seen.add(q.lower())
-                        queries.append({"query": q, "sport": sport_name})
+                _add(f'"{cname}" ("m3u" OR "m3u8")', sport=sport_name)
+                _add(f'"{cname}" "xmltv"', sport=sport_name)
                 if len(queries) >= max_queries:
                     return queries
 
-    for bc_meta in (broadcaster_catalogue or {}).values():
+    # 3. Expand dynamically from broadcaster_catalogue.json (channels, broadcasters, TVG IDs)
+    for ch_key, bc_meta in (broadcaster_catalogue or {}).items():
         bc_name = bc_meta.get("broadcaster", "")
+        tvg_name = bc_meta.get("tvg_name", "") or ch_key
         if bc_name:
-            q = f'"{bc_name}" "tvg-id" m3u8'
-            if q.lower() not in seen:
-                seen.add(q.lower())
-                queries.append({"query": q, "sport": ""})
+            _add(f'"{bc_name}" "tvg-id" m3u8')
+        if tvg_name and tvg_name.lower() != bc_name.lower():
+            _add(f'"{tvg_name}" filetype:m3u8')
         if len(queries) >= max_queries:
             break
 
@@ -79,17 +113,38 @@ def build_google_search_url(query: str) -> str:
     return f"https://www.google.com/search?q={urllib.parse.quote_plus(query)}"
 
 
+def _is_bot_gate(html: str) -> bool:
+    low = html.lower()
+    return any(m in low for m in BOT_GATE_MARKERS)
+
+
 def _extract_ddg_links(html: str) -> List[str]:
-    """Extract target URLs from DuckDuckGo HTML/Lite search results."""
+    """Extract deduplicated target URLs from DuckDuckGo HTML/Lite search results."""
     links: List[str] = []
-    # Direct links or uddg= redirect parameters
     for m in re.findall(r'uddg=([^&"\']+)', html):
         url = urllib.parse.unquote(m)
         if url.startswith(("http://", "https://")):
             links.append(url)
     for m in re.findall(r'href="(https?://[^"]+)"', html):
-        if "duckduckgo.com" not in m and m not in links:
+        if "duckduckgo.com" not in m:
             links.append(m)
+    return list(dict.fromkeys(links))
+
+
+def _extract_bing_links(html: str) -> List[str]:
+    """Extract deduplicated organic URLs from Bing HTML results (direct + u=a1 encoded)."""
+    links: List[str] = []
+    for m in re.findall(r'href="(https?://[^"]+)"', html):
+        if not any(d in m for d in ("bing.com", "microsoft.com", "live.com", "w3.org")):
+            links.append(m)
+    for token in re.findall(r"u=a1([A-Za-z0-9_-]+)", html):
+        pad = token + "=" * (-len(token) % 4)
+        try:
+            decoded = base64.urlsafe_b64decode(pad).decode("utf-8", errors="ignore")
+            if decoded.startswith(("http://", "https://")) and "bing.com" not in decoded:
+                links.append(decoded)
+        except Exception:
+            continue
     return list(dict.fromkeys(links))
 
 
@@ -107,10 +162,9 @@ def _normalize_repo_raw_url(url: str) -> str:
 class GoogleDorkProvider(BaseDiscoveryProvider):
     """
     Keyless hybrid search-engine discovery provider.
-    Uses dynamic queries generated from sports_catalogue.json, selects top queries via
-    UCB1 yield statistics in SQLite, searches keyless public backends (DuckDuckGo Lite,
-    optional SearXNG, or optional Google/Bing APIs if keys are configured), and exports
-    Google Dork reference URLs.
+    Uses configured + dynamic queries, selects top queries via UCB1 yield statistics,
+    queries keyless backends with a per-run circuit breaker on blocks/CAPTCHAs,
+    and exports Google Search dork URLs for manual reference.
     """
 
     source_id = "google_dork_discovery"
@@ -130,23 +184,16 @@ class GoogleDorkProvider(BaseDiscoveryProvider):
         self.broadcaster_catalogue = broadcaster_catalogue or {}
         self.dorks_export_path = dorks_export_path
         self.bandit = UCB1BanditAllocator()
+        self._blocked_backends: Set[str] = set()
 
     def _export_dorks(self, queries: List[Dict[str, str]]) -> None:
         try:
             with open(self.dorks_export_path, "w", encoding="utf-8") as f:
-                f.write("# Dynamic Sports IPTV & EPG Search Dorks (Generated from sports_catalogue.json)\n\n")
+                f.write("# Dynamic Sports IPTV & EPG Search Dorks (Generated from config + catalogues)\n\n")
                 for q in queries:
                     f.write(f"{q['query']}\n  -> {build_google_search_url(q['query'])}\n")
         except Exception:
             pass
-
-    def _search_duckduckgo_keyless(self, query: str) -> List[str]:
-        url = f"https://html.duckduckgo.com/html/?q={urllib.parse.quote_plus(query)}"
-        html = http_get_text(url, timeout=8, retries=0)
-        # Respect anti-bot/CAPTCHA gates immediately without retrying or bypassing
-        if "captcha" in html.lower() or "anomaly.js" in html.lower():
-            return []
-        return _extract_ddg_links(html)
 
     def _search_searxng_keyless(self, query: str, instance_url: str) -> List[str]:
         base = instance_url.rstrip("/")
@@ -154,29 +201,66 @@ class GoogleDorkProvider(BaseDiscoveryProvider):
         data = http_get_json(url, timeout=8, retries=0)
         return [r.get("url", "") for r in data.get("results", []) if r.get("url")]
 
-    def _run_search_query(self, query: str) -> List[str]:
-        """Try configured keyless/optional search providers with graceful fallback."""
+    def _search_duckduckgo_keyless(self, query: str) -> List[str]:
+        url = f"https://html.duckduckgo.com/html/?q={urllib.parse.quote_plus(query)}"
+        html = http_get_text(url, timeout=8, retries=0)
+        if _is_bot_gate(html):
+            self._blocked_backends.add("duckduckgo_html")
+            return []
+        return _extract_ddg_links(html)
+
+    def _search_bing_keyless(self, query: str) -> List[str]:
+        url = f"https://www.bing.com/search?q={urllib.parse.quote_plus(query)}"
+        html = http_get_text(url, timeout=8, retries=0)
+        if _is_bot_gate(html):
+            self._blocked_backends.add("bing_html")
+            return []
+        return _extract_bing_links(html)
+
+    def _run_search_query(self, query: str) -> Tuple[List[str], str]:
+        """
+        Query available keyless backends in priority order, skipping any backend
+        that tripped the per-run circuit breaker. Returns (deduplicated_links, backend_used).
+        """
         links: List[str] = []
+        used = "none"
+
         searx_url = os.environ.get("SEARXNG_URL", "").strip()
-        if searx_url:
+        if searx_url and "searxng" not in self._blocked_backends:
             try:
-                links.extend(self._search_searxng_keyless(query, searx_url))
+                res = self._search_searxng_keyless(query, searx_url)
+                if res:
+                    links.extend(res)
+                    used = "searxng"
             except Exception:
-                pass
+                self._blocked_backends.add("searxng")
 
-        if not links:
+        if "duckduckgo_html" not in self._blocked_backends:
             try:
-                links.extend(self._search_duckduckgo_keyless(query))
+                res = self._search_duckduckgo_keyless(query)
+                if res:
+                    links.extend(res)
+                    used = "duckduckgo_html" if used == "none" else f"{used}+duckduckgo_html"
             except Exception:
-                pass
+                self._blocked_backends.add("duckduckgo_html")
 
-        return list(dict.fromkeys(links))
+        if not links and "bing_html" not in self._blocked_backends:
+            try:
+                res = self._search_bing_keyless(query)
+                if res:
+                    links.extend(res)
+                    used = "bing_html"
+            except Exception:
+                self._blocked_backends.add("bing_html")
+
+        return list(dict.fromkeys(links)), used
 
     def discover(self, max_results: int = 20) -> DiscoveryResult:
         dynamic_qs = generate_dynamic_dork_queries(
             self.sports_catalogue,
             self.broadcaster_catalogue,
-            max_queries=35,
+            queries_config=self.queries_config,
+            max_queries=60,
         )
         self._export_dorks(dynamic_qs)
 
@@ -186,13 +270,13 @@ class GoogleDorkProvider(BaseDiscoveryProvider):
                 self.db.ensure_search_query(
                     self.source_id,
                     item["query"],
-                    origin="dynamic_dork",
+                    origin=item.get("origin", "dynamic_dork"),
                     sport_hint=item.get("sport", ""),
                 )
             all_q = self.db.get_search_queries(self.source_id)
-            selected_records = self.bandit.select_queries(all_q, budget=min(6, max_results))
+            selected_records = self.bandit.select_queries(all_q, budget=min(8, max_results))
         else:
-            selected_records = [{"query_id": "", "query_text": q["query"]} for q in dynamic_qs[:5]]
+            selected_records = [{"query_id": "", "query_text": q["query"]} for q in dynamic_qs[:6]]
 
         channels: List[CandidateChannel] = []
         epg_urls: List[CandidateEPG] = []
@@ -202,7 +286,7 @@ class GoogleDorkProvider(BaseDiscoveryProvider):
             qtext = qrec["query_text"]
             qid = qrec.get("query_id", "")
             t0 = time.monotonic()
-            raw_links = self._run_search_query(qtext)
+            raw_links, _backend = self._run_search_query(qtext)
 
             new_sources = 0
             new_playlists = 0
@@ -230,7 +314,9 @@ class GoogleDorkProvider(BaseDiscoveryProvider):
                     try:
                         txt = http_get_text(norm, timeout=6, retries=0)
                         if "#EXTINF" in txt:
-                            chs, epgs = parse_m3u_to_candidates(txt, self.source_id, norm)
+                            chs, epgs = parse_m3u_to_candidates(
+                                txt, self.source_id, norm, discovery_query=qtext
+                            )
                             channels.extend(chs)
                             epg_urls.extend(epgs)
                             new_playlists += 1
@@ -262,4 +348,3 @@ class GoogleDorkProvider(BaseDiscoveryProvider):
             channels=channels,
             epg_urls=epg_urls,
         )
-

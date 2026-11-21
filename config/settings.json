@@ -14,6 +14,8 @@
     "ffmpeg_decode_sec": 3,
     "ffmpeg_timeout_sec": 6.0,
     "max_workers": 25,
+    "verify_time_budget_sec": 300.0,
+    "health_time_budget_sec": 180.0,
     "retry_attempts": 2,
     "retry_backoff_sec": 1.0,
     "epg_stale_hours": 48

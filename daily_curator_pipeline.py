@@ -739,6 +739,7 @@ class CuratorPipeline:
             return False
 
         if should_run("epg"):
+            print("📺 [Stage: epg] Fetching regional XMLTV feeds & building FTS5 index...", flush=True)
             t0 = time.monotonic()
             active_tvg_ids = {
                 ch["tvg_id"] for ch in self.db.get_all_channels(status="active") if ch.get("tvg_id")
@@ -762,6 +763,7 @@ class CuratorPipeline:
         if should_run("discover_deep") or should_run("discover_incremental"):
             is_deep = should_run("discover_deep")
             stage_key = "discover_deep" if is_deep else "discover_incremental"
+            print(f"🔎 [Stage: {stage_key}] Running multi-source discovery & 3-tier triage...", flush=True)
             t0 = time.monotonic()
             seeded = self.seed_local_playlists()
             candidates, discovered_epgs, discovery_stats = self.discovery_mgr.run_discovery(
@@ -787,6 +789,7 @@ class CuratorPipeline:
             executed_stages.append(stage_key)
 
         if should_run("health"):
+            print("🩺 [Stage: health] Running adaptive stream health checks...", flush=True)
             t0 = time.monotonic()
             upcoming = self.db.get_upcoming_sporting_events(hours_ahead=6)
             prio_ids = [ev["channel_id"] for ev in upcoming if ev.get("channel_id")]

@@ -24,15 +24,15 @@ def is_radio_only_channel(channel_id: str, display_names: List[str]) -> bool:
 
 
 def _compile_sports_prefilter(sports_catalogue: Dict[str, Any]) -> re.Pattern:
-    terms: List[str] = ["sport", "live", "match", "cup", "league", "championship", "open", "tour", "test", "t20"]
+    terms: List[str] = ["sport", "rugby", "cricket", "tennis", "football", "soccer", "boxing", "mma", "ufc", "formula 1", "motogp", "t20"]
     for sdata in sports_catalogue.get("sports", {}).values():
         terms.extend(sdata.get("aliases", []))
         for clist in sdata.get("competition_types", {}).values():
             for comp in clist:
                 terms.append(comp["name"])
                 terms.extend(comp.get("aliases", []))
-    escaped = [re.escape(t.lower()) for t in set(terms) if len(t.strip()) >= 2]
-    return re.compile("|".join(escaped), re.IGNORECASE)
+    escaped = [re.escape(t.lower()) for t in set(terms) if len(t.strip()) >= 3]
+    return re.compile(r"\b(?:" + "|".join(escaped) + r")\b", re.IGNORECASE)
 
 
 class EPGFetcher:

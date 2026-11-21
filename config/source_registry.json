@@ -200,6 +200,34 @@
       "enabled": true
     },
     {
+      "source_id": "epgshare01_us2",
+      "name": "EPGShare01 US2 XMLTV Feed",
+      "source_type": "epg_source",
+      "base_url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "discovery_method": "xmltv_gz",
+      "supported_formats": ["xml.gz"],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.94,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true
+    },
+    {
+      "source_id": "epgshare01_au1",
+      "name": "EPGShare01 AU1 XMLTV Feed",
+      "source_type": "epg_source",
+      "base_url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
+      "discovery_method": "xmltv_gz",
+      "supported_formats": ["xml.gz"],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.93,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true
+    },
+    {
       "source_id": "epgshare01_all",
       "name": "EPGShare01 Global XMLTV Repository",
       "source_type": "epg_source",
@@ -211,7 +239,8 @@
       "reliability_score": 0.92,
       "failure_count": 0,
       "channels_discovered": 0,
-      "enabled": true
+      "enabled": false,
+      "disabled_reason": "250MB+ monolithic dump causes >20min CI runtime; replaced by targeted regional feeds (UK1, IE1, ZA1, US2, AU1)"
     },
     {
       "source_id": "iptv_org_epg",
