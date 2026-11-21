@@ -1,13 +1,35 @@
-name: Daily IPTV Scraper, Event Curator & Self-Healing Tester
+name: IPTV Curator 2.0 — Autonomous 4-Hour Orchestrator
 
 on:
   schedule:
-    # Run every 12 hours (03:00 and 15:00 UTC)
-    - cron: '0 3,15 * * *'
-  workflow_dispatch: # Allows manual trigger anytime from GitHub UI
+    # Runs every 4 hours at minute 23 UTC (01:23, 05:23, 09:23, 13:23, 17:23, 21:23 SAST)
+    # Deliberately offset from :00 to avoid GitHub Actions top-of-hour queue delays.
+    # Individual stages (health 4h, epg 8h, incremental 12h, deep search 24h, reconcile 24h, maintenance 7d)
+    # run only when their persisted SQLite `stage_runs` timestamps indicate they are due.
+    - cron: '23 */4 * * *'
+  workflow_dispatch:
+    inputs:
+      stage:
+        description: 'Stage to run (default: auto runs only due stages)'
+        required: false
+        default: 'auto'
+        type: choice
+        options:
+          - auto
+          - health
+          - epg
+          - discover_incremental
+          - discover_deep
+          - reconcile
+          - maintenance
+          - all
+
+concurrency:
+  group: iptv-curator-state
+  cancel-in-progress: false
 
 jobs:
-  curate-and-heal:
+  orchestrate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -26,17 +48,51 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Run Daily Scraper, English Sports Validator & Cloud Sync
+      - name: Restore Durable SQLite State (Orphan 'state' Branch)
+        run: |
+          python3 database/state_sync.py pull --db data/iptv_curator.db --branch state
+          BEFORE_HASH=$(python3 database/state_sync.py hash)
+          echo "BEFORE_HASH=$BEFORE_HASH" >> "$GITHUB_ENV"
+
+      - name: Run Orchestrated Pipeline
         env:
           GIST_PAT: ${{ secrets.GIST_PAT || secrets.GITHUB_TOKEN }}
+          SEARXNG_URL: ${{ secrets.SEARXNG_URL }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
+          BING_SEARCH_API_KEY: ${{ secrets.BING_SEARCH_API_KEY }}
           PYTHONUNBUFFERED: "1"
         run: |
-          python daily_curator_pipeline.py
+          STAGE="${{ github.event.inputs.stage || 'auto' }}"
+          python3 daily_curator_pipeline.py --stage "$STAGE"
 
-      - name: Commit & Push Updated Playlists & EPG
+      - name: Publish Durable SQLite Snapshot to Orphan 'state' Branch
         run: |
+          python3 database/state_sync.py push --db data/iptv_curator.db --branch state
+
+      - name: Upload 14-Day Backup Artifact & Daily Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-curator-reports
+          retention-days: 14
+          path: |
+            daily_report.md
+            channel_health_report.json
+            google_dorks.txt
+            data/iptv_curator.db
+
+      - name: Hash-Gated Commit & Push to 'main'
+        run: |
+          AFTER_HASH=$(python3 database/state_sync.py hash)
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add verified_premier_sports.m3u8 temporary_sports.m3u8 sports_epg.xml || true
-          git commit -m "Auto-curate English sports streams, event feeds & EPG [skip ci]" || echo "No changes to commit"
-          git push || echo "No push needed"
+          git add live_now.m3u upcoming_events.m3u sports_epg.xml google_dorks.txt || true
+          if [ "$BEFORE_HASH" != "$AFTER_HASH" ] || [ -z "$BEFORE_HASH" ]; then
+            git add master_sports.m3u english_sports.m3u football.m3u rugby.m3u cricket.m3u tennis.m3u combat_sports.m3u verified_premier_sports.m3u8 verified_football.m3u8 verified_rugby.m3u8 verified_cricket.m3u8 verified_combat.m3u8 verified_motorsport.m3u8 channel_catalogue.json channel_health_report.json source_registry.json sports_calendar.json daily_report.md || true
+          fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-orchestrate Sports IPTV 2.0 playlists, EPG & dorks [skip ci]"
+            git push
+          else
+            echo "No meaningful changes to commit"
+          fi

@@ -719,6 +719,95 @@ class CuratorPipeline:
         "maintenance": 167.0,        # Weekly DB integrity, prune & VACUUM
     }
 
+    def run_event_targeted(self, events_csv: str, sport_hint: str = "") -> Dict[str, Any]:
+        """
+        Fast, targeted matchday pipeline for specific user-requested events
+        (e.g. 'Springboks vs Ireland, England vs New Zealand').
+        Still enforces the full mandatory validate_stream_opening() gatekeeper!
+        """
+        import re
+        from playlist.master_builder import write_m3u
+
+        event_list = [e.strip() for e in events_csv.split(",") if e.strip()]
+        terms = set()
+        for ev in event_list:
+            terms.add(ev.lower())
+            for tok in re.split(r"\b(?:vs?\.?|and|&)\b|[\s:,-]+", ev.lower()):
+                if len(tok) >= 3:
+                    terms.add(tok)
+        if sport_hint:
+            terms.add(sport_hint.lower())
+
+        print(f"🎯 [Event Mode] Targeting: {event_list} (terms: {sorted(terms)})", flush=True)
+
+        # 1. Fast regional EPG sync (UK1, IE1, ZA1)
+        epg_sources = [
+            {"url": s["base_url"], "source_name": s["name"], "fmt": "xml.gz"}
+            for s in self.db.get_all_sources()
+            if s.get("source_id") in ("epgshare01_uk1", "epgshare01_ie1", "epgshare01_za1") and s.get("enabled")
+        ]
+        epg_res = self.epg_fetcher.fetch_and_store(epg_sources, self.discovery_mgr.sports_catalogue)
+        epg_index = epg_res["channels_index"]
+
+        # Find EPG channels airing any of the requested events
+        matched_epg_tvg_ids = set()
+        matched_channel_names = set()
+        for t in terms:
+            if len(t) < 4:
+                continue
+            for p in self.db.search_programmes_fts(f'"{t}"', limit=50):
+                blob = f"{p.get('title', '')} {p.get('description', '')}".lower()
+                if any(ev_tok in blob for ev_tok in terms if len(ev_tok) >= 4):
+                    cid = p["channel_tvg_id"]
+                    matched_epg_tvg_ids.add(cid)
+                    for dn in epg_index.get(cid, {}).get("display_names", []):
+                        matched_channel_names.add(dn.lower())
+
+        # 2. Fast discovery across public datasets & GitHub
+        candidates, _, disc_stats = self.discovery_mgr.run_discovery(
+            max_results_per_provider=15,
+            dataset_retrieval_limit=0,
+            candidate_ingestion_limit=20000,
+            incremental=False,
+            mode="incremental",
+        )
+
+        # Filter ONLY candidates relevant to these events or their EPG-confirmed broadcasters
+        target_keywords = terms | matched_channel_names | {"rugby", "supersport", "itv1", "itv4", "stv", "utv", "virgin media", "tnt sports", "rugbypass", "nations"}
+        targeted = [
+            c for c in candidates
+            if (c.tvg_id and c.tvg_id in matched_epg_tvg_ids)
+            or any(k in f"{c.name} {c.group_title} {c.tvg_id}".lower() for k in target_keywords if len(k) >= 3)
+        ]
+        print(f"🎯 [Event Mode] Narrowed {len(candidates)} -> {len(targeted)} targeted candidates. Running full gatekeeper...", flush=True)
+
+        # 3. Full mandatory stream-opening gatekeeper on targeted subset (fast ~60-120s)
+        proc = self.process_candidates(targeted[:120], epg_channels_index=epg_index, time_budget_sec=180.0)
+        build_res = self.build_outputs(discovery_stats=disc_stats, epg_stats=epg_res["stats"])
+
+        # 4. Write dedicated event_matchday.m3u from verified primary channels matching targets
+        primary = self.catalogue_mgr.get_primary_channels(min_score=float(self.scorer.thresholds.get("acceptable_min", 60)))
+        event_channels = [
+            ch for ch in primary
+            if (ch.get("epg", {}).get("tvg_id") in matched_epg_tvg_ids)
+            or any(s.get("sport", "").lower() == (sport_hint.lower() or "rugby") for s in ch.get("sports", []))
+        ]
+        ev_path = os.path.join(self.base_dir, "event_matchday.m3u")
+        ev_cnt = write_m3u(
+            ev_path,
+            event_channels,
+            lambda ch: f"MATCHDAY - {sport_hint or 'Sports'}",
+            playlist_title=f"Matchday: {', '.join(event_list)}",
+        )
+        return {
+            "events": event_list,
+            "epg_matched_channels": sorted(matched_channel_names)[:20],
+            "targeted_candidates": len(targeted),
+            "processing": proc,
+            "event_matchday.m3u": ev_cnt,
+            "build": build_res,
+        }
+
     def run(self, stage: str = "auto") -> Dict[str, Any]:
         discovery_stats: Dict[str, Any] = {}
         epg_stats: Dict[str, Any] = {}
@@ -851,12 +940,29 @@ def main():
         default="",
         help="Inspect stream & EPG provenance for an individual channel (ID or name) and exit",
     )
+    parser.add_argument(
+        "--event",
+        type=str,
+        default="",
+        help="Fast targeted matchday run for comma-separated events (e.g. 'Springboks vs Ireland, England vs New Zealand')",
+    )
+    parser.add_argument(
+        "--sport",
+        type=str,
+        default="Rugby",
+        help="Sport hint used with --event mode (default: Rugby)",
+    )
     args = parser.parse_args()
 
     pipeline = CuratorPipeline()
     if args.inspect_channel:
         info = inspect_channel_provenance(pipeline.db, args.inspect_channel)
         print(json.dumps(info or {"error": "channel_not_found", "query": args.inspect_channel}, indent=2))
+        return
+
+    if args.event:
+        summary = pipeline.run_event_targeted(args.event, sport_hint=args.sport)
+        print(json.dumps(summary, indent=2))
         return
 
     print(f"🚀 Running IPTV Curator 2.0 Pipeline (stage={args.stage})...")
