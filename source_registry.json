@@ -1,0 +1,252 @@
+{
+  "version": "2.0",
+  "generated_at_utc": "2026-11-21T14:11:59.807027+00:00",
+  "total_sources": 13,
+  "sources": [
+    {
+      "source_id": "epgshare01_all",
+      "name": "EPGShare01 Global XMLTV Repository",
+      "source_type": "epg_source",
+      "base_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
+      "discovery_method": "xmltv_gz",
+      "supported_formats": [
+        "xml.gz",
+        "txt"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.92,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "iptv_org_sports",
+      "name": "iptv-org Sports Category Feed",
+      "source_type": "public_dataset",
+      "base_url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+      "discovery_method": "direct_m3u",
+      "supported_formats": [
+        "m3u"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.9,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "iptv_org_api_channels",
+      "name": "iptv-org Public Channel & Stream Metadata API",
+      "source_type": "public_dataset",
+      "base_url": "https://iptv-org.github.io/api/streams.json",
+      "discovery_method": "json_catalogue",
+      "supported_formats": [
+        "json"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.88,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "github_code_search",
+      "name": "GitHub Public Repositories & Code Search",
+      "source_type": "git_hosting",
+      "base_url": "https://api.github.com",
+      "discovery_method": "api_search",
+      "supported_formats": [
+        "m3u",
+        "m3u8",
+        "xml",
+        "xml.gz",
+        "json"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.85,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "free_tv_iptv",
+      "name": "Free-TV Community IPTV Playlist",
+      "source_type": "public_dataset",
+      "base_url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "discovery_method": "direct_m3u",
+      "supported_formats": [
+        "m3u8"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.85,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "official_broadcasters_catalogue",
+      "name": "Official Broadcaster & Federation FAST/FTA Streams",
+      "source_type": "official_broadcaster",
+      "base_url": "https://www.fifa.com",
+      "discovery_method": "broadcaster_catalogue",
+      "supported_formats": [
+        "m3u8",
+        "json"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.85,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "iptv_org_epg",
+      "name": "iptv-org EPG Guides Directory",
+      "source_type": "epg_source",
+      "base_url": "https://iptv-org.github.io/api/guides.json",
+      "discovery_method": "json_catalogue",
+      "supported_formats": [
+        "json",
+        "xml"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.85,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "legalstream_sports",
+      "name": "LegalStream Open Sports Package",
+      "source_type": "public_dataset",
+      "base_url": "https://raw.githubusercontent.com/notanewbie/LegalStream/main/packages/sports/all_sports.m3u8",
+      "discovery_method": "direct_m3u",
+      "supported_formats": [
+        "m3u8"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.8,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "gitlab_public",
+      "name": "GitLab Public Projects",
+      "source_type": "git_hosting",
+      "base_url": "https://gitlab.com/api/v4",
+      "discovery_method": "api_search",
+      "supported_formats": [
+        "m3u",
+        "m3u8",
+        "xml",
+        "xml.gz",
+        "json"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.75,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "google_dork_discovery",
+      "name": "Keyless Hybrid Search & Google Dork Discovery",
+      "source_type": "deep_search",
+      "base_url": "https://html.duckduckgo.com/html/",
+      "discovery_method": "keyless_dork_search",
+      "supported_formats": [
+        "m3u",
+        "m3u8",
+        "xml",
+        "xml.gz",
+        "json"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.72,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "codeberg_public",
+      "name": "Codeberg Public Repositories",
+      "source_type": "git_hosting",
+      "base_url": "https://codeberg.org/api/v1",
+      "discovery_method": "api_search",
+      "supported_formats": [
+        "m3u",
+        "m3u8",
+        "xml",
+        "json"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.7,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "search_engine_dorks",
+      "name": "Optional Paid Search API (Google CSE / Bing)",
+      "source_type": "search_engine",
+      "base_url": "https://www.googleapis.com/customsearch/v1",
+      "discovery_method": "search_api",
+      "supported_formats": [
+        "m3u",
+        "m3u8",
+        "xml",
+        "xml.gz"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.7,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": false,
+      "country": null
+    },
+    {
+      "source_id": "sourcehut_public",
+      "name": "SourceHut Public Repositories",
+      "source_type": "git_hosting",
+      "base_url": "https://git.sr.ht",
+      "discovery_method": "web_index",
+      "supported_formats": [
+        "m3u",
+        "m3u8",
+        "xml",
+        "json"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.65,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    }
+  ]
+}

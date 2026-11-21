@@ -13,9 +13,10 @@ import sys
 import time
 from datetime import datetime
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PORT = 8080
-PLAYLIST_FILE = "/Users/ian/code/IPTV/verified_premier_sports.m3u8"
-ACCESS_LOG = "/Users/ian/code/IPTV/pvr_access_log.txt"
+PLAYLIST_FILE = os.path.join(BASE_DIR, "verified_premier_sports.m3u8")
+ACCESS_LOG = os.path.join(BASE_DIR, "pvr_access_log.txt")
 
 
 def get_local_ip() -> str:
@@ -108,13 +109,21 @@ class PlaylistHandler(http.server.BaseHTTPRequestHandler):
         
         target_file = PLAYLIST_FILE
         if "football" in clean_path:
-            target_file = "/Users/ian/code/IPTV/verified_football.m3u8"
+            target_file = os.path.join(BASE_DIR, "verified_football.m3u8")
         elif "cricket" in clean_path:
-            target_file = "/Users/ian/code/IPTV/verified_cricket.m3u8"
+            target_file = os.path.join(BASE_DIR, "verified_cricket.m3u8")
         elif "rugby" in clean_path:
-            target_file = "/Users/ian/code/IPTV/verified_rugby.m3u8"
-        elif os.path.exists(os.path.join("/Users/ian/code/IPTV", clean_path)):
-            target_file = os.path.join("/Users/ian/code/IPTV", clean_path)
+            target_file = os.path.join(BASE_DIR, "verified_rugby.m3u8")
+        elif "combat" in clean_path or "fight" in clean_path:
+            target_file = os.path.join(BASE_DIR, "verified_combat.m3u8")
+        elif "motorsport" in clean_path or "racing" in clean_path:
+            target_file = os.path.join(BASE_DIR, "verified_motorsport.m3u8")
+        elif "epg" in clean_path:
+            target_file = os.path.join(BASE_DIR, "sports_epg.xml")
+        elif "calendar" in clean_path:
+            target_file = os.path.join(BASE_DIR, "sports_calendar.json")
+        elif os.path.exists(os.path.join(BASE_DIR, clean_path)):
+            target_file = os.path.join(BASE_DIR, clean_path)
 
         try:
             with open(target_file, "rb") as f:

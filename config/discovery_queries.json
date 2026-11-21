@@ -1,0 +1,118 @@
+{
+  "version": "2.0",
+  "platforms": {
+    "github": {
+      "extensions": ["m3u", "m3u8", "xml", "json"],
+      "queries": [
+        "sports iptv m3u",
+        "premier league m3u8",
+        "rugby urc m3u8",
+        "cricket sa20 ipl m3u8",
+        "tennis atp wta m3u8",
+        "ufc mma boxing m3u8",
+        "xmltv sports epg"
+      ]
+    },
+    "gitlab": {
+      "queries": [
+        "iptv sports",
+        "sports m3u8",
+        "xmltv epg",
+        "cricket rugby football iptv"
+      ]
+    },
+    "codeberg": {
+      "queries": [
+        "iptv sports",
+        "sports m3u",
+        "xmltv"
+      ]
+    },
+    "sourcehut": {
+      "queries": [
+        "iptv",
+        "m3u8",
+        "xmltv"
+      ]
+    }
+  },
+  "formats": {
+    "playlist": ["m3u", "m3u8", "json"],
+    "epg": ["xml", "xml.gz"]
+  },
+  "by_sport": {
+    "Tennis": ["tennis channel m3u8", "atp wta m3u", "wimbledon grand slam iptv"],
+    "Cricket": ["willow cricket m3u8", "sa20 ipl cricket m3u", "sky sports cricket m3u8"],
+    "Rugby": ["urc rugby m3u8", "six nations rugby m3u", "supersport rugby m3u8"],
+    "Combat Sports": ["ufc mma m3u8", "boxing ppv m3u", "one championship m3u8"],
+    "Football": ["premier league m3u8", "champions league m3u", "betway premiership psl m3u8"]
+  },
+  "by_language": {
+    "English": ["english sports iptv m3u", "sports english m3u8"]
+  },
+  "epg_discovery": [
+    "filetype:xml inurl:epg sports",
+    "filetype:xml.gz xmltv sports",
+    "inurl:epg.xml OR inurl:epg.xml.gz sports",
+    "epgshare01 sports xml.gz"
+  ],
+  "general_channel_discovery": [
+    "filetype:m3u \"SuperSport\" OR \"Sky Sports\" OR \"Willow Cricket\"",
+    "filetype:m3u8 \"Tennis Channel\" OR \"UFC\" OR \"Champions League\"",
+    "intitle:\"index of\" (m3u OR m3u8) (sports OR football OR rugby OR cricket OR tennis)",
+    "site:gitlab.com inurl:sports.m3u8 OR inurl:sports.m3u",
+    "site:codeberg.org inurl:m3u OR inurl:m3u8 sports"
+  ],
+  "official_broadcasters": [
+    {
+      "name": "FIFA+",
+      "url": "https://www.plus.fifa.com",
+      "sport": "Football",
+      "language": "English",
+      "type": "FAST"
+    },
+    {
+      "name": "RugbyPass TV",
+      "url": "https://rugbypass.tv",
+      "sport": "Rugby",
+      "language": "English",
+      "type": "Federation"
+    },
+    {
+      "name": "ICC.tv",
+      "url": "https://www.icc-cricket.com",
+      "sport": "Cricket",
+      "language": "English",
+      "type": "Federation"
+    },
+    {
+      "name": "Red Bull TV",
+      "url": "https://www.redbull.com/int-en/channels",
+      "sport": "Motorsport",
+      "language": "English",
+      "type": "FAST"
+    },
+    {
+      "name": "SABC Sport",
+      "url": "https://www.sabcsport.com",
+      "sport": "Football",
+      "language": "English",
+      "type": "FTA"
+    },
+    {
+      "name": "CBS Sports Golazo Network",
+      "url": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+      "sport": "Football",
+      "language": "English",
+      "type": "FAST"
+    },
+    {
+      "name": "Pluto TV Sports / Tennis Channel",
+      "url": "https://pluto.tv",
+      "sport": "Tennis",
+      "language": "English",
+      "type": "FAST"
+    }
+  ]
+}
+

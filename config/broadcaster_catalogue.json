@@ -1,0 +1,366 @@
+{
+  "version": "2.0",
+  "broadcasters": {
+    "supersport psl": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "PSL.za",
+      "tvg_name": "SuperSport PSL (Betway Premiership)",
+      "logo": "https://i.imgur.com/rLzG9qM.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "betway premiership": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "PSL.za",
+      "tvg_name": "SuperSport PSL (Betway Premiership)",
+      "logo": "https://i.imgur.com/rLzG9qM.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport premier league": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "SS.Premier.League.za",
+      "tvg_name": "SuperSport Premier League",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-premier-league-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport football": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "SS.Football.za",
+      "tvg_name": "SuperSport Football",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-football-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport laliga": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "SS.La.Liga.za",
+      "tvg_name": "SuperSport LaLiga",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-laliga-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport rugby": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "RUGBY.za",
+      "tvg_name": "SuperSport Rugby",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-rugby-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport cricket": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "CRICKET.za",
+      "tvg_name": "SuperSport Cricket",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-cricket-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport action": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "SS.Action.za",
+      "tvg_name": "SuperSport Action",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-action-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport tennis": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "SS.Tennis.za",
+      "tvg_name": "SuperSport Tennis",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-tennis-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport motorsport": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "MOTORSPORT.za",
+      "tvg_name": "SuperSport Motorsport",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-motorsport-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "supersport grandstand": {
+      "broadcaster": "SuperSport",
+      "tvg_id": "GRANDSTAND.za",
+      "tvg_name": "SuperSport Grandstand",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/supersport-grandstand-za.png",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "sky sports premier league": {
+      "broadcaster": "Sky Sports",
+      "tvg_id": "SkySp.PL.HD.uk",
+      "tvg_name": "Sky Sports Premier League",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "sky sports football": {
+      "broadcaster": "Sky Sports",
+      "tvg_id": "SkySp.Football.HD.uk",
+      "tvg_name": "Sky Sports Football",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "sky sports cricket": {
+      "broadcaster": "Sky Sports",
+      "tvg_id": "SkySpCricket.HD.uk",
+      "tvg_name": "Sky Sports Cricket",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "sky sports tennis": {
+      "broadcaster": "Sky Sports",
+      "tvg_id": "SkySpTennis.HD.uk",
+      "tvg_name": "Sky Sports Tennis",
+      "logo": "",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "sky sports action": {
+      "broadcaster": "Sky Sports",
+      "tvg_id": "SkySp.Action.uk",
+      "tvg_name": "Sky Sports Action",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-action-icon-uk.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "sky sports arena": {
+      "broadcaster": "Sky Sports",
+      "tvg_id": "SkySp.Arena.uk",
+      "tvg_name": "Sky Sports Arena",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-icon-uk.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "sky sports f1": {
+      "broadcaster": "Sky Sports",
+      "tvg_id": "SkySp.F1.HD.uk",
+      "tvg_name": "Sky Sports F1 HD",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "sky sports main event": {
+      "broadcaster": "Sky Sports",
+      "tvg_id": "SkySpMainEvHD.uk",
+      "tvg_name": "Sky Sports Main Event",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "tnt sports 1": {
+      "broadcaster": "TNT Sports",
+      "tvg_id": "TNTSports1.uk",
+      "tvg_name": "TNT Sports 1",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "tnt sports 2": {
+      "broadcaster": "TNT Sports",
+      "tvg_id": "TNTSports2.uk",
+      "tvg_name": "TNT Sports 2",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1308.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "tnt sports box office": {
+      "broadcaster": "TNT Sports",
+      "tvg_id": "TNT.Sports.Box.Office.uk",
+      "tvg_name": "TNT Sports Box Office",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1307.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "premier sports 1": {
+      "broadcaster": "Premier Sports",
+      "tvg_id": "Premier.Sports.1.HD.uk",
+      "tvg_name": "Premier Sports 1",
+      "logo": "https://i.imgur.com/eOybZMU.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "premier sports 2": {
+      "broadcaster": "Premier Sports",
+      "tvg_id": "Premier.Sports.2.HD.uk",
+      "tvg_name": "Premier Sports 2",
+      "logo": "https://i.imgur.com/Fx1n84p.png",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "stan sport": {
+      "broadcaster": "Stan Sport",
+      "tvg_id": "StanSport.au",
+      "tvg_name": "Stan Sport",
+      "logo": "",
+      "default_language": "English",
+      "country": "AU"
+    },
+    "willow cricket": {
+      "broadcaster": "Willow Cricket",
+      "tvg_id": "Willow.Cricket.HD.us2",
+      "tvg_name": "Willow Cricket HD",
+      "logo": "https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png",
+      "default_language": "English",
+      "country": "US"
+    },
+    "willow xtra": {
+      "broadcaster": "Willow Cricket",
+      "tvg_id": "Willow.2.Xtra.us2",
+      "tvg_name": "Willow Xtra",
+      "logo": "https://i.postimg.cc/V6Cy4crv/WILLOW-2.png",
+      "default_language": "English",
+      "country": "US"
+    },
+    "star sports 1": {
+      "broadcaster": "Star Sports",
+      "tvg_id": "StarSports1.in",
+      "tvg_name": "Star Sports 1",
+      "logo": "https://i.imgur.com/E5jjKHI.png",
+      "default_language": "English",
+      "country": "IN"
+    },
+    "cricket gold": {
+      "broadcaster": "Cricket Australia",
+      "tvg_id": "CricketGold.au",
+      "tvg_name": "Cricket Gold",
+      "logo": "",
+      "default_language": "English",
+      "country": "AU"
+    },
+    "tennis channel": {
+      "broadcaster": "Tennis Channel",
+      "tvg_id": "TennisChannel.us",
+      "tvg_name": "Tennis Channel",
+      "logo": "",
+      "default_language": "English",
+      "country": "US"
+    },
+    "espn": {
+      "broadcaster": "ESPN",
+      "tvg_id": "ESPN.HD.us2",
+      "tvg_name": "ESPN HD",
+      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",
+      "default_language": "English",
+      "country": "US"
+    },
+    "fox sports 1": {
+      "broadcaster": "Fox Sports",
+      "tvg_id": "FS1.Fox.Sports.1.HD.us2",
+      "tvg_name": "Fox Sports 1",
+      "logo": "https://i.imgur.com/O9BapV9.png",
+      "default_language": "English",
+      "country": "US"
+    },
+    "sabc sport": {
+      "broadcaster": "SABC Sport",
+      "tvg_id": "SABCSport.za",
+      "tvg_name": "SABC Sport",
+      "logo": "",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "itv1": {
+      "broadcaster": "ITV",
+      "tvg_id": "ITV1.HD.uk",
+      "tvg_name": "ITV1 HD",
+      "logo": "",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "itv4": {
+      "broadcaster": "ITV",
+      "tvg_id": "ITV4.HD.uk",
+      "tvg_name": "ITV4 HD",
+      "logo": "",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "stv": {
+      "broadcaster": "STV",
+      "tvg_id": "STV.HD.uk",
+      "tvg_name": "STV HD",
+      "logo": "",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "utv": {
+      "broadcaster": "UTV",
+      "tvg_id": "UTV.uk",
+      "tvg_name": "UTV",
+      "logo": "",
+      "default_language": "English",
+      "country": "UK"
+    },
+    "virgin media one": {
+      "broadcaster": "Virgin Media Television",
+      "tvg_id": "Virgin.Media.One.HD.ie",
+      "tvg_name": "Virgin Media One HD",
+      "logo": "",
+      "default_language": "English",
+      "country": "IE"
+    },
+    "virgin media two": {
+      "broadcaster": "Virgin Media Television",
+      "tvg_id": "Virgin.Media.Two.HD.ie",
+      "tvg_name": "Virgin Media Two HD",
+      "logo": "",
+      "default_language": "English",
+      "country": "IE"
+    },
+    "s4c": {
+      "broadcaster": "S4C",
+      "tvg_id": "S4C.HD.uk",
+      "tvg_name": "S4C HD",
+      "logo": "",
+      "default_language": "English + Other",
+      "country": "UK"
+    },
+    "rté2": {
+      "broadcaster": "RTÉ",
+      "tvg_id": "RTE2.HD.ie",
+      "tvg_name": "RTÉ2 HD",
+      "logo": "",
+      "default_language": "English",
+      "country": "IE"
+    },
+    "rte2": {
+      "broadcaster": "RTÉ",
+      "tvg_id": "RTE2.HD.ie",
+      "tvg_name": "RTÉ2 HD",
+      "logo": "",
+      "default_language": "English",
+      "country": "IE"
+    },
+    "sabc 2": {
+      "broadcaster": "SABC",
+      "tvg_id": "SABC2.za",
+      "tvg_name": "SABC 2",
+      "logo": "",
+      "default_language": "English",
+      "country": "ZA"
+    },
+    "rugbypass tv": {
+      "broadcaster": "RugbyPass TV",
+      "tvg_id": "RugbyPassTV",
+      "tvg_name": "RugbyPass TV",
+      "logo": "",
+      "default_language": "English",
+      "country": ""
+    },
+    "bbc two": {
+      "broadcaster": "BBC",
+      "tvg_id": "BBCTwo.uk",
+      "tvg_name": "BBC Two",
+      "logo": "",
+      "default_language": "English",
+      "country": "UK"
+    }
+  }
+}
+

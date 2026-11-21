@@ -1,0 +1,735 @@
+{
+  "version": "2.0",
+  "sports": {
+    "Tennis": {
+      "playlist_file": "tennis.m3u",
+      "legacy_playlist_file": null,
+      "aliases": ["tennis", "atp", "wta", "tennis channel", "grand slam"],
+      "competition_types": {
+        "Grand Slams": [
+          {
+            "name": "Australian Open",
+            "aliases": ["australian open", "aus open", "ao tennis"],
+            "active": true,
+            "broadcasters": ["ESPN", "Eurosport", "Stan Sport", "Nine", "SuperSport Tennis"]
+          },
+          {
+            "name": "French Open / Roland-Garros",
+            "aliases": ["french open", "roland garros", "roland-garros"],
+            "active": true,
+            "broadcasters": ["Eurosport", "TNT Sports", "France TV", "NBC", "SuperSport Tennis"]
+          },
+          {
+            "name": "Wimbledon",
+            "aliases": ["wimbledon", "the championships wimbledon"],
+            "active": true,
+            "broadcasters": ["BBC Sport", "ESPN", "SuperSport Tennis", "Tennis Channel"]
+          },
+          {
+            "name": "US Open",
+            "aliases": ["us open tennis", "u.s. open tennis", "flushing meadows"],
+            "active": true,
+            "broadcasters": ["ESPN", "Sky Sports Tennis", "SuperSport Tennis"]
+          }
+        ],
+        "Season-ending championships": [
+          {
+            "name": "ATP Finals",
+            "aliases": ["atp finals", "nitto atp finals"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "Sky Sports Tennis", "SuperSport Tennis"]
+          },
+          {
+            "name": "WTA Finals",
+            "aliases": ["wta finals"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "Sky Sports Tennis", "SuperSport Tennis"]
+          }
+        ],
+        "International team competitions": [
+          {
+            "name": "Davis Cup",
+            "aliases": ["davis cup"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "BBC Sport", "SuperSport Tennis"]
+          },
+          {
+            "name": "Billie Jean King Cup",
+            "aliases": ["billie jean king cup", "bjk cup", "fed cup"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "BBC Sport"]
+          },
+          {
+            "name": "United Cup",
+            "aliases": ["united cup"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "Stan Sport"]
+          },
+          {
+            "name": "Laver Cup",
+            "aliases": ["laver cup"],
+            "active": true,
+            "broadcasters": ["Eurosport", "Tennis Channel", "SuperSport Tennis"]
+          }
+        ],
+        "Tour circuits": [
+          {
+            "name": "ATP Tour",
+            "aliases": ["atp tour", "atp"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "Sky Sports Tennis", "SuperSport Tennis"]
+          },
+          {
+            "name": "Masters 1000",
+            "aliases": ["masters 1000", "atp 1000", "atp masters"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "Sky Sports Tennis"]
+          },
+          {
+            "name": "ATP 500",
+            "aliases": ["atp 500"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "Sky Sports Tennis"]
+          },
+          {
+            "name": "ATP 250",
+            "aliases": ["atp 250"],
+            "active": true,
+            "broadcasters": ["Tennis Channel"]
+          },
+          {
+            "name": "WTA Tour",
+            "aliases": ["wta tour", "wta"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "Sky Sports Tennis"]
+          },
+          {
+            "name": "WTA 1000",
+            "aliases": ["wta 1000"],
+            "active": true,
+            "broadcasters": ["Tennis Channel", "Sky Sports Tennis"]
+          },
+          {
+            "name": "WTA 500",
+            "aliases": ["wta 500"],
+            "active": true,
+            "broadcasters": ["Tennis Channel"]
+          },
+          {
+            "name": "WTA 250",
+            "aliases": ["wta 250"],
+            "active": true,
+            "broadcasters": ["Tennis Channel"]
+          }
+        ]
+      }
+    },
+    "Cricket": {
+      "playlist_file": "cricket.m3u",
+      "legacy_playlist_file": "verified_cricket.m3u8",
+      "aliases": ["cricket", "willow", "willow cricket", "supersport cricket", "sky sports cricket", "cricket gold", "astro cricket"],
+      "competition_types": {
+        "ICC global tournaments": [
+          {
+            "name": "ICC Men's Cricket World Cup",
+            "aliases": ["icc cricket world cup", "cricket world cup", "odi world cup", "cwc"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket", "Sky Sports Cricket", "Star Sports", "Willow Cricket"]
+          },
+          {
+            "name": "ICC Women's Cricket World Cup",
+            "aliases": ["icc women's cricket world cup", "women's cricket world cup"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket", "Sky Sports Cricket", "Willow Cricket"]
+          },
+          {
+            "name": "ICC Men's T20 World Cup",
+            "aliases": ["icc t20 world cup", "t20 world cup", "world t20"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket", "Sky Sports Cricket", "Star Sports", "Willow Cricket"]
+          },
+          {
+            "name": "ICC Women's T20 World Cup",
+            "aliases": ["icc women's t20 world cup", "women's t20 world cup"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket", "Sky Sports Cricket", "Willow Cricket"]
+          },
+          {
+            "name": "ICC Champions Trophy",
+            "aliases": ["icc champions trophy", "champions trophy"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket", "Sky Sports Cricket", "Willow Cricket"]
+          },
+          {
+            "name": "World Test Championship Final",
+            "aliases": ["world test championship", "wtc", "wtc final"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket", "Sky Sports Cricket", "Willow Cricket"]
+          }
+        ],
+        "Bilateral test series": [
+          {
+            "name": "The Ashes",
+            "aliases": ["the ashes", "ashes series", "ashes test"],
+            "active": true,
+            "broadcasters": ["Sky Sports Cricket", "TNT Sports", "Fox Cricket", "Seven"]
+          },
+          {
+            "name": "Border-Gavaskar Trophy",
+            "aliases": ["border-gavaskar", "border gavaskar trophy", "bgt"],
+            "active": true,
+            "broadcasters": ["Fox Cricket", "Star Sports", "Willow Cricket"]
+          }
+        ],
+        "Franchise T20 leagues": [
+          {
+            "name": "SA20",
+            "aliases": ["sa20", "betway sa20", "sa 20"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket", "Sky Sports Cricket", "Willow Cricket"]
+          },
+          {
+            "name": "Indian Premier League",
+            "aliases": ["indian premier league", "ipl", "tata ipl"],
+            "active": true,
+            "broadcasters": ["Star Sports", "Willow Cricket", "Sky Sports Cricket", "SuperSport Cricket"]
+          },
+          {
+            "name": "Big Bash League",
+            "aliases": ["big bash league", "big bash", "bbl"],
+            "active": true,
+            "broadcasters": ["Fox Cricket", "Sky Sports Cricket", "SuperSport Cricket", "Willow Cricket"]
+          },
+          {
+            "name": "The Hundred",
+            "aliases": ["the hundred"],
+            "active": true,
+            "broadcasters": ["Sky Sports Cricket", "BBC Sport", "Willow Cricket"]
+          },
+          {
+            "name": "Caribbean Premier League",
+            "aliases": ["caribbean premier league", "cpl", "cpl t20"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "Willow Cricket", "SuperSport Cricket"]
+          },
+          {
+            "name": "Pakistan Super League",
+            "aliases": ["pakistan super league", "psl t20", "hbl psl"],
+            "active": true,
+            "broadcasters": ["Willow Cricket", "Sky Sports Cricket", "A Sports"]
+          }
+        ],
+        "South African domestic competitions": [
+          {
+            "name": "CSA 4-Day Series",
+            "aliases": ["csa 4-day series", "csa 4 day", "4-day domestic series"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket", "SABC Sport"]
+          },
+          {
+            "name": "CSA One-Day Cup",
+            "aliases": ["csa one-day cup", "csa one day cup"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket"]
+          },
+          {
+            "name": "CSA T20 Challenge",
+            "aliases": ["csa t20 challenge", "t20 challenge"],
+            "active": true,
+            "broadcasters": ["SuperSport Cricket"]
+          }
+        ]
+      }
+    },
+    "Rugby": {
+      "playlist_file": "rugby.m3u",
+      "legacy_playlist_file": "verified_rugby.m3u8",
+      "aliases": ["rugby", "supersport rugby", "premier sports", "stan sport", "rugbypass", "nrl", "springboks"],
+      "competition_types": {
+        "International competitions": [
+          {
+            "name": "Men's Rugby World Cup",
+            "aliases": ["rugby world cup", "rwc", "men's rugby world cup"],
+            "active": true,
+            "broadcasters": ["SuperSport Rugby", "ITV Sport", "Stan Sport"]
+          },
+          {
+            "name": "Women's Rugby World Cup",
+            "aliases": ["women's rugby world cup"],
+            "active": true,
+            "broadcasters": ["BBC Sport", "ITV Sport", "SuperSport Rugby"]
+          },
+          {
+            "name": "Nations Championship",
+            "aliases": [
+              "nations championship",
+              "world rugby nations championship",
+              "rugby nations championship",
+              "autumn nations series",
+              "quilter nations series",
+              "autumn internationals"
+            ],
+            "active": true,
+            "broadcasters": ["SuperSport Rugby", "SuperSport Grandstand", "ITV1", "ITV4", "STV", "UTV", "Virgin Media One", "Sky Sports", "S4C"]
+          },
+          {
+            "name": "World Rugby Nations Cup",
+            "aliases": ["world rugby nations cup", "nations cup rugby"],
+            "active": true,
+            "broadcasters": ["World Rugby", "RugbyPass TV"]
+          },
+          {
+            "name": "Rugby Championship",
+            "aliases": ["the rugby championship", "rugby championship", "freedom cup"],
+            "active": true,
+            "broadcasters": ["SuperSport Rugby", "Stan Sport", "Sky Sport NZ", "Sky Sports"]
+          },
+          {
+            "name": "Six Nations Championship",
+            "aliases": ["six nations", "6 nations", "guinness six nations"],
+            "active": true,
+            "broadcasters": ["BBC Sport", "ITV Sport", "SuperSport Rugby", "RTE"]
+          },
+          {
+            "name": "British & Irish Lions Tours",
+            "aliases": ["british & irish lions", "lions tour", "british and irish lions"],
+            "active": true,
+            "broadcasters": ["Sky Sports", "SuperSport Rugby", "Stan Sport"]
+          }
+        ],
+        "Club and provincial competitions": [
+          {
+            "name": "United Rugby Championship",
+            "aliases": ["united rugby championship", "urc", "vodacom urc"],
+            "active": true,
+            "broadcasters": ["SuperSport Rugby", "Premier Sports", "TG4", "RTE"]
+          },
+          {
+            "name": "Investec Champions Cup",
+            "aliases": ["investec champions cup", "champions cup rugby", "heineken champions cup"],
+            "active": true,
+            "broadcasters": ["SuperSport Rugby", "Premier Sports", "TNT Sports"]
+          },
+          {
+            "name": "EPCR Challenge Cup",
+            "aliases": ["epcr challenge cup", "challenge cup rugby"],
+            "active": true,
+            "broadcasters": ["SuperSport Rugby", "Premier Sports", "TNT Sports"]
+          },
+          {
+            "name": "Super Rugby Pacific",
+            "aliases": ["super rugby pacific", "super rugby"],
+            "active": true,
+            "broadcasters": ["Stan Sport", "Sky Sport NZ", "SuperSport Rugby"]
+          },
+          {
+            "name": "Top 14",
+            "aliases": ["top 14", "top14 rugby"],
+            "active": true,
+            "broadcasters": ["Premier Sports", "Canal+"]
+          },
+          {
+            "name": "Premiership Rugby",
+            "aliases": ["premiership rugby", "gallagher premiership"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "SuperSport Rugby"]
+          },
+          {
+            "name": "Currie Cup",
+            "aliases": ["currie cup"],
+            "active": true,
+            "broadcasters": ["SuperSport Rugby", "SABC Sport"]
+          }
+        ],
+        "Sevens and rugby league": [
+          {
+            "name": "HSBC SVNS",
+            "aliases": ["hsbc svns", "world rugby sevens", "svns", "rugby sevens"],
+            "active": true,
+            "broadcasters": ["RugbyPass TV", "SuperSport Rugby", "TNT Sports"]
+          },
+          {
+            "name": "Olympic Rugby Sevens",
+            "aliases": ["olympic rugby sevens", "olympics rugby"],
+            "active": true,
+            "broadcasters": ["Eurosport", "NBC", "SuperSport"]
+          },
+          {
+            "name": "Rugby League World Cup",
+            "aliases": ["rugby league world cup", "rlwc"],
+            "active": true,
+            "broadcasters": ["BBC Sport", "Fox League"]
+          },
+          {
+            "name": "National Rugby League",
+            "aliases": ["national rugby league", "nrl"],
+            "active": true,
+            "broadcasters": ["Fox League", "Sky Sports", "Watch NRL"]
+          },
+          {
+            "name": "Super League",
+            "aliases": ["super league rugby", "betfred super league"],
+            "active": true,
+            "broadcasters": ["Sky Sports", "BBC Sport"]
+          }
+        ]
+      }
+    },
+    "Combat Sports": {
+      "playlist_file": "combat_sports.m3u",
+      "legacy_playlist_file": "verified_combat.m3u8",
+      "aliases": ["combat", "fight", "fightbox", "fight network", "supersport action", "tnt sports box office", "mma", "boxing"],
+      "competition_types": {
+        "MMA": [
+          {
+            "name": "UFC",
+            "aliases": ["ufc", "ultimate fighting championship", "ufc fight pass"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "ESPN", "SuperSport Action", "UFC Fight Pass"]
+          },
+          {
+            "name": "PFL",
+            "aliases": ["pfl", "professional fighters league", "bellator"],
+            "active": true,
+            "broadcasters": ["DAZN", "ESPN", "SuperSport Action"]
+          },
+          {
+            "name": "ONE Championship",
+            "aliases": ["one championship", "one fc"],
+            "active": true,
+            "broadcasters": ["Prime Video", "Sky Sports", "SuperSport Action"]
+          },
+          {
+            "name": "Rizin Fighting Federation",
+            "aliases": ["rizin", "rizin ff"],
+            "active": true,
+            "broadcasters": ["FITE", "TrillerTV"]
+          },
+          {
+            "name": "EFC",
+            "aliases": ["efc", "efc africa", "extreme fighting championship"],
+            "active": true,
+            "broadcasters": ["SuperSport Action", "SABC Sport"]
+          }
+        ],
+        "Boxing": [
+          {
+            "name": "WBA",
+            "aliases": ["wba", "world boxing association"],
+            "active": true,
+            "broadcasters": ["DAZN", "Sky Sports", "ESPN", "TNT Sports"]
+          },
+          {
+            "name": "WBC",
+            "aliases": ["wbc", "world boxing council"],
+            "active": true,
+            "broadcasters": ["DAZN", "Sky Sports", "ESPN", "TNT Sports"]
+          },
+          {
+            "name": "IBF",
+            "aliases": ["ibf", "international boxing federation"],
+            "active": true,
+            "broadcasters": ["DAZN", "Sky Sports", "ESPN"]
+          },
+          {
+            "name": "WBO",
+            "aliases": ["wbo", "world boxing organization"],
+            "active": true,
+            "broadcasters": ["DAZN", "Sky Sports", "ESPN"]
+          },
+          {
+            "name": "The Ring",
+            "aliases": ["the ring", "ring magazine", "riyadh season"],
+            "active": true,
+            "broadcasters": ["DAZN", "TNT Sports Box Office", "Sky Sports Box Office"]
+          },
+          {
+            "name": "Top Rank",
+            "aliases": ["top rank", "top rank boxing"],
+            "active": true,
+            "broadcasters": ["ESPN", "Sky Sports"]
+          },
+          {
+            "name": "Matchroom Boxing",
+            "aliases": ["matchroom", "matchroom boxing"],
+            "active": true,
+            "broadcasters": ["DAZN"]
+          },
+          {
+            "name": "Queensberry Promotions",
+            "aliases": ["queensberry", "queensberry promotions"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "DAZN"]
+          },
+          {
+            "name": "Golden Boy Promotions",
+            "aliases": ["golden boy", "golden boy promotions"],
+            "active": true,
+            "broadcasters": ["DAZN"]
+          }
+        ],
+        "Kickboxing and Muay Thai": [
+          {
+            "name": "GLORY Kickboxing",
+            "aliases": ["glory kickboxing", "glory"],
+            "active": true,
+            "broadcasters": ["DAZN", "TrillerTV"]
+          },
+          {
+            "name": "K-1",
+            "aliases": ["k-1", "k1 kickboxing", "k-1 world gp"],
+            "active": true,
+            "broadcasters": ["DAZN", "ABEMA"]
+          },
+          {
+            "name": "ONE Friday Fights",
+            "aliases": ["one friday fights", "one lumpinee", "muay thai"],
+            "active": true,
+            "broadcasters": ["ONE Championship", "SuperSport Action"]
+          }
+        ],
+        "Grappling and wrestling": [
+          {
+            "name": "ADCC Submission Fighting World Championship",
+            "aliases": ["adcc", "adcc submission fighting"],
+            "active": true,
+            "broadcasters": ["FloGrappling", "UFC Fight Pass"]
+          },
+          {
+            "name": "IBJJF World Championships",
+            "aliases": ["ibjjf", "bjj worlds", "jiu-jitsu"],
+            "active": true,
+            "broadcasters": ["FloGrappling"]
+          },
+          {
+            "name": "Olympic Wrestling",
+            "aliases": ["olympic wrestling", "uww", "freestyle wrestling"],
+            "active": true,
+            "broadcasters": ["Eurosport", "NBC", "Olympics.com"]
+          },
+          {
+            "name": "WWE",
+            "aliases": ["wwe", "wrestlemania", "raw", "smackdown"],
+            "active": true,
+            "broadcasters": ["Netflix", "SuperSport", "USA Network"]
+          },
+          {
+            "name": "AEW",
+            "aliases": ["aew", "all elite wrestling", "aew dynamite"],
+            "active": true,
+            "broadcasters": ["TNT", "TBS", "ITV4", "TrillerTV"]
+          },
+          {
+            "name": "NJPW",
+            "aliases": ["njpw", "new japan pro wrestling"],
+            "active": true,
+            "broadcasters": ["NJPW World"]
+          }
+        ]
+      }
+    },
+    "Football": {
+      "playlist_file": "football.m3u",
+      "legacy_playlist_file": "verified_football.m3u8",
+      "aliases": ["football", "soccer", "bein sports", "cbs sports golazo", "optus sport", "setanta", "supersport football"],
+      "competition_types": {
+        "International tournaments": [
+          {
+            "name": "FIFA World Cup",
+            "aliases": ["fifa world cup", "world cup 2026", "world cup"],
+            "active": true,
+            "broadcasters": ["BBC Sport", "ITV Sport", "SuperSport", "Fox Sports", "SABC Sport"]
+          },
+          {
+            "name": "FIFA Women's World Cup",
+            "aliases": ["fifa women's world cup", "women's world cup"],
+            "active": true,
+            "broadcasters": ["BBC Sport", "ITV Sport", "SuperSport", "Fox Sports"]
+          },
+          {
+            "name": "FIFA Club World Cup",
+            "aliases": ["fifa club world cup", "club world cup"],
+            "active": true,
+            "broadcasters": ["DAZN", "SuperSport"]
+          },
+          {
+            "name": "Olympic Football Tournaments",
+            "aliases": ["olympic football", "olympics soccer"],
+            "active": true,
+            "broadcasters": ["Eurosport", "NBC", "SuperSport"]
+          },
+          {
+            "name": "Africa Cup of Nations (AFCON)",
+            "aliases": ["afcon", "africa cup of nations", "caf afcon"],
+            "active": true,
+            "broadcasters": ["SuperSport Football", "SABC Sport", "beIN Sports", "Sky Sports"]
+          },
+          {
+            "name": "UEFA European Championship",
+            "aliases": ["uefa euro", "euros", "uefa european championship"],
+            "active": true,
+            "broadcasters": ["BBC Sport", "ITV Sport", "SuperSport", "Fox Sports"]
+          },
+          {
+            "name": "Copa América",
+            "aliases": ["copa america", "copa américa"],
+            "active": true,
+            "broadcasters": ["Fox Sports", "Premier Sports", "SuperSport"]
+          },
+          {
+            "name": "AFC Asian Cup",
+            "aliases": ["afc asian cup", "asian cup"],
+            "active": true,
+            "broadcasters": ["beIN Sports", "Paramount+"]
+          },
+          {
+            "name": "CONCACAF Gold Cup",
+            "aliases": ["concacaf gold cup", "gold cup"],
+            "active": true,
+            "broadcasters": ["Fox Sports", "Premier Sports"]
+          },
+          {
+            "name": "UEFA Nations League",
+            "aliases": ["uefa nations league", "nations league"],
+            "active": true,
+            "broadcasters": ["SuperSport", "ITV Sport", "Fox Sports"]
+          }
+        ],
+        "Continental club competitions": [
+          {
+            "name": "CAF Champions League",
+            "aliases": ["caf champions league", "caf cl"],
+            "active": true,
+            "broadcasters": ["SuperSport Football", "beIN Sports", "SABC Sport"]
+          },
+          {
+            "name": "CAF Confederation Cup",
+            "aliases": ["caf confederation cup", "caf cc"],
+            "active": true,
+            "broadcasters": ["SuperSport Football", "beIN Sports"]
+          },
+          {
+            "name": "UEFA Champions League",
+            "aliases": ["uefa champions league", "champions league", "ucl"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "SuperSport Football", "CBS Sports Golazo", "beIN Sports"]
+          },
+          {
+            "name": "UEFA Europa League",
+            "aliases": ["uefa europa league", "europa league", "uel"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "SuperSport Football", "CBS Sports"]
+          },
+          {
+            "name": "UEFA Conference League",
+            "aliases": ["uefa conference league", "europa conference league", "uecl"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "SuperSport Football", "CBS Sports"]
+          },
+          {
+            "name": "Copa Libertadores",
+            "aliases": ["copa libertadores", "libertadores"],
+            "active": true,
+            "broadcasters": ["beIN Sports", "BBC iPlayer"]
+          }
+        ],
+        "Domestic leagues and cups": [
+          {
+            "name": "South African Premiership / Betway Premiership",
+            "aliases": ["betway premiership", "psl", "dstv premiership", "south african premiership"],
+            "active": true,
+            "broadcasters": ["SuperSport PSL", "SABC 1", "SABC Sport"]
+          },
+          {
+            "name": "Nedbank Cup",
+            "aliases": ["nedbank cup"],
+            "active": true,
+            "broadcasters": ["SuperSport PSL", "SABC Sport"]
+          },
+          {
+            "name": "MTN8",
+            "aliases": ["mtn8", "mtn 8"],
+            "active": true,
+            "broadcasters": ["SuperSport PSL", "SABC Sport"]
+          },
+          {
+            "name": "English Premier League",
+            "aliases": ["english premier league", "premier league", "epl"],
+            "active": true,
+            "broadcasters": ["Sky Sports Premier League", "TNT Sports", "SuperSport Premier League", "NBC Sports", "Optus Sport"]
+          },
+          {
+            "name": "FA Cup",
+            "aliases": ["fa cup", "emirates fa cup"],
+            "active": true,
+            "broadcasters": ["BBC Sport", "ITV Sport", "SuperSport", "ESPN+"]
+          },
+          {
+            "name": "La Liga",
+            "aliases": ["la liga", "laliga"],
+            "active": true,
+            "broadcasters": ["SuperSport LaLiga", "Premier Sports", "ESPN+", "ITV4"]
+          },
+          {
+            "name": "Bundesliga",
+            "aliases": ["bundesliga"],
+            "active": true,
+            "broadcasters": ["Sky Sports Football", "ESPN+", "SuperSport"]
+          },
+          {
+            "name": "Serie A",
+            "aliases": ["serie a", "calcio"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "CBS Sports Golazo", "SuperSport"]
+          },
+          {
+            "name": "Ligue 1",
+            "aliases": ["ligue 1", "ligue 1 mcdonald's"],
+            "active": true,
+            "broadcasters": ["beIN Sports", "Ligue 1 Pass"]
+          },
+          {
+            "name": "Major League Soccer",
+            "aliases": ["major league soccer", "mls"],
+            "active": true,
+            "broadcasters": ["Apple TV", "Fox Sports", "TSN"]
+          }
+        ]
+      }
+    },
+    "Motorsport": {
+      "playlist_file": "verified_motorsport.m3u8",
+      "legacy_playlist_file": "verified_motorsport.m3u8",
+      "aliases": ["motorsport", "racing", "f1", "formula 1", "motogp", "nascar", "indycar"],
+      "competition_types": {
+        "Open Wheel & Endurance": [
+          {
+            "name": "Formula 1",
+            "aliases": ["formula 1", "f1", "formula one"],
+            "active": true,
+            "broadcasters": ["Sky Sports F1", "SuperSport Motorsport", "ESPN"]
+          },
+          {
+            "name": "MotoGP",
+            "aliases": ["motogp", "moto2", "moto3"],
+            "active": true,
+            "broadcasters": ["TNT Sports", "SuperSport Motorsport"]
+          },
+          {
+            "name": "WRC",
+            "aliases": ["wrc", "world rally championship"],
+            "active": true,
+            "broadcasters": ["Rally.TV", "TNT Sports", "SuperSport Motorsport"]
+          },
+          {
+            "name": "NASCAR Cup Series",
+            "aliases": ["nascar", "nascar cup"],
+            "active": true,
+            "broadcasters": ["Fox Sports", "NBC", "Premier Sports"]
+          }
+        ]
+      }
+    }
+  }
+}
+

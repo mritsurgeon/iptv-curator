@@ -17,7 +17,8 @@ import threading
 import time
 from typing import Dict, List, Optional, Tuple
 
-LOCAL_PLAYLIST = "/Users/ian/code/IPTV/verified_premier_sports.m3u8"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+LOCAL_PLAYLIST = os.path.join(BASE_DIR, "verified_premier_sports.m3u8")
 REMOTE_STORAGE_DIR = "/sdcard/Download/"
 DEFAULT_FIRETV_IP = "10.10.6.248"
 ADB_PORT = 5555
@@ -63,10 +64,15 @@ def find_firetv_device(explicit_ip: Optional[str] = None) -> Optional[str]:
 def push_playlists_to_firetv(device_id: str) -> bool:
     """Pushes verified M3U8 playlists to Fire TV /sdcard/Download/."""
     playlists = [
-        "/Users/ian/code/IPTV/verified_premier_sports.m3u8",
-        "/Users/ian/code/IPTV/verified_football.m3u8",
-        "/Users/ian/code/IPTV/verified_cricket.m3u8",
-        "/Users/ian/code/IPTV/verified_rugby.m3u8"
+        os.path.join(BASE_DIR, "verified_premier_sports.m3u8"),
+        os.path.join(BASE_DIR, "verified_football.m3u8"),
+        os.path.join(BASE_DIR, "verified_cricket.m3u8"),
+        os.path.join(BASE_DIR, "verified_rugby.m3u8"),
+        os.path.join(BASE_DIR, "verified_combat.m3u8"),
+        os.path.join(BASE_DIR, "verified_motorsport.m3u8"),
+        os.path.join(BASE_DIR, "temporary_sports.m3u8"),
+        os.path.join(BASE_DIR, "sports_epg.xml"),
+        os.path.join(BASE_DIR, "sports_calendar.json")
     ]
 
     print("\n📁 Pushing verified playlists to Fire TV internal storage...")
@@ -108,7 +114,7 @@ def check_or_install_player(device_id: str) -> Optional[str]:
 
     print("ℹ️ No supported IPTV player found. Downloading lightweight VLC for Fire TV...")
     vlc_apk_url = "https://get.videolan.org/vlc-android/3.5.4/VLC-Android-3.5.4-arm64-v8a.apk"
-    local_apk = "/Users/ian/code/IPTV/vlc_firetv.apk"
+    local_apk = os.path.join(BASE_DIR, "vlc_firetv.apk")
 
     if not os.path.exists(local_apk):
         print(f"⬇️ Downloading VLC APK from VideoLAN...")

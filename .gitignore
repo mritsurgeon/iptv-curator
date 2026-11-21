@@ -4,6 +4,7 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+data/
 
 # Large raw search dumps
 downloaded_playlists/

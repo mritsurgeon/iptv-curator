@@ -1,0 +1,31 @@
+{
+  "version": "2.0",
+  "display_timezone": "Africa/Johannesburg",
+  "internal_timezone": "UTC",
+  "database_path": "data/iptv_curator.db",
+  "catalogue_path": "channel_catalogue.json",
+  "health_report_path": "channel_health_report.json",
+  "source_registry_output_path": "source_registry.json",
+  "epg_output_path": "sports_epg.xml",
+  "daily_report_path": "daily_report.md",
+  "verification": {
+    "http_timeout_sec": 4.0,
+    "ffprobe_timeout_sec": 5.0,
+    "ffmpeg_decode_sec": 3,
+    "ffmpeg_timeout_sec": 6.0,
+    "max_workers": 25,
+    "retry_attempts": 2,
+    "retry_backoff_sec": 1.0,
+    "epg_stale_hours": 48
+  },
+  "discovery": {
+    "max_results_per_provider": 30,
+    "dataset_retrieval_limit": 0,
+    "candidate_ingestion_limit": 5000,
+    "request_timeout_sec": 10,
+    "rate_limit_delay_sec": 0.5,
+    "feedback_enabled": true
+  },
+  "gist_id": "d6f9d772966e4ead4aac90331c6a6d9c"
+}
+
