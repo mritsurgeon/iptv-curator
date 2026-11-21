@@ -728,12 +728,13 @@ class CuratorPipeline:
         import re
         from playlist.master_builder import write_m3u
 
+        stop_words = {"new", "the", "and", "live", "cup", "open", "tour", "test", "match", "sports", "sport"}
         event_list = [e.strip() for e in events_csv.split(",") if e.strip()]
         terms = set()
         for ev in event_list:
             terms.add(ev.lower())
             for tok in re.split(r"\b(?:vs?\.?|and|&)\b|[\s:,-]+", ev.lower()):
-                if len(tok) >= 3:
+                if len(tok) >= 4 and tok not in stop_words:
                     terms.add(tok)
         if sport_hint:
             terms.add(sport_hint.lower())
@@ -772,17 +773,24 @@ class CuratorPipeline:
             mode="incremental",
         )
 
-        # Filter ONLY candidates relevant to these events or their EPG-confirmed broadcasters
-        target_keywords = terms | matched_channel_names | {"rugby", "supersport", "itv1", "itv4", "stv", "utv", "virgin media", "tnt sports", "rugbypass", "nations"}
+        # Prioritize exact EPG-matched broadcasters & rugby channels first
+        priority_broadcasters = ("rugby", "supersport", "itv1", "itv4", "stv", "utv", "virgin media", "tnt sports", "rugbypass", "nations", "s4c")
+        target_keywords = terms | matched_channel_names | set(priority_broadcasters)
         targeted = [
             c for c in candidates
             if (c.tvg_id and c.tvg_id in matched_epg_tvg_ids)
-            or any(k in f"{c.name} {c.group_title} {c.tvg_id}".lower() for k in target_keywords if len(k) >= 3)
+            or any(k in f"{c.name} {c.group_title} {c.tvg_id}".lower() for k in target_keywords if len(k) >= 4)
         ]
+        targeted.sort(
+            key=lambda c: (
+                0 if (c.tvg_id and c.tvg_id in matched_epg_tvg_ids) else 1,
+                0 if any(pb in c.name.lower() for pb in priority_broadcasters) else 1,
+            )
+        )
         print(f"🎯 [Event Mode] Narrowed {len(candidates)} -> {len(targeted)} targeted candidates. Running full gatekeeper...", flush=True)
 
-        # 3. Full mandatory stream-opening gatekeeper on targeted subset (fast ~60-120s)
-        proc = self.process_candidates(targeted[:120], epg_channels_index=epg_index, time_budget_sec=180.0)
+        # 3. Full mandatory stream-opening gatekeeper on top 250 targeted candidates
+        proc = self.process_candidates(targeted[:250], epg_channels_index=epg_index, time_budget_sec=240.0)
         build_res = self.build_outputs(discovery_stats=disc_stats, epg_stats=epg_res["stats"])
 
         # 4. Write dedicated event_matchday.m3u from verified primary channels matching targets

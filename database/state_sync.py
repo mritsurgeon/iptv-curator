@@ -204,13 +204,26 @@ def push_state_branch(
         prepare_snapshot(db_path, gz_p, mf_p, active_hash=active_hash)
 
         remote_url = subprocess.check_output(["git", "remote", "get-url", "origin"], text=True).strip()
+        extra_hdr = subprocess.run(
+            ["git", "config", "--get", "http.https://github.com/.extraheader"],
+            capture_output=True,
+            text=True,
+        ).stdout.strip()
         subprocess.run(["git", "-C", tmp, "init", "-b", branch], check=True, capture_output=True)
         subprocess.run(["git", "-C", tmp, "config", "user.name", "github-actions[bot]"], check=True)
         subprocess.run(["git", "-C", tmp, "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
         subprocess.run(["git", "-C", tmp, "add", "iptv_curator.db.gz", "manifest.json"], check=True)
         subprocess.run(["git", "-C", tmp, "commit", "-m", f"State snapshot {active_hash[:8]} [skip ci]"], check=True, capture_output=True)
-        # Single-commit orphan force push keeps state branch tiny and bounded
-        push = subprocess.run(["git", "-C", tmp, "push", "--force", remote_url, f"HEAD:{branch}"], capture_output=True, text=True)
+        push_cmd = ["git", "-C", tmp]
+        if extra_hdr:
+            push_cmd.extend(["-c", f"http.https://github.com/.extraheader={extra_hdr}"])
+        elif os.environ.get("GITHUB_TOKEN") and remote_url.startswith("https://github.com/"):
+            remote_url = remote_url.replace(
+                "https://github.com/",
+                f"https://x-access-token:{os.environ['GITHUB_TOKEN']}@github.com/",
+            )
+        push_cmd.extend(["push", "--force", remote_url, f"HEAD:{branch}"])
+        push = subprocess.run(push_cmd, capture_output=True, text=True)
         if push.returncode == 0:
             print(f"☁️ Published verified SQLite snapshot to orphan branch '{branch}'.")
             return True
