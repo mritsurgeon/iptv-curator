@@ -1,29 +1,14 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:English Sports Channels
 
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Continental club competitions",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" tvg-language="English" group-title="Football - Domestic leagues and cups",NBC Sports NOW
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-
 #EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 (hd)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",SKY Sports F1 (hd)
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsXtra.au" tvg-name="beIN Sports XTRA" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2437/image" tvg-language="English" group-title="Football - International tournaments",beIN Sports XTRA
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",USA Network
-https://tvsen6.aynaott.com/usa/index.m3u8
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel 2" tvg-logo="https://image.xumo.com/v1/channels/channel/99951389/500x500.webp?type=color_onBlack" tvg-language="English" group-title="Tennis - Grand Slams",Tennis Channel 2
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg" tvg-logo="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
@@ -33,18 +18,6 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FX Movie Channel
 http://89.187.179.148:826/1368/gXwiagaXda/29312
-
-#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FloRacing 24/7
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Rugby - International competitions",ITV 1
-http://176.65.153.4:4004/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Rugby - International competitions",STV
-http://176.65.153.4:4007/play/a073/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",TUDN
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s147367_h15_aa.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8

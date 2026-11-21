@@ -1,6 +1,12 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Football
 
-#EXTINF:-1 tvg-id="TNTSports.cl@SD" tvg-name="TNT Sports (Chile) (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-language="Other Language" group-title="Football - Continental club competitions",TNT Sports (Chile) (480p)
-http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football",ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s147367_h15_aa.png" tvg-language="English" group-title="Football",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 

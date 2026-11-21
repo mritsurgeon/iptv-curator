@@ -1,32 +1,11 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Football
 
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Continental club competitions",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" tvg-language="English" group-title="Football - Domestic leagues and cups",NBC Sports NOW
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-
-#EXTINF:-1 tvg-id="beINSportsXtra.au" tvg-name="beIN Sports XTRA" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2437/image" tvg-language="English" group-title="Football - International tournaments",beIN Sports XTRA
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&h=270" tvg-language="English" group-title="Football - Domestic leagues and cups",USA Network
-https://tvsen6.aynaott.com/usa/index.m3u8
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Football - Domestic leagues and cups",ITV 1
-http://176.65.153.4:4004/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Football",STV
-http://176.65.153.4:4007/play/a073/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",TUDN
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s147367_h15_aa.png" tvg-language="English" group-title="Football",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8

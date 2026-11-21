@@ -1,3 +1,15 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Live Now & Starting Soon Sports (Confirmed EPG)
 
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | LIVE: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",ESPN | LIVE: Live: College Football
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="Fox Sports 1 | LIVE: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",Fox Sports 1 | LIVE: Live: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 (hd) | 00:00 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",SKY Sports F1 (hd) | 00:00 SAST: Kimi Antonelli - World Champion
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet | 00:00 SAST: WWE Rivals" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Combat Sports",Comet | 00:00 SAST: WWE Rivals
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+

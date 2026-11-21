@@ -1,9 +1,3 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Rugby
 
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Rugby - International competitions",ITV 1
-http://176.65.153.4:4004/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Rugby - International competitions",STV
-http://176.65.153.4:4007/play/a073/index.m3u8
-

@@ -16,12 +16,3 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FX Movie Channel
 http://89.187.179.148:826/1368/gXwiagaXda/29312
 
-#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FloRacing 24/7
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Motorsport",ITV 1
-http://176.65.153.4:4004/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Motorsport",STV
-http://176.65.153.4:4007/play/a073/index.m3u8
-

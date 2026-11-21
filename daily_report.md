@@ -1,48 +1,48 @@
 # IPTV Curator 2.0 — Daily Curation Report
-Generated (UTC): `2026-11-21T16:10:39.475086+00:00`
+Generated (UTC): `2026-11-21T21:47:22.969089+00:00`
 
 ## Summary
 - **Total sources scanned**: 14
 - **New candidate streams discovered**: 5000
-- **Channels successfully verified (working)**: 16 (delta vs previous: -2)
-- **Channels failing playback (inactive)**: 296
-- **Channels requiring authentication**: 3
-- **English / English + Other channels**: 225
-- **Channels with matched EPG**: 234
+- **Channels successfully verified (working)**: 7 (delta vs previous: -9)
+- **Channels failing playback (inactive)**: 274
+- **Channels requiring authentication**: 16
+- **English / English + Other channels**: 186
+- **Channels with matched EPG**: 205
 - **Stale EPG sources**: 0
 - **Deactivated in health check**: 0
 - **Restored in health check**: 0
 
 ## Channels by Sport
-- Football: 176
-- Motorsport: 159
-- Rugby: 120
-- Tennis: 87
-- Combat Sports: 87
-- Cricket: 35
+- Football: 141
+- Motorsport: 119
+- Combat Sports: 99
+- Tennis: 96
+- Rugby: 73
+- Cricket: 29
 
 ## Channels by Language
-- English: 223
-- Unknown: 86
-- Other Language: 4
+- English: 184
+- Unknown: 110
 - English + Other: 2
+- Other Language: 1
 
 ## Top Competitions
-- Nations Championship: 79
-- Australian Open: 63
+- Australian Open: 64
+- UFC: 60
 - WBA: 58
 - WBC: 58
 - Formula 1: 58
-- UFC: 56
 - IBF: 47
 - WBO: 47
 - Top Rank: 47
-- Wimbledon: 45
-- US Open: 45
-- PFL: 44
-- English Premier League: 28
-- Rugby Championship: 26
-- British & Irish Lions Tours: 26
+- Wimbledon: 46
+- US Open: 46
+- PFL: 45
+- English Premier League: 30
+- Nations Championship: 29
+- Serie A: 25
+- Rugby Championship: 25
 
 ## Most Reliable Sources
 - **EPGShare01 UK1 XMLTV Feed** (`epg_source`): score `0.955`, discovered `0`
@@ -53,39 +53,31 @@ Generated (UTC): `2026-11-21T16:10:39.475086+00:00`
 - **EPGShare01 Global XMLTV Repository** (`epg_source`): score `0.92`, discovered `0`
 - **iptv-org Sports Category Feed** (`public_dataset`): score `0.91`, discovered `537`
 - **iptv-org Public Channel & Stream Metadata API** (`public_dataset`): score `0.892`, discovered `19405`
-- **GitHub Public Repositories & Code Search** (`git_hosting`): score `0.865`, discovered `13636`
+- **GitHub Public Repositories & Code Search** (`git_hosting`): score `0.865`, discovered `12654`
 - **Free-TV Community IPTV Playlist** (`public_dataset`): score `0.865`, discovered `2197`
 
 ## Borderline Candidates Requiring Review (0)
 
 ## Proposed New Competitions (Pending Review)
-- Premier League (seen 3x)
-- Nations Championship English Football League (seen 2x)
-- Porsche Carrera Cup (seen 2x)
-- Network UEFA Women's Champions League (seen 1x)
-- UEFA Women's Champions League (seen 1x)
 - UEFA Nations League Soccer League (seen 1x)
 - NTT IndyCar Series Championship (seen 1x)
-- English Premier League Premier League (seen 1x)
-- NASCAR Modified Tour (seen 1x)
-- The NASCAR Modified Tour (seen 1x)
 
 ## Source Provenance & Discovery Intelligence
 ### Top Contributing Providers
-- `github_code_search`: 16 working / 10460 unique (verify: 2.6%, dup: 18%, rej: 9%)
-- `local_seed`: 15 working / 18 unique (verify: 100.0%, dup: 89%, rej: 0%)
-- `iptv_org_api_channels`: 9 working / 19405 unique (verify: 52.9%, dup: 4%, rej: 0%)
-- `iptv_org_sports`: 6 working / 537 unique (verify: 75.0%, dup: 4%, rej: 0%)
+- `github_code_search`: 7 working / 10133 unique (verify: 1.2%, dup: 18%, rej: 7%)
+- `local_seed`: 7 working / 16 unique (verify: 87.5%, dup: 100%, rej: 6%)
+- `iptv_org_api_channels`: 4 working / 19405 unique (verify: 57.1%, dup: 3%, rej: 0%)
+- `iptv_org_sports`: 2 working / 537 unique (verify: 66.7%, dup: 3%, rej: 0%)
 - `free_tv_iptv`: 0 working / 2178 unique (verify: 0.0%, dup: 46%, rej: 0%)
 
 ### Top Contributing Repositories
-- `doms9/iptv`: 16 working / 45 channels (verify: 35.6%)
-- `sesukyothole/My-Stuff`: 0 working / 80 channels (verify: 0.0%)
-- `iptvmate/iptvchannels`: 0 working / 55 channels (verify: 0.0%)
-- `Nipho999/config`: 0 working / 54 channels (verify: 0.0%)
-- `yokesesss/Icast`: 0 working / 50 channels (verify: 0.0%)
+- `doms9/iptv`: 7 working / 8 channels (verify: 87.5%)
+- `yokesesss/Icast`: 0 working / 109 channels (verify: 0.0%)
+- `sesukyothole/My-Stuff`: 0 working / 81 channels (verify: 0.0%)
+- `bangunkarya123/personal`: 0 working / 76 channels (verify: 0.0%)
+- `Nipho999/config`: 0 working / 55 channels (verify: 0.0%)
 
-- **Channels with multiple independent origins**: 123
+- **Channels with multiple independent origins**: 85
 - **Channels with unknown stream provenance**: 0
 - **Stopped / disabled sources**: 4
 
