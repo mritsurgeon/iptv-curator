@@ -4,7 +4,7 @@ import json
 import os
 from typing import Any, Dict, List
 
-from catalogue.channel_catalogue import export_channel_catalogue
+from catalogue.channel_catalogue import export_channel_catalogue, select_primary_channels
 from database.database import DatabaseManager
 
 
@@ -15,12 +15,21 @@ class CatalogueManager:
         self.db = db
         self.catalogue_path = catalogue_path
 
-    def rebuild_catalogue(self, min_primary_score: float = 60.0) -> Dict[str, Any]:
+    def rebuild_catalogue(
+        self,
+        min_primary_score: float = 60.0,
+        scarce_sport_min: float = 45.0,
+        scarce_sport_min_channels: int = 3,
+        scarce_sport_min_confidence: float = 0.6,
+    ) -> Dict[str, Any]:
         db_channels = self.db.get_all_channels()
         return export_channel_catalogue(
             db_channels,
             output_path=self.catalogue_path,
             min_primary_score=min_primary_score,
+            scarce_sport_min=scarce_sport_min,
+            scarce_sport_min_channels=scarce_sport_min_channels,
+            scarce_sport_min_confidence=scarce_sport_min_confidence,
         )
 
     def load_catalogue(self) -> Dict[str, Any]:
@@ -29,23 +38,39 @@ class CatalogueManager:
                 return json.load(f)
         return {"channels": []}
 
-    def get_primary_channels(self, min_score: float = 60.0) -> List[Dict[str, Any]]:
+    def get_primary_channels(
+        self,
+        min_score: float = 60.0,
+        scarce_sport_min: float = 45.0,
+        scarce_sport_min_channels: int = 3,
+        scarce_sport_min_confidence: float = 0.6,
+    ) -> List[Dict[str, Any]]:
         cat = self.load_catalogue()
-        return [
-            ch for ch in cat.get("channels", [])
-            if ch.get("verification", {}).get("playback_status") == "working"
-            and ch.get("verification", {}).get("access_status") == "free"
-            and ch.get("verification", {}).get("score", 0.0) >= min_score
-            and ch.get("stream", {}).get("url")
-        ]
+        primary, _ = select_primary_channels(
+            cat.get("channels", []),
+            min_primary_score=min_score,
+            scarce_sport_min=scarce_sport_min,
+            scarce_sport_min_channels=scarce_sport_min_channels,
+            scarce_sport_min_confidence=scarce_sport_min_confidence,
+            require_stream_url=True,
+        )
+        return primary
 
-    def get_review_channels(self, min_score: float = 60.0) -> List[Dict[str, Any]]:
+    def get_review_channels(
+        self,
+        min_score: float = 60.0,
+        scarce_sport_min: float = 45.0,
+        scarce_sport_min_channels: int = 3,
+        scarce_sport_min_confidence: float = 0.6,
+    ) -> List[Dict[str, Any]]:
         cat = self.load_catalogue()
-        return [
-            ch for ch in cat.get("channels", [])
-            if ch.get("verification", {}).get("playback_status") == "working"
-            and ch.get("verification", {}).get("access_status") == "free"
-            and ch.get("verification", {}).get("score", 0.0) < min_score
-            and ch.get("stream", {}).get("url")
-        ]
+        _, review = select_primary_channels(
+            cat.get("channels", []),
+            min_primary_score=min_score,
+            scarce_sport_min=scarce_sport_min,
+            scarce_sport_min_channels=scarce_sport_min_channels,
+            scarce_sport_min_confidence=scarce_sport_min_confidence,
+            require_stream_url=True,
+        )
+        return review
 

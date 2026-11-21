@@ -2,6 +2,7 @@
 
 import unittest
 
+from catalogue.channel_catalogue import select_primary_channels
 from classification.channel_scorer import ChannelScorer
 from classification.competition_mapper import CompetitionMapper
 from classification.language_detector import LanguageDetector
@@ -89,6 +90,56 @@ class TestClassificationAndScoring(unittest.TestCase):
         self.assertLess(low["total"], 60.0)
         self.assertEqual(low["tier"], "review")
         self.assertFalse(low["include_in_primary"])
+
+    def test_scarcity_aware_scoring_floor(self):
+        def _rec(cid, sport, score, sconf=0.85, playback="working", access="free"):
+            return {
+                "channel_id": cid,
+                "name": cid,
+                "sports": [{"sport": sport, "competitions": [], "confidence": sconf}],
+                "stream": {"url": f"https://cdn.test/{cid}.m3u8"},
+                "verification": {
+                    "playback_status": playback,
+                    "access_status": access,
+                    "score": score,
+                    "confidences": {"sports_confidence": sconf},
+                },
+            }
+
+        records = [
+            # Football already has 3 primary channels (>= 60) -> borderline Football must NOT promote
+            _rec("fb1", "Football", 92.0),
+            _rec("fb2", "Football", 88.0),
+            _rec("fb3", "Football", 80.0),
+            _rec("fb_low", "Football", 55.0),
+            # Cricket only has 1 primary channel -> borderline Cricket (52.0) SHOULD promote,
+            # while too-low Cricket (40.0) and low-confidence Cricket (0.4) must NOT promote
+            _rec("cr1", "Cricket", 90.0),
+            _rec("cr_borderline", "Cricket", 52.0, sconf=0.8),
+            _rec("cr_too_low", "Cricket", 40.0, sconf=0.9),
+            _rec("cr_low_conf", "Cricket", 55.0, sconf=0.4),
+            _rec("cr_dead", "Cricket", 55.0, sconf=0.9, playback="inactive"),
+        ]
+        primary, review = select_primary_channels(
+            records,
+            min_primary_score=60.0,
+            scarce_sport_min=45.0,
+            scarce_sport_min_channels=3,
+            scarce_sport_min_confidence=0.6,
+            require_stream_url=True,
+        )
+        primary_ids = {r["channel_id"] for r in primary}
+        review_ids = {r["channel_id"] for r in review}
+
+        self.assertIn("cr_borderline", primary_ids)
+        self.assertNotIn("fb_low", primary_ids)
+        self.assertNotIn("cr_too_low", primary_ids)
+        self.assertNotIn("cr_low_conf", primary_ids)
+        self.assertNotIn("cr_dead", primary_ids)
+        self.assertIn("fb_low", review_ids)
+        self.assertIn("cr_too_low", review_ids)
+        promoted = next(r for r in primary if r["channel_id"] == "cr_borderline")
+        self.assertTrue(promoted["verification"].get("scarcity_promoted"))
 
 
 if __name__ == "__main__":

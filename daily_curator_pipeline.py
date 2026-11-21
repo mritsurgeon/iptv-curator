@@ -598,6 +598,9 @@ class CuratorPipeline:
     ) -> Dict[str, Any]:
         """Rebuild canonical channel_catalogue.json, all playlists (incl. live_now & upcoming), EPG & reports."""
         min_score = float(self.scorer.thresholds.get("acceptable_min", 60))
+        scarce_min = float(self.scorer.thresholds.get("scarce_sport_min", 45))
+        scarce_min_ch = int(self.scorer.thresholds.get("scarce_sport_min_channels", 3))
+        scarce_min_conf = float(self.scorer.thresholds.get("scarce_sport_min_confidence", 0.6))
         prev_health_path = os.path.join(self.base_dir, self.settings.get("health_report_path", "channel_health_report.json"))
         prev_summary = {}
         if os.path.exists(prev_health_path):
@@ -608,8 +611,18 @@ class CuratorPipeline:
             except Exception:
                 pass
 
-        catalogue = self.catalogue_mgr.rebuild_catalogue(min_primary_score=min_score)
-        primary_channels = self.catalogue_mgr.get_primary_channels(min_score=min_score)
+        catalogue = self.catalogue_mgr.rebuild_catalogue(
+            min_primary_score=min_score,
+            scarce_sport_min=scarce_min,
+            scarce_sport_min_channels=scarce_min_ch,
+            scarce_sport_min_confidence=scarce_min_conf,
+        )
+        primary_channels = self.catalogue_mgr.get_primary_channels(
+            min_score=min_score,
+            scarce_sport_min=scarce_min,
+            scarce_sport_min_channels=scarce_min_ch,
+            scarce_sport_min_confidence=scarce_min_conf,
+        )
         all_channels = catalogue.get("channels", [])
 
         display_tz = self.settings.get("display_timezone", "Africa/Johannesburg")
@@ -794,7 +807,12 @@ class CuratorPipeline:
         build_res = self.build_outputs(discovery_stats=disc_stats, epg_stats=epg_res["stats"])
 
         # 4. Write dedicated event_matchday.m3u from verified primary channels matching targets
-        primary = self.catalogue_mgr.get_primary_channels(min_score=float(self.scorer.thresholds.get("acceptable_min", 60)))
+        primary = self.catalogue_mgr.get_primary_channels(
+            min_score=float(self.scorer.thresholds.get("acceptable_min", 60)),
+            scarce_sport_min=float(self.scorer.thresholds.get("scarce_sport_min", 45)),
+            scarce_sport_min_channels=int(self.scorer.thresholds.get("scarce_sport_min_channels", 3)),
+            scarce_sport_min_confidence=float(self.scorer.thresholds.get("scarce_sport_min_confidence", 0.6)),
+        )
         event_channels = [
             ch for ch in primary
             if (ch.get("epg", {}).get("tvg_id") in matched_epg_tvg_ids)

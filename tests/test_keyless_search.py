@@ -11,6 +11,7 @@ from database.database import DatabaseManager
 from discovery.google_dork_provider import (
     GoogleDorkProvider,
     _extract_bing_links,
+    _extract_playlist_and_epg_links_from_html,
     generate_dynamic_dork_queries,
 )
 
@@ -116,6 +117,55 @@ class TestKeylessSearchDiscovery(unittest.TestCase):
             self.assertIn("duckduckgo_html", prov2._blocked_backends)
             self.assertEqual(len(res2.channels), 1)
             self.assertEqual(res2.channels[0].repo_name, "u2/r2")
+
+    @patch.dict(os.environ, {}, clear=False)
+    @patch("discovery.google_dork_provider.http_get_text")
+    def test_one_hop_html_extraction_from_directory_index_and_repo_pages(self, mock_get):
+        os.environ.pop("SEARXNG_URL", None)
+        # Unit check on HTML link extractor (directory index + GitHub blob + filters sitemap.xml)
+        dir_html = (
+            '<html><title>Index of /iptv/</title>'
+            '<a href="rugby_live.m3u8">rugby_live.m3u8</a>'
+            '<a href="epg_sports.xml.gz">epg_sports.xml.gz</a>'
+            '<a href="sitemap.xml">sitemap.xml</a>'
+            '<a href="https://github.com/org/sports/blob/main/cricket.m3u">cricket</a>'
+            '</html>'
+        )
+        extracted = _extract_playlist_and_epg_links_from_html(dir_html, "https://example.org/iptv/")
+        self.assertIn("https://example.org/iptv/rugby_live.m3u8", extracted)
+        self.assertIn("https://example.org/iptv/epg_sports.xml.gz", extracted)
+        self.assertIn("https://raw.githubusercontent.com/org/sports/main/cricket.m3u", extracted)
+        self.assertNotIn("https://example.org/iptv/sitemap.xml", extracted)
+
+        # End-to-end 1-hop crawl during discover()
+        b64_dir = base64.urlsafe_b64encode(b"https://example.org/iptv/").decode().rstrip("=")
+        sample_m3u = "#EXTM3U\n#EXTINF:-1,Willow Cricket HD\nhttps://cdn.test/willow.m3u8\n"
+
+        def mock_fetch(url, **kwargs):
+            if "duckduckgo.com" in url:
+                return "<html>CAPTCHA anomaly.js</html>"
+            if "bing.com" in url:
+                return f'<a href="https://www.bing.com/ck/a?u=a1{b64_dir}">Index of /iptv/</a>'
+            if url == "https://example.org/iptv/":
+                return dir_html
+            if url == "https://example.org/iptv/rugby_live.m3u8":
+                return sample_m3u
+            return ""
+
+        mock_get.side_effect = mock_fetch
+        with tempfile.TemporaryDirectory() as tmp:
+            prov = GoogleDorkProvider(
+                {"source_id": "google_dork_discovery"},
+                self.qcfg,
+                sports_catalogue=self.scat,
+                broadcaster_catalogue=self.bcat,
+                dorks_export_path=os.path.join(tmp, "dorks3.txt"),
+            )
+            res = prov.discover(max_results=1)
+            self.assertTrue(res.success)
+            self.assertEqual(len(res.channels), 1)
+            self.assertEqual(res.channels[0].name, "Willow Cricket HD")
+            self.assertTrue(any(e.url == "https://example.org/iptv/epg_sports.xml.gz" for e in res.epg_urls))
 
 
 if __name__ == "__main__":

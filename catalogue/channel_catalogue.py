@@ -2,7 +2,7 @@
 
 from datetime import datetime, timezone
 import json
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Tuple
 
 
 def build_canonical_record(db_channel: Dict[str, Any]) -> Dict[str, Any]:
@@ -126,31 +126,111 @@ def build_canonical_record(db_channel: Dict[str, Any]) -> Dict[str, Any]:
     }
 
 
+def select_primary_channels(
+    records: List[Dict[str, Any]],
+    min_primary_score: float = 60.0,
+    scarce_sport_min: float = 45.0,
+    scarce_sport_min_channels: int = 3,
+    scarce_sport_min_confidence: float = 0.6,
+    require_stream_url: bool = False,
+) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+    """
+    Partition working, freely accessible channels into (primary, review_candidates).
+    Applies a category-aware scarcity floor: if a sport has fewer than
+    `scarce_sport_min_channels` primary channels (>= `min_primary_score`),
+    working free channels for that sport with `score >= scarce_sport_min` and
+    `sports_confidence >= scarce_sport_min_confidence` are promoted into primary
+    until the sport reaches `scarce_sport_min_channels`.
+    """
+    working_free = [
+        r for r in records
+        if r.get("verification", {}).get("playback_status") == "working"
+        and r.get("verification", {}).get("access_status") == "free"
+        and (not require_stream_url or bool(r.get("stream", {}).get("url")))
+    ]
+
+    primary: List[Dict[str, Any]] = []
+    below_threshold: List[Dict[str, Any]] = []
+    sport_counts: Dict[str, int] = {}
+
+    for r in working_free:
+        score = float(r.get("verification", {}).get("score", 0.0))
+        if score >= min_primary_score:
+            primary.append(r)
+            for s in r.get("sports", []):
+                sname = s.get("sport", "") if isinstance(s, dict) else str(s)
+                if sname:
+                    sport_counts[sname] = sport_counts.get(sname, 0) + 1
+        else:
+            below_threshold.append(r)
+
+    # Sort borderline candidates highest-score first so the best scarce-sport channels promote first
+    below_threshold.sort(key=lambda r: float(r.get("verification", {}).get("score", 0.0)), reverse=True)
+    review: List[Dict[str, Any]] = []
+
+    for r in below_threshold:
+        ver = r.get("verification", {})
+        score = float(ver.get("score", 0.0))
+        overall_sconf = float(ver.get("confidences", {}).get("sports_confidence", 0.0))
+        promoted = False
+
+        if (
+            scarce_sport_min_channels > 0
+            and score >= scarce_sport_min
+            and (overall_sconf >= scarce_sport_min_confidence or overall_sconf == 0.0)
+        ):
+            qualifying_sports: List[str] = []
+            for s in r.get("sports", []):
+                if isinstance(s, dict):
+                    sname = s.get("sport", "")
+                    sconf = float(s.get("confidence", 0.0))
+                else:
+                    sname = str(s)
+                    sconf = overall_sconf
+                if sname and sconf >= scarce_sport_min_confidence and sport_counts.get(sname, 0) < scarce_sport_min_channels:
+                    qualifying_sports.append(sname)
+
+            if qualifying_sports:
+                ver["scarcity_promoted"] = True
+                ver["scarcity_promoted_sports"] = qualifying_sports
+                primary.append(r)
+                for sname in qualifying_sports:
+                    sport_counts[sname] = sport_counts.get(sname, 0) + 1
+                promoted = True
+
+        if not promoted:
+            review.append(r)
+
+    return primary, review
+
+
 def export_channel_catalogue(
     db_channels: List[Dict[str, Any]],
     output_path: str = "channel_catalogue.json",
     min_primary_score: float = 60.0,
+    scarce_sport_min: float = 45.0,
+    scarce_sport_min_channels: int = 3,
+    scarce_sport_min_confidence: float = 0.6,
 ) -> Dict[str, Any]:
     """Export canonical channel_catalogue.json and return the loaded dict."""
     records = [build_canonical_record(ch) for ch in db_channels]
-    active_primary = [
-        r for r in records
-        if r["verification"]["playback_status"] == "working"
-        and r["verification"]["access_status"] == "free"
-        and r["verification"]["score"] >= min_primary_score
-    ]
-    review_candidates = [
-        r for r in records
-        if r["verification"]["playback_status"] == "working"
-        and r["verification"]["access_status"] == "free"
-        and r["verification"]["score"] < min_primary_score
-    ]
+    active_primary, review_candidates = select_primary_channels(
+        records,
+        min_primary_score=min_primary_score,
+        scarce_sport_min=scarce_sport_min,
+        scarce_sport_min_channels=scarce_sport_min_channels,
+        scarce_sport_min_confidence=scarce_sport_min_confidence,
+        require_stream_url=False,
+    )
 
     payload = {
         "version": "2.0",
         "generated_at_utc": datetime.now(timezone.utc).isoformat(),
         "total_channels": len(records),
         "active_primary_count": len(active_primary),
+        "scarcity_promoted_count": sum(
+            1 for r in active_primary if r.get("verification", {}).get("scarcity_promoted")
+        ),
         "review_candidates_count": len(review_candidates),
         "channels": records,
     }

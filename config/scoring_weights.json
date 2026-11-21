@@ -12,7 +12,10 @@
     "premium_min": 90,
     "high_quality_min": 75,
     "acceptable_min": 60,
-    "exclude_below": 60
+    "exclude_below": 60,
+    "scarce_sport_min": 45,
+    "scarce_sport_min_channels": 3,
+    "scarce_sport_min_confidence": 0.6
   },
   "language_scores": {
     "English": 1.0,

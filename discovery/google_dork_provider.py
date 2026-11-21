@@ -148,15 +148,95 @@ def _extract_bing_links(html: str) -> List[str]:
     return list(dict.fromkeys(links))
 
 
+NON_EPG_XML_NAMES = (
+    "sitemap.xml",
+    "rss.xml",
+    "feed.xml",
+    "atom.xml",
+    "opensearch.xml",
+    "manifest.xml",
+    "pom.xml",
+    "package.xml",
+    "web.xml",
+    "browserconfig.xml",
+    "crossdomain.xml",
+)
+
+SKIP_HTML_EXTENSIONS = (
+    ".pdf", ".zip", ".tar", ".gz", ".rar", ".7z", ".png", ".jpg", ".jpeg",
+    ".gif", ".svg", ".ico", ".mp4", ".mkv", ".avi", ".mp3", ".css", ".js",
+    ".woff", ".woff2", ".ttf", ".exe", ".dmg",
+)
+
+
 def _normalize_repo_raw_url(url: str) -> str:
-    """Convert GitHub/GitLab/Codeberg blob links into raw downloadable URLs when applicable."""
+    """Convert GitHub/GitLab/Codeberg/Pastebin links into raw downloadable URLs when applicable."""
     if "github.com/" in url and "/blob/" in url:
         return url.replace("github.com/", "raw.githubusercontent.com/").replace("/blob/", "/")
     if "gitlab.com/" in url and "/-/blob/" in url:
         return url.replace("/-/blob/", "/-/raw/")
     if "codeberg.org/" in url and "/src/branch/" in url:
         return url.replace("/src/branch/", "/raw/branch/")
+    m_pb = re.match(r"^https?://(?:www\.)?pastebin\.com/([A-Za-z0-9]{6,12})/?$", url)
+    if m_pb:
+        return f"https://pastebin.com/raw/{m_pb.group(1)}"
     return url
+
+
+def _is_candidate_epg_url(url: str) -> bool:
+    low = url.lower().split("?")[0].split("#")[0]
+    if not low.endswith((".xml", ".xml.gz")):
+        return False
+    fname = low.rsplit("/", 1)[-1]
+    if fname in NON_EPG_XML_NAMES:
+        return False
+    return True
+
+
+def _extract_playlist_and_epg_links_from_html(
+    html: str,
+    base_url: str,
+    max_links: int = 12,
+) -> List[str]:
+    """
+    1-hop HTML link extractor for search results (directory indexes, GitHub/GitLab
+    repo pages, blogs, paste pages). Resolves relative hrefs and extracts embedded
+    .m3u/.m3u8/.xml/.xml.gz URLs, normalizing repo blob links to raw URLs.
+    """
+    found: List[str] = []
+    seen: Set[str] = set()
+
+    def _add_candidate(raw_href: str) -> None:
+        if len(found) >= max_links:
+            return
+        href = raw_href.strip().replace("&amp;", "&")
+        if not href or href.startswith(("#", "javascript:", "mailto:")):
+            return
+        full = urllib.parse.urljoin(base_url, href)
+        if not full.startswith(("http://", "https://")):
+            return
+        norm = _normalize_repo_raw_url(full)
+        low = norm.lower().split("?")[0].split("#")[0]
+        if low.endswith((".m3u", ".m3u8")) or _is_candidate_epg_url(norm):
+            if norm not in seen:
+                seen.add(norm)
+                found.append(norm)
+
+    for href in re.findall(r'href=["\']([^"\']+)["\']', html, flags=re.IGNORECASE):
+        _add_candidate(href)
+        if len(found) >= max_links:
+            return found
+
+    for raw_url in re.findall(
+        r'https?://[^\s"\'<>()]+?\.(?:m3u8?|xml(?:\.gz)?)(?:\?[^\s"\'<>()]*)?',
+        html,
+        flags=re.IGNORECASE,
+    ):
+        _add_candidate(raw_url)
+        if len(found) >= max_links:
+            return found
+
+    return found
 
 
 class GoogleDorkProvider(BaseDiscoveryProvider):
@@ -293,37 +373,77 @@ class GoogleDorkProvider(BaseDiscoveryProvider):
             new_epgs = 0
             new_cands = 0
 
+            def _ingest_direct_url(target_url: str) -> Tuple[int, int, int]:
+                """Ingest a direct .m3u/.m3u8/.xml/.xml.gz URL. Returns (playlists, epgs, cands)."""
+                t_low = target_url.lower().split("?")[0].split("#")[0]
+                if _is_candidate_epg_url(target_url):
+                    epg_urls.append(
+                        CandidateEPG(
+                            url=target_url,
+                            source_id=self.source_id,
+                            fmt="xml.gz" if t_low.endswith(".gz") else "xml",
+                        )
+                    )
+                    return (0, 1, 0)
+                if t_low.endswith((".m3u", ".m3u8")):
+                    try:
+                        txt = http_get_text(target_url, timeout=6, retries=0)
+                        if "#EXTINF" in txt:
+                            chs, epgs = parse_m3u_to_candidates(
+                                txt, self.source_id, target_url, discovery_query=qtext
+                            )
+                            channels.extend(chs)
+                            epg_urls.extend(epgs)
+                            return (1, len(epgs), len(chs))
+                    except Exception:
+                        return (0, 0, 0)
+                return (0, 0, 0)
+
+            html_hops_used = 0
+            max_html_hops_per_query = 5
+
             for link in raw_links[:10]:
                 norm = _normalize_repo_raw_url(link)
                 if norm in seen_urls:
                     continue
                 seen_urls.add(norm)
                 new_sources += 1
-                low = norm.lower().split("?")[0]
+                low = norm.lower().split("?")[0].split("#")[0]
 
-                if low.endswith((".xml", ".xml.gz")):
-                    epg_urls.append(
-                        CandidateEPG(
-                            url=norm,
-                            source_id=self.source_id,
-                            fmt="xml.gz" if low.endswith(".gz") else "xml",
-                        )
-                    )
-                    new_epgs += 1
-                elif low.endswith((".m3u", ".m3u8")):
+                if low.endswith((".m3u", ".m3u8")) or _is_candidate_epg_url(norm):
+                    p_cnt, e_cnt, c_cnt = _ingest_direct_url(norm)
+                    new_playlists += p_cnt
+                    new_epgs += e_cnt
+                    new_cands += c_cnt
+                elif html_hops_used < max_html_hops_per_query and not low.endswith(SKIP_HTML_EXTENSIONS):
+                    # 1-hop HTML crawl for directory indexes ("index of"), repo pages, and paste pages
+                    html_hops_used += 1
                     try:
-                        txt = http_get_text(norm, timeout=6, retries=0)
-                        if "#EXTINF" in txt:
-                            chs, epgs = parse_m3u_to_candidates(
-                                txt, self.source_id, norm, discovery_query=qtext
-                            )
-                            channels.extend(chs)
-                            epg_urls.extend(epgs)
-                            new_playlists += 1
-                            new_cands += len(chs)
-                            new_epgs += len(epgs)
+                        page_txt = http_get_text(norm, timeout=5, retries=0)
                     except Exception:
                         continue
+                    if not page_txt or _is_bot_gate(page_txt):
+                        continue
+                    if "#EXTINF" in page_txt:
+                        chs, epgs = parse_m3u_to_candidates(
+                            page_txt, self.source_id, norm, discovery_query=qtext
+                        )
+                        channels.extend(chs)
+                        epg_urls.extend(epgs)
+                        new_playlists += 1
+                        new_cands += len(chs)
+                        new_epgs += len(epgs)
+                        continue
+                    hop_links = _extract_playlist_and_epg_links_from_html(page_txt, norm, max_links=6)
+                    for hop_url in hop_links:
+                        if hop_url in seen_urls:
+                            continue
+                        seen_urls.add(hop_url)
+                        new_sources += 1
+                        p_cnt, e_cnt, c_cnt = _ingest_direct_url(hop_url)
+                        new_playlists += p_cnt
+                        new_epgs += e_cnt
+                        new_cands += c_cnt
 
             elapsed = max(0.1, time.monotonic() - t0)
             if self.db is not None and qid:
