@@ -1,36 +1,3 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Live Now & Starting Soon Sports (Confirmed EPG)
 
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV 1 | LIVE: England v New Zealand: Nations Championship" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="LIVE & SOON - Rugby",ITV 1 | LIVE: England v New Zealand: Nations Championship
-http://176.65.153.4:4004/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV | LIVE: Nations Championship" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="LIVE & SOON - Rugby",STV | LIVE: Nations Championship
-http://176.65.153.4:4007/play/a073/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | LIVE: Live: College GameDay" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",ESPN | LIVE: Live: College GameDay
-http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | LIVE: ARCA Racing Series" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Motorsport",FloRacing 24/7 | LIVE: ARCA Racing Series
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network | LIVE: Live: Premier League Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",USA Network | LIVE: Live: Premier League Soccer
-https://tvsen6.aynaott.com/usa/index.m3u8
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="Fox Sports 1 | LIVE: Live: Big Noon Kickoff" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",Fox Sports 1 | LIVE: Live: Big Noon Kickoff
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW | LIVE: Rushing the Field" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" tvg-language="English" group-title="LIVE & SOON - Football",NBC Sports NOW | LIVE: Rushing the Field
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN | LIVE: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",TUDN | LIVE: UEFA Champions League en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 19:00 SAST: Live: Italian Serie A Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",CBS Sports Golazo Network | 19:00 SAST: Live: Italian Serie A Soccer
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 (hd) | 19:30 SAST: The Career of Kimi Antonelli" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",SKY Sports F1 (hd) | 19:30 SAST: The Career of Kimi Antonelli
-http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg | 19:30 SAST: The Deal With Alex Rodriguez and Jason Kelly" tvg-logo="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Combat Sports",Bloomberg | 19:30 SAST: The Deal With Alex Rodriguez and Jason Kelly
-https://www.bloomberg.com/media-manifest/streams/us.m3u8
-
