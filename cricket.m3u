@@ -1,3 +1,6 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Cricket
 
+#EXTINF:-1 tvg-id="TNTSports.cl@SD" tvg-name="TNT Sports (Chile) (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-language="Other Language" group-title="Cricket - Bilateral test series",TNT Sports (Chile) (480p)
+http://205.235.6.29:8000/play/a0xa/index.m3u8
+

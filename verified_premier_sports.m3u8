@@ -1,42 +1,6 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Master Sports Catalogue (Fire TV Compatible)
 
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1 (720p)" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Fox Sports 1 (720p)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-name="Fox Sports News (1080p)" tvg-logo="https://imageresizer.static9.net.au/o1PFMN7fDDJgc3t4lf5fd47AvdY=/120x0/smart/https%3A%2F%2Fs3-ap-southeast-2.amazonaws.com%2Fnine-tvmg-images-prod%2F61%2F54%2F83%2F03%2F6%2F615483036.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Fox Sports News (1080p)
-https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
-
-#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW (720p)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" tvg-language="English" group-title="Football - Domestic leagues and cups",NBC Sports NOW (720p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Sky Sports F1
-http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-
-#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" tvg-language="English" group-title="Cricket - ICC global tournaments",SuperSport Cricket
-http://tv.cloudcdn.me:80/live.ts?channelId=125438&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket US" tvg-logo="http://dtil.tmsimg.com/assets/s80621_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Cricket - ICC global tournaments",Willow Cricket US
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
-
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (1080p)" tvg-logo="http://dtil.tmsimg.com/assets/s80621_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Cricket",Willow Sports (1080p)
-https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Sports (Geo)" tvg-logo="http://dtil.tmsimg.com/assets/s80621_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Cricket",Willow Sports (Geo)
-https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBS.Sports.HQ.us2" tvg-name="CBS Sports HQ (720p)" tvg-logo="http://dtil.tmsimg.com/assets/s108919_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Continental club competitions",CBS Sports HQ (720p)
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Combat Sports - Boxing",Sky Sports Premier League
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN (1080p)" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English + Other" group-title="Combat Sports - MMA",ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsXtra.au" tvg-name="Beinsports Xtra" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2437/image" tvg-language="English" group-title="Football",Beinsports Xtra
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Estrella.TV.us2" tvg-name="Estrella TV (1080p)" tvg-logo="http://dtil.tmsimg.com/assets/s65064_ll_h15_af.png?w=360&h=270" group-title="Combat Sports",Estrella TV (1080p)
-https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports.cl@SD" tvg-name="TNT Sports (Chile) (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-language="Other Language" group-title="Rugby - Club and provincial competitions",TNT Sports (Chile) (480p)
+http://205.235.6.29:8000/play/a0xa/index.m3u8
 
