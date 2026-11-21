@@ -1,6 +1,21 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Combat Sports
 
-#EXTINF:-1 tvg-id="TNTSports.cl@SD" tvg-name="TNT Sports (Chile) (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" tvg-language="Other Language" group-title="Combat Sports - MMA",TNT Sports (Chile) (480p)
-http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.ie" tvg-name="TNT Sports 3" tvg-logo="https://iili.io/Ctl07ou.png" tvg-language="English" group-title="Combat Sports - MMA",TNT Sports 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg" tvg-logo="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",FX Movie Channel
+http://89.187.179.148:826/1368/gXwiagaXda/29312
+
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s147367_h15_aa.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 

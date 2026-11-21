@@ -1,72 +1,122 @@
-# Dynamic Sports IPTV & EPG Search Dorks (Generated from sports_catalogue.json)
+# Dynamic Sports IPTV & EPG Search Dorks (Generated from config + catalogues)
 
+filetype:m3u "SuperSport" OR "Sky Sports" OR "Willow Cricket"
+  -> https://www.google.com/search?q=filetype%3Am3u+%22SuperSport%22+OR+%22Sky+Sports%22+OR+%22Willow+Cricket%22
+filetype:m3u8 "Tennis Channel" OR "UFC" OR "Champions League"
+  -> https://www.google.com/search?q=filetype%3Am3u8+%22Tennis+Channel%22+OR+%22UFC%22+OR+%22Champions+League%22
+intitle:"index of" (m3u OR m3u8) (sports OR football OR rugby OR cricket OR tennis)
+  -> https://www.google.com/search?q=intitle%3A%22index+of%22+%28m3u+OR+m3u8%29+%28sports+OR+football+OR+rugby+OR+cricket+OR+tennis%29
+site:gitlab.com inurl:sports.m3u8 OR inurl:sports.m3u
+  -> https://www.google.com/search?q=site%3Agitlab.com+inurl%3Asports.m3u8+OR+inurl%3Asports.m3u
+site:codeberg.org inurl:m3u OR inurl:m3u8 sports
+  -> https://www.google.com/search?q=site%3Acodeberg.org+inurl%3Am3u+OR+inurl%3Am3u8+sports
+filetype:xml inurl:epg sports
+  -> https://www.google.com/search?q=filetype%3Axml+inurl%3Aepg+sports
+filetype:xml.gz xmltv sports
+  -> https://www.google.com/search?q=filetype%3Axml.gz+xmltv+sports
+inurl:epg.xml OR inurl:epg.xml.gz sports
+  -> https://www.google.com/search?q=inurl%3Aepg.xml+OR+inurl%3Aepg.xml.gz+sports
+epgshare01 sports xml.gz
+  -> https://www.google.com/search?q=epgshare01+sports+xml.gz
+tennis channel m3u8
+  -> https://www.google.com/search?q=tennis+channel+m3u8
+atp wta m3u
+  -> https://www.google.com/search?q=atp+wta+m3u
+wimbledon grand slam iptv
+  -> https://www.google.com/search?q=wimbledon+grand+slam+iptv
+willow cricket m3u8
+  -> https://www.google.com/search?q=willow+cricket+m3u8
+sa20 ipl cricket m3u
+  -> https://www.google.com/search?q=sa20+ipl+cricket+m3u
+sky sports cricket m3u8
+  -> https://www.google.com/search?q=sky+sports+cricket+m3u8
+urc rugby m3u8
+  -> https://www.google.com/search?q=urc+rugby+m3u8
+six nations rugby m3u
+  -> https://www.google.com/search?q=six+nations+rugby+m3u
+supersport rugby m3u8
+  -> https://www.google.com/search?q=supersport+rugby+m3u8
+ufc mma m3u8
+  -> https://www.google.com/search?q=ufc+mma+m3u8
+boxing ppv m3u
+  -> https://www.google.com/search?q=boxing+ppv+m3u
+one championship m3u8
+  -> https://www.google.com/search?q=one+championship+m3u8
+premier league m3u8
+  -> https://www.google.com/search?q=premier+league+m3u8
+champions league m3u
+  -> https://www.google.com/search?q=champions+league+m3u
+betway premiership psl m3u8
+  -> https://www.google.com/search?q=betway+premiership+psl+m3u8
 site:github.com filetype:m3u sports
   -> https://www.google.com/search?q=site%3Agithub.com+filetype%3Am3u+sports
 site:gitlab.com filetype:m3u sports
   -> https://www.google.com/search?q=site%3Agitlab.com+filetype%3Am3u+sports
 site:codeberg.org IPTV playlist sports
   -> https://www.google.com/search?q=site%3Acodeberg.org+IPTV+playlist+sports
-filetype:xml.gz xmltv sports
-  -> https://www.google.com/search?q=filetype%3Axml.gz+xmltv+sports
 "tvg-id" "group-title" filetype:m3u sports
   -> https://www.google.com/search?q=%22tvg-id%22+%22group-title%22+filetype%3Am3u+sports
-"Australian Open" "m3u"
-  -> https://www.google.com/search?q=%22Australian+Open%22+%22m3u%22
+intitle:"index of" ("sports.m3u8" OR "sports.m3u")
+  -> https://www.google.com/search?q=intitle%3A%22index+of%22+%28%22sports.m3u8%22+OR+%22sports.m3u%22%29
+intitle:"index of" m3u8 "Tennis"
+  -> https://www.google.com/search?q=intitle%3A%22index+of%22+m3u8+%22Tennis%22
+"Australian Open" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22Australian+Open%22+%28%22m3u%22+OR+%22m3u8%22%29
 "Australian Open" "xmltv"
   -> https://www.google.com/search?q=%22Australian+Open%22+%22xmltv%22
-"French Open / Roland-Garros" "m3u"
-  -> https://www.google.com/search?q=%22French+Open+%2F+Roland-Garros%22+%22m3u%22
+"French Open / Roland-Garros" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22French+Open+%2F+Roland-Garros%22+%28%22m3u%22+OR+%22m3u8%22%29
 "French Open / Roland-Garros" "xmltv"
   -> https://www.google.com/search?q=%22French+Open+%2F+Roland-Garros%22+%22xmltv%22
-"Wimbledon" "m3u"
-  -> https://www.google.com/search?q=%22Wimbledon%22+%22m3u%22
+"Wimbledon" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22Wimbledon%22+%28%22m3u%22+OR+%22m3u8%22%29
 "Wimbledon" "xmltv"
   -> https://www.google.com/search?q=%22Wimbledon%22+%22xmltv%22
-"US Open" "m3u"
-  -> https://www.google.com/search?q=%22US+Open%22+%22m3u%22
+"US Open" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22US+Open%22+%28%22m3u%22+OR+%22m3u8%22%29
 "US Open" "xmltv"
   -> https://www.google.com/search?q=%22US+Open%22+%22xmltv%22
-"ATP Finals" "m3u"
-  -> https://www.google.com/search?q=%22ATP+Finals%22+%22m3u%22
+"ATP Finals" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22ATP+Finals%22+%28%22m3u%22+OR+%22m3u8%22%29
 "ATP Finals" "xmltv"
   -> https://www.google.com/search?q=%22ATP+Finals%22+%22xmltv%22
-"WTA Finals" "m3u"
-  -> https://www.google.com/search?q=%22WTA+Finals%22+%22m3u%22
+"WTA Finals" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22WTA+Finals%22+%28%22m3u%22+OR+%22m3u8%22%29
 "WTA Finals" "xmltv"
   -> https://www.google.com/search?q=%22WTA+Finals%22+%22xmltv%22
-"Davis Cup" "m3u"
-  -> https://www.google.com/search?q=%22Davis+Cup%22+%22m3u%22
+"Davis Cup" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22Davis+Cup%22+%28%22m3u%22+OR+%22m3u8%22%29
 "Davis Cup" "xmltv"
   -> https://www.google.com/search?q=%22Davis+Cup%22+%22xmltv%22
-"Billie Jean King Cup" "m3u"
-  -> https://www.google.com/search?q=%22Billie+Jean+King+Cup%22+%22m3u%22
+"Billie Jean King Cup" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22Billie+Jean+King+Cup%22+%28%22m3u%22+OR+%22m3u8%22%29
 "Billie Jean King Cup" "xmltv"
   -> https://www.google.com/search?q=%22Billie+Jean+King+Cup%22+%22xmltv%22
-"United Cup" "m3u"
-  -> https://www.google.com/search?q=%22United+Cup%22+%22m3u%22
+"United Cup" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22United+Cup%22+%28%22m3u%22+OR+%22m3u8%22%29
 "United Cup" "xmltv"
   -> https://www.google.com/search?q=%22United+Cup%22+%22xmltv%22
-"Laver Cup" "m3u"
-  -> https://www.google.com/search?q=%22Laver+Cup%22+%22m3u%22
+"Laver Cup" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22Laver+Cup%22+%28%22m3u%22+OR+%22m3u8%22%29
 "Laver Cup" "xmltv"
   -> https://www.google.com/search?q=%22Laver+Cup%22+%22xmltv%22
-"ATP Tour" "m3u"
-  -> https://www.google.com/search?q=%22ATP+Tour%22+%22m3u%22
+"ATP Tour" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22ATP+Tour%22+%28%22m3u%22+OR+%22m3u8%22%29
 "ATP Tour" "xmltv"
   -> https://www.google.com/search?q=%22ATP+Tour%22+%22xmltv%22
-"Masters 1000" "m3u"
-  -> https://www.google.com/search?q=%22Masters+1000%22+%22m3u%22
+"Masters 1000" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22Masters+1000%22+%28%22m3u%22+OR+%22m3u8%22%29
 "Masters 1000" "xmltv"
   -> https://www.google.com/search?q=%22Masters+1000%22+%22xmltv%22
-"ATP 500" "m3u"
-  -> https://www.google.com/search?q=%22ATP+500%22+%22m3u%22
+"ATP 500" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22ATP+500%22+%28%22m3u%22+OR+%22m3u8%22%29
 "ATP 500" "xmltv"
   -> https://www.google.com/search?q=%22ATP+500%22+%22xmltv%22
-"ATP 250" "m3u"
-  -> https://www.google.com/search?q=%22ATP+250%22+%22m3u%22
+"ATP 250" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22ATP+250%22+%28%22m3u%22+OR+%22m3u8%22%29
 "ATP 250" "xmltv"
   -> https://www.google.com/search?q=%22ATP+250%22+%22xmltv%22
-"WTA Tour" "m3u"
-  -> https://www.google.com/search?q=%22WTA+Tour%22+%22m3u%22
+"WTA Tour" ("m3u" OR "m3u8")
+  -> https://www.google.com/search?q=%22WTA+Tour%22+%28%22m3u%22+OR+%22m3u8%22%29
 "WTA Tour" "xmltv"
   -> https://www.google.com/search?q=%22WTA+Tour%22+%22xmltv%22

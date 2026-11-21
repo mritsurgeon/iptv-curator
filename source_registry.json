@@ -1,8 +1,93 @@
 {
   "version": "2.0",
-  "generated_at_utc": "2026-11-21T14:11:59.807027+00:00",
-  "total_sources": 13,
+  "generated_at_utc": "2026-11-21T15:43:41.606683+00:00",
+  "total_sources": 18,
   "sources": [
+    {
+      "source_id": "epgshare01_uk1",
+      "name": "EPGShare01 UK1 XMLTV Feed",
+      "source_type": "epg_source",
+      "base_url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "discovery_method": "xmltv_gz",
+      "supported_formats": [
+        "xml.gz"
+      ],
+      "last_successful_scan": "2026-11-21T15:42:04.231960+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:04.231960+00:00",
+      "reliability_score": 0.955,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "epgshare01_ie1",
+      "name": "EPGShare01 IE1 XMLTV Feed",
+      "source_type": "epg_source",
+      "base_url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
+      "discovery_method": "xmltv_gz",
+      "supported_formats": [
+        "xml.gz"
+      ],
+      "last_successful_scan": "2026-11-21T15:42:04.232969+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:04.232969+00:00",
+      "reliability_score": 0.955,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "epgshare01_za1",
+      "name": "EPGShare01 ZA1 XMLTV Feed",
+      "source_type": "epg_source",
+      "base_url": "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
+      "discovery_method": "xmltv_gz",
+      "supported_formats": [
+        "xml.gz"
+      ],
+      "last_successful_scan": "2026-11-21T15:42:04.233974+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:04.233974+00:00",
+      "reliability_score": 0.955,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "epgshare01_us2",
+      "name": "EPGShare01 US2 XMLTV Feed",
+      "source_type": "epg_source",
+      "base_url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "discovery_method": "xmltv_gz",
+      "supported_formats": [
+        "xml.gz"
+      ],
+      "last_successful_scan": "2026-11-21T15:42:04.234970+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:04.234970+00:00",
+      "reliability_score": 0.946,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
+      "source_id": "epgshare01_au1",
+      "name": "EPGShare01 AU1 XMLTV Feed",
+      "source_type": "epg_source",
+      "base_url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
+      "discovery_method": "xmltv_gz",
+      "supported_formats": [
+        "xml.gz"
+      ],
+      "last_successful_scan": "2026-11-21T15:42:04.235988+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:04.235988+00:00",
+      "reliability_score": 0.937,
+      "failure_count": 0,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
     {
       "source_id": "epgshare01_all",
       "name": "EPGShare01 Global XMLTV Repository",
@@ -18,7 +103,7 @@
       "reliability_score": 0.92,
       "failure_count": 0,
       "channels_discovered": 0,
-      "enabled": true,
+      "enabled": false,
       "country": null
     },
     {
@@ -30,11 +115,11 @@
       "supported_formats": [
         "m3u"
       ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.9,
+      "last_successful_scan": "2026-11-21T15:41:32.339294+00:00",
+      "last_attempted_scan": "2026-11-21T15:41:32.339294+00:00",
+      "reliability_score": 0.91,
       "failure_count": 0,
-      "channels_discovered": 0,
+      "channels_discovered": 537,
       "enabled": true,
       "country": null
     },
@@ -47,11 +132,11 @@
       "supported_formats": [
         "json"
       ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.88,
+      "last_successful_scan": "2026-11-21T15:41:33.236061+00:00",
+      "last_attempted_scan": "2026-11-21T15:41:33.236061+00:00",
+      "reliability_score": 0.892,
       "failure_count": 0,
-      "channels_discovered": 0,
+      "channels_discovered": 19405,
       "enabled": true,
       "country": null
     },
@@ -68,11 +153,11 @@
         "xml.gz",
         "json"
       ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.85,
+      "last_successful_scan": "2026-11-21T15:41:05.117937+00:00",
+      "last_attempted_scan": "2026-11-21T15:41:05.117937+00:00",
+      "reliability_score": 0.865,
       "failure_count": 0,
-      "channels_discovered": 0,
+      "channels_discovered": 12303,
       "enabled": true,
       "country": null
     },
@@ -85,11 +170,11 @@
       "supported_formats": [
         "m3u8"
       ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.85,
+      "last_successful_scan": "2026-11-21T15:42:00.694753+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:00.694753+00:00",
+      "reliability_score": 0.865,
       "failure_count": 0,
-      "channels_discovered": 0,
+      "channels_discovered": 2197,
       "enabled": true,
       "country": null
     },
@@ -103,11 +188,11 @@
         "m3u8",
         "json"
       ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.85,
+      "last_successful_scan": "2026-11-21T15:42:04.002017+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:04.002017+00:00",
+      "reliability_score": 0.865,
       "failure_count": 0,
-      "channels_discovered": 0,
+      "channels_discovered": 172,
       "enabled": true,
       "country": null
     },
@@ -121,26 +206,9 @@
         "json",
         "xml"
       ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.85,
-      "failure_count": 0,
-      "channels_discovered": 0,
-      "enabled": true,
-      "country": null
-    },
-    {
-      "source_id": "legalstream_sports",
-      "name": "LegalStream Open Sports Package",
-      "source_type": "public_dataset",
-      "base_url": "https://raw.githubusercontent.com/notanewbie/LegalStream/main/packages/sports/all_sports.m3u8",
-      "discovery_method": "direct_m3u",
-      "supported_formats": [
-        "m3u8"
-      ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.8,
+      "last_successful_scan": "2026-11-21T15:42:04.236936+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:04.236936+00:00",
+      "reliability_score": 0.865,
       "failure_count": 0,
       "channels_discovered": 0,
       "enabled": true,
@@ -159,9 +227,9 @@
         "xml.gz",
         "json"
       ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.75,
+      "last_successful_scan": "2026-11-21T15:41:32.337173+00:00",
+      "last_attempted_scan": "2026-11-21T15:41:32.337173+00:00",
+      "reliability_score": 0.775,
       "failure_count": 0,
       "channels_discovered": 0,
       "enabled": true,
@@ -180,29 +248,9 @@
         "xml.gz",
         "json"
       ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.72,
-      "failure_count": 0,
-      "channels_discovered": 0,
-      "enabled": true,
-      "country": null
-    },
-    {
-      "source_id": "codeberg_public",
-      "name": "Codeberg Public Repositories",
-      "source_type": "git_hosting",
-      "base_url": "https://codeberg.org/api/v1",
-      "discovery_method": "api_search",
-      "supported_formats": [
-        "m3u",
-        "m3u8",
-        "xml",
-        "json"
-      ],
-      "last_successful_scan": null,
-      "last_attempted_scan": null,
-      "reliability_score": 0.7,
+      "last_successful_scan": "2026-11-21T15:42:04.230933+00:00",
+      "last_attempted_scan": "2026-11-21T15:42:04.230933+00:00",
+      "reliability_score": 0.748,
       "failure_count": 0,
       "channels_discovered": 0,
       "enabled": true,
@@ -229,6 +277,26 @@
       "country": null
     },
     {
+      "source_id": "codeberg_public",
+      "name": "Codeberg Public Repositories",
+      "source_type": "git_hosting",
+      "base_url": "https://codeberg.org/api/v1",
+      "discovery_method": "api_search",
+      "supported_formats": [
+        "m3u",
+        "m3u8",
+        "xml",
+        "json"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": "2026-11-21T15:41:32.338205+00:00",
+      "reliability_score": 0.595,
+      "failure_count": 1,
+      "channels_discovered": 0,
+      "enabled": true,
+      "country": null
+    },
+    {
       "source_id": "sourcehut_public",
       "name": "SourceHut Public Repositories",
       "source_type": "git_hosting",
@@ -242,10 +310,27 @@
       ],
       "last_successful_scan": null,
       "last_attempted_scan": null,
-      "reliability_score": 0.65,
-      "failure_count": 0,
+      "reliability_score": 0.2,
+      "failure_count": 1,
       "channels_discovered": 0,
-      "enabled": true,
+      "enabled": false,
+      "country": null
+    },
+    {
+      "source_id": "legalstream_sports",
+      "name": "LegalStream Open Sports Package",
+      "source_type": "public_dataset",
+      "base_url": "https://raw.githubusercontent.com/notanewbie/LegalStream/main/packages/sports/all_sports.m3u8",
+      "discovery_method": "direct_m3u",
+      "supported_formats": [
+        "m3u8"
+      ],
+      "last_successful_scan": null,
+      "last_attempted_scan": null,
+      "reliability_score": 0.1,
+      "failure_count": 1,
+      "channels_discovered": 0,
+      "enabled": false,
       "country": null
     }
   ]
