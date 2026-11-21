@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.ie" tvg-name="TNT Sports 3" tvg-logo="https://iili.io/Ctl07ou.png" tvg-language="English" group-title="Combat Sports - MMA",TNT Sports 3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",USA Network
+https://tvsen6.aynaott.com/usa/index.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg" tvg-logo="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8

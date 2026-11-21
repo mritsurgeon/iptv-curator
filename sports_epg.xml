@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="IPTV-Curator-2.0" date="20261121154341 +0000">
+<tv generator-info-name="IPTV-Curator-2.0" date="20261121161039 +0000">
   <channel id="CBS.Sports.Golazo.Network.us2">
     <display-name>CBS Sports Golazo Network</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
@@ -757,127 +757,8 @@
     <desc lang="en">A weekly, high-energy ride through the most electrifying plays, top teams and star players from around the Big Ten.</desc>
     <category lang="en">Football</category>
   </programme>
-  <channel id="Premier.Sports.2.HD.uk">
-    <display-name>PREMIER SPORTS 2</display-name>
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
-  </channel>
-  <programme start="20261120224500 +0000" stop="20261120230000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Africa Eco Race</title>
-    <desc lang="en">The latest motorsport highlights from the Africa Eco race.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261121040000 +0000" stop="20261121060000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Champions Cup</title>
-    <desc lang="en">Munster Rugby v Racing 92.</desc>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20261121103000 +0000" stop="20261121123000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Abu Dhabi T10 Cricket</title>
-    <desc lang="en">Action from the Qualifier 2 play-off at Zayed Cricket Stadium.</desc>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20261121123000 +0000" stop="20261121143000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Abu Dhabi T10 Cricket</title>
-    <desc lang="en">Action from the final at Zayed Cricket Stadium.</desc>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20261121143000 +0000" stop="20261121144500 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Africa Eco Race</title>
-    <desc lang="en">The latest motorsport highlights from the Africa Eco race.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261121144500 +0000" stop="20261121151500 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Football's Greatest</title>
-    <desc lang="en">The finest players in history discuss their careers.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121171500 +0000" stop="20261121172500 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Villarreal v Getafe.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121172500 +0000" stop="20261121193000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Live LaLiga</title>
-    <desc lang="en">Sevilla v Real Betis (Kick-off 5.30pm). Coverage of the Spanish top-flight match from Estadio Ramón Sanchez Pizjuán.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121193000 +0000" stop="20261121213000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Live Brasileiro Serie A</title>
-    <desc lang="en">Palmeiras v Flamengo (Kick-off 7.30pm). Coverage of the match from Nubank Parque.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122060000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Sevilla v Real Betis.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122060000 +0000" stop="20261122080000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Top 14 Rugby Union</title>
-    <desc lang="en">Vannes v Bordeaux Begles.</desc>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122100000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Brasileiro Serie A</title>
-    <desc lang="en">Palmeiras v Flamengo.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122120000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Abu Dhabi T10 Cricket</title>
-    <desc lang="en">Action from the final at Zayed Cricket Stadium.</desc>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20261122123000 +0000" stop="20261122143000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Sevilla v Real Betis.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Football's Greatest</title>
-    <desc lang="en">The finest players in history discuss their careers.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122213000 +0000" stop="20261122214000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Osasuna v Athletic Bilbao.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122214000 +0000" stop="20261122215500 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Elche v Real Betis.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123010000 +0000" stop="20261123013000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Football's Greatest</title>
-    <desc lang="en">The finest players in history discuss their careers.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Barcelona v Villarreal.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Abu Dhabi T10 Cricket</title>
-    <desc lang="en">Emirates Eagles v Yas Lions.</desc>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20261123123000 +0000" stop="20261123143000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Brasileiro Serie A</title>
-    <desc lang="en">Palmeiras v Flamengo.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Barcelona v Villarreal.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="Premier.Sports.2.HD.uk">
-    <title lang="en">Premier Sports Cup</title>
-    <desc lang="en">Rangers v Aberdeen.</desc>
-    <category lang="en">Rugby</category>
-  </programme>
   <channel id="SkySp.F1.uk">
-    <display-name>Sky Sports F1</display-name>
+    <display-name>SKY Sports F1 (hd)</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
   </channel>
   <programme start="20261120025000 +0000" stop="20261120032000 +0000" channel="SkySp.F1.uk">
@@ -1090,14 +971,124 @@
     <desc lang="en">Join Jamie Chadwick as she fulfils her childhood dream of driving a Formula 1 car.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <channel id="TNT.Sports.3.ie">
-    <display-name>TNT Sports 3</display-name>
-    <icon src="https://iili.io/Ctl07ou.png" />
-  </channel>
   <channel id="beINSportsXtra.au">
     <display-name>beIN Sports XTRA</display-name>
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/2437/image" />
   </channel>
+  <channel id="USA.Network.HD.us2">
+    <display-name>USA Network</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Chicago Fire</title>
+    <desc lang="en">Casey and Naomi fight to escape a raging fire in Casey's apartment; Brett and the team struggle to create an engaging community fire safety presentation; Severide and Kidd's relationship reaches a crossroads.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261120142700 +0000" stop="20261120152600 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Chicago Fire</title>
+    <desc lang="en">Kidd recruits Carver, Capp and Tony to help prepare her new lieutenant's quarters; Severide and Detective Pryma reluctantly pair up to work a police investigation; Firehouse 51 comes together to fight a movie theater fire.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261120192500 +0000" stop="20261120213000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Bundesliga Soccer</title>
+    <desc lang="en">Bayern Munich (6-3-0) hosts 1. FC Köln (2-3-4) in the Bundesliga at Allianz Arena in Munich. Top of the table with 21 points overall, FC Bayern Munchen welcomes a 1. FC Köln team sitting 15th with nine points after a 2-1 loss to Bayer Leverkusen.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261121010000 +0000" stop="20261121030000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: WWE Friday Night SmackDown</title>
+    <desc lang="en">The superstars of World Wrestling Entertainment display their skills and athleticism, as scores are settled and enduring rivalries play out in the ring.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Mornings</title>
+    <desc lang="en">Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261121123000 +0000" stop="20261121143000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Soccer</title>
+    <desc lang="en">Manchester City host Fulham in the Premier League at the Etihad Stadium. Third in the table, Manchester City have lost their last three league games and need a result against a Fulham side 15th that arrives winless in their last two games.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Mornings</title>
+    <desc lang="en">Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261121150000 +0000" stop="20261121170000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Soccer</title>
+    <desc lang="en">Tottenham Hotspur host Ipswich Town in the Premier League at Tottenham Hotspur Stadium, England. Spurs won three straight but suffered a loss at Leeds, while Ipswich arrive without a win in three, having lost to Bournemouth most recently.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121173000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Mornings</title>
+    <desc lang="en">Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261121173000 +0000" stop="20261121193000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Soccer</title>
+    <desc lang="en">Newcastle United (3-3-4) hosts Arsenal (9-0-1) in the Premier League at St. James' Park. The leaders arrive on five straight league wins, while Newcastle, 12th with 12 points, drew its previous game against Fulham behind a goal from Jacob Murphy.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261121193000 +0000" stop="20261121200000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Goal Zone</title>
+    <desc lang="en">The best moments from the weekend in Premier League action.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261121230000 +0000" stop="20261122023000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Bobcat Stadium in San Marcos, Texas.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261122023000 +0000" stop="20261122060000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Albertsons Stadium in Boise, Idaho.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Two and a Half Men</title>
+    <desc lang="en">Charlie and Jake fight for the affections of a waitress, while Alan fights sexual tension with his receptionist.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Mornings</title>
+    <desc lang="en">Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261122140000 +0000" stop="20261122160000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Soccer</title>
+    <desc lang="en">Hull City (2-5-3) hosts Brighton &amp; Hove Albion (7-1-2) in the Premier League at MKM Stadium. Second in the table with 22 points and winner of its last two, Brighton visits a Hull team sitting 13th with 11 points. Hull City looks to Oliver McBurnie.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Mornings</title>
+    <desc lang="en">Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261122163000 +0000" stop="20261122183000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Soccer</title>
+    <desc lang="en">Liverpool (5-3-2) hosts Manchester United (1-5-4) in the Premier League at Anfield. Fourth in the table with 18 points, Liverpool welcomes Manchester United rooted to 18th with eight points after drawing its previous game against Aston Villa 4-4.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261122183000 +0000" stop="20261122193000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Goal Zone</title>
+    <desc lang="en">The best moments from the weekend in Premier League action.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Premier League Live</title>
+    <desc lang="en">Discussion and analysis of Premier League soccer.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Soccer</title>
+    <desc lang="en">Brentford (3-5-2) hosts Everton (4-4-2) in the Premier League at Gtech Community Stadium. Sixth-placed Everton arrives on back-to-back league wins, while Brentford sits eighth after losing its last Premier League outing to Brighton 2-0.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123223000 +0000" channel="USA.Network.HD.us2">
+    <title lang="en">Live: Premier League Goal Zone</title>
+    <desc lang="en">The best moments from the weekend in Premier League action.</desc>
+    <category lang="en">Football</category>
+  </programme>
   <channel id="TennisChannel.us">
     <display-name>Tennis Channel 2</display-name>
     <icon src="https://image.xumo.com/v1/channels/channel/99951389/500x500.webp?type=color_onBlack" />
@@ -1444,7 +1435,7 @@
     <category lang="en">Motorsport</category>
   </programme>
   <channel id="ITV1.HD.uk">
-    <display-name>ITV1</display-name>
+    <display-name>ITV 1</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
   </channel>
   <programme start="20261121093500 +0000" stop="20261121121000 +0000" channel="ITV1.HD.uk">
@@ -1838,144 +1829,5 @@
     <title lang="en">Dog the Bounty Hunter</title>
     <desc lang="en">The team tracks an ex-con who is facing a five-year stretch in the big house; Leland trains for a boxing match.</desc>
     <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Premier.Sports.1.HD.uk">
-    <display-name>PREMIER SPORTS 1</display-name>
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
-  </channel>
-  <programme start="20261120195500 +0000" stop="20261120220000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Live LaLiga</title>
-    <desc lang="en">Athletic Bilbao v Espanyol (Kick-off 8.00pm). Coverage of the Spanish top-flight match from San Mamés.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261120233000 +0000" stop="20261121013000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Athletic Bilbao v Espanyol.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121013000 +0000" stop="20261121033000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Men's Rugby League World Cup</title>
-    <desc lang="en">Action from Australia v New Zealand in the 2026 final.</desc>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20261121090000 +0000" stop="20261121110000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Barcelona v Real Madrid.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121110000 +0000" stop="20261121125500 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Athletic Bilbao v Espanyol.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121125500 +0000" stop="20261121150000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Live LaLiga</title>
-    <desc lang="en">Alaves v Deportivo La Courna (Kick-off 1.00pm). Coverage of the Spanish top-flight match from Campo de Fútbol de Mendizorrotza.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121150000 +0000" stop="20261121151500 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Villarreal v Getafe.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121201500 +0000" stop="20261121203000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Atletico Madrid v Barcelona.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121203000 +0000" stop="20261121210000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Football's Greatest</title>
-    <desc lang="en">The finest players in history discuss their careers.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261121210000 +0000" stop="20261121230000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Rayo Vallecano v Valencia.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122010000 +0000" stop="20261122030000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Alaves v Deportivo La Coruna.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122090000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Alaves v Deportivo La Coruna.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261122125500 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Rayo Vallecano v Valencia.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122125500 +0000" stop="20261122150000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Live LaLiga</title>
-    <desc lang="en">Barcelona v Villarreal (Kick-off 1.00pm). Coverage of the Spanish top-flight match from Spotify Camp Nou.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122151000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Sevilla v Alaves.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122151000 +0000" stop="20261122171500 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Live LaLiga</title>
-    <desc lang="en">Racing Santander v Real Sociedad (Kick-off 3.15pm). Coverage of the Spanish top-flight match from Estadio El Sardinero.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122171500 +0000" stop="20261122172500 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Malaga v Racing Santander.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122172500 +0000" stop="20261122193000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Live LaLiga</title>
-    <desc lang="en">Osasuna v Malaga (Kick-off 5.30pm). Coverage of the Spanish top-flight match from Estadio El Sadar.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122193000 +0000" stop="20261122194000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Espanyol v Deportivo La Coruna.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122194000 +0000" stop="20261122195500 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga Match Highlights</title>
-    <desc lang="en">Osasuna v Athletic Bilbao.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261122195500 +0000" stop="20261122220000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Live LaLiga</title>
-    <desc lang="en">Getafe v Atletico Madrid (Kick-off 8.00pm). Coverage of the Spanish top-flight match from Estadio Coliseum.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123033000 +0000" stop="20261123053000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Levante v Elche.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Alaves v Deportivo La Coruna.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Getafe v Atletico Madrid.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123180000 +0000" stop="20261123195500 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">LaLiga</title>
-    <desc lang="en">Getafe v Atletico Madrid.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123195500 +0000" stop="20261123220000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Live LaLiga</title>
-    <desc lang="en">Levante v Elche (Kick-off 8.00pm). Coverage of the Spanish top-flight match from Estadi Ciutat de Valéncia.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123220000 +0000" stop="20261123223000 +0000" channel="Premier.Sports.1.HD.uk">
-    <title lang="en">Football's Greatest</title>
-    <desc lang="en">The finest players in history discuss their careers.</desc>
-    <category lang="en">Football</category>
   </programme>
 </tv>
