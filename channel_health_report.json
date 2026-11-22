@@ -1,41 +1,38 @@
 {
-  "generated_at_utc": "2026-11-22T07:13:23.070357+00:00",
-  "total_channels": 236,
+  "generated_at_utc": "2026-11-22T16:33:03.732513+00:00",
+  "total_channels": 304,
   "by_verification_status": {
-    "working": 24,
-    "inactive": 189,
-    "auth_required": 23
+    "inactive": 295,
+    "auth_required": 9
   },
   "by_sport": {
-    "Football": 120,
-    "Motorsport": 88,
-    "Tennis": 44,
-    "Combat Sports": 80,
-    "Rugby": 53,
-    "Cricket": 20
+    "Tennis": 46,
+    "Combat Sports": 56,
+    "Football": 194,
+    "Motorsport": 179,
+    "Rugby": 147,
+    "Cricket": 30
   },
   "by_language": {
-    "English": 150,
-    "English + Other": 1,
-    "Unknown": 85
+    "English": 203,
+    "Unknown": 98,
+    "Other Language": 3
   },
   "by_broadcaster": {
-    "CBS Sports": 2,
-    "NBC Sports": 3,
-    "Sky Sports": 29,
-    "beIN Sports": 5,
-    "ESPN": 14,
-    "Fox Sports": 7,
-    "Tennis Channel": 2,
-    "Unspecified": 155,
-    "ITV Sport": 1,
-    "Premier Sports": 4,
-    "SuperSport": 7,
-    "TNT Sports": 6,
-    "Willow Cricket": 1
+    "ESPN": 18,
+    "Fox Sports": 6,
+    "Premier Sports": 6,
+    "Sky Sports": 19,
+    "SuperSport": 10,
+    "Willow Cricket": 2,
+    "beIN Sports": 3,
+    "CBS Sports": 1,
+    "TNT Sports": 7,
+    "Unspecified": 231,
+    "Tennis Channel": 1
   },
-  "auth_required_count": 23,
-  "inactive_count": 189,
+  "auth_required_count": 9,
+  "inactive_count": 295,
   "review_candidates": [],
   "auth_required_channels": [
     {
@@ -44,59 +41,24 @@
       "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/62800.ts"
     },
     {
-      "channel_id": "tntsports1_9f05b12f88",
-      "name": "TNT Sports 1",
-      "url": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase"
-    },
-    {
-      "channel_id": "tntsports2_fd83cf7cfa",
-      "name": "TNT Sports 2",
-      "url": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase"
-    },
-    {
       "channel_id": "transtvindihome_4eae39f45c",
       "name": "TRANSTV(indihome)",
       "url": "https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd"
     },
     {
-      "channel_id": "tntsports3_44120a39ea",
-      "name": "TNT Sports 3",
-      "url": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase"
-    },
-    {
       "channel_id": "tntsports4_fad9495b4f",
-      "name": "TNT Sports 4",
+      "name": "TNT SPORTS 4",
       "url": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase"
     },
     {
       "channel_id": "tennischannel_7131d6a8fc",
-      "name": "Tennis Channel",
+      "name": "TENNIS CHANNEL",
       "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
     },
     {
-      "channel_id": "ktv_19a8dbd4c8",
-      "name": "KTV",
-      "url": "http://89.187.191.99:8080/ktv/index.m3u8"
-    },
-    {
       "channel_id": "ssaction_45643ad03a",
-      "name": "SS ACTION HD",
+      "name": "SS Action",
       "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/117927.ts"
-    },
-    {
-      "channel_id": "ssfootball_2e0ecb5407",
-      "name": "SS FOOTBALL HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/186875.ts"
-    },
-    {
-      "channel_id": "ssgrandstand_fe1ac7af36",
-      "name": "SS GRANDSTAND HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159891.ts"
-    },
-    {
-      "channel_id": "sslaliga_949dcf4a80",
-      "name": "SS LA LIGA HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159894.ts"
     },
     {
       "channel_id": "ssmaximo1_fb7cb66c27",
@@ -104,71 +66,31 @@
       "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159896.ts"
     },
     {
-      "channel_id": "ssmotorsport_1b0330a7fc",
-      "name": "SS MOTORSPORT HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159888.ts"
-    },
-    {
-      "channel_id": "sspsl_50edd13a80",
-      "name": "SS PSL HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159893.ts"
-    },
-    {
-      "channel_id": "sstennis_bd204ba7e6",
-      "name": "SS TENNIS HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159890.ts"
-    },
-    {
-      "channel_id": "ssvariety1_9244fc3efe",
-      "name": "SS VARIETY 1 HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159883.ts"
-    },
-    {
-      "channel_id": "ssvariety2_0dde306a0a",
-      "name": "SS VARIETY 2 HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159884.ts"
-    },
-    {
       "channel_id": "ssvariety4_f2bb520e9f",
       "name": "SS VARIETY 4 HD",
       "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/186869.ts"
     },
     {
-      "channel_id": "sscricket_aaa7372bca",
-      "name": "SS CRICKET HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/117926.ts"
+      "channel_id": "tennis_9c881bdb6b",
+      "name": "Tennis HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159890.ts"
     },
     {
-      "channel_id": "ssrugby_2f8ba65dd7",
-      "name": "SS RUGBY HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159889.ts"
-    },
-    {
-      "channel_id": "ssvariety3_0eed6d398b",
-      "name": "SS VARIETY 3 HD",
-      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/186870.ts"
-    },
-    {
-      "channel_id": "militaryhistory_22e54a0a78",
-      "name": "Military History",
-      "url": "https://frndly.keralive.workers.dev/v1/manifest/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/b5743b11-8438-4785-9975-0ad41f09c0cd/1.m3u8"
+      "channel_id": "news24_dab3b5aef5",
+      "name": "News 24",
+      "url": "http://89.187.191.99:8080/news24/index.m3u8"
     }
   ],
   "inactive_channels": [
     {
-      "channel_id": "ukbtsportespn_c3edcd3b0c",
-      "name": "(UK):BT SPORT ESPN HD",
-      "url": "https://ch.iptvmate.net/57faf16250fb042147086d12ac864670.m3u8"
+      "channel_id": "afssespn2_06b58f363f",
+      "name": "AF | SS ESPN 2 HD",
+      "url": "http://b1g.ooo:80/live/Ada/Ada/39036.m3u8"
     },
     {
-      "channel_id": "ukskysportscricket_920f8006cc",
-      "name": "(UK):SKY SPORTS CRICKET HD",
-      "url": "https://ch.iptvmate.net/b495b337f298645d84bc193311176e99.m3u8"
-    },
-    {
-      "channel_id": "ukskysportsmainevent_07b52b92a4",
-      "name": "(UK):SKY SPORTS MAIN EVENT HD",
-      "url": "https://ch.iptvmate.net/308426bd7ccc5ccd73cb4233f70ad634.m3u8"
+      "channel_id": "afssespn_be1b01640e",
+      "name": "AF | SS ESPN HD",
+      "url": "http://b1g.ooo:80/live/Ada/Ada/39038.m3u8"
     },
     {
       "channel_id": "btespn_b6ffeb2f65",
@@ -177,8 +99,13 @@
     },
     {
       "channel_id": "btsportespn_b7a02fe9ed",
-      "name": "BT Sport ESPN HD",
-      "url": "https://www.vavoo.to/play/3352660234/index.m3u8"
+      "name": "BT SPORT ESPN HD",
+      "url": "https://ch.iptvmate.net/09922b76a46f23de567bd90940dfe39e.m3u890"
+    },
+    {
+      "channel_id": "dstvespn_e70610ddb8",
+      "name": "DSTV | ESPN  HD",
+      "url": "http://skyott.pro:8080/Dh37373dhd/NXt1ugv7bV/1134"
     },
     {
       "channel_id": "espn1_f5f8698152",
@@ -208,7 +135,12 @@
     {
       "channel_id": "espnextra_0892c6ad90",
       "name": "ESPN Extra",
-      "url": "http://iptvtree.net:8080/F25093/29838750/38607"
+      "url": "http://iptvtree.net:8080/F25093/29838750/66298"
+    },
+    {
+      "channel_id": "espn_9f9ec6be27",
+      "name": "ESPN HD",
+      "url": "http://iptvtree.net:8080/F25093/29838750/9070"
     },
     {
       "channel_id": "espnpremium_63d216ddba",
@@ -218,22 +150,17 @@
     {
       "channel_id": "espnnews_9492709a5c",
       "name": "ESPN-News",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/750"
+      "url": "http://yesimes.oknirvana.club:8880/D12m2446/47772223/3135"
     },
     {
       "channel_id": "espnu_4c6775d1a4",
       "name": "ESPN-U",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/752"
+      "url": "http://iptvtree.net:8080/F25093/29838750/9090"
     },
     {
-      "channel_id": "itv4_6b780ea469",
-      "name": "ITV4",
-      "url": "https://www.vavoo.to/play/3349385632/index.m3u8"
-    },
-    {
-      "channel_id": "latinofoxsports1_39b8c3fd3b",
-      "name": "Latino: Fox Sports 1 HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/828"
+      "channel_id": "mysastrofoxsports1_69931734ce",
+      "name": "MYS | Astro Fox Sports 1 FHD",
+      "url": "http://b1g.ooo:80/live/Ada/Ada/57512.m3u8"
     },
     {
       "channel_id": "nowhkpremiersports1_fe91172b24",
@@ -247,13 +174,28 @@
     },
     {
       "channel_id": "premiersports1_6f4ceb39fb",
-      "name": "Premier Sports 1",
-      "url": "https://www.vavoo.to/play/2795556001/index.m3u8"
+      "name": "Premier Sports 1 FHD",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304795"
     },
     {
       "channel_id": "premiersports2_d41e40bea1",
       "name": "Premier Sports 2",
-      "url": "https://www.vavoo.to/play/4002575683/index.m3u8"
+      "url": "http://iptvtree.net:8080/F25093/29838750/304796"
+    },
+    {
+      "channel_id": "skysportscricket_bba4054601",
+      "name": "SKY SPORTS CRICKET HD",
+      "url": "https://ch.iptvmate.net/c45a617988ffa51581f45bcfc4bcb83c.m3u8"
+    },
+    {
+      "channel_id": "skysportsf1_567b465fe2",
+      "name": "SKY SPORTS F1 HD",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/53704"
+    },
+    {
+      "channel_id": "skysportsmainevent_cabaf4ca62",
+      "name": "SKY SPORTS MAIN EVENT",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/35243"
     },
     {
       "channel_id": "skysportscricketb_66bc68ed90",
@@ -297,63 +239,78 @@
     },
     {
       "channel_id": "supersportaction_83464bfe47",
-      "name": "SUPERSPORT ACTION HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3060"
+      "name": "SuperSport Action HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/cFdla210UXFvR2xZOXJWSFdRRnlDWXhHVnZ2bE84YjF2STV0T0V2SzZyK3ZuRU5RaWFEMkZLNmh0czhZcnFZUzFLdTQxRStTWXVDREZLejNxenFxVUE9PQ==.ts"
     },
     {
       "channel_id": "supersportcricket_3e8d9c238b",
-      "name": "SUPERSPORT CRICKET HD",
-      "url": "http://ktv.im:8080/fullpack15months354/213907856/21353"
+      "name": "SuperSport Cricket HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/c3piME1obC9lMTQ4QmMwZW0zc2o4QkVlaGNnVHJUSlYyYkxNSDIrNWo1WWpsSGExRExtL0c5UFBvYk5Wa2FxV1MrM1FGcGorS1crTXZKd1E5ZlA0dHc9PQ==.ts"
     },
     {
-      "channel_id": "supersportgrandstand_765fff610f",
-      "name": "SUPERSPORT GRANDSTAND HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3065"
+      "channel_id": "supersportespn2_0187df8adf",
+      "name": "SuperSport ESPN 2 HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/SDMvK3RCNUdoV2YwZjZoRzlkeElqM3JRUnpNcms1bkhzc2ZPeDJzZTdlL29tSHEyOXR2ZW1ERjMzUFJ1eEVMQ1BHWW1vZ3lCOEJZRDJwSUdmOUVPdkE9PQ==.ts"
     },
     {
-      "channel_id": "supersportrugby_be6e1f8eed",
-      "name": "SUPERSPORT RUGBY HD",
-      "url": "http://ktv.im:8080/fullpack15months354/213907856/21352"
-    },
-    {
-      "channel_id": "skysportscricketuk_d1f8b99bf9",
-      "name": "Sky Sports Cricket HD UK",
-      "url": "https://ch.iptvmate.net/4d7e54a4acb9579f79b3114aa99a645a.m3u8"
-    },
-    {
-      "channel_id": "skysportsf1uk_23237e3b4d",
-      "name": "Sky Sports F1 HD UK",
-      "url": "https://ch.iptvmate.net/3a2b20215a1949f49746f3c2ae8770e9.m3u8"
-    },
-    {
-      "channel_id": "skysportsmainevent_cabaf4ca62",
-      "name": "Sky Sports Main Event",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTUzMzgwMDcyNDc6Y2RubGl2ZXR2LnR2Ojc0YThkN2JlMDQ2OTc5YmEuYWY4OTQ5ZjQxMjNmYThjMWE0Y2Y4NTZjYTkzZmMwMGE0ZjFiYTIyMGI4ODY5MDNmNTFlOTE1YzE5M2M4NGUyZg"
-    },
-    {
-      "channel_id": "skysportsmaineventuk_1a60d19bb8",
-      "name": "Sky Sports Main Event HD UK",
-      "url": "https://ch.iptvmate.net/a914855b74c774ae2035b23a3f8ae41d.m3u8"
-    },
-    {
-      "channel_id": "supersportlaliga_5e9d6ea157",
-      "name": "SuperSport LaLiga",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3064"
+      "channel_id": "supersportespn_d4b18756bc",
+      "name": "SuperSport ESPN HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/THlSNXJjRDJVa1RML0xvNWcxYzRmWGRWMlRncS9TSG0xYUVwQmkwY2xEaGsrcnN5V3QwaWZ5Zzh2QzlzcCt5QUFxUklDeVc4MkdPc0NUS0NTRVVGcUE9PQ==.ts"
     },
     {
       "channel_id": "supersportfootball_a03405b12c",
-      "name": "SuperSport football",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3069"
+      "name": "SuperSport Football HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/cFJwQWZib1ZYYzBxSzhqNEljWjV3NjU2UVlmMXJCZ3Y4YXhwd0dTZEhKYVAxcTVscjVRK05IbHdtbmxlNURSN29rYThxUkZXTzJMa29mNDBPVnZTdHc9PQ==.ts"
     },
     {
-      "channel_id": "tntsportsespn_02177d1f34",
-      "name": "TNT SPORTS ESPN",
-      "url": "https://www.vavoo.to/play/3068684871/index.m3u8"
+      "channel_id": "supersportgrandstand_765fff610f",
+      "name": "SuperSport Grandstand HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/T28wUkE3MlVKTlFZVU5BSUJWUHNlR3BKbWxtUGpNMEYzaTk2dXBtY0xxYzR3WnN2azRSWkJPdC9rUGNYR09TVHlVakxUOEdKU2RVY3ZteDQyNmVBV2c9PQ==.ts"
+    },
+    {
+      "channel_id": "supersportmotorsport_f85de44261",
+      "name": "SuperSport Motorsport HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/Y3lvWTFVby9yUWpHQVpEZWdCR0lYb0pmdldqZnVpYlZsOVd5V3pZa3VXTE05SVl0K1U3K1Y0SDBoeEZMZG85dUJsL2hFMjdTcjZiU2RXMjV0MVlyOVE9PQ==.ts"
+    },
+    {
+      "channel_id": "supersportpsl_7cacb44343",
+      "name": "SuperSport PSL HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/Ty8zZDJaalFkQzRFZy8zbnJiQ1pEeEhPNFAzdnhvYkVCMDY5TmxpZTJaYjl1dWJsTW4rN3R6TlhoRVpWVW0yaDJ4dDlVWnNpMCsraVNZaUpzTTE5Z1E9PQ==.ts"
+    },
+    {
+      "channel_id": "supersportrugby_be6e1f8eed",
+      "name": "SuperSport Rugby HD",
+      "url": "http://s3306.x.pmline.cc:3082/plays/Qmplb3FJRTExM2szUzZhN1UvcjY4Uks0ZVJwRTFNVlhuNi8ydENxK01Zc294VUxFV1pBYm9pVmdGY0MrNyt4WGZDZHIzVWpmK2ZoaHhocjgrVU9JWGc9PQ==.ts"
+    },
+    {
+      "channel_id": "ukbtsportsespn_ef1330ed5a",
+      "name": "UK BT SPORTS ESPN HD",
+      "url": "https://ch.iptvmate.net/94868f4c87780347e141e873a02e9c7a.m3u8"
+    },
+    {
+      "channel_id": "ukskysportsmainevents_84ed450680",
+      "name": "UK Sky Sports Main Events FHD",
+      "url": "https://ch.iptvmate.net/91b78518ddf3fbaac369e617f23f666c.m3u8"
+    },
+    {
+      "channel_id": "ukpremiersports1_3ec2f78a3c",
+      "name": "UK-Premier Sports 1 SD",
+      "url": "http://b1g.ooo:80/live/Ada/Ada/15268.m3u8"
+    },
+    {
+      "channel_id": "ukpremiersports2_deaac31daa",
+      "name": "UK-Premier Sports 2 SD",
+      "url": "http://b1g.ooo:80/live/Ada/Ada/11973.m3u8"
     },
     {
       "channel_id": "ukskysportsf1_92ed1c7516",
-      "name": "UK Sky Sports F1 HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3841"
+      "name": "UK-Sky Sports F1 SD*",
+      "url": "https://ch.iptvmate.net/ff990d00675d29e389de5c5eba123454.m3u8"
+    },
+    {
+      "channel_id": "ukskysportsmainevent_07b52b92a4",
+      "name": "UK-Sky Sports Main Event SD*",
+      "url": "https://ch.iptvmate.net/5e260001a218c8de8d0d7255ca712508.m3u8"
     },
     {
       "channel_id": "usfoxsports1_9d6c08fee4",
@@ -361,49 +318,19 @@
       "url": "http://tvmate.icu:8080/69NpyV/884735/1846"
     },
     {
+      "channel_id": "vipbtsportsespn_2c065588fd",
+      "name": "VIP SD BT Sports ESPN",
+      "url": "https://ch.iptvmate.net/278aec797fd3cb5de3a5eb906c60bda3.m3u8"
+    },
+    {
+      "channel_id": "vipskysportsmainevent_9572b77ae4",
+      "name": "VIP SD Sky Sports Main Event",
+      "url": "https://ch.iptvmate.net/aca7f0657e91b42ee736cb8069cf5443.m3u8"
+    },
+    {
       "channel_id": "willowcricket_f71d6d31ab",
       "name": "Willow Cricket",
       "url": "http://yesimes.oknirvana.club:8880/D12m2446/47772223/31569"
-    },
-    {
-      "channel_id": "beinsports1_783353cb04",
-      "name": "BEINSPORTS 1 HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/46"
-    },
-    {
-      "channel_id": "beinsports2_7a020b2003",
-      "name": "BEINSPORTS 2 HD",
-      "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111901"
-    },
-    {
-      "channel_id": "beinsports3_c282f9f33f",
-      "name": "BEINSPORTS 3 HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/59"
-    },
-    {
-      "channel_id": "cbssportsnetwork_8c797044b8",
-      "name": "CBS Sports Network HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/765"
-    },
-    {
-      "channel_id": "foxsports505_c9852ab79f",
-      "name": "Fox Sports 505",
-      "url": "http://iptvtree.net:8080/F25093/29838750/144772"
-    },
-    {
-      "channel_id": "foxsports506_ade29c128e",
-      "name": "Fox Sports 506",
-      "url": "http://iptvtree.net:8080/F25093/29838750/279033"
-    },
-    {
-      "channel_id": "foxsportsnews_5218e669e7",
-      "name": "Fox Sports News",
-      "url": "http://iptvtree.net:8080/F25093/29838750/76006"
-    },
-    {
-      "channel_id": "nbcsportsboston_c1d773f6a8",
-      "name": "NBC Sports Boston",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/789"
     }
   ]
 }

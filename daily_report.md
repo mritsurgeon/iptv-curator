@@ -1,47 +1,47 @@
 # IPTV Curator 2.0 — Daily Curation Report
-Generated (UTC): `2026-11-22T07:13:23.212301+00:00`
+Generated (UTC): `2026-11-22T16:33:03.908711+00:00`
 
 ## Summary
 - **Total sources scanned**: 14
 - **New candidate streams discovered**: 5000
-- **Channels successfully verified (working)**: 24 (delta vs previous: +17)
-- **Channels failing playback (inactive)**: 189
-- **Channels requiring authentication**: 23
-- **English / English + Other channels**: 151
-- **Channels with matched EPG**: 171
+- **Channels successfully verified (working)**: 0 (delta vs previous: -24)
+- **Channels failing playback (inactive)**: 295
+- **Channels requiring authentication**: 9
+- **English / English + Other channels**: 203
+- **Channels with matched EPG**: 226
 - **Stale EPG sources**: 0
 - **Deactivated in health check**: 0
 - **Restored in health check**: 0
 
 ## Channels by Sport
-- Football: 120
-- Motorsport: 88
-- Combat Sports: 80
-- Rugby: 53
-- Tennis: 44
-- Cricket: 20
+- Football: 194
+- Motorsport: 179
+- Rugby: 147
+- Combat Sports: 56
+- Tennis: 46
+- Cricket: 30
 
 ## Channels by Language
-- English: 150
-- Unknown: 85
-- English + Other: 1
+- English: 203
+- Unknown: 98
+- Other Language: 3
 
 ## Top Competitions
+- Nations Championship: 130
 - Formula 1: 38
-- English Premier League: 34
-- Nations Championship: 32
-- WBA: 27
-- WBC: 27
-- UFC: 24
-- Wimbledon: 22
-- IBF: 22
-- WBO: 22
-- Top Rank: 22
-- Serie A: 20
-- WWE: 20
-- UEFA Champions League: 17
-- US Open: 17
-- PFL: 17
+- WBA: 34
+- WBC: 34
+- UFC: 31
+- IBF: 27
+- WBO: 27
+- Top Rank: 27
+- English Premier League: 25
+- Wimbledon: 23
+- Serie A: 23
+- US Open: 22
+- PFL: 22
+- Australian Open: 21
+- UEFA Champions League: 18
 
 ## Most Reliable Sources
 - **EPGShare01 UK1 XMLTV Feed** (`epg_source`): score `0.955`, discovered `0`
@@ -52,39 +52,27 @@ Generated (UTC): `2026-11-22T07:13:23.212301+00:00`
 - **EPGShare01 Global XMLTV Repository** (`epg_source`): score `0.92`, discovered `0`
 - **iptv-org Sports Category Feed** (`public_dataset`): score `0.91`, discovered `538`
 - **iptv-org Public Channel & Stream Metadata API** (`public_dataset`): score `0.892`, discovered `19374`
-- **GitHub Public Repositories & Code Search** (`git_hosting`): score `0.865`, discovered `14958`
+- **GitHub Public Repositories & Code Search** (`git_hosting`): score `0.865`, discovered `13118`
 - **Free-TV Community IPTV Playlist** (`public_dataset`): score `0.865`, discovered `2197`
 
 ## Borderline Candidates Requiring Review (0)
 
-## Proposed New Competitions (Pending Review)
-- Premier League (seen 3x)
-- Nations Championship English Football League (seen 2x)
-- Porsche Carrera Cup (seen 2x)
-- NTT IndyCar Series Championship (seen 1x)
-- MotoGP AMA National Arenacross Championship (seen 1x)
-- National Arenacross Championship (seen 1x)
-- Major League (seen 1x)
-- NASCAR Cup (seen 1x)
-- Football League (seen 1x)
-- Rugby Nations Championship (seen 1x)
-
 ## Source Provenance & Discovery Intelligence
 ### Top Contributing Providers
-- `github_code_search`: 29 working / 12497 unique (verify: 5.1%, dup: 14%, rej: 6%)
-- `iptv_org_api_channels`: 14 working / 19374 unique (verify: 73.7%, dup: 4%, rej: 0%)
-- `local_seed`: 7 working / 7 unique (verify: 100.0%, dup: 100%, rej: 0%)
-- `iptv_org_sports`: 6 working / 538 unique (verify: 75.0%, dup: 8%, rej: 0%)
-- `free_tv_iptv`: 0 working / 2178 unique (verify: 0.0%, dup: 46%, rej: 0%)
+- `github_code_search`: 0 working / 11134 unique (verify: 0.0%, dup: 14%, rej: 7%)
+- `iptv_org_api_channels`: 0 working / 19374 unique (verify: 0.0%, dup: 4%, rej: 0%)
+- `local_seed`: 0 working / 24 unique (verify: 0.0%, dup: 71%, rej: 4%)
+- `free_tv_iptv`: 0 working / 2178 unique (verify: 0.0%, dup: 45%, rej: 0%)
+- `iptv_org_sports`: 0 working / 538 unique (verify: 0.0%, dup: 7%, rej: 0%)
 
 ### Top Contributing Repositories
-- `doms9/iptv`: 22 working / 45 channels (verify: 48.9%)
-- `chenyuzuoyou/dxtv`: 6 working / 3 channels (verify: 100.0%)
-- `RokuIL/Live-From-Israel`: 2 working / 3 channels (verify: 66.7%)
-- `Rafail1082GitHUB/rafail1982.ru`: 1 working / 2 channels (verify: 50.0%)
-- `SuperNova-Repo/Vavuu-IPTV`: 0 working / 111 channels (verify: 0.0%)
+- `mdarafat1570/M3u-Channel-Test-Cli`: 0 working / 104 channels (verify: 0.0%)
+- `FahadEjaz/m3u`: 0 working / 76 channels (verify: 0.0%)
+- `bangunkarya123/personal`: 0 working / 68 channels (verify: 0.0%)
+- `iptvmate/iptvchannels`: 0 working / 59 channels (verify: 0.0%)
+- `Nipho999/config`: 0 working / 36 channels (verify: 0.0%)
 
-- **Channels with multiple independent origins**: 86
+- **Channels with multiple independent origins**: 94
 - **Channels with unknown stream provenance**: 0
 - **Stopped / disabled sources**: 4
 
