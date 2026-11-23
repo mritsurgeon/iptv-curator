@@ -1,3 +1,21 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Rugby
 
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Rugby - Sevens and rugby league",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" tvg-language="English" group-title="Rugby",BBC One
+http://176.65.153.4:4001/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Rugby - International competitions",ITV1
+http://176.65.153.4:4004/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV HD" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Rugby - International competitions",STV HD
+http://176.65.153.4:4007/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Rugby",Disney Channel
+http://212.5.144.156:8080/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS" tvg-logo="http://dtil.tmsimg.com/assets/s59976_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Rugby",ESPNEWS
+http://41.205.93.154/ESPNNEWS/index.m3u8
+

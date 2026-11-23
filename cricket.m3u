@@ -1,3 +1,9 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Cricket
 
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Cricket",Disney Channel
+http://212.5.144.156:8080/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="DISNEY XD" tvg-logo="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Cricket",DISNEY XD
+http://89.187.179.148:826/1368/gXwiagaXda/1672
+

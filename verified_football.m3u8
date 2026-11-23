@@ -1,3 +1,57 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Football
 
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Continental club competitions",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football",ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",FOX Sports 1 HD
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" tvg-language="English" group-title="Football - Domestic leagues and cups",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+
+#EXTINF:-1 tvg-id="beINSportsXtra.au" tvg-name="beIN Sports XTRA" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2437/image" tvg-language="English" group-title="Football - International tournaments",beIN Sports XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" tvg-language="English" group-title="Football - Continental club competitions",BBC One
+http://176.65.153.4:4001/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",TUDN
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="tfms.xyz: Bloomberg" tvg-logo="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football",tfms.xyz: Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - Domestic leagues and cups",SKY SPORTS PREMIER LEAGUE HD
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Football - Domestic leagues and cups",ITV1
+http://176.65.153.4:4004/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV HD" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Football",STV HD
+http://176.65.153.4:4007/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football",Starz
+http://89.187.179.148:826/1368/gXwiagaXda/1271
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football",truTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football",truTV West
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - Domestic leagues and cups",NBC Sports Philadelphia
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS" tvg-logo="http://dtil.tmsimg.com/assets/s59976_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football",ESPNEWS
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="Galavision.Cable.Network.HD.us2" tvg-name="Galavisión" tvg-logo="http://dtil.tmsimg.com/assets/s68367_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Galavisión
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="NICKTOONS" tvg-logo="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football",NICKTOONS
+http://41.205.93.154/NICKTOONS/index.m3u8
+

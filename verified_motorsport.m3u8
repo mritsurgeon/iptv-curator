@@ -1,3 +1,36 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Motorsport
 
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FOX Sports 1 HD
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",SKY SPORTS F1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FX Movie Channel
+http://89.187.179.148:826/1368/gXwiagaXda/29312
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FloRacing 24/7
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="tfms.xyz: Bloomberg" tvg-logo="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",tfms.xyz: Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC World" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002NF46H.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",CNBC World
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Motorsport",ITV1
+http://176.65.153.4:4004/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV HD" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Motorsport",STV HD
+http://176.65.153.4:4007/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Motorsport",Starz
+http://89.187.179.148:826/1368/gXwiagaXda/1271
+
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS" tvg-logo="http://dtil.tmsimg.com/assets/s59976_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport",ESPNEWS
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
