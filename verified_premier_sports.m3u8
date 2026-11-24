@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Master Sports Catalogue (Fire TV Compatible)
 
-#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" tvg-language="English" group-title="Football - Domestic leagues and cups",NBC Sports NOW
-https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
-
 #EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Continental club competitions",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
@@ -13,20 +10,20 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",FOX Sports 1 HD
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Sky Sports F1 FHD
-http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" tvg-language="English" group-title="Football - Domestic leagues and cups",NBC Sports NOW
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsXtra.au" tvg-name="beIN Sports XTRA" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2437/image" tvg-language="English" group-title="Football - International tournaments",beIN Sports XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",Fuse
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-id="Right.Now.TV.us2" tvg-name="RightNow TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",RightNow TV
+https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
 
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Paramount Network
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC" tvg-logo="http://dtil.tmsimg.com/assets/s56032_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Cricket",Shop LC
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8
 
-#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT (720p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png" tvg-language="English" group-title="Football - Continental club competitions",talkSPORT (720p)
-https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",The Word Network (480p)
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FX Movie Channel
 http://89.187.179.148:826/1368/gXwiagaXda/29312
@@ -34,32 +31,35 @@ http://89.187.179.148:826/1368/gXwiagaXda/29312
 #EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FloRacing 24/7
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Gameshow Network (1080p)" tvg-logo="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",Gameshow Network (1080p)
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT (720p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png" tvg-language="English" group-title="Football - Continental club competitions",talkSPORT (720p)
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Sky Sports F1 FHD
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - Domestic leagues and cups",Sky Sports Premier League SD
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 
+#EXTINF:-1 tvg-id="Channels.24.uk" tvg-name="Channels 24 (720p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5520.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Channels 24 (720p)
+http://edge1.cdn.tvnow.ids-africa.com/ch24/ch24_hi.m3u8
+
+#EXTINF:-1 tvg-id="InTravel.au" tvg-name="INTRAVEL (1080p)" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",INTRAVEL (1080p)
+https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CW.us2" tvg-name="CW" tvg-logo="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",CW
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-
-#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="http://dtil.tmsimg.com/assets/s82773_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",INSP
-http://89.187.179.148:826/1368/gXwiagaXda/96965
-
-#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Law & Crime
-https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Starz Encore Family
-http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",VICE TV
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Sky Sports F1 FHD 25fps
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
 
 #EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV" tvg-logo="http://dtil.tmsimg.com/assets/s73413_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",FETV
 http://89.187.179.148:826/1368/gXwiagaXda/119032
@@ -67,11 +67,20 @@ http://89.187.179.148:826/1368/gXwiagaXda/119032
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV" tvg-logo="http://dtil.tmsimg.com/assets/s49788_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",HGTV
 http://89.187.179.148:826/1368/gXwiagaXda/1589
 
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="http://dtil.tmsimg.com/assets/s82773_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",INSP
+http://89.187.179.148:826/1368/gXwiagaXda/96965
+
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Rugby - International competitions",ITV1
 http://176.65.153.4:4004/play/a07n/index.m3u8
 
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Law & Crime
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",Starz
 http://89.187.179.148:826/1368/gXwiagaXda/1271
+
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family" tvg-logo="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Starz Encore Family
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TBS HD
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
@@ -79,23 +88,32 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",truTV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff TV" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002NRDSC.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Laff TV
-https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Sky Sports F1 FHD 25fps
+http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",ESPN2
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",NBC Sports Philadelphia
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel" tvg-logo="http://dtil.tmsimg.com/assets/s78808_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",American Heroes Channel
-http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+#EXTINF:-1 tvg-id="EWTN.ie" tvg-name="EWTN" tvg-logo="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1198_f.png" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",EWTN
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax West" tvg-logo="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",Cinemax West
-http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-id="InWonder.au" tvg-name="INWONDER (1080p)" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2381/image" tvg-language="English" group-title="Combat Sports",INWONDER (1080p)
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" tvg-language="English" group-title="Football - Continental club competitions",BBC One
+http://176.65.153.4:4001/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://dtil.tmsimg.com/assets/s68065_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
@@ -103,33 +121,27 @@ http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://dtil.tmsimg.com/assets/s61469_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",Crime & Investigation Network
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 
+#EXTINF:-1 tvg-id="Galavision.Cable.Network.HD.us2" tvg-name="Galavisión" tvg-logo="http://dtil.tmsimg.com/assets/s68367_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Galavisión
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+
 #EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" tvg-logo="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Cricket - Bilateral test series",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 
 #EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="MeTV Toons" tvg-logo="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",MeTV Toons
 https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
 
-#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="http://dtil.tmsimg.com/assets/s101364_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football",PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV" tvg-logo="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11164_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TNT
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",Nicktoons
+http://41.205.93.154/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11164_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TNT HD
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West" tvg-logo="http://dtil.tmsimg.com/assets/s42642_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",ESPN2
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" tvg-language="English" group-title="Football - Continental club competitions",BBC One
-http://176.65.153.4:4001/play/a08e/index.m3u8
-
-#EXTINF:-1 tvg-id="Galavision.Cable.Network.HD.us2" tvg-name="Galavisión" tvg-logo="http://dtil.tmsimg.com/assets/s68367_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - International tournaments",Galavisión
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
-
-#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="NICKTOONS" tvg-logo="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",NICKTOONS
-http://41.205.93.154/NICKTOONS/index.m3u8
-
-#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV" tvg-logo="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Newsmax TV
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="CricketGold.au" tvg-name="Cricket Gold" group-title="Cricket",Cricket Gold
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 

@@ -1,79 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="IPTV-Curator-2.0" date="20261124032152 +0000">
-  <channel id="NBC.Sports.Now.us2">
-    <display-name>NBC Sports NOW</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
-  </channel>
-  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Chris Simms Unbuttoned</title>
-    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Big Ten Football Highlights Factory</title>
-    <desc lang="en">A weekly, high-energy ride through the most electrifying plays, top teams and star players from around the Big Ten.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124003000 +0000" stop="20261124010000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">FNIA Overtime</title>
-    <desc lang="en">Football Night in America doesn't end on Sundays. Maria Taylor, Mike Tomlin, Devin McCourty, Jason Garrett and Mike Florio provide a weekly recap of the NFL's top storylines. Plus, interviews in the locker room after a win and sit-down features.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124063000 +0000" stop="20261124070000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Big Ten Football Highlights Factory</title>
-    <desc lang="en">A weekly, high-energy ride through the most electrifying plays, top teams and star players from around the Big Ten.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Chris Simms Unbuttoned</title>
-    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">The 2 Robbies</title>
-    <desc lang="en">Robbie Mustoe and Robbie Earle deliver expert analysis, tactical deep dives and candid opinions on the Premier League's biggest matches, standout players and top storylines.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Premier League Highlights Factory</title>
-    <desc lang="en">Watch soccer's stars, clubs and goals come to life in "Premier League Highlights Factory.".</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Premier League Highlights Factory</title>
-    <desc lang="en">Watch soccer's stars, clubs and goals come to life in "Premier League Highlights Factory.".</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125210000 +0000" stop="20261125220000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Chris Simms Unbuttoned</title>
-    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125230000 +0000" stop="20261126000000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Rushing the Field</title>
-    <desc lang="en">College Football Insider Nicole Auerbach and former Ohio State LB Joshua Perry share their insider knowledge by breaking down the biggest stories and cultivating a community for college sports fans who want the latest news, smart takes and laughs.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126000000 +0000" stop="20261126003000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">FNIA Overtime</title>
-    <desc lang="en">Football Night in America doesn't end on Sundays. Maria Taylor, Mike Tomlin, Devin McCourty, Jason Garrett and Mike Florio provide a weekly recap of the NFL's top storylines. Plus, interviews in the locker room after a win and sit-down features.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126003000 +0000" stop="20261126040000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">College Football</title>
-    <desc lang="en">The SMU Mustangs visit the No. 6 Notre Dame Fighting Irish for an NCAA Division I FBS game. SMU lost 49-7 to Wake Forest on Nov. 14 with Kevin Jennings, while the Notre Dame Fighting Irish ride a three-game win streak with CJ Carr in Week 12.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126110000 +0000" stop="20261126120000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Chris Simms Unbuttoned</title>
-    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="NBC.Sports.Now.us2">
-    <title lang="en">Chris Simms Unbuttoned</title>
-    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
-    <category lang="en">Football</category>
-  </programme>
+<tv generator-info-name="IPTV-Curator-2.0" date="20261124150702 +0000">
   <channel id="CBS.Sports.Golazo.Network.us2">
     <display-name>CBS Sports Golazo Network</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
@@ -648,340 +574,855 @@
     <desc lang="en">Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
     <category lang="en">Football</category>
   </programme>
-  <channel id="SkySp.F1.HD.uk">
-    <display-name>Sky Sports F1 FHD</display-name>
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+  <channel id="NBC.Sports.Now.us2">
+    <display-name>NBC Sports NOW</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
   </channel>
-  <programme start="20261123021500 +0000" stop="20261123030000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Miami 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Canada 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Big Ten Football Highlights Factory</title>
+    <desc lang="en">A weekly, high-energy ride through the most electrifying plays, top teams and star players from around the Big Ten.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Monaco 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261124003000 +0000" stop="20261124010000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">FNIA Overtime</title>
+    <desc lang="en">Football Night in America doesn't end on Sundays. Maria Taylor, Mike Tomlin, Devin McCourty, Jason Garrett and Mike Florio provide a weekly recap of the NFL's top storylines. Plus, interviews in the locker room after a win and sit-down features.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Barcelona 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261124063000 +0000" stop="20261124070000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Big Ten Football Highlights Factory</title>
+    <desc lang="en">A weekly, high-energy ride through the most electrifying plays, top teams and star players from around the Big Ten.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Austria 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123050000 +0000" stop="20261123053500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Britain 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">The 2 Robbies</title>
+    <desc lang="en">Robbie Mustoe and Robbie Earle deliver expert analysis, tactical deep dives and candid opinions on the Premier League's biggest matches, standout players and top storylines.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123053500 +0000" stop="20261123060000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Hungary 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Premier League Highlights Factory</title>
+    <desc lang="en">Watch soccer's stars, clubs and goals come to life in "Premier League Highlights Factory.".</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123113000 +0000" stop="20261123114500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
-    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Premier League Highlights Factory</title>
+    <desc lang="en">Watch soccer's stars, clubs and goals come to life in "Premier League Highlights Factory.".</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123130000 +0000" stop="20261123141500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Las Vegas F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session during Las Vegas Grand Prix weekend. Wet weather led to a quiet FP1, with limited on-track running. (19.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261125210000 +0000" stop="20261125220000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123151500 +0000" stop="20261123163000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Las Vegas F1 GP: Practice 3</title>
-    <desc lang="en">The third and final Formula 1 practice session of Las Vegas Grand Prix weekend on the Strip. More wet running in FP2 saw Mercedes' George Russell record Friday's fastest time. (20.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261125230000 +0000" stop="20261126000000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Rushing the Field</title>
+    <desc lang="en">College Football Insider Nicole Auerbach and former Ohio State LB Joshua Perry share their insider knowledge by breaking down the biggest stories and cultivating a community for college sports fans who want the latest news, smart takes and laughs.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123163000 +0000" stop="20261123164500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
-    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261126000000 +0000" stop="20261126003000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">FNIA Overtime</title>
+    <desc lang="en">Football Night in America doesn't end on Sundays. Maria Taylor, Mike Tomlin, Devin McCourty, Jason Garrett and Mike Florio provide a weekly recap of the NFL's top storylines. Plus, interviews in the locker room after a win and sit-down features.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123184500 +0000" stop="20261123190000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
-    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261126003000 +0000" stop="20261126040000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The SMU Mustangs visit the No. 6 Notre Dame Fighting Irish for an NCAA Division I FBS game. SMU lost 49-7 to Wake Forest on Nov. 14 with Kevin Jennings, while the Notre Dame Fighting Irish ride a three-game win streak with CJ Carr in Week 12.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261123211500 +0000" stop="20261123213000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Jamie Chadwick: An F1 Dream</title>
-    <desc lang="en">Join Jamie Chadwick as she fulfils her childhood dream of driving a Formula 1 car.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261126110000 +0000" stop="20261126120000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Monaco 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Barcelona 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124023000 +0000" stop="20261124030000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Austria 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124030000 +0000" stop="20261124033500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Britain 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124033500 +0000" stop="20261124040000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Hungary 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124040000 +0000" stop="20261124042500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Australia 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124042500 +0000" stop="20261124050000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of China 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124051500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Japan 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124051500 +0000" stop="20261124060000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Miami 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Sao Paulo F1 GP Highlights</title>
-    <desc lang="en">With Mercedes closing in on the constructors' title, Lando Norris leads a mixed-up grid as a number of big names bid to fight their way from the back. (08.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125010000 +0000" stop="20261125012500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Australia 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125012500 +0000" stop="20261125020000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of China 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125020000 +0000" stop="20261125021500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Japan 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125021500 +0000" stop="20261125030000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Miami 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125030000 +0000" stop="20261125033000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Canada 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125033000 +0000" stop="20261125040000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Monaco 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125040000 +0000" stop="20261125043000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Barcelona 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125043000 +0000" stop="20261125050000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Austria 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125050000 +0000" stop="20261125053500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Britain 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125053500 +0000" stop="20261125060000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Hungary 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Sao Paulo F1 GP Highlights</title>
-    <desc lang="en">With Mercedes closing in on the constructors' title, Lando Norris leads a mixed-up grid as a number of big names bid to fight their way from the back. (08.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126010000 +0000" stop="20261126013000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Canada 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126013000 +0000" stop="20261126020000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Monaco 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Barcelona 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Austria 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126030000 +0000" stop="20261126033500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Britain 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126033500 +0000" stop="20261126040000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Hungary 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126040000 +0000" stop="20261126042500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Australia 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126042500 +0000" stop="20261126050000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of China 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126050000 +0000" stop="20261126051500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Japan 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126051500 +0000" stop="20261126060000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Miami 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 GP Highlights 2023</title>
-    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126123000 +0000" stop="20261126124500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Jamie Chadwick: An F1 Dream</title>
-    <desc lang="en">Join Jamie Chadwick as she fulfils her childhood dream of driving a Formula 1 car.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126124500 +0000" stop="20261126150000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 Grand Prix 2023</title>
-    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126164500 +0000" stop="20261126171500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Weekend Wrapped</title>
-    <desc lang="en">Throughout each round of the F1 Academy campaign, revisit each pivotal moment with a recap of the racing in the all-female category. Here, the season-ending stop in Las Vegas.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126183000 +0000" stop="20261126193000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 GP Highlights 2023</title>
-    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="NBC.Sports.Now.us2">
+    <title lang="en">Chris Simms Unbuttoned</title>
+    <desc lang="en">Chris Simms takes an unfiltered look at the NFL, featuring player access, unabashed opinion, X and O film breakdown and stories from a life in and around football.</desc>
+    <category lang="en">Football</category>
   </programme>
   <channel id="beINSportsXtra.au">
     <display-name>beIN Sports XTRA</display-name>
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/2437/image" />
   </channel>
-  <channel id="Fuse.HD.us2">
-    <display-name>Fuse</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Right.Now.TV.us2">
+    <display-name>RightNow TV</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" />
   </channel>
-  <programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Life's Funniest Moments</title>
-    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+  <programme start="20261123203000 +0000" stop="20261123213000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261124060000 +0000" stop="20261124090000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">BKB: Bare Knuckle Boxing</title>
-    <desc lang="en">Features the best bare-knuckle boxing fighters and prospects in action from Bare Knuckle Boxing and BYB Extreme Fighting Series.</desc>
+  <programme start="20261124203000 +0000" stop="20261124213000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Elvis: The Vegas Years</title>
-    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261124213000 +0000" stop="20261124220000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Life's Funniest Moments</title>
-    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+  <programme start="20261125203000 +0000" stop="20261125213000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261125163000 +0000" stop="20261125180000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Stevie Nicks: Wild at Heart</title>
-    <desc lang="en">For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.</desc>
+  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">National Pro GRID League</title>
+    <desc lang="en">Grid is a sport featuring two teams racing head-to-head to complete a series of weightlifting, body-weight and other athletic elements.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126203000 +0000" stop="20261126213000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127050000 +0000" stop="20261127060000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Shop.LC.us2">
+    <display-name>Shop LC</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s56032_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261123060000 +0000" stop="20261123070000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
     <category lang="en">Cricket</category>
   </programme>
-  <programme start="20261126183000 +0000" stop="20261126193000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Elvis: The Vegas Years</title>
-    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
-    <category lang="en">Combat Sports</category>
+  <programme start="20261123070000 +0000" stop="20261123080000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
   </programme>
-  <channel id="Paramount.Network.HD.us2">
-    <display-name>Paramount Network</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+  <programme start="20261123080000 +0000" stop="20261123090000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123100000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123110000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123110000 +0000" stop="20261123120000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123140000 +0000" stop="20261123150000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123170000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125170000 +0000" stop="20261125180000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125180000 +0000" stop="20261125190000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125200000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125210000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125210000 +0000" stop="20261125220000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261125230000 +0000" stop="20261126000000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126060000 +0000" stop="20261126070000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126110000 +0000" stop="20261126120000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126120000 +0000" stop="20261126130000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126130000 +0000" stop="20261126140000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126150000 +0000" stop="20261126160000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126170000 +0000" stop="20261126180000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126180000 +0000" stop="20261126190000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126200000 +0000" stop="20261126210000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126230000 +0000" stop="20261127000000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261127020000 +0000" stop="20261127030000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261127030000 +0000" stop="20261127040000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127050000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261127050000 +0000" stop="20261127060000 +0000" channel="Shop.LC.us2">
+    <title lang="en">Shopping</title>
+    <desc lang="en">Coasting with Carol at Willow and Mercer; Coasting with Carol at Ophelia Swimwear Grand Boulevard; Coasting with Carol at Ophelia Swimwear Grand Boulevard.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <channel id="Word.Network.uk">
+    <display-name>The Word Network (480p)</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" />
   </channel>
-  <programme start="20261123113000 +0000" stop="20261123120000 +0000" channel="Paramount.Network.HD.us2">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">Formula 1 Las Vegas Grand Prix: inside race weekend, from the F1 paddock to the exclusive Bellagio Fountain Club; Jenna Bush Hager reveals the real-life memories inspiring the drama behind the scenes of the "Line of Fire" Thanksgiving episode.</desc>
+  <programme start="20261123021500 +0000" stop="20261123030000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="Paramount.Network.HD.us2">
-    <title lang="en">Bar Rescue</title>
-    <desc lang="en">After a decade of success, a drag racing bar owner sees his profits go up in smoke.</desc>
+  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261124113000 +0000" stop="20261124120000 +0000" channel="Paramount.Network.HD.us2">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">Formula 1 Las Vegas Grand Prix: inside race weekend, from the F1 paddock to the exclusive Bellagio Fountain Club; Jenna Bush Hager reveals the real-life memories inspiring the drama behind the scenes of the "Line of Fire" Thanksgiving episode.</desc>
+  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261125103300 +0000" stop="20261125110000 +0000" channel="Paramount.Network.HD.us2">
-    <title lang="en">Bar Rescue</title>
-    <desc lang="en">Jon attempts to save the legendary Las Vegas speakeasy Capo's Restaurant and bring it back to its pre-pandemic glory.</desc>
-    <category lang="en">Combat Sports</category>
+  <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
-  <channel id="talkSPORT.uk">
-    <display-name>talkSPORT (720p)</display-name>
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png" />
-  </channel>
-  <programme start="20261123190000 +0000" stop="20261123220000 +0000" channel="talkSPORT.uk">
-    <title lang="en">Kick Off - Brentford v Everton</title>
-    <desc lang="en">Adrian Durham presents live Premier League commentary.</desc>
-    <category lang="en">Football</category>
+  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261124190000 +0000" stop="20261124220000 +0000" channel="talkSPORT.uk">
-    <title lang="en">Kick Off - Manchester City v Napoli</title>
-    <desc lang="en">Adrian Durham presents live Champions League commentary. Portsmouth v West Ham is on talkSPORT 2.</desc>
-    <category lang="en">Football</category>
+  <programme start="20261123050000 +0000" stop="20261123053500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261125190000 +0000" stop="20261125220000 +0000" channel="talkSPORT.uk">
-    <title lang="en">Kick Off - Sporting v Man Utd</title>
-    <desc lang="en">Adrian Durham presents live Champions League commentary. Club Brugge v Liverpool is on talkSPORT 2.</desc>
-    <category lang="en">Football</category>
+  <programme start="20261123053500 +0000" stop="20261123060000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126190000 +0000" stop="20261126220000 +0000" channel="talkSPORT.uk">
-    <title lang="en">Kick Off with Natalie Sawyer</title>
-    <desc lang="en">The best football discussion, debate and live coverage. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).</desc>
-    <category lang="en">Football</category>
+  <programme start="20261123113000 +0000" stop="20261123114500 +0000" channel="Word.Network.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123130000 +0000" stop="20261123141500 +0000" channel="Word.Network.uk">
+    <title lang="en">Las Vegas F1 GP: Practice 2</title>
+    <desc lang="en">The second Formula 1 practice session during Las Vegas Grand Prix weekend. Wet weather led to a quiet FP1, with limited on-track running. (19.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123151500 +0000" stop="20261123163000 +0000" channel="Word.Network.uk">
+    <title lang="en">Las Vegas F1 GP: Practice 3</title>
+    <desc lang="en">The third and final Formula 1 practice session of Las Vegas Grand Prix weekend on the Strip. More wet running in FP2 saw Mercedes' George Russell record Friday's fastest time. (20.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123163000 +0000" stop="20261123164500 +0000" channel="Word.Network.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123184500 +0000" stop="20261123190000 +0000" channel="Word.Network.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123211500 +0000" stop="20261123213000 +0000" channel="Word.Network.uk">
+    <title lang="en">Jamie Chadwick: An F1 Dream</title>
+    <desc lang="en">Join Jamie Chadwick as she fulfils her childhood dream of driving a Formula 1 car.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124023000 +0000" stop="20261124030000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124033500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124033500 +0000" stop="20261124040000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124042500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124042500 +0000" stop="20261124050000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124051500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124051500 +0000" stop="20261124060000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Word.Network.uk">
+    <title lang="en">Sao Paulo F1 GP Highlights</title>
+    <desc lang="en">With Mercedes closing in on the constructors' title, Lando Norris leads a mixed-up grid as a number of big names bid to fight their way from the back. (08.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125012500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125012500 +0000" stop="20261125020000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125021500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125021500 +0000" stop="20261125030000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125033000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125033000 +0000" stop="20261125040000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125043000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125043000 +0000" stop="20261125050000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125053500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125053500 +0000" stop="20261125060000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="Word.Network.uk">
+    <title lang="en">Sao Paulo F1 GP Highlights</title>
+    <desc lang="en">With Mercedes closing in on the constructors' title, Lando Norris leads a mixed-up grid as a number of big names bid to fight their way from the back. (08.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126013000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126013000 +0000" stop="20261126020000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126030000 +0000" stop="20261126033500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126033500 +0000" stop="20261126040000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126042500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126042500 +0000" stop="20261126050000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126051500 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126051500 +0000" stop="20261126060000 +0000" channel="Word.Network.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="Word.Network.uk">
+    <title lang="en">Qatar F1 GP Highlights 2023</title>
+    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126123000 +0000" stop="20261126124500 +0000" channel="Word.Network.uk">
+    <title lang="en">Jamie Chadwick: An F1 Dream</title>
+    <desc lang="en">Join Jamie Chadwick as she fulfils her childhood dream of driving a Formula 1 car.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126124500 +0000" stop="20261126150000 +0000" channel="Word.Network.uk">
+    <title lang="en">Qatar F1 Grand Prix 2023</title>
+    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126164500 +0000" stop="20261126171500 +0000" channel="Word.Network.uk">
+    <title lang="en">Weekend Wrapped</title>
+    <desc lang="en">Throughout each round of the F1 Academy campaign, revisit each pivotal moment with a recap of the racing in the all-female category. Here, the season-ending stop in Las Vegas.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126183000 +0000" stop="20261126193000 +0000" channel="Word.Network.uk">
+    <title lang="en">Qatar F1 GP Highlights 2023</title>
+    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
   <channel id="FX.Movie.Channel.HD.us2">
     <display-name>FX Movie Channel</display-name>
@@ -1291,6 +1732,40 @@
     <desc lang="en">The NASCAR Modified Tour hits the pavement at New Smyrna Speedway for open-wheel action, from Feb. 11, 2022.</desc>
     <category lang="en">Motorsport</category>
   </programme>
+  <channel id="Fuse.HD.us2">
+    <display-name>Fuse</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Life's Funniest Moments</title>
+    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124090000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">BKB: Bare Knuckle Boxing</title>
+    <desc lang="en">Features the best bare-knuckle boxing fighters and prospects in action from Bare Knuckle Boxing and BYB Extreme Fighting Series.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Elvis: The Vegas Years</title>
+    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124213000 +0000" stop="20261124220000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Life's Funniest Moments</title>
+    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125163000 +0000" stop="20261125180000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Stevie Nicks: Wild at Heart</title>
+    <desc lang="en">For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126183000 +0000" stop="20261126193000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Elvis: The Vegas Years</title>
+    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
   <channel id="Game.Show.Network.HD.us2">
     <display-name>Gameshow Network (1080p)</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
@@ -1308,6 +1783,30 @@
   <programme start="20261125220000 +0000" stop="20261125223000 +0000" channel="Game.Show.Network.HD.us2">
     <title lang="en">Flip Side</title>
     <desc lang="en">Former wrestlers Matt and Delenia take Katy and Ceil to the ring.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Paramount.Network.HD.us2">
+    <display-name>Paramount Network</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261123113000 +0000" stop="20261123120000 +0000" channel="Paramount.Network.HD.us2">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">Formula 1 Las Vegas Grand Prix: inside race weekend, from the F1 paddock to the exclusive Bellagio Fountain Club; Jenna Bush Hager reveals the real-life memories inspiring the drama behind the scenes of the "Line of Fire" Thanksgiving episode.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="Paramount.Network.HD.us2">
+    <title lang="en">Bar Rescue</title>
+    <desc lang="en">After a decade of success, a drag racing bar owner sees his profits go up in smoke.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124113000 +0000" stop="20261124120000 +0000" channel="Paramount.Network.HD.us2">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">Formula 1 Las Vegas Grand Prix: inside race weekend, from the F1 paddock to the exclusive Bellagio Fountain Club; Jenna Bush Hager reveals the real-life memories inspiring the drama behind the scenes of the "Line of Fire" Thanksgiving episode.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125103300 +0000" stop="20261125110000 +0000" channel="Paramount.Network.HD.us2">
+    <title lang="en">Bar Rescue</title>
+    <desc lang="en">Jon attempts to save the legendary Las Vegas speakeasy Capo's Restaurant and bring it back to its pre-pandemic glory.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
   <channel id="TUDN.us2">
@@ -1568,6 +2067,279 @@
     <title lang="en">Live: Línea de cuatro</title>
     <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
     <category lang="en">Football</category>
+  </programme>
+  <channel id="talkSPORT.uk">
+    <display-name>talkSPORT (720p)</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png" />
+  </channel>
+  <programme start="20261123190000 +0000" stop="20261123220000 +0000" channel="talkSPORT.uk">
+    <title lang="en">Kick Off - Brentford v Everton</title>
+    <desc lang="en">Adrian Durham presents live Premier League commentary.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124220000 +0000" channel="talkSPORT.uk">
+    <title lang="en">Kick Off - Manchester City v Napoli</title>
+    <desc lang="en">Adrian Durham presents live Champions League commentary. Portsmouth v West Ham is on talkSPORT 2.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125220000 +0000" channel="talkSPORT.uk">
+    <title lang="en">Kick Off - Sporting v Man Utd</title>
+    <desc lang="en">Adrian Durham presents live Champions League commentary. Club Brugge v Liverpool is on talkSPORT 2.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261126190000 +0000" stop="20261126220000 +0000" channel="talkSPORT.uk">
+    <title lang="en">Kick Off with Natalie Sawyer</title>
+    <desc lang="en">The best football discussion, debate and live coverage. Call the show on 03717 22 33 44 (Calls charged at national rate) or text 81089 (50p + charges).</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <channel id="SkySp.F1.HD.uk">
+    <display-name>Sky Sports F1 FHD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+  </channel>
+  <programme start="20261123021500 +0000" stop="20261123030000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123030000 +0000" stop="20261123033000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123050000 +0000" stop="20261123053500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123053500 +0000" stop="20261123060000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123113000 +0000" stop="20261123114500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123130000 +0000" stop="20261123141500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Las Vegas F1 GP: Practice 2</title>
+    <desc lang="en">The second Formula 1 practice session during Las Vegas Grand Prix weekend. Wet weather led to a quiet FP1, with limited on-track running. (19.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123151500 +0000" stop="20261123163000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Las Vegas F1 GP: Practice 3</title>
+    <desc lang="en">The third and final Formula 1 practice session of Las Vegas Grand Prix weekend on the Strip. More wet running in FP2 saw Mercedes' George Russell record Friday's fastest time. (20.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123163000 +0000" stop="20261123164500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123184500 +0000" stop="20261123190000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261123211500 +0000" stop="20261123213000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Jamie Chadwick: An F1 Dream</title>
+    <desc lang="en">Join Jamie Chadwick as she fulfils her childhood dream of driving a Formula 1 car.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124023000 +0000" stop="20261124030000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124033500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124033500 +0000" stop="20261124040000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124042500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124042500 +0000" stop="20261124050000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124051500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124051500 +0000" stop="20261124060000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Sao Paulo F1 GP Highlights</title>
+    <desc lang="en">With Mercedes closing in on the constructors' title, Lando Norris leads a mixed-up grid as a number of big names bid to fight their way from the back. (08.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125012500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125012500 +0000" stop="20261125020000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125021500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125021500 +0000" stop="20261125030000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125033000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125033000 +0000" stop="20261125040000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125043000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125043000 +0000" stop="20261125050000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125053500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125053500 +0000" stop="20261125060000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Sao Paulo F1 GP Highlights</title>
+    <desc lang="en">With Mercedes closing in on the constructors' title, Lando Norris leads a mixed-up grid as a number of big names bid to fight their way from the back. (08.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126013000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Canada 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126013000 +0000" stop="20261126020000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Monaco 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126030000 +0000" stop="20261126033500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126033500 +0000" stop="20261126040000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126042500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126042500 +0000" stop="20261126050000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126051500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126051500 +0000" stop="20261126060000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Qatar F1 GP Highlights 2023</title>
+    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126123000 +0000" stop="20261126124500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Jamie Chadwick: An F1 Dream</title>
+    <desc lang="en">Join Jamie Chadwick as she fulfils her childhood dream of driving a Formula 1 car.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126124500 +0000" stop="20261126150000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Qatar F1 Grand Prix 2023</title>
+    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126164500 +0000" stop="20261126171500 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Weekend Wrapped</title>
+    <desc lang="en">Throughout each round of the F1 Academy campaign, revisit each pivotal moment with a recap of the racing in the all-female category. Here, the season-ending stop in Las Vegas.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126183000 +0000" stop="20261126193000 +0000" channel="SkySp.F1.HD.uk">
+    <title lang="en">Qatar F1 GP Highlights 2023</title>
+    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
   <channel id="SkySp.PL.HD.uk">
     <display-name>Sky Sports Premier League SD</display-name>
@@ -2078,6 +2850,54 @@
     <desc lang="en">Revisit the annals of Premier League history with the 2023-2024 season, a campaign that saw Manchester City go one step further, winning an unprecedented fourth-successive top-flight title.</desc>
     <category lang="en">Football</category>
   </programme>
+  <channel id="Channels.24.uk">
+    <display-name>Channels 24 (720p)</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5520.png" />
+  </channel>
+  <programme start="20261124203000 +0000" stop="20261124210000 +0000" channel="Channels.24.uk">
+    <title lang="en">WILD AFRICA</title>
+    <desc lang="en">A programme based on the wild, every heartbeat is a fight for survival. Witness nature¿s raw power and fragile beauty in Kingdoms of the Wild as you enjoy the show.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125143000 +0000" stop="20261125150000 +0000" channel="Channels.24.uk">
+    <title lang="en">WILD AFRICA</title>
+    <desc lang="en">A programme based on the wild, every heartbeat is a fight for survival. Witness nature¿s raw power and fragile beauty in Kingdoms of the Wild as you enjoy the show.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="InTravel.au">
+    <display-name>INTRAVEL (1080p)</display-name>
+    <icon src="https://www.fetchtv.com.au/v2/epg/channels/2611/image" />
+  </channel>
+  <programme start="20261124030300 +0000" stop="20261124033300 +0000" channel="InTravel.au">
+    <title lang="en">Piri's Tiki Tour</title>
+    <desc lang="en">Piri and ex Crusader Tu Umaga-Marshall are in Whakatane. Hosted by Henare Ruru and Henare Rangitaawa of The Dive Squad, they target Haku (Kingfish), give tips and tricks to the Taneatua and Paroa Rugby Clubs and go on a Boar hunt.</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20261124033300 +0000" stop="20261124040300 +0000" channel="InTravel.au">
+    <title lang="en">Piri's Tiki Tour</title>
+    <desc lang="en">Piri and ex Warrior Paul Whatuira are in Waikawa (Picton), diving and gathering kai for the local Kaumatua, trying for a day time Tuna (Eel) with Shannon’s son Malone and having a run around at the Motueka Rugby Club.</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124062900 +0000" channel="InTravel.au">
+    <title lang="en">Piri's Tiki Tour</title>
+    <desc lang="en">Piri and ex Crusader Tu Umaga-Marshall are in Whakatane. Hosted by Henare Ruru and Henare Rangitaawa of The Dive Squad, they target Haku (Kingfish), give tips and tricks to the Taneatua and Paroa Rugby Clubs and go on a Boar hunt.</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20261124062900 +0000" stop="20261124065900 +0000" channel="InTravel.au">
+    <title lang="en">Piri's Tiki Tour</title>
+    <desc lang="en">Piri and ex Warrior Paul Whatuira are in Waikawa (Picton), diving and gathering kai for the local Kaumatua, trying for a day time Tuna (Eel) with Shannon’s son Malone and having a run around at the Motueka Rugby Club.</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20261124144300 +0000" stop="20261124151300 +0000" channel="InTravel.au">
+    <title lang="en">Taste Of France</title>
+    <desc lang="en">In this program Amandine Chaignot demonstrates the extent of her talent, serving refined vegetarian-focused cuisine. We’ll get to know her secrets for stimulating flavors and the principles behind her raw, refined French cuisine.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127221800 +0000" stop="20261127231700 +0000" channel="InTravel.au">
+    <title lang="en">Road Less Traveled</title>
+    <desc lang="en">Russia, the nation of czars! Jonathan bounces around opulent subway networks, chances upon Russia's legendary space exploration initiative, heads to Grozny for gritty hands on combat, and so much more!</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
   <channel id="CW.us2">
     <display-name>CW</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&amp;h=270" />
@@ -2097,6 +2917,44 @@
     <desc lang="en">Siblings fight like cats and dogs.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
+  <channel id="Family.Entertainment.Television.us2">
+    <display-name>FETV</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s73413_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261123073500 +0000" stop="20261123081000 +0000" channel="Family.Entertainment.Television.us2">
+    <title lang="en">Leave It to Beaver</title>
+    <desc lang="en">Beaver has a fight with a friend who is supposed to stay overnight.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261123160500 +0000" stop="20261123164000 +0000" channel="Family.Entertainment.Television.us2">
+    <title lang="en">Leave It to Beaver</title>
+    <desc lang="en">Beaver has a fight with a friend who is supposed to stay overnight.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127021500 +0000" stop="20261127032500 +0000" channel="Family.Entertainment.Television.us2">
+    <title lang="en">Emergency!</title>
+    <desc lang="en">A former athlete pushes his daughter too hard in a quest for Olympic glory; a man becomes trapped within an aircraft's landing gear.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Home.and.Garden.Television.HD.us2">
+    <display-name>HGTV</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s49788_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261125033100 +0000" stop="20261125040000 +0000" channel="Home.and.Garden.Television.HD.us2">
+    <title lang="en">House Hunters International</title>
+    <desc lang="en">A North Carolina man sells everything to launch a consulting business and pursue his passion for Muay Thai in Bangkok; he's looking for a place with lots of space and amenities; he may have to compromise on price to be in the area he wants.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125063100 +0000" stop="20261125070000 +0000" channel="Home.and.Garden.Television.HD.us2">
+    <title lang="en">House Hunters International</title>
+    <desc lang="en">A North Carolina man sells everything to launch a consulting business and pursue his passion for Muay Thai in Bangkok; he's looking for a place with lots of space and amenities; he may have to compromise on price to be in the area he wants.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125223000 +0000" channel="Home.and.Garden.Television.HD.us2">
+    <title lang="en">House Hunters</title>
+    <desc lang="en">A couple searches for a home with a dojo for MMA training in Knoxville, TN.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
   <channel id="INSP.HD.us2">
     <display-name>INSP</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s82773_ll_h15_ac.png?w=360&amp;h=270" />
@@ -2110,6 +2968,20 @@
     <title lang="en">Wagon Train</title>
     <desc lang="en">An aging pioneer (Neville Brand) heads to the wilderness to die when he realizes that his days of glory are behind him.</desc>
     <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="ITV1.HD.uk">
+    <display-name>ITV1</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
+  </channel>
+  <programme start="20261123001500 +0000" stop="20261123012000 +0000" channel="ITV1.HD.uk">
+    <title lang="en">The Debrief with Dan and ROG</title>
+    <desc lang="en">Claire Thomas is joined by Dan Biggar and Ronan O'Gara to review the weekend's matches in the Rugby Nations Championship.</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20261123030000 +0000" stop="20261123035000 +0000" channel="ITV1.HD.uk">
+    <title lang="en">Motorsport UK</title>
+    <desc lang="en">Richard John Neill presents MSUK from Silverstone with racing from the Porsche Carrera Cup Great Britain and F4.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
   <channel id="Law.and.Crime.us2">
     <display-name>Law &amp; Crime</display-name>
@@ -2175,131 +3047,6 @@
     <desc lang="en">Lil Durk's murder-for-hire case, solitary confinement battle and fight for freedom.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <channel id="Starz.Encore.Family.SD.us2">
-    <display-name>Starz Encore Family</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261124083300 +0000" stop="20261124100700 +0000" channel="Starz.Encore.Family.SD.us2">
-    <title lang="en">Wiener Dog Internationals</title>
-    <desc lang="en">The Jack family enters the international world of wiener dog racing and stumbles upon a nefarious plan by the devious Mrs. Merryweather.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261124131700 +0000" stop="20261124144800 +0000" channel="Starz.Encore.Family.SD.us2">
-    <title lang="en">Pups United</title>
-    <desc lang="en">A group of talking dogs team up to save the Youth World Cup soccer finals.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124234800 +0000" stop="20261125011900 +0000" channel="Starz.Encore.Family.SD.us2">
-    <title lang="en">Pups United</title>
-    <desc lang="en">A group of talking dogs team up to save the Youth World Cup soccer finals.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126024900 +0000" stop="20261126041700 +0000" channel="Starz.Encore.Family.SD.us2">
-    <title lang="en">Pegasus: Pony With a Broken Wing</title>
-    <desc lang="en">When Sydney and a neighbor boy find a mysterious pony that has an injured wing, they secretly heal the creature while racing to save Sydney's family ranch from developers.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <channel id="Vice.HD.us2">
-    <display-name>VICE TV</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="Vice.HD.us2">
-    <title lang="en">King of the Road</title>
-    <desc lang="en">Friendships are strained as two guys on each team must remain handcuffed together for 24 hours; Creature shoots guns; Lizard and Foy fight over taking a shower.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="Vice.HD.us2">
-    <title lang="en">Chasing Speed</title>
-    <desc lang="en">A season of dominance and chaos unfolds, Hagan battles Prock, Austin rises, fortunes flip in Top Fuel, and Indy looms with glory, heartbreak, and fiery accusations.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="Vice.HD.us2">
-    <title lang="en">Chasing Speed</title>
-    <desc lang="en">A season of dominance and chaos unfolds, Hagan battles Prock, Austin rises, fortunes flip in Top Fuel, and Indy looms with glory, heartbreak, and fiery accusations.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="Vice.HD.us2">
-    <title lang="en">The Verdict</title>
-    <desc lang="en">Deciding the greatest tennis player in history, Federer, Nadal or Djokovic.</desc>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20261124210000 +0000" stop="20261124230000 +0000" channel="Vice.HD.us2">
-    <title lang="en">Out of Bounds</title>
-    <desc lang="en">A nuanced look at Antonio Brown's rise and collapse; a story of talent, trauma and what happens when unchecked ambition collides with the relentless machinery of fame and football.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="Vice.HD.us2">
-    <title lang="en">Hells Angels: At War</title>
-    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="Vice.HD.us2">
-    <title lang="en">Hells Angels: At War</title>
-    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="Vice.HD.us2">
-    <title lang="en">Hells Angels: At War</title>
-    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127040000 +0000" stop="20261127050000 +0000" channel="Vice.HD.us2">
-    <title lang="en">Hells Angels: At War</title>
-    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Family.Entertainment.Television.us2">
-    <display-name>FETV</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s73413_ll_h15_ab.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261123073500 +0000" stop="20261123081000 +0000" channel="Family.Entertainment.Television.us2">
-    <title lang="en">Leave It to Beaver</title>
-    <desc lang="en">Beaver has a fight with a friend who is supposed to stay overnight.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261123160500 +0000" stop="20261123164000 +0000" channel="Family.Entertainment.Television.us2">
-    <title lang="en">Leave It to Beaver</title>
-    <desc lang="en">Beaver has a fight with a friend who is supposed to stay overnight.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127021500 +0000" stop="20261127032500 +0000" channel="Family.Entertainment.Television.us2">
-    <title lang="en">Emergency!</title>
-    <desc lang="en">A former athlete pushes his daughter too hard in a quest for Olympic glory; a man becomes trapped within an aircraft's landing gear.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Home.and.Garden.Television.HD.us2">
-    <display-name>HGTV</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s49788_ll_h15_ab.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261125033100 +0000" stop="20261125040000 +0000" channel="Home.and.Garden.Television.HD.us2">
-    <title lang="en">House Hunters International</title>
-    <desc lang="en">A North Carolina man sells everything to launch a consulting business and pursue his passion for Muay Thai in Bangkok; he's looking for a place with lots of space and amenities; he may have to compromise on price to be in the area he wants.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125063100 +0000" stop="20261125070000 +0000" channel="Home.and.Garden.Television.HD.us2">
-    <title lang="en">House Hunters International</title>
-    <desc lang="en">A North Carolina man sells everything to launch a consulting business and pursue his passion for Muay Thai in Bangkok; he's looking for a place with lots of space and amenities; he may have to compromise on price to be in the area he wants.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125220000 +0000" stop="20261125223000 +0000" channel="Home.and.Garden.Television.HD.us2">
-    <title lang="en">House Hunters</title>
-    <desc lang="en">A couple searches for a home with a dojo for MMA training in Knoxville, TN.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="ITV1.HD.uk">
-    <display-name>ITV1</display-name>
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
-  </channel>
-  <programme start="20261123001500 +0000" stop="20261123012000 +0000" channel="ITV1.HD.uk">
-    <title lang="en">The Debrief with Dan and ROG</title>
-    <desc lang="en">Claire Thomas is joined by Dan Biggar and Ronan O'Gara to review the weekend's matches in the Rugby Nations Championship.</desc>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20261123030000 +0000" stop="20261123035000 +0000" channel="ITV1.HD.uk">
-    <title lang="en">Motorsport UK</title>
-    <desc lang="en">Richard John Neill presents MSUK from Silverstone with racing from the Porsche Carrera Cup Great Britain and F4.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
   <channel id="Starz.HD.us2">
     <display-name>Starz</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
@@ -2328,6 +3075,30 @@
     <title lang="en">Beast</title>
     <desc lang="en">After years away from the cage, a once-feared MMA champion is pulled back in for the fight of his life when his younger brother is put in danger. Reuniting with the trainer who once made him a legend, he commits to one final showdown against the reigning title-holder: a brutal fighter determined to dismantle the ex-champ's legacy in front of the world. Pushed to his breaking point, the contender's stakes are simple: win, or lose everything he's built.</desc>
     <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Starz.Encore.Family.SD.us2">
+    <display-name>Starz Encore Family</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261124083300 +0000" stop="20261124100700 +0000" channel="Starz.Encore.Family.SD.us2">
+    <title lang="en">Wiener Dog Internationals</title>
+    <desc lang="en">The Jack family enters the international world of wiener dog racing and stumbles upon a nefarious plan by the devious Mrs. Merryweather.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261124131700 +0000" stop="20261124144800 +0000" channel="Starz.Encore.Family.SD.us2">
+    <title lang="en">Pups United</title>
+    <desc lang="en">A group of talking dogs team up to save the Youth World Cup soccer finals.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261124234800 +0000" stop="20261125011900 +0000" channel="Starz.Encore.Family.SD.us2">
+    <title lang="en">Pups United</title>
+    <desc lang="en">A group of talking dogs team up to save the Youth World Cup soccer finals.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261126024900 +0000" stop="20261126041700 +0000" channel="Starz.Encore.Family.SD.us2">
+    <title lang="en">Pegasus: Pony With a Broken Wing</title>
+    <desc lang="en">When Sydney and a neighbor boy find a mysterious pony that has an injured wing, they secretly heal the creature while racing to save Sydney's family ranch from developers.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
   <channel id="TBS.HD.us2">
     <display-name>TBS HD</display-name>
@@ -2386,6 +3157,55 @@
     <title lang="en">Friends</title>
     <desc lang="en">Emotions become the feast of the day when the gang plays a game of touch football on Thanksgiving; the turkey is left stewing when the losing team calls for a rematch.</desc>
     <category lang="en">Football</category>
+  </programme>
+  <channel id="Vice.HD.us2">
+    <display-name>VICE TV</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="Vice.HD.us2">
+    <title lang="en">King of the Road</title>
+    <desc lang="en">Friendships are strained as two guys on each team must remain handcuffed together for 24 hours; Creature shoots guns; Lizard and Foy fight over taking a shower.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Chasing Speed</title>
+    <desc lang="en">A season of dominance and chaos unfolds, Hagan battles Prock, Austin rises, fortunes flip in Top Fuel, and Indy looms with glory, heartbreak, and fiery accusations.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Chasing Speed</title>
+    <desc lang="en">A season of dominance and chaos unfolds, Hagan battles Prock, Austin rises, fortunes flip in Top Fuel, and Indy looms with glory, heartbreak, and fiery accusations.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="Vice.HD.us2">
+    <title lang="en">The Verdict</title>
+    <desc lang="en">Deciding the greatest tennis player in history, Federer, Nadal or Djokovic.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261124210000 +0000" stop="20261124230000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Out of Bounds</title>
+    <desc lang="en">A nuanced look at Antonio Brown's rise and collapse; a story of talent, trauma and what happens when unchecked ambition collides with the relentless machinery of fame and football.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Hells Angels: At War</title>
+    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Hells Angels: At War</title>
+    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Hells Angels: At War</title>
+    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127040000 +0000" stop="20261127050000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Hells Angels: At War</title>
+    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
+    <category lang="en">Combat Sports</category>
   </programme>
   <channel id="truTV.HD.us2">
     <display-name>truTV</display-name>
@@ -2455,44 +3275,54 @@
     <desc lang="en">The guys serve up raw deals at a pawn shop counter and try to convince strangers to give them hugs; the loser performs his life story through songs.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <channel id="Laff.us2">
-    <display-name>Laff TV</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NRDSC.png?w=360&amp;h=270" />
+  <channel id="ESPN2.HD.us2">
+    <display-name>ESPN2</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
   </channel>
-  <programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="Laff.us2">
-    <title lang="en">Last Man Standing</title>
-    <desc lang="en">When Mike gets NASCAR driver Tony Stewart and his racecar in the store, he realizes how much he misses the adrenaline rush he used to get from his adventures on the road; Vanessa thinks about how she used to take more chances before she was a mom.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261123070000 +0000" stop="20261123090000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Georgia Tech Yellow Jackets (3-7, 2-5 ACC) host the No. 11 Wake Forest Demon Deacons (9-1, 6-1) in Atlanta. With only one loss this season, Wake Forest enters after beating SMU 49-7, while Georgia Tech beat Clemson 20-6 behind Alberto Mendoza.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="Laff.us2">
-    <title lang="en">That '70s Show</title>
-    <desc lang="en">The gang gets ready to graduate with the class of 1978; Kelso and Hyde fight over Jackie; Eric and Donna say farewell to childhood; Fez comes up with a plan to stay in the country; Red fantasizes about life after the children are gone.</desc>
+  <programme start="20261123190000 +0000" stop="20261123193000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">The Breakdown With Peyton and Kuechly</title>
+    <desc lang="en">Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124011500 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">Live: Monday Night Kickoff</title>
+    <desc lang="en">The legendary Monday Night Football crew of Joe Buck, Troy Aikman, and Lisa Salters preview the upcoming Monday Night Football action.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261124011500 +0000" stop="20261124041500 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">Live: NFL Football</title>
+    <desc lang="en">From Northwest Field in Landover, Md.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261124041500 +0000" stop="20261124043000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">Live: Monday Night Postgame</title>
+    <desc lang="en">A recap of the Monday Night Football matchup with highlights, interviews and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124110000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The No. 5 Texas Longhorns (8-2, 5-2 SEC) host the Arkansas Razorbacks (4-6, 2-5) in Austin. Arkansas enters after a 34-6 victory over South Carolina, while Texas seeks a fifth straight victory behind Arch Manning, who leads with 19 touchdowns.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125030000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The Western Michigan Broncos host the Miami (OH) RedHawks at Waldo Stadium in Kalamazoo. Western Michigan enters this game on a three-game win streak, including a 34-27 win against Western Michigan, while Miami (OH) aims for a three straight wins.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">WWE Survivor Series: WarGames Special</title>
+    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="Laff.us2">
-    <title lang="en">Home Improvement</title>
-    <desc lang="en">Tim and Brad get into a fight over Brad's new haircut and the hot rod engine; Randy doesn't want Jill to help him rehearse for an audition to play Romeo in a school play of "Romeo and Juliet.".</desc>
+  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">WWE Survivor Series: WarGames Special</title>
+    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
     <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125000000 +0000" stop="20261125003000 +0000" channel="Laff.us2">
-    <title lang="en">Last Man Standing</title>
-    <desc lang="en">Ed and Mike second-guess their decision to have Kyle on their team in an annual sports competition; Vanessa is caught saying she doesn't want to attend Eve's soccer game and Mandy's school play.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125203000 +0000" stop="20261125210000 +0000" channel="Laff.us2">
-    <title lang="en">The Middle</title>
-    <desc lang="en">Mike and Frankie must decide whether to attend Axl's football game or Sue's first cross-country meet; after raking the yard, Brick wants to set the leaves free in the forest.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126010000 +0000" stop="20261126013000 +0000" channel="Laff.us2">
-    <title lang="en">Last Man Standing</title>
-    <desc lang="en">A car in the neighborhood is egged; when Mike and Vanessa won't let Eve quit soccer, Eve acts out by getting drunk at a party.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="Laff.us2">
-    <title lang="en">The Middle</title>
-    <desc lang="en">Brick pleads with Frankie to leave him home alone when she runs errands; Mike overhears Sue's friend insult his daughter; Axl tries to grow a beard for the football playoffs.</desc>
-    <category lang="en">Football</category>
   </programme>
   <channel id="NBC.Sports.Philadelphia.HD.us2">
     <display-name>NBC Sports Philadelphia</display-name>
@@ -2572,98 +3402,67 @@
     <desc lang="en">Join Ashlyn Sullivan and Ryan Fowler to kick off Eagles game day with updates and live reports.</desc>
     <category lang="en">Football</category>
   </programme>
-  <channel id="American.Heroes.Channel.HD.us2">
-    <display-name>American Heroes Channel</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s78808_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="EWTN.ie">
+    <display-name>EWTN</display-name>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1198_f.png" />
   </channel>
-  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Combat Tech</title>
-    <desc lang="en">A look at the B-52 and stealth B-2, as well as top secret bombers of the future.</desc>
+  <programme start="20261124100000 +0000" stop="20261124103000 +0000" channel="EWTN.ie">
+    <title lang="en">Fields and Faith</title>
+    <desc lang="en">EWTN contributor Bob Dolan introduces sports figures who turned their dreams of glory into faith on the field as they talk about after their achievements on what God has in mind for them now. Speed Skater Bonnie Blair joins host Bob Dolan to talk about her career, which included winning four gold Olympic medals and about her faith and her volunteer work for Catholic Relief Services.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Combat Tech</title>
-    <desc lang="en">A look inside the robotic war machines now being used on the front lines of modern battlefields.</desc>
-    <category lang="en">Combat Sports</category>
+  <programme start="20261124153000 +0000" stop="20261124160000 +0000" channel="EWTN.ie">
+    <title lang="en">We Are Catholic</title>
+    <desc lang="en">Manuel and Phillip play soccer and break the stained glass of the Santa Clara Catholic Church.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Combat Tech</title>
-    <desc lang="en">The latest in body armor; camouflage that creates a cloak of invisibility.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Combat Countdown</title>
-    <desc lang="en">Nothing is more fundamental in battle than seeing the enemy before they see you.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Combat Countdown</title>
-    <desc lang="en">A showcase of the best speed machines the world's military forces have to offer.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Combat Countdown</title>
-    <desc lang="en">The best war machines can handle any terrain, and put you one step ahead of the enemy.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Combat Countdown</title>
-    <desc lang="en">Long range weaponry allows you to hit your enemy while staying out of harm's way.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Combat Countdown</title>
-    <desc lang="en">Taking a look at the most revolutionary war machines.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Weaponology</title>
-    <desc lang="en">The British Special Air Service utilizes insertion behind enemy lines to combat terrorism.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Weaponology</title>
-    <desc lang="en">Extreme Warriors are trained to live and fight in the harshest environments known to man - exposed mountaintops, extreme altitude, sub-zero temperatures, snowstorms - these guys bring the pain in any terrain.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Weaponology</title>
-    <desc lang="en">Combat engineers use their skills to both build and destroy.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Weaponology</title>
-    <desc lang="en">The British Special Air Service utilizes insertion behind enemy lines to combat terrorism.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Weaponology</title>
-    <desc lang="en">Extreme Warriors are trained to live and fight in the harshest environments known to man - exposed mountaintops, extreme altitude, sub-zero temperatures, snowstorms - these guys bring the pain in any terrain.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="American.Heroes.Channel.HD.us2">
-    <title lang="en">Weaponology</title>
-    <desc lang="en">Combat engineers use their skills to both build and destroy.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Cinemax.HD.(Pacific).us2">
-    <display-name>Cinemax West</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="InWonder.au">
+    <display-name>INWONDER (1080p)</display-name>
+    <icon src="https://www.fetchtv.com.au/v2/epg/channels/2381/image" />
   </channel>
-  <programme start="20261124222700 +0000" stop="20261125002400 +0000" channel="Cinemax.HD.(Pacific).us2">
-    <title lang="en">Megan Leavey</title>
-    <desc lang="en">The true life story of Megan Leavey, a young Marine corporal whose unique discipline and bond with a military combat dog saved many lives during her deployment in Iraq. Assigned to clean up the K-9 unit after a disciplinary hearing, Leavey starts to identify with Rex, a particularly aggressive dog that she trains. Over the course of their service, Megan and Rex complete more than 100 missions until an improvised explosive device injures both, putting their fates in jeopardy.</desc>
+  <programme start="20261124144000 +0000" stop="20261124153600 +0000" channel="InWonder.au">
+    <title lang="en">Monster Ships</title>
+    <desc lang="en">One of the largest vehicle carriers battles bad weather and industrial action while racing to transport up to 8,000 cars.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127050800 +0000" stop="20261127052100 +0000" channel="InWonder.au">
+    <title lang="en">Power &amp;</title>
+    <desc lang="en">Tharoth Sam, 26, is the first female fighter in Cambodian Bokator. She is also an MMA fighter and became a movie star starring in the big screen blockbuster, Jailbreak.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261125201000 +0000" stop="20261125231800 +0000" channel="Cinemax.HD.(Pacific).us2">
-    <title lang="en">It</title>
-    <desc lang="en">In 1960, seven preteen outcasts fight an evil demon that poses as a child-killing clown. Thirty years later, they reunite to stop the demon once and for all when it returns to their hometown.</desc>
+  <programme start="20261127141800 +0000" stop="20261127144700 +0000" channel="InWonder.au">
+    <title lang="en">Combat Forces</title>
+    <desc lang="en">Urban combat is brutal and unforgiving. At training sites worldwide, soldiers learn the tactics and teamwork needed to survive deadly city battles.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261126044500 +0000" stop="20261126064200 +0000" channel="Cinemax.HD.(Pacific).us2">
-    <title lang="en">Us</title>
-    <desc lang="en">Accompanied by her husband, son and daughter, Adelaide Wilson returns to the beachfront home where she grew up as a child. Haunted by a traumatic experience from the past, Adelaide grows increasingly concerned that something bad is going to happen. Her worst fears soon become a reality when four masked strangers descend upon the house, forcing the Wilsons into a fight for survival. When the masks come off, the family is horrified to learn that each attacker takes the appearance of one of them.</desc>
+  <programme start="20261127144700 +0000" stop="20261127151600 +0000" channel="InWonder.au">
+    <title lang="en">Combat Forces</title>
+    <desc lang="en">New pilots train in air‑to‑air combat at an international exercise, mastering dogfighting and modern fighter jet technology.</desc>
     <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127233400 +0000" stop="20261128000400 +0000" channel="InWonder.au">
+    <title lang="en">Combat Forces</title>
+    <desc lang="en">Urban combat is brutal and unforgiving. At training sites worldwide, soldiers learn the tactics and teamwork needed to survive deadly city battles.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128043500 +0000" stop="20261128050400 +0000" channel="InWonder.au">
+    <title lang="en">Droners</title>
+    <desc lang="en">Some drone pilots take their ‘quads’ to the extreme, building strange new designs, racing them in epic locations and building alternative communities.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <channel id="BBC.One.Lon.HD.uk">
+    <display-name>BBC One</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
+  </channel>
+  <programme start="20261123121500 +0000" stop="20261123130000 +0000" channel="BBC.One.Lon.HD.uk">
+    <title lang="en">Bargain Hunt</title>
+    <desc lang="en">The teams are shopping in the mid-Wales town of Builth Wells, and Danny learns about a unique family business which immortalises rugby players and other Welsh icons in clay.</desc>
+    <category lang="en">Rugby</category>
+  </programme>
+  <programme start="20261125224000 +0000" stop="20261126000000 +0000" channel="BBC.One.Lon.HD.uk">
+    <title lang="en">MOTD: UEFA Champions League</title>
+    <desc lang="en">Highlights from the fifth round of matches in the UEFA Champions League group stage.</desc>
+    <category lang="en">Football</category>
   </programme>
   <channel id="Cooking.Channel.HD.us2">
     <display-name>Cooking Channel</display-name>
@@ -2692,6 +3491,15 @@
     <title lang="en">Manhunters: Fugitive Task Force</title>
     <desc lang="en">A former corrections officer and boxing coach is wanted for kidnapping and sexual assault.</desc>
     <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Galavision.Cable.Network.HD.us2">
+    <display-name>Galavisión</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s68367_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="Galavision.Cable.Network.HD.us2">
+    <title lang="en">Renta congelada</title>
+    <desc lang="en">Federico roba muebles de los negocios que están alrededor de su casa, y un coleccionista de antigüedades ofrece 100 000 euros por el trinchador de Federico, por lo que Ana idea un plan para reconstruirlo.</desc>
+    <category lang="en">Football</category>
   </programme>
   <channel id="HLN.HD.us2">
     <display-name>HLN</display-name>
@@ -2726,32 +3534,26 @@
     <desc lang="en">Poker-Face pits a robot named Smiley against Mumbo-Jumbo in a boxing match at the Starship Casino.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <channel id="PBS.KIDS.HD.us2">
-    <display-name>PBS Kids</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s101364_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Newsmax.TV.HD.us2">
+    <display-name>Newsmax TV</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&amp;h=270" />
   </channel>
-  <programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="PBS.KIDS.HD.us2">
-    <title lang="en">Elinor Wonders Why</title>
-    <desc lang="en">Elinor, Ari and Olive enter the tomato drop contest at the Animal Town Tomato Festival; Elinor and Ari notice their friends are good at soccer, but they are not.</desc>
-    <category lang="en">Football</category>
+  <programme start="20261123073000 +0000" stop="20261123080000 +0000" channel="Newsmax.TV.HD.us2">
+    <title lang="en">Road Rage Raw</title>
+    <desc lang="en">Explosive encounters unfold as road rage takes over, leading to unpredictable moments of anger, revenge and highway mayhem.</desc>
+    <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261125110000 +0000" stop="20261125113000 +0000" channel="PBS.KIDS.HD.us2">
-    <title lang="en">Clifford the Big Red Dog</title>
-    <desc lang="en">Emily Elizabeth, Clifford and friends set up a lemonade stand to raise money to buy new soccer jerseys; Emily Elizabeth and her friends pretend to be animals on their way to the watering hole.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126193000 +0000" stop="20261126200000 +0000" channel="PBS.KIDS.HD.us2">
-    <title lang="en">Xavier Riddle and the Secret Museum</title>
-    <desc lang="en">Jim Thorpe shows Brad that if he wants to play flag football, observing others is a great way to learn; Norval Morrisseau shows Yadina that art has the power to share important ideas.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261127033000 +0000" stop="20261127040000 +0000" channel="PBS.KIDS.HD.us2">
-    <title lang="en">Xavier Riddle and the Secret Museum</title>
-    <desc lang="en">Jim Thorpe shows Brad that if he wants to play flag football, observing others is a great way to learn; Norval Morrisseau shows Yadina that art has the power to share important ideas.</desc>
-    <category lang="en">Football</category>
+  <channel id="Nicktoons.us2">
+    <display-name>Nicktoons</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261126045000 +0000" stop="20261126051600 +0000" channel="Nicktoons.us2">
+    <title lang="en">SpongeBob SquarePants</title>
+    <desc lang="en">After the Science Scouts begin selling biscuits to fund a trip to Mars, Mr. Krabs enters the ring and turns it into a competition; a new driving school opens in town.</desc>
+    <category lang="en">Combat Sports</category>
   </programme>
   <channel id="TNT.HD.us2">
-    <display-name>TNT</display-name>
+    <display-name>TNT HD</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s11164_dark_360w_270h.png" />
   </channel>
   <programme start="20261127010000 +0000" stop="20261127030000 +0000" channel="TNT.HD.us2">
@@ -2768,94 +3570,7 @@
     <desc lang="en">The all new matches, more stories and more action, featuring the world-class All Elite Wrestling roster.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <channel id="ESPN2.HD.us2">
-    <display-name>ESPN2</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="CricketGold.au">
+    <display-name>Cricket Gold</display-name>
   </channel>
-  <programme start="20261123070000 +0000" stop="20261123090000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">College Football</title>
-    <desc lang="en">The Georgia Tech Yellow Jackets (3-7, 2-5 ACC) host the No. 11 Wake Forest Demon Deacons (9-1, 6-1) in Atlanta. With only one loss this season, Wake Forest enters after beating SMU 49-7, while Georgia Tech beat Clemson 20-6 behind Alberto Mendoza.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261123190000 +0000" stop="20261123193000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">The Breakdown With Peyton and Kuechly</title>
-    <desc lang="en">Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124011500 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">Live: Monday Night Kickoff</title>
-    <desc lang="en">The legendary Monday Night Football crew of Joe Buck, Troy Aikman, and Lisa Salters preview the upcoming Monday Night Football action.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124011500 +0000" stop="20261124041500 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">Live: NFL Football</title>
-    <desc lang="en">From Northwest Field in Landover, Md.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124041500 +0000" stop="20261124043000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">Live: Monday Night Postgame</title>
-    <desc lang="en">A recap of the Monday Night Football matchup with highlights, interviews and more.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124090000 +0000" stop="20261124110000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">College Football</title>
-    <desc lang="en">The No. 5 Texas Longhorns (8-2, 5-2 SEC) host the Arkansas Razorbacks (4-6, 2-5) in Austin. Arkansas enters after a 34-6 victory over South Carolina, while Texas seeks a fifth straight victory behind Arch Manning, who leads with 19 touchdowns.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125000000 +0000" stop="20261125030000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">Live: College Football</title>
-    <desc lang="en">The Western Michigan Broncos host the Miami (OH) RedHawks at Waldo Stadium in Kalamazoo. Western Michigan enters this game on a three-game win streak, including a 34-27 win against Western Michigan, while Miami (OH) aims for a three straight wins.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">WWE Survivor Series: WarGames Special</title>
-    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">WWE Survivor Series: WarGames Special</title>
-    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="BBC.One.Lon.HD.uk">
-    <display-name>BBC One</display-name>
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
-  </channel>
-  <programme start="20261123121500 +0000" stop="20261123130000 +0000" channel="BBC.One.Lon.HD.uk">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">The teams are shopping in the mid-Wales town of Builth Wells, and Danny learns about a unique family business which immortalises rugby players and other Welsh icons in clay.</desc>
-    <category lang="en">Rugby</category>
-  </programme>
-  <programme start="20261125224000 +0000" stop="20261126000000 +0000" channel="BBC.One.Lon.HD.uk">
-    <title lang="en">MOTD: UEFA Champions League</title>
-    <desc lang="en">Highlights from the fifth round of matches in the UEFA Champions League group stage.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <channel id="Galavision.Cable.Network.HD.us2">
-    <display-name>Galavisión</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s68367_ll_h15_ac.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="Galavision.Cable.Network.HD.us2">
-    <title lang="en">Renta congelada</title>
-    <desc lang="en">Federico roba muebles de los negocios que están alrededor de su casa, y un coleccionista de antigüedades ofrece 100 000 euros por el trinchador de Federico, por lo que Ana idea un plan para reconstruirlo.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <channel id="Nicktoons.us2">
-    <display-name>NICKTOONS</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261126045000 +0000" stop="20261126051600 +0000" channel="Nicktoons.us2">
-    <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">After the Science Scouts begin selling biscuits to fund a trip to Mars, Mr. Krabs enters the ring and turns it into a competition; a new driving school opens in town.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Newsmax.TV.HD.us2">
-    <display-name>Newsmax TV</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261123073000 +0000" stop="20261123080000 +0000" channel="Newsmax.TV.HD.us2">
-    <title lang="en">Road Rage Raw</title>
-    <desc lang="en">Explosive encounters unfold as road rage takes over, leading to unpredictable moments of anger, revenge and highway mayhem.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
 </tv>

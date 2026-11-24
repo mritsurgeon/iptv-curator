@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Rugby
 
+#EXTINF:-1 tvg-id="InTravel.au" tvg-name="INTRAVEL (1080p)" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-language="English" group-title="Rugby",INTRAVEL (1080p)
+https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Rugby - International competitions",ITV1
 http://176.65.153.4:4004/play/a07n/index.m3u8
 

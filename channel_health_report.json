@@ -1,328 +1,240 @@
 {
-  "generated_at_utc": "2026-11-24T03:21:52.256697+00:00",
-  "total_channels": 282,
+  "generated_at_utc": "2026-11-24T15:07:02.938093+00:00",
+  "total_channels": 304,
   "by_verification_status": {
-    "working": 44,
-    "inactive": 199,
-    "auth_required": 39
+    "working": 48,
+    "inactive": 235,
+    "auth_required": 21
   },
   "by_sport": {
-    "Football": 137,
-    "Tennis": 70,
-    "Combat Sports": 128,
-    "Motorsport": 96,
-    "Cricket": 30,
-    "Rugby": 22
+    "Football": 110,
+    "Tennis": 42,
+    "Combat Sports": 95,
+    "Motorsport": 74,
+    "Cricket": 43,
+    "Rugby": 40
   },
   "by_language": {
-    "English": 200,
-    "English + Other": 3,
-    "Unknown": 76,
-    "Other Language": 3
+    "English": 179,
+    "Unknown": 119,
+    "English + Other": 1,
+    "Other Language": 5
   },
   "by_broadcaster": {
-    "NBC Sports": 4,
     "CBS Sports": 2,
-    "ESPN": 48,
-    "Fox Sports": 9,
-    "Sky Sports": 30,
-    "beIN Sports": 5,
-    "Unspecified": 163,
-    "SuperSport": 12,
+    "ESPN": 16,
+    "Fox Sports": 6,
+    "NBC Sports": 3,
+    "beIN Sports": 13,
+    "Unspecified": 230,
+    "Sky Sports": 13,
+    "ITV Sport": 2,
+    "Premier Sports": 4,
+    "SuperSport": 5,
     "Willow Cricket": 2,
-    "TNT Sports": 5,
+    "TNT Sports": 6,
     "Tennis Channel": 2
   },
-  "auth_required_count": 39,
-  "inactive_count": 199,
+  "auth_required_count": 21,
+  "inactive_count": 235,
   "review_candidates": [],
   "auth_required_channels": [
     {
-      "channel_id": "skysportscricket_bba4054601",
-      "name": "SKY Sports Cricket (hd)",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c860/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODYwOjE3OTU1MDM2MDU5NDU6Y2RubGl2ZXR2LnR2OmQzNWNkOWE1ZGVmYmQyYjIuZmQxOTI4NWYyMThmZGQwMzAyNGM0ZDBiNmU3MTEzZWRlZWJmZWJjMGY2ZDBkMTI1ZTYxNTBmNmRhNmM5NDA0ZQ|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "tntsports5_c8e4f9eaca",
+      "name": "TNT SPORTS 5",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/62800.ts"
     },
     {
-      "channel_id": "championsleaguearsenalvsborussia_fe2105ff04",
-      "name": "[Champions League] Arsenal vs Borussia Dortmund | ESPN 2 AR (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=249e72577bbf4ce0d306d981650018a623dd6ecf-ce-1795528810-1795474810|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2ar&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2ar&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "tntsports1_9f05b12f88",
+      "name": "TNT Sports 1",
+      "url": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase"
     },
     {
-      "channel_id": "championsleaguearsenalvsborussia_91fb9fde1a",
-      "name": "[Champions League] Arsenal vs Borussia Dortmund | ESPN 3 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn3/index.m3u8?token=beec385ae8c7195257570e5b099bc736df55c99d-c2-1795528810-1795474810|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn3&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn3&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "tntsports2_fd83cf7cfa",
+      "name": "TnT Sports 2 \ud83c\udde7\ud83c\udde9",
+      "url": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase"
     },
     {
-      "channel_id": "championsleaguebodglimtvslasklin_aed4c58407",
-      "name": "[Champions League] Bod\u00f8/Glimt vs LASK Linz | ESPN 2 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=51d76866bcf6eafb6926633cafd2ffdee8521572-93-1795528809-1795474809|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "tntsports4_fad9495b4f",
+      "name": "TNT Sports 4",
+      "url": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase"
     },
     {
-      "channel_id": "championsleaguebodglimtvslasklin_65b57245f8",
-      "name": "[Champions League] Bod\u00f8/Glimt vs LASK Linz | ESPN 2 AR (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=be149cfe0e7ce42f50edfc15b84406ed81df1927-d6-1795528809-1795474809|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2ar&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2ar&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "tntsports3_44120a39ea",
+      "name": "TnT Sports 3",
+      "url": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase"
     },
     {
-      "channel_id": "championsleaguecomovsaekathenses_d85530b77e",
-      "name": "[Champions League] Como vs AEK Athens | ESPN 5 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn5/index.m3u8?token=fff6f125442d5f14126f903e9b57726dfc673261-b8-1795528810-1795474810|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn5&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn5&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "ssaction_45643ad03a",
+      "name": "SS ACTION HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/117927.ts"
     },
     {
-      "channel_id": "championsleaguefeyenoordvsportoe_6b0e44875a",
-      "name": "[Champions League] Feyenoord vs Porto | ESPN 7 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn7/index.m3u8?token=4a396b1f638a0f0406a8343cc5dfef7aa7e68f0b-b8-1795528809-1795474809|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn7&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn7&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "motorsport_9edf5c16eb",
+      "name": "SS MOTORSPORT HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159888.ts"
     },
     {
-      "channel_id": "championsleaguegalatasarayvsasto_399f58bd23",
-      "name": "[Champions League] Galatasaray vs Aston Villa | ESPN (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn/index.m3u8?token=d5693fb3486019d7328a6826f366e2cee989ed67-3a-1795528808-1795474808|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "sspsl_50edd13a80",
+      "name": "SS PSL HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159893.ts"
     },
     {
-      "channel_id": "championsleaguegalatasarayvsasto_dd5776f378",
-      "name": "[Champions League] Galatasaray vs Aston Villa | FOX Sports 1 AR (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=9a7345f988e8cff39371e44e33daf4b16dae186a-0c-1795528808-1795474808|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Dfox1ar&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Dfox1ar&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "ssrugby_2f8ba65dd7",
+      "name": "SS RUGBY HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159889.ts"
     },
     {
-      "channel_id": "championsleaguemanchestercityvsn_ffd11990a8",
-      "name": "[Champions League] Manchester City vs Napoli | ESPN 2 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=e9ace32a0a62c09e7a19de38939c67ee9b6e0de6-a8-1795528811-1795474811|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "sstennis_bd204ba7e6",
+      "name": "SS TENNIS HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159890.ts"
     },
     {
-      "channel_id": "championsleaguemanchestercityvsn_0a3aaafccf",
-      "name": "[Champions League] Manchester City vs Napoli | ESPN AR (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espnar/index.m3u8?token=e4baa2297a47955b36ee3387217728bc8d191ba2-ad-1795528810-1795474810|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despnar&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despnar&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "ssvariety2_0dde306a0a",
+      "name": "SS VARIETY 2 HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159884.ts"
     },
     {
-      "channel_id": "championsleaguerbleipzigvslenses_0c4b0b47ff",
-      "name": "[Champions League] RB Leipzig vs Lens | ESPN 6 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn6/index.m3u8?token=e7cce359e35d37110b35686ee9fd839aebf933bf-8a-1795528811-1795474811|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn6&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn6&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "ssvariety4_f2bb520e9f",
+      "name": "SS VARIETY 4 HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/186869.ts"
     },
     {
-      "channel_id": "championsleaguerealmadridvspsves_fefcb3469d",
-      "name": "[Champions League] Real Madrid vs PSV | ESPN (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn/index.m3u8?token=dec6d142ec2d99089f4bf47d29c0af8b8f24f952-f6-1795528811-1795474811|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "tennischannel_7131d6a8fc",
+      "name": "TENNIS CHANNEL",
+      "url": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8"
     },
     {
-      "channel_id": "championsleaguerealmadridvspsvfo_db1ced1e4b",
-      "name": "[Champions League] Real Madrid vs PSV | FOX Sports 1 AR (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=bbe94e5ad7c543f9b3b1c33cadbf8f6bb5dfe20d-71-1795528811-1795474811"
+      "channel_id": "tennischanneluk_14f3a8bf86",
+      "name": "Tennis Channel UK",
+      "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
     },
     {
-      "channel_id": "championsleagueslovanbratislavav_306c85e616",
-      "name": "[Champions League] Slovan Bratislava vs Real Betis | ESPN 4 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn4/index.m3u8?token=35f6e4079dd220a37cb817257e4cfe2364dd465f-09-1795528812-1795474812"
+      "channel_id": "laff_7b215251a7",
+      "name": "Laff",
+      "url": "https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8"
     },
     {
-      "channel_id": "copapotreroloseucaliptosvslacrem_39a756436e",
-      "name": "[Copa Potrero] Los Eucaliptos vs La Crema | ESPN (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn/index.m3u8?token=53f0e03b8aa2a7cd911b31ea95895e4021c99c54-7c-1795523410-1795469410"
+      "channel_id": "sscricket_aaa7372bca",
+      "name": "SS CRICKET HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/117926.ts"
     },
     {
-      "channel_id": "majorleaguesoccerstlouiscityvslo_7d4783f16b",
-      "name": "[Major League Soccer] St. Louis City vs Los Angeles FC | FOX Sports 1 USA (TVF90)",
-      "url": "https://3.ftlly.com:443/foxsports1_usa/mono.m3u8?token=ad0e5d29060bb8f9cadcf536b689468f810fbcb0-e0-1795495511-1795477511|Referer=https%3A//tvf90.com/1.php%3Fstream%3Dfoxsports1_usa&Origin=https%3A//tvf90.com/1.php%3Fstream%3Dfoxsports1_usa&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "s4c_6fca3466e4",
+      "name": "S4C (1080p)",
+      "url": "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8"
     },
     {
-      "channel_id": "nbaminnesotatimberwolvesvsbrookl_9d686f508a",
-      "name": "[NBA] Minnesota Timberwolves vs Brooklyn Nets | ESPN 2 MX (TVF90)",
-      "url": "https://2.ftlly.com:443/espn2mx/mono.m3u8?token=244cb7cf242cc635e1cd591f1c4803132db4d082-1-1795495510-1795477510|Referer=https%3A//tvf90.com/1.php%3Fstream%3Despn2mx&Origin=https%3A//tvf90.com/1.php%3Fstream%3Despn2mx&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "antennatv_6aed95d5cf",
+      "name": "Antenna TV",
+      "url": "https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8"
     },
     {
-      "channel_id": "nbasacramentokingsvssanantoniosp_e9c69a443f",
-      "name": "[NBA] Sacramento Kings vs San Antonio Spurs | ESPN 2 MX (TVF90)",
-      "url": "https://11.ftlly.com:443/espn2mx/mono.m3u8?token=175df548e6f2ce68f1ab6c73928b060e3148ee5a-70-1795495512-1795477512|Referer=https%3A//tvf90.com/1.php%3Fstream%3Despn2mx&Origin=https%3A//tvf90.com/1.php%3Fstream%3Despn2mx&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "ssfootball_2e0ecb5407",
+      "name": "SS FOOTBALL HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/186875.ts"
     },
     {
-      "channel_id": "nflwashingtoncommandersvscincinn_7e8436dc35",
-      "name": "[NFL] Washington Commanders vs Cincinnati Bengals | ESPN 2 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn2/index.m3u8?token=00c0eafeea8f8beabe739d9e03529ef245a7d308-75-1795523409-1795469409|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn2&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "sspremierleague_f868a4d878",
+      "name": "SS PREMIER LEAGUE HD",
+      "url": "http://exm3u.extraott.com:900/live/1103581436/4099381829/159892.ts"
     },
     {
-      "channel_id": "nflwashingtoncommandersvscincinn_d66204baff",
-      "name": "[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | HD (TVF90)",
-      "url": "https://8.ftlly.com:443/espn2/mono.m3u8?token=b47f0d70fc831ad820290b5105ffd98cfcffe6bf-3f-1795495517-1795477517|Referer=https%3A//tvf90.com/hd.php%3Fstream%3Despn2&Origin=https%3A//tvf90.com/hd.php%3Fstream%3Despn2&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "nflwashingtoncommandersvscincinn_0957a6891a",
-      "name": "[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP2 (TVF90)",
-      "url": "https://11.ftlly.com:443/espn2/mono.m3u8?token=7de4a19b854e2d65ea654e36fc53a270dd8553d9-5b-1795495517-1795477517"
-    },
-    {
-      "channel_id": "nflwashingtoncommandersvscincinn_1c5cf49786",
-      "name": "[NFL] Washington Commanders vs. Cincinnati Bengals | ESPN 2 | OP3 (TVF90)",
-      "url": "https://8.ftlly.com:443/espn2/mono.m3u8?token=255685ecac8e1e34be983abfa3265928fbbff490-d1-1795495517-1795477517|Referer=https%3A//tvf90.com/3.php%3Fstream%3Despn2&Origin=https%3A//tvf90.com/3.php%3Fstream%3Despn2&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "nhledmontonoilersvsvegasgoldenkn_db0ab635fa",
-      "name": "[NHL] Edmonton Oilers vs Vegas Golden Knights | ESPN 3 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn3/index.m3u8?token=a156ce292547ae9c3f7c1ac2e50c3548ac6b57d0-94-1795528813-1795474813|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn3&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn3&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "premierleaguebrentfordvsevertone_33ec0bdffc",
-      "name": "[Premier League] Brentford vs Everton | ESPN 5 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn5/index.m3u8?token=e93dd24a812d3519310d2f9851c1828c59cb2708-f1-1795523411-1795469411"
-    },
-    {
-      "channel_id": "serieamonzavsfiorentinaespn3strm_214e61a271",
-      "name": "[Serie A] Monza vs Fiorentina | ESPN 3 (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espn3/index.m3u8?token=956479ad6b274d1fad04b39a4fe28b839f780c84-da-1795523411-1795469411|Referer=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn3&Origin=https%3A//streamxhd.sbs/live1.php%3Fstream%3Despn3&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "skysportsracing_38673665fd",
-      "name": "Sky Sports Racing",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c87b/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODdiOjE3OTU1MDM2MDY5Njg6Y2RubGl2ZXR2LnR2OmM2MTcyN2ZiNGUzZTllZDMuOWViZmEyOTIwZDA1M2NkZmI5MmRhNDljNjQzYzNmZTgwMjY2ZjM5NWY4ZTYwYTlkOTRiNzE2NmViYjJlNDk5OA|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "altitudesports_32370ed12c",
-      "name": "Altitude Sports",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363ced8/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWQ4OjE3OTU1MDM2MDMzMjA6Y2RubGl2ZXR2LnR2OjUzNjVjNmZkZDZjOTU4NzcuNGI2ODY5MDQyYzA2NjE2YTkzYWFkNDIwMjNhNWZhMTU0ODg4MWNlODkxYjAzNjgwOTFmYjE0ZmM3ZGQ0ODZkMQ|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "spacecityhomenetwork_57247b7aeb",
-      "name": "Space City Home Network",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d4b1/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkNGIxOjE3OTU1MDM2MDczNzM6Y2RubGl2ZXR2LnR2OmVmMTVkMTE3MDEwYzNiZDQuNzBlODQ3ZGUxZGMxOGMwNmNhNmIzMTE5MmRmMWE3Y2M0ZjFmMjdkYTQ3NGY4OTI3YzYzNTU4ODdjYmFmZTllZQ|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "skysportstennis_fac35d7996",
-      "name": "Sky Sports Tennis",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c867/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODY3OjE3OTU1MDM2MDcxNzM6Y2RubGl2ZXR2LnR2OmU1ZDdmMjI3NzAyODliYzMuODA2NWI1ZmU4ODI2ZGI3ODQwNTMyOTYxM2EwNGEwZWJjMWYwNjBjZjRiMzdlZWMwZTUxZGZjOTRkMGRiNjJhNw|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "laligalevantevselcheespndeportes_c5ce8ab70d",
-      "name": "[LaLiga] Levante vs Elche | ESPN Deportes (STRMXHD)",
-      "url": "https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=0d7de1ef633d3ceeb5303be46f5eaccf74648bf7-05-1795523412-1795469412"
-    },
-    {
-      "channel_id": "skysportsfootball_e0f55da59f",
-      "name": "SKY Sports Football (hd)",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88c/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhjOjE3OTU1MDM2MDYxMzk6Y2RubGl2ZXR2LnR2OmRkNDkwNjlmZjljNWM3MzguMzEyZTFhMTY4Mjc4ZmFjMTJlODM4MjZmNWQyODExYTdmMDE5N2QzOTE3YjRmMDUwMjlkZmQwNTUxYTQ2M2ExZA|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "foxnews_05f2c51649",
-      "name": "Fox News",
-      "url": "https://p7.usnlive.com/stream/foxnews.m3u8|Referer=https%3A//usnewson.com"
-    },
-    {
-      "channel_id": "foxsports2_c2677f57ea",
-      "name": "Fox Sports 2",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf26/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjI2OjE3OTU1MDM2MDQzMDU6Y2RubGl2ZXR2LnR2OjE0YjNkMzFlMGM1YjkyMmUuYWY4Yzk4YjU4Y2UyNmZhYWFhOTU5OTZhZThhMzAzN2UzMjYyOTFlYWNhMTc5YmQ4N2ZlOGUyZDBkOGQ3MjZiMw|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "espnews_eec4771287",
-      "name": "ESPNEWS",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cefd/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZWZkOjE3OTU1MDM2MDQxMTg6Y2RubGl2ZXR2LnR2OjljYjZlNzNkODRkN2EzMTUuOTJkYWFmNDRiNmIyNjI3YzU0OTVhNGY2MjM3YWYxOTk3YTY0M2JiOTVjNzFjYzA0NjEyOWY4MTQ4Nzc5YTJiMw|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "cnn_e19150aa83",
-      "name": "CNN HD",
-      "url": "https://p7.usnlive.com/stream/cnn.m3u8|Referer=https%3A//usnewson.com"
-    },
-    {
-      "channel_id": "msnow_8d29c68334",
-      "name": "MS NOW",
-      "url": "https://p7.usnlive.com/stream/msnbc.m3u8|Referer=https%3A//usnewson.com"
-    },
-    {
-      "channel_id": "msg_19f34ee1e4",
-      "name": "MSG",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363cf32/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNjZjMyOjE3OTU1MDM2MDQ5MTU6Y2RubGl2ZXR2LnR2OjcyM2NlODBkMmE5MWZmNjIuYzdhYTllODZjMzQ3MTEwMWY2MDRiYTQyOWMyNTAwNjhlYTRmMWE1ZGMxOTIxNmE3M2Q1M2JlYzNhYThlNzQ1YQ|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
-    },
-    {
-      "channel_id": "nickelodeon_de195ac1bf",
-      "name": "Nickelodeon",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40af2d4a99e07363d040/playlist.m3u8?token=NmFkZDQwYWYyZDRhOTllMDczNjNkMDQwOjE3OTU1MDM2MDU1MzE6Y2RubGl2ZXR2LnR2OmZmNDAxODQyN2U5M2UxZjguY2IxODBmYTEwMGE2Yzc1Y2U3Y2M1ZTkxMTI4YjhhY2JiMmYxNzg3YmU1MWE3MWY3ZjFmNjJkYjdkNTcwZjZhYw|User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/111.0.0.0%20Safari/537.36"
+      "channel_id": "rainews24_1617846bc1",
+      "name": "Rai News24",
+      "url": "http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"
     }
   ],
   "inactive_channels": [
     {
-      "channel_id": "skysportsf1uhd_b364a740b9",
-      "name": "Sky Sports F1 UHD",
-      "url": "http://doubleclicktv.live:80/natashahawkins/1784295306/746772"
+      "channel_id": "btespn_b6ffeb2f65",
+      "name": "BT ESPN HD.",
+      "url": "http://tooontv.com:999/live/ere3444h/agape/16901.ts"
     },
     {
-      "channel_id": "btsportsespn_474415eb79",
-      "name": "BT Sports ESPN",
-      "url": "https://ch.iptvmate.net/fece7e662b137274bcdc3ba78c54ccd5.m3u8"
+      "channel_id": "dstvespn_e70610ddb8",
+      "name": "DSTV | ESPN  HD",
+      "url": "http://skyott.pro:8080/Dh37373dhd/NXt1ugv7bV/1134"
+    },
+    {
+      "channel_id": "espn1_f5f8698152",
+      "name": "ESPN 1 HD",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/9802"
     },
     {
       "channel_id": "espn3_80430a6657",
-      "name": "ESPN 3",
-      "url": "http://195.181.163.39:80/DEP_ESPN_3_ARG/index.m3u8?token=3fecda534aedb9e0fe4a948da7942ebf"
+      "name": "ESPN 3 \ud83c\udde8\ud83c\uddf4",
+      "url": "http://190.102.246.93:9005/play/a02l"
+    },
+    {
+      "channel_id": "espn4_738653eaca",
+      "name": "ESPN 4 \ud83c\udde8\ud83c\uddf4",
+      "url": "http://190.102.246.93:9005/play/a019"
+    },
+    {
+      "channel_id": "espn6_74b1e17db7",
+      "name": "ESPN 6 \ud83c\udde8\ud83c\uddf4",
+      "url": "http://190.102.246.93:9005/play/a02m"
+    },
+    {
+      "channel_id": "espndos_eb7331e777",
+      "name": "ESPN Dos",
+      "url": "http://iptvtree.net:8080/F25093/29838750/9068"
+    },
+    {
+      "channel_id": "espnextra_0892c6ad90",
+      "name": "ESPN Extra",
+      "url": "http://iptvtree.net:8080/F25093/29838750/66298"
+    },
+    {
+      "channel_id": "espnpremium_63d216ddba",
+      "name": "ESPN PREMIUM \ud83c\udde6\ud83c\uddf7",
+      "url": "http://190.102.246.93:9005/play/a00x"
+    },
+    {
+      "channel_id": "espnvivo_73f13f5fbc",
+      "name": "ESPN VIVO \ud83c\udde6\ud83c\uddf7",
+      "url": "http://hzcdn.vood.top:80/hls/309458_.m3u8"
     },
     {
       "channel_id": "espnnews_9492709a5c",
-      "name": "ESPN NEWS",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/750"
+      "name": "ESPN-News",
+      "url": "http://yesimes.oknirvana.club:8880/D12m2446/47772223/3135"
     },
     {
       "channel_id": "espnu_4c6775d1a4",
-      "name": "ESPN U",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3052"
+      "name": "ESPN-U",
+      "url": "http://iptvtree.net:8080/F25093/29838750/9090"
     },
     {
-      "channel_id": "espnus_5cb006ed37",
-      "name": "ESPN US",
-      "url": "http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8"
+      "channel_id": "itv4576p_5af367dce5",
+      "name": "ITV4 (576p)",
+      "url": "https://cdnuk001.broadcastcdn.net/KUK-ITV4/index.m3u8"
     },
     {
-      "channel_id": "foxsports1nl_2a56e34a9d",
-      "name": "FOX Sports 1 (Nl)",
-      "url": "https://ch.iptvmate.net/fc90ca68bf6e4f665615f931d438f23e.m3u8"
+      "channel_id": "itv41320p_411d63e8aa",
+      "name": "ITV4 +1 (320p)",
+      "url": "https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?protocol=hls"
     },
     {
-      "channel_id": "foxsports1axcmyid_1aaabf22bb",
-      "name": "FOX Sports 1 AXC -myid",
-      "url": "http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17"
+      "channel_id": "nowhkpremiersports1_fe91172b24",
+      "name": "Now HK Premier Sports 1",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304092"
     },
     {
-      "channel_id": "holespn1_ffc6543c3c",
-      "name": "HOL | ESPN 1",
-      "url": "http://aputra.xyz/sports555/hol-espn1.m3u8"
+      "channel_id": "nowhkpremiersports2_b81243ae7f",
+      "name": "Now HK Premier Sports 2",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304091"
     },
     {
-      "channel_id": "holespn2_282d085c77",
-      "name": "HOL | ESPN 2",
-      "url": "http://aputra.xyz/sports555/hol-espn2.m3u8"
+      "channel_id": "premiersports1_6f4ceb39fb",
+      "name": "Premier Sports 1",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304795"
     },
     {
-      "channel_id": "holespn3_79b0cbdb9f",
-      "name": "HOL | ESPN 3",
-      "url": "http://aputra.xyz/sports555/hol-espn3.m3u8"
-    },
-    {
-      "channel_id": "holespn4_7db5804d41",
-      "name": "HOL | ESPN 4",
-      "url": "http://aputra.xyz/sports555/hol-espn4.m3u8"
-    },
-    {
-      "channel_id": "holespn5_8940de542e",
-      "name": "HOL | ESPN 5",
-      "url": "http://aputra.xyz/sports555/hol-espn5.m3u8"
-    },
-    {
-      "channel_id": "holespn6_8a02867cf0",
-      "name": "HOL | ESPN 6",
-      "url": "http://aputra.xyz/sports555/hol-espn6.m3u8"
-    },
-    {
-      "channel_id": "latinofoxsports1_39b8c3fd3b",
-      "name": "Latino: Fox Sports 1 HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/828"
-    },
-    {
-      "channel_id": "skysportsf1lowbandwidth_3e7b08e68a",
-      "name": "SKY Sports F1 (Low Bandwidth)",
-      "url": "https://ch.iptvmate.net/581ccf9a077238d4089a91fa62beb148.m3u8"
-    },
-    {
-      "channel_id": "skysportsmaineventlowbandwidth_7860f21955",
-      "name": "SKY Sports Main Event (Low Bandwidth)",
-      "url": "https://ch.iptvmate.net/82aabf40b8980c43bb1c18e78eb19aad.m3u8"
-    },
-    {
-      "channel_id": "skysportsmainevent_cabaf4ca62",
-      "name": "SKY Sports Main event",
-      "url": "https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c855/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODU1OjE3OTU1MDM2MDY1NDI6Y2RubGl2ZXR2LnR2OjJmODgzNWFmYzBhMzNlYzEuNTgxNGYxNjZiM2Q0MjdkM2U5Y2MyN2M0YTE2YWIxZmMzYTcxYjcwZGJiMTU0NDBmOWExMzE3MzNjNDcyZmRmYw"
+      "channel_id": "premiersports2_d41e40bea1",
+      "name": "Premier Sports 2",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304796"
     },
     {
       "channel_id": "sonyespn_1755664557",
@@ -330,99 +242,44 @@
       "url": "http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8"
     },
     {
-      "channel_id": "skysportscricketuk_d1f8b99bf9",
-      "name": "Sky Sports Cricket HD UK",
-      "url": "https://ch.iptvmate.net/4d7e54a4acb9579f79b3114aa99a645a.m3u8"
-    },
-    {
-      "channel_id": "skysportsf1uk_23237e3b4d",
-      "name": "Sky Sports F1 HD UK",
-      "url": "https://ch.iptvmate.net/edba7f4a2a50eea019affd98ce341a4d.m3u8"
-    },
-    {
-      "channel_id": "skysportsmaineventuk_1a60d19bb8",
-      "name": "Sky Sports Main Event HD UK",
-      "url": "https://ch.iptvmate.net/a914855b74c774ae2035b23a3f8ae41d.m3u8"
-    },
-    {
-      "channel_id": "skysportsmainevents_bc58db8c35",
-      "name": "Sky Sports Main Events SD",
-      "url": "http://xc1.asmhosting.solutions:80/live/555555555/555555555/579.m3u8"
-    },
-    {
       "channel_id": "supersportaction_83464bfe47",
-      "name": "SuperSport Action HD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3060"
+      "name": "SUPERSPORT ACTION HD",
+      "url": "http://ktv.im:8080/fullpack15months354/213907856/21359"
     },
     {
       "channel_id": "supersportcricket_3e8d9c238b",
-      "name": "SuperSport Cricket HD",
-      "url": "http://s3306.x.pmline.cc:3082/plays/c3piME1obC9lMTQ4QmMwZW0zc2o4QkVlaGNnVHJUSlYyYkxNSDIrNWo1WWpsSGExRExtL0c5UFBvYk5Wa2FxV1MrM1FGcGorS1crTXZKd1E5ZlA0dHc9PQ==.ts"
-    },
-    {
-      "channel_id": "supersportespn2_0187df8adf",
-      "name": "SuperSport ESPN 2 HD",
-      "url": "http://s3306.x.pmline.cc:3082/plays/SDMvK3RCNUdoV2YwZjZoRzlkeElqM3JRUnpNcms1bkhzc2ZPeDJzZTdlL29tSHEyOXR2ZW1ERjMzUFJ1eEVMQ1BHWW1vZ3lCOEJZRDJwSUdmOUVPdkE9PQ==.ts"
-    },
-    {
-      "channel_id": "supersportespn_d4b18756bc",
-      "name": "SuperSport ESPN HD",
-      "url": "http://s3306.x.pmline.cc:3082/plays/THlSNXJjRDJVa1RML0xvNWcxYzRmWGRWMlRncS9TSG0xYUVwQmkwY2xEaGsrcnN5V3QwaWZ5Zzh2QzlzcCt5QUFxUklDeVc4MkdPc0NUS0NTRVVGcUE9PQ==.ts"
+      "name": "SUPERSPORT CRICKET HD",
+      "url": "http://ktv.im:8080/fullpack15months354/213907856/21353"
     },
     {
       "channel_id": "supersportgrandstand_765fff610f",
-      "name": "SuperSport Grandstand FHD",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3065"
-    },
-    {
-      "channel_id": "supersportlaliga_5e9d6ea157",
-      "name": "SuperSport LaLiga",
-      "url": "http://ugeen.live:8080/Ugeen_VIP7HfpAs/DqxizE/3064"
-    },
-    {
-      "channel_id": "supersportmotorsport_f85de44261",
-      "name": "SuperSport Motorsport HD",
-      "url": "http://s3306.x.pmline.cc:3082/plays/Y3lvWTFVby9yUWpHQVpEZWdCR0lYb0pmdldqZnVpYlZsOVd5V3pZa3VXTE05SVl0K1U3K1Y0SDBoeEZMZG85dUJsL2hFMjdTcjZiU2RXMjV0MVlyOVE9PQ==.ts"
-    },
-    {
-      "channel_id": "supersportpsl_7cacb44343",
-      "name": "SuperSport PSL HD",
-      "url": "http://s3306.x.pmline.cc:3082/plays/Ty8zZDJaalFkQzRFZy8zbnJiQ1pEeEhPNFAzdnhvYkVCMDY5TmxpZTJaYjl1dWJsTW4rN3R6TlhoRVpWVW0yaDJ4dDlVWnNpMCsraVNZaUpzTTE5Z1E9PQ==.ts"
-    },
-    {
-      "channel_id": "supersportpremierleague_04dd4e9334",
-      "name": "SuperSport Premier League HD",
-      "url": "http://s3306.x.pmline.cc:3082/plays/UEVCdFlmK0g2d3pxbEMwRVMvNzkvVnpkNUxOa0hsNm56c1hGWnVnVms5TXhCQXFQNFljeldPV1hOekg1R0Z3My94TVRzNW12WWtoZ1hYMEhrN2t0Unc9PQ==.ts"
+      "name": "SUPERSPORT GRANDSTAND HD",
+      "url": "http://ktv.im:8080/fullpack15months354/213907856/21354"
     },
     {
       "channel_id": "supersportrugby_be6e1f8eed",
-      "name": "SuperSport Rugby HD",
-      "url": "http://s3306.x.pmline.cc:3082/plays/Qmplb3FJRTExM2szUzZhN1UvcjY4Uks0ZVJwRTFNVlhuNi8ydENxK01Zc294VUxFV1pBYm9pVmdGY0MrNyt4WGZDZHIzVWpmK2ZoaHhocjgrVU9JWGc9PQ==.ts"
+      "name": "SUPERSPORT RUGBY HD",
+      "url": "http://ktv.im:8080/fullpack15months354/213907856/21352"
     },
     {
-      "channel_id": "supersportfootball_a03405b12c",
-      "name": "SuperSport football",
-      "url": "http://s3306.x.pmline.cc:3082/plays/cFJwQWZib1ZYYzBxSzhqNEljWjV3NjU2UVlmMXJCZ3Y4YXhwd0dTZEhKYVAxcTVscjVRK05IbHdtbmxlNURSN29rYThxUkZXTzJMa29mNDBPVnZTdHc9PQ==.ts"
+      "channel_id": "skysportsmainevent_cabaf4ca62",
+      "name": "Sky Sports Main Event",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/35243"
     },
     {
-      "channel_id": "ukbtsportsespn_ef1330ed5a",
-      "name": "UK BT SPORTS ESPN HD",
-      "url": "https://ch.iptvmate.net/94868f4c87780347e141e873a02e9c7a.m3u8"
+      "channel_id": "ukskysportsf1_92ed1c7516",
+      "name": "UK-Sky Sports F1 SD*",
+      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/724.ts"
     },
     {
-      "channel_id": "ukskysportsmainevents_84ed450680",
-      "name": "UK Sky Sports Main Events FHD",
-      "url": "https://ch.iptvmate.net/91b78518ddf3fbaac369e617f23f666c.m3u8"
+      "channel_id": "ukskysportsmainevent_07b52b92a4",
+      "name": "UK-Sky Sports Main Event SD*",
+      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/720.ts"
     },
     {
-      "channel_id": "vipbtsportsespn_2c065588fd",
-      "name": "VIP SD BT Sports ESPN",
-      "url": "https://ch.iptvmate.net/278aec797fd3cb5de3a5eb906c60bda3.m3u8"
-    },
-    {
-      "channel_id": "vipskysportsmainevent_9572b77ae4",
-      "name": "VIP SD Sky Sports Main Event",
-      "url": "https://ch.iptvmate.net/aca7f0657e91b42ee736cb8069cf5443.m3u8"
+      "channel_id": "usfoxsports1_9d6c08fee4",
+      "name": "US Fox Sports 1",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/1846"
     },
     {
       "channel_id": "willowcricket_f71d6d31ab",
@@ -435,54 +292,109 @@
       "url": "http://ftv.fiberish.net.pk/live/myuser/1234/732.ts"
     },
     {
-      "channel_id": "motorsport202611271330formula1vs_a12095ace6",
-      "name": "[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free"
+      "channel_id": "cbssportsnetwork_8c797044b8",
+      "name": "CBS Sports Network HD",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/10454"
     },
     {
-      "channel_id": "motorsport202611271330formula1vs_b1ead83cc5",
-      "name": "[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 HD DE)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free"
+      "channel_id": "foxsports505_c9852ab79f",
+      "name": "Fox Sports 505",
+      "url": "http://iptvtree.net:8080/F25093/29838750/144772"
     },
     {
-      "channel_id": "nfl202611240115nflwashingtoncomm_22587cd12d",
-      "name": "[NFL] 2026-11-24 01:15 - NFL - Washington Commanders vs Cincinnati Bengals (ESPN 1 ULTRA  HD NL)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=ESPN%201%20ULTRA%20%20HD%20NL&code=nl&user=cdnlivetv&plan=free"
+      "channel_id": "foxsports506_ade29c128e",
+      "name": "Fox Sports 506",
+      "url": "http://iptvtree.net:8080/F25093/29838750/279033"
     },
     {
-      "channel_id": "nfl202611240115nflwashingtoncomm_0787b40e4d",
-      "name": "[NFL] 2026-11-24 01:15 - NFL - Washington Commanders vs Cincinnati Bengals (ESPN 2 FHD US)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=ESPN%202%20FHD%20US&code=us&user=cdnlivetv&plan=free"
+      "channel_id": "foxsportsnews_5218e669e7",
+      "name": "Fox Sports News",
+      "url": "http://iptvtree.net:8080/F25093/29838750/76006"
     },
     {
-      "channel_id": "nfl202611240115nflwashingtoncomm_4b4de2e81b",
-      "name": "[NFL] 2026-11-24 01:15 - NFL - Washington Commanders vs Cincinnati Bengals (ESPN 2 HD BR)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free"
+      "channel_id": "beinsports1_783353cb04",
+      "name": "beiN Sports 1 4K",
+      "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898"
     },
     {
-      "channel_id": "nfl202611240115nflwashingtoncomm_f9682934e2",
-      "name": "[NFL] 2026-11-24 01:15 - NFL - Washington Commanders vs Cincinnati Bengals (ESPN 2 Primera FHD ARG)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free"
+      "channel_id": "beinsports2_7a020b2003",
+      "name": "beiN Sports 2 4K",
+      "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111901"
     },
     {
-      "channel_id": "nfl202611240115nflwashingtoncomm_930609890f",
-      "name": "[NFL] 2026-11-24 01:15 - NFL - Washington Commanders vs Cincinnati Bengals (ESPN 3 FHD BR)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=ESPN%203%20FHD%20BR&code=br&user=cdnlivetv&plan=free"
+      "channel_id": "beinsports3_c282f9f33f",
+      "name": "beiN Sports 3 4K",
+      "url": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111903"
     },
     {
-      "channel_id": "nfl202611240115nflwashingtoncomm_76d3952081",
-      "name": "[NFL] 2026-11-24 01:15 - NFL - Washington Commanders vs Cincinnati Bengals (ESPN FHD US)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free"
+      "channel_id": "supersporttennis_f2ea9d73b4",
+      "name": "SUPERSPORT TENNIS HD",
+      "url": "http://ktv.im:8080/fullpack15months354/213907856/21370"
     },
     {
-      "channel_id": "nfl202611240115nflwashingtoncomm_6576563454",
-      "name": "[NFL] 2026-11-24 01:15 - NFL - Washington Commanders vs Cincinnati Bengals (Sky Sports Main Event FHD UK)",
-      "url": "https://cdnlivetv.tv/api/v1/channels/player?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free"
+      "channel_id": "tntsports2brasil_50723b6825",
+      "name": "TNT Sports 2 Brasil",
+      "url": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"
     },
     {
-      "channel_id": "nlfoxsports1eredivisie_42c529cdda",
-      "name": "[nl] FOX Sports 1 HD Eredivisie",
-      "url": "https://ch.iptvmate.net/d94e574dd5fd88947f513974aedc20e6.m3u8"
+      "channel_id": "skysportsmix_c57c83ea5d",
+      "name": "Sky Sports Mix",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304781"
+    },
+    {
+      "channel_id": "skysportsaction_6dd06b8af7",
+      "name": "SkySports Action HD",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/53705"
+    },
+    {
+      "channel_id": "skysportscricket_bba4054601",
+      "name": "SkySports Cricket HD",
+      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/174.ts"
+    },
+    {
+      "channel_id": "skysportsnews_60a30a53f9",
+      "name": "SkySports News",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/35241"
+    },
+    {
+      "channel_id": "skysportsracing_38673665fd",
+      "name": "SkySports Racing HD",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304777"
+    },
+    {
+      "channel_id": "4seven_1cf0988f36",
+      "name": "4seven",
+      "url": "http://31.187.196.89:60230/play/a04t/index.m3u8"
+    },
+    {
+      "channel_id": "ayozattv_dfb31bcbbc",
+      "name": "Ayozat TV (720p)",
+      "url": "http://31.187.196.89:60230/play/a07u/index.m3u8"
+    },
+    {
+      "channel_id": "discoveryscience_637ad23663",
+      "name": "Discovery Science HD",
+      "url": "http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5174"
+    },
+    {
+      "channel_id": "islamchannel_1425a2f446",
+      "name": "Islam Channel",
+      "url": "https://5ea835027d05e.streamlock.net/islam/islamtv/chunklist_w1596083799.m3u8"
+    },
+    {
+      "channel_id": "msgplus_46657ca1ac",
+      "name": "MSG Plus",
+      "url": "http://yesimes.oknirvana.club:8880/D12m2446/47772223/30050"
+    },
+    {
+      "channel_id": "mutv_e71f2f1357",
+      "name": "MU TV",
+      "url": "https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8"
+    },
+    {
+      "channel_id": "marqueesportsnetwork_8a840a4320",
+      "name": "Marquee Sports Network",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/13379"
     }
   ]
 }
