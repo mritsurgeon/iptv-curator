@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated_at_utc": "2026-11-24T15:07:02.939495+00:00",
+  "generated_at_utc": "2026-11-25T01:00:03.527509+00:00",
   "total_sources": 18,
   "sources": [
     {
@@ -12,8 +12,8 @@
       "supported_formats": [
         "xml.gz"
       ],
-      "last_successful_scan": "2026-11-24T15:04:35.203138+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:35.203138+00:00",
+      "last_successful_scan": "2026-11-25T00:57:47.561152+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:47.561152+00:00",
       "reliability_score": 0.955,
       "failure_count": 0,
       "channels_discovered": 0,
@@ -29,8 +29,8 @@
       "supported_formats": [
         "xml.gz"
       ],
-      "last_successful_scan": "2026-11-24T15:04:35.204753+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:35.204753+00:00",
+      "last_successful_scan": "2026-11-25T00:57:47.562511+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:47.562511+00:00",
       "reliability_score": 0.955,
       "failure_count": 0,
       "channels_discovered": 0,
@@ -46,8 +46,8 @@
       "supported_formats": [
         "xml.gz"
       ],
-      "last_successful_scan": "2026-11-24T15:04:35.206344+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:35.206344+00:00",
+      "last_successful_scan": "2026-11-25T00:57:47.563945+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:47.563945+00:00",
       "reliability_score": 0.955,
       "failure_count": 0,
       "channels_discovered": 0,
@@ -63,8 +63,8 @@
       "supported_formats": [
         "xml.gz"
       ],
-      "last_successful_scan": "2026-11-24T15:04:35.207871+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:35.207871+00:00",
+      "last_successful_scan": "2026-11-25T00:57:47.565267+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:47.565267+00:00",
       "reliability_score": 0.946,
       "failure_count": 0,
       "channels_discovered": 0,
@@ -80,8 +80,8 @@
       "supported_formats": [
         "xml.gz"
       ],
-      "last_successful_scan": "2026-11-24T15:04:35.209450+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:35.209450+00:00",
+      "last_successful_scan": "2026-11-25T00:57:47.566570+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:47.566570+00:00",
       "reliability_score": 0.937,
       "failure_count": 0,
       "channels_discovered": 0,
@@ -115,11 +115,11 @@
       "supported_formats": [
         "m3u"
       ],
-      "last_successful_scan": "2026-11-24T15:03:56.073090+00:00",
-      "last_attempted_scan": "2026-11-24T15:03:56.073090+00:00",
+      "last_successful_scan": "2026-11-25T00:57:16.075578+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:16.075578+00:00",
       "reliability_score": 0.91,
       "failure_count": 0,
-      "channels_discovered": 519,
+      "channels_discovered": 525,
       "enabled": true,
       "country": null
     },
@@ -132,11 +132,11 @@
       "supported_formats": [
         "json"
       ],
-      "last_successful_scan": "2026-11-24T15:03:56.976436+00:00",
-      "last_attempted_scan": "2026-11-24T15:03:56.976436+00:00",
+      "last_successful_scan": "2026-11-25T00:57:16.815605+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:16.815605+00:00",
       "reliability_score": 0.892,
       "failure_count": 0,
-      "channels_discovered": 19248,
+      "channels_discovered": 19278,
       "enabled": true,
       "country": null
     },
@@ -153,11 +153,11 @@
         "xml.gz",
         "json"
       ],
-      "last_successful_scan": "2026-11-24T15:03:27.973007+00:00",
-      "last_attempted_scan": "2026-11-24T15:03:27.973007+00:00",
+      "last_successful_scan": "2026-11-25T00:56:59.915658+00:00",
+      "last_attempted_scan": "2026-11-25T00:56:59.915658+00:00",
       "reliability_score": 0.865,
       "failure_count": 0,
-      "channels_discovered": 10602,
+      "channels_discovered": 6115,
       "enabled": true,
       "country": null
     },
@@ -170,8 +170,8 @@
       "supported_formats": [
         "m3u8"
       ],
-      "last_successful_scan": "2026-11-24T15:04:31.132499+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:31.132499+00:00",
+      "last_successful_scan": "2026-11-25T00:57:44.092699+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:44.092699+00:00",
       "reliability_score": 0.865,
       "failure_count": 0,
       "channels_discovered": 2197,
@@ -188,8 +188,8 @@
         "m3u8",
         "json"
       ],
-      "last_successful_scan": "2026-11-24T15:04:34.893153+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:34.893153+00:00",
+      "last_successful_scan": "2026-11-25T00:57:47.301488+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:47.301488+00:00",
       "reliability_score": 0.865,
       "failure_count": 0,
       "channels_discovered": 171,
@@ -206,8 +206,8 @@
         "json",
         "xml"
       ],
-      "last_successful_scan": "2026-11-24T15:04:35.211006+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:35.211006+00:00",
+      "last_successful_scan": "2026-11-25T00:57:47.567707+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:47.567707+00:00",
       "reliability_score": 0.865,
       "failure_count": 0,
       "channels_discovered": 0,
@@ -227,8 +227,8 @@
         "xml.gz",
         "json"
       ],
-      "last_successful_scan": "2026-11-24T15:03:56.069928+00:00",
-      "last_attempted_scan": "2026-11-24T15:03:56.069928+00:00",
+      "last_successful_scan": "2026-11-25T00:57:16.072628+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:16.072628+00:00",
       "reliability_score": 0.775,
       "failure_count": 0,
       "channels_discovered": 0,
@@ -248,8 +248,8 @@
         "xml.gz",
         "json"
       ],
-      "last_successful_scan": "2026-11-24T15:04:35.201567+00:00",
-      "last_attempted_scan": "2026-11-24T15:04:35.201567+00:00",
+      "last_successful_scan": "2026-11-25T00:57:47.559483+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:47.559483+00:00",
       "reliability_score": 0.748,
       "failure_count": 0,
       "channels_discovered": 0,
@@ -289,7 +289,7 @@
         "json"
       ],
       "last_successful_scan": null,
-      "last_attempted_scan": "2026-11-24T15:03:56.071559+00:00",
+      "last_attempted_scan": "2026-11-25T00:57:16.074166+00:00",
       "reliability_score": 0.595,
       "failure_count": 1,
       "channels_discovered": 0,
