@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="IPTV-Curator-2.0" date="20261125010003 +0000">
-  <channel id="TNT.Sports.4.ie">
-    <display-name>TNT Sports 4</display-name>
-    <icon src="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" />
-  </channel>
+<tv generator-info-name="IPTV-Curator-2.0" date="20261125144714 +0000">
   <channel id="CBS.Sports.Golazo.Network.us2">
     <display-name>CBS Sports Golazo Network</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
@@ -1420,6 +1416,74 @@
     <desc lang="en">Stunned by Leeds last weekend, Xabi Alonso's fragile Chelsea head to the City Ground on Friday Night Football for a Premier League meeting with Oliver Glasner's Nottingham Forest. (27.</desc>
     <category lang="en">Football</category>
   </programme>
+  <channel id="FX.Movie.Channel.HD.us2">
+    <display-name>FX Movie Channel</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261125110000 +0000" stop="20261125130000 +0000" channel="FX.Movie.Channel.HD.us2">
+    <title lang="en">Quintet</title>
+    <desc lang="en">A frozen wasteland is the scene of an unusual game of life or death where the victims fight to remain alive.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125224500 +0000" stop="20261126010000 +0000" channel="FX.Movie.Channel.HD.us2">
+    <title lang="en">The Art of Racing in the Rain</title>
+    <desc lang="en">Denny Swift is a Formula One race car driver who understands that the techniques needed on the racetrack can also be used to successfully navigate everyday life. Besides his career, Denny has three loves of his life -- his beautiful wife, their young daughter and his best friend -- a dog who wants to be reincarnated into a human.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126025500 +0000" stop="20261126051000 +0000" channel="FX.Movie.Channel.HD.us2">
+    <title lang="en">The Art of Racing in the Rain</title>
+    <desc lang="en">Denny Swift is a Formula One race car driver who understands that the techniques needed on the racetrack can also be used to successfully navigate everyday life. Besides his career, Denny has three loves of his life -- his beautiful wife, their young daughter and his best friend -- a dog who wants to be reincarnated into a human.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126051000 +0000" stop="20261126073500 +0000" channel="FX.Movie.Channel.HD.us2">
+    <title lang="en">Breakthrough</title>
+    <desc lang="en">Tragedy strikes when Joyce Smith's adopted son, John, falls through the ice on a frozen lake in Missouri. Trapped underwater for more than 15 minutes, rescuers bring John back to the surface and rush him to the nearest hospital. While doctors fear the worst, the 14-year-old boy continues to fight for his life as Joyce, her husband and their pastor stay by his bedside and pray for a miracle.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261126200000 +0000" stop="20261126222000 +0000" channel="FX.Movie.Channel.HD.us2">
+    <title lang="en">Breakthrough</title>
+    <desc lang="en">Tragedy strikes when Joyce Smith's adopted son, John, falls through the ice on a frozen lake in Missouri. Trapped underwater for more than 15 minutes, rescuers bring John back to the surface and rush him to the nearest hospital. While doctors fear the worst, the 14-year-old boy continues to fight for his life as Joyce, her husband and their pastor stay by his bedside and pray for a miracle.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127154500 +0000" stop="20261127174500 +0000" channel="FX.Movie.Channel.HD.us2">
+    <title lang="en">Quintet</title>
+    <desc lang="en">A frozen wasteland is the scene of an unusual game of life or death where the victims fight to remain alive.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Fuse.HD.us2">
+    <display-name>Fuse</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261124060000 +0000" stop="20261124090000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">BKB: Bare Knuckle Boxing</title>
+    <desc lang="en">Features the best bare-knuckle boxing fighters and prospects in action from Bare Knuckle Boxing and BYB Extreme Fighting Series.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Elvis: The Vegas Years</title>
+    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124213000 +0000" stop="20261124220000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Life's Funniest Moments</title>
+    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125163000 +0000" stop="20261125180000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Stevie Nicks: Wild at Heart</title>
+    <desc lang="en">For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261126183000 +0000" stop="20261126193000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Elvis: The Vegas Years</title>
+    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Life's Funniest Moments</title>
+    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
   <channel id="Moonbug.au">
     <display-name>Moonbug</display-name>
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/2613/image" />
@@ -1493,6 +1557,78 @@
     <title lang="en">Go Buster</title>
     <desc lang="en">Buster learns teamwork makes the dream work! He works with his team to win a soccer game &amp; escape a maze!</desc>
     <category lang="en">Football</category>
+  </programme>
+  <channel id="Now.Rock.uk">
+    <display-name>Now Rock</display-name>
+    <icon src="https://assets.tv24.co/channels/now-90-s-uk-l.webp" />
+  </channel>
+  <programme start="20261125070000 +0000" stop="20261125100000 +0000" channel="Now.Rock.uk">
+    <title lang="en">90's Rock: From Grunge to Alt</title>
+    <desc lang="en">A 90's evolution of Rock: From the raw energy of glam and grunge to the alt-rock revolution. Expect to see Def Leppard, Guns N Roses, Alanis, No Doubt and many more!</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127030000 +0000" stop="20261127060000 +0000" channel="Now.Rock.uk">
+    <title lang="en">The 90s: Guitars, Grunge &amp; Glory!</title>
+    <desc lang="en">Grunge happened, we kept the guitars! Britpop happened, we kept the Gallaghers! Nirvana brought angst, Blur brought swagger &amp; everyone brought riffs, anthems &amp; questionable hair!</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Paramount.Network.HD.us2">
+    <display-name>Paramount Network</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261124113000 +0000" stop="20261124120000 +0000" channel="Paramount.Network.HD.us2">
+    <title lang="en">Entertainment Tonight</title>
+    <desc lang="en">Formula 1 Las Vegas Grand Prix: inside race weekend, from the F1 paddock to the exclusive Bellagio Fountain Club; Jenna Bush Hager reveals the real-life memories inspiring the drama behind the scenes of the "Line of Fire" Thanksgiving episode.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261125103300 +0000" stop="20261125110000 +0000" channel="Paramount.Network.HD.us2">
+    <title lang="en">Bar Rescue</title>
+    <desc lang="en">Jon attempts to save the legendary Las Vegas speakeasy Capo's Restaurant and bring it back to its pre-pandemic glory.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127182200 +0000" stop="20261127192700 +0000" channel="Paramount.Network.HD.us2">
+    <title lang="en">Yellowstone</title>
+    <desc lang="en">The Duttons gear up for a final fight with the Becks; Beth helps Monica out of an uncomfortable situation.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Right.Now.TV.us2">
+    <display-name>RightNow TV</display-name>
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" />
+  </channel>
+  <programme start="20261124203000 +0000" stop="20261124213000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261125203000 +0000" stop="20261125213000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">National Pro GRID League</title>
+    <desc lang="en">Grid is a sport featuring two teams racing head-to-head to complete a series of weightlifting, body-weight and other athletic elements.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261126203000 +0000" stop="20261126213000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127050000 +0000" stop="20261127060000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127203000 +0000" stop="20261127213000 +0000" channel="Right.Now.TV.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
   </programme>
   <channel id="TENNIS.za">
     <display-name>Tennis+</display-name>
@@ -1923,132 +2059,6 @@
     <desc lang="en">'Davis Cup Finals - Semi-final 1 Singles Match 1'. From BolognaFiere - Bologna, Italy.</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <channel id="FX.Movie.Channel.HD.us2">
-    <display-name>FX Movie Channel</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261125110000 +0000" stop="20261125130000 +0000" channel="FX.Movie.Channel.HD.us2">
-    <title lang="en">Quintet</title>
-    <desc lang="en">A frozen wasteland is the scene of an unusual game of life or death where the victims fight to remain alive.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125224500 +0000" stop="20261126010000 +0000" channel="FX.Movie.Channel.HD.us2">
-    <title lang="en">The Art of Racing in the Rain</title>
-    <desc lang="en">Denny Swift is a Formula One race car driver who understands that the techniques needed on the racetrack can also be used to successfully navigate everyday life. Besides his career, Denny has three loves of his life -- his beautiful wife, their young daughter and his best friend -- a dog who wants to be reincarnated into a human.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126025500 +0000" stop="20261126051000 +0000" channel="FX.Movie.Channel.HD.us2">
-    <title lang="en">The Art of Racing in the Rain</title>
-    <desc lang="en">Denny Swift is a Formula One race car driver who understands that the techniques needed on the racetrack can also be used to successfully navigate everyday life. Besides his career, Denny has three loves of his life -- his beautiful wife, their young daughter and his best friend -- a dog who wants to be reincarnated into a human.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126051000 +0000" stop="20261126073500 +0000" channel="FX.Movie.Channel.HD.us2">
-    <title lang="en">Breakthrough</title>
-    <desc lang="en">Tragedy strikes when Joyce Smith's adopted son, John, falls through the ice on a frozen lake in Missouri. Trapped underwater for more than 15 minutes, rescuers bring John back to the surface and rush him to the nearest hospital. While doctors fear the worst, the 14-year-old boy continues to fight for his life as Joyce, her husband and their pastor stay by his bedside and pray for a miracle.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261126200000 +0000" stop="20261126222000 +0000" channel="FX.Movie.Channel.HD.us2">
-    <title lang="en">Breakthrough</title>
-    <desc lang="en">Tragedy strikes when Joyce Smith's adopted son, John, falls through the ice on a frozen lake in Missouri. Trapped underwater for more than 15 minutes, rescuers bring John back to the surface and rush him to the nearest hospital. While doctors fear the worst, the 14-year-old boy continues to fight for his life as Joyce, her husband and their pastor stay by his bedside and pray for a miracle.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127154500 +0000" stop="20261127174500 +0000" channel="FX.Movie.Channel.HD.us2">
-    <title lang="en">Quintet</title>
-    <desc lang="en">A frozen wasteland is the scene of an unusual game of life or death where the victims fight to remain alive.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Fuse.HD.us2">
-    <display-name>Fuse</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261124060000 +0000" stop="20261124090000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">BKB: Bare Knuckle Boxing</title>
-    <desc lang="en">Features the best bare-knuckle boxing fighters and prospects in action from Bare Knuckle Boxing and BYB Extreme Fighting Series.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Elvis: The Vegas Years</title>
-    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124213000 +0000" stop="20261124220000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Life's Funniest Moments</title>
-    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125163000 +0000" stop="20261125180000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Stevie Nicks: Wild at Heart</title>
-    <desc lang="en">For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.</desc>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20261126183000 +0000" stop="20261126193000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Elvis: The Vegas Years</title>
-    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="Fuse.HD.us2">
-    <title lang="en">Life's Funniest Moments</title>
-    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Paramount.Network.HD.us2">
-    <display-name>Paramount Network</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261124113000 +0000" stop="20261124120000 +0000" channel="Paramount.Network.HD.us2">
-    <title lang="en">Entertainment Tonight</title>
-    <desc lang="en">Formula 1 Las Vegas Grand Prix: inside race weekend, from the F1 paddock to the exclusive Bellagio Fountain Club; Jenna Bush Hager reveals the real-life memories inspiring the drama behind the scenes of the "Line of Fire" Thanksgiving episode.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261125103300 +0000" stop="20261125110000 +0000" channel="Paramount.Network.HD.us2">
-    <title lang="en">Bar Rescue</title>
-    <desc lang="en">Jon attempts to save the legendary Las Vegas speakeasy Capo's Restaurant and bring it back to its pre-pandemic glory.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127182200 +0000" stop="20261127192700 +0000" channel="Paramount.Network.HD.us2">
-    <title lang="en">Yellowstone</title>
-    <desc lang="en">The Duttons gear up for a final fight with the Becks; Beth helps Monica out of an uncomfortable situation.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Right.Now.TV.us2">
-    <display-name>RightNow TV</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" />
-  </channel>
-  <programme start="20261124203000 +0000" stop="20261124213000 +0000" channel="Right.Now.TV.us2">
-    <title lang="en">United Fight Alliance</title>
-    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="Right.Now.TV.us2">
-    <title lang="en">United Fight Alliance</title>
-    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261125203000 +0000" stop="20261125213000 +0000" channel="Right.Now.TV.us2">
-    <title lang="en">United Fight Alliance</title>
-    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="Right.Now.TV.us2">
-    <title lang="en">National Pro GRID League</title>
-    <desc lang="en">Grid is a sport featuring two teams racing head-to-head to complete a series of weightlifting, body-weight and other athletic elements.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261126203000 +0000" stop="20261126213000 +0000" channel="Right.Now.TV.us2">
-    <title lang="en">United Fight Alliance</title>
-    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127050000 +0000" stop="20261127060000 +0000" channel="Right.Now.TV.us2">
-    <title lang="en">United Fight Alliance</title>
-    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127203000 +0000" stop="20261127213000 +0000" channel="Right.Now.TV.us2">
-    <title lang="en">United Fight Alliance</title>
-    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
   <channel id="Word.Network.uk">
     <display-name>The Word Network (480p)</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" />
@@ -2456,20 +2466,6 @@
     <desc lang="en">Hugh Woozencroft presents live Premier League commentary. Southampton v Middlesbrough is on talkSPORT 2.</desc>
     <category lang="en">Football</category>
   </programme>
-  <channel id="Now.Rock.uk">
-    <display-name>Now Rock</display-name>
-    <icon src="https://assets.tv24.co/channels/now-90-s-uk-l.webp" />
-  </channel>
-  <programme start="20261125070000 +0000" stop="20261125100000 +0000" channel="Now.Rock.uk">
-    <title lang="en">90's Rock: From Grunge to Alt</title>
-    <desc lang="en">A 90's evolution of Rock: From the raw energy of glam and grunge to the alt-rock revolution. Expect to see Def Leppard, Guns N Roses, Alanis, No Doubt and many more!</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127030000 +0000" stop="20261127060000 +0000" channel="Now.Rock.uk">
-    <title lang="en">The 90s: Guitars, Grunge &amp; Glory!</title>
-    <desc lang="en">Grunge happened, we kept the guitars! Britpop happened, we kept the Gallaghers! Nirvana brought angst, Blur brought swagger &amp; everyone brought riffs, anthems &amp; questionable hair!</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
   <channel id="CW.us2">
     <display-name>CW</display-name>
     <icon src="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&amp;h=270" />
@@ -2584,20 +2580,6 @@
     <title lang="en">Road Less Traveled</title>
     <desc lang="en">Russia, the nation of czars! Jonathan bounces around opulent subway networks, chances upon Russia's legendary space exploration initiative, heads to Grozny for gritty hands on combat, and so much more!</desc>
     <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="ITV1.HD.uk">
-    <display-name>ITV1</display-name>
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
-  </channel>
-  <programme start="20261127130000 +0000" stop="20261127160000 +0000" channel="ITV1.HD.uk">
-    <title lang="en">ITV Racing: Live from Newbury</title>
-    <desc lang="en">Ed Chamberlin presents live racing from Newbury and Southwell, Today's highlight is the Long Distance Hurdle.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261127160000 +0000" stop="20261127190000 +0000" channel="ITV1.HD.uk">
-    <title lang="en">Fiji v Italy: Nations Championship</title>
-    <desc lang="en">Lauren Salter presents live rugby as Italy face Fiji in the Nations Championship, with guests Jamie Roberts and Maggie Alphonsi.</desc>
-    <category lang="en">Rugby</category>
   </programme>
   <channel id="Law.and.Crime.us2">
     <display-name>Law &amp; Crime</display-name>
@@ -2837,6 +2819,114 @@
     <desc lang="en">The guys serve up raw deals at a pawn shop counter and try to convince strangers to give them hugs; the loser performs his life story through songs.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
+  <channel id="ESPN2.HD.us2">
+    <display-name>ESPN2</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261124090000 +0000" stop="20261124110000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The No. 5 Texas Longhorns (8-2, 5-2 SEC) host the Arkansas Razorbacks (4-6, 2-5) in Austin. Arkansas enters after a 34-6 victory over South Carolina, while Texas seeks a fifth straight victory behind Arch Manning, who leads with 19 touchdowns.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125030000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The Western Michigan Broncos host the Miami (OH) RedHawks at Waldo Stadium in Kalamazoo. Western Michigan enters this game on a three-game win streak, including a 34-27 win against Western Michigan, while Miami (OH) aims for three straight wins.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">WWE Survivor Series: WarGames Special</title>
+    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">WWE Survivor Series: WarGames Special</title>
+    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">WWE Survivor Series: WarGames Special</title>
+    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="ESPN2.HD.us2">
+    <title lang="en">Saban</title>
+    <desc lang="en">After a global event reaches beyond the football field, Saban faces one final test of adaptability.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <channel id="NBC.Sports.Philadelphia.HD.us2">
+    <display-name>NBC Sports Philadelphia</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261124080000 +0000" stop="20261124083000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124230000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Live: Unfiltered with Ricky Bo and Bill Colarulo</title>
+    <desc lang="en">Ricky Bottalico and Bill Colarulo dive deep into the heart of Philadelphia sports with raw, real talk that reflects the city's passionate fan base.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261124233000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Live: Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261125003000 +0000" stop="20261125010000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125033000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125213000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Live: Unfiltered with Ricky Bo and Bill Colarulo</title>
+    <desc lang="en">Ricky Bottalico and Bill Colarulo dive deep into the heart of Philadelphia sports with raw, real talk that reflects the city's passionate fan base.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261126013000 +0000" stop="20261126020000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">The SZN With Nick Foles &amp; Evan Moore</title>
+    <desc lang="en">The SZN shares everything you need to know about the upcoming week in football.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261126080000 +0000" stop="20261126083000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261126193000 +0000" stop="20261126200000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">The SZN With Nick Foles &amp; Evan Moore</title>
+    <desc lang="en">The SZN shares everything you need to know about the upcoming week in football.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Live: Birds No Huddle</title>
+    <desc lang="en">Join Ashlyn Sullivan and Ryan Fowler to kick off Eagles game day with updates and live reports.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Football</category>
+  </programme>
   <channel id="LFCTV.HD.uk">
     <display-name>LFC TV</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" />
@@ -3056,116 +3146,92 @@
     <desc lang="en">LFCTV looks ahead to Liverpool's match against Everton.</desc>
     <category lang="en">Football</category>
   </programme>
-  <channel id="ESPN2.HD.us2">
-    <display-name>ESPN2</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="STV.HD.uk">
+    <display-name>STV HD | TH Sơn La</display-name>
+    <icon src="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" />
   </channel>
-  <programme start="20261124090000 +0000" stop="20261124110000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">College Football</title>
-    <desc lang="en">The No. 5 Texas Longhorns (8-2, 5-2 SEC) host the Arkansas Razorbacks (4-6, 2-5) in Austin. Arkansas enters after a 34-6 victory over South Carolina, while Texas seeks a fifth straight victory behind Arch Manning, who leads with 19 touchdowns.</desc>
+  <programme start="20261126190000 +0000" stop="20261126193000 +0000" channel="STV.HD.uk">
+    <title lang="en">The STV Radio Football Takeover</title>
+    <desc lang="en">Ewen Cameron, Ronnie Charters and Callum Bell tackle the biggest talking points in Scottish football with plenty of laughs, heated arguments and passionate opinions.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261125000000 +0000" stop="20261125030000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">Live: College Football</title>
-    <desc lang="en">The Western Michigan Broncos host the Miami (OH) RedHawks at Waldo Stadium in Kalamazoo. Western Michigan enters this game on a three-game win streak, including a 34-27 win against Western Michigan, while Miami (OH) aims for three straight wins.</desc>
-    <category lang="en">Football</category>
+  <programme start="20261127130000 +0000" stop="20261127155900 +0000" channel="STV.HD.uk">
+    <title lang="en">STV Racing: Live from Newbury</title>
+    <desc lang="en">Ed Chamberlin presents coverage of day one of the Winter Festival, including the Long Distance Hurdle. Plus, all-weather racing from Southwell.</desc>
+    <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">WWE Survivor Series: WarGames Special</title>
-    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
-    <category lang="en">Combat Sports</category>
+  <programme start="20261127160000 +0000" stop="20261127190000 +0000" channel="STV.HD.uk">
+    <title lang="en">Nations Championship</title>
+    <desc lang="en">Italy v Fiji (Kick-off 4.40pm). Coverage of the opening match of the Finals Weekend, held at Allianz Stadium Twickenham.</desc>
+    <category lang="en">Rugby</category>
   </programme>
-  <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">WWE Survivor Series: WarGames Special</title>
-    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">WWE Survivor Series: WarGames Special</title>
-    <desc lang="en">Preview the WWE Survivor Series: WarGames event to be held on Nov. 29 at Petco Park in San Diego.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="ESPN2.HD.us2">
-    <title lang="en">Saban</title>
-    <desc lang="en">After a global event reaches beyond the football field, Saban faces one final test of adaptability.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <channel id="NBC.Sports.Philadelphia.HD.us2">
-    <display-name>NBC Sports Philadelphia</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Cooking.Channel.HD.us2">
+    <display-name>Cooking Channel</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s68065_ll_h15_aa.png?w=360&amp;h=270" />
   </channel>
-  <programme start="20261124080000 +0000" stop="20261124083000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Birds Huddle</title>
-    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261124190000 +0000" stop="20261124230000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Live: Unfiltered with Ricky Bo and Bill Colarulo</title>
-    <desc lang="en">Ricky Bottalico and Bill Colarulo dive deep into the heart of Philadelphia sports with raw, real talk that reflects the city's passionate fan base.</desc>
+  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="Cooking.Channel.HD.us2">
+    <title lang="en">Bizarre Foods With Andrew Zimmern</title>
+    <desc lang="en">Andrew Zimmern dives into the culinary treasures of Italy's Amalfi Coast; he samples raw red mullet aboard a fishing boat, tastes years-old fish sauce, visits the Sistine Chapel of salumi, and tucks into Mamma Agata's cloud-like meatballs.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261124230000 +0000" stop="20261124233000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Live: Birds Huddle</title>
-    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125003000 +0000" stop="20261125010000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Birds Huddle</title>
-    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125030000 +0000" stop="20261125033000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Birds Huddle</title>
-    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261125190000 +0000" stop="20261125213000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Live: Unfiltered with Ricky Bo and Bill Colarulo</title>
-    <desc lang="en">Ricky Bottalico and Bill Colarulo dive deep into the heart of Philadelphia sports with raw, real talk that reflects the city's passionate fan base.</desc>
+  <channel id="Crime.and.Investigation.Network.HD.us2">
+    <display-name>Crime &amp; Investigation Network</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s61469_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="Crime.and.Investigation.Network.HD.us2">
+    <title lang="en">I Survived</title>
+    <desc lang="en">Two friends must fight for their lives when their plane goes down in the ocean; four men break into a family's home and threaten to shoot a woman in front of her daughters; a woman is abducted by an armed robber.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261126013000 +0000" stop="20261126020000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Birds Huddle</title>
-    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+  <programme start="20261124220000 +0000" stop="20261124223000 +0000" channel="Crime.and.Investigation.Network.HD.us2">
+    <title lang="en">Manhunters: Fugitive Task Force</title>
+    <desc lang="en">A former corrections officer and boxing coach is wanted for kidnapping and sexual assault.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127140000 +0000" stop="20261127150000 +0000" channel="Crime.and.Investigation.Network.HD.us2">
+    <title lang="en">I Survived</title>
+    <desc lang="en">A pregnant woman is abducted, raped and left to die; a man faces freezing to death after a plane crash; a man must play dead to fight for his life.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="Crime.and.Investigation.Network.HD.us2">
+    <title lang="en">Nightwatch</title>
+    <desc lang="en">Chaos erupts at a high-school football game when shots are fired and a teenager is wounded; Mayville and Stokes investigate multiple bomb threats in the neighborhood of Ybor City; the ROC Squad chases a teen on a joyride with his parents' car.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">The SZN With Nick Foles &amp; Evan Moore</title>
-    <desc lang="en">The SZN shares everything you need to know about the upcoming week in football.</desc>
+  <channel id="Galavision.Cable.Network.HD.us2">
+    <display-name>Galavisión</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s68367_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="Galavision.Cable.Network.HD.us2">
+    <title lang="en">Renta congelada</title>
+    <desc lang="en">Federico roba muebles de los negocios que están alrededor de su casa, y un coleccionista de antigüedades ofrece 100 000 euros por el trinchador de Federico, por lo que Ana idea un plan para reconstruirlo.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261126080000 +0000" stop="20261126083000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Birds Huddle</title>
-    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
-    <category lang="en">Football</category>
+  <channel id="Game.Show.Network.HD.us2">
+    <display-name>Gameshow Network (1080p)</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261125220000 +0000" stop="20261125223000 +0000" channel="Game.Show.Network.HD.us2">
+    <title lang="en">Flip Side</title>
+    <desc lang="en">Former wrestlers Matt and Delenia take Katy and Ceil to the ring.</desc>
+    <category lang="en">Combat Sports</category>
   </programme>
-  <programme start="20261126193000 +0000" stop="20261126200000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">The SZN With Nick Foles &amp; Evan Moore</title>
-    <desc lang="en">The SZN shares everything you need to know about the upcoming week in football.</desc>
-    <category lang="en">Football</category>
+  <channel id="HLN.HD.us2">
+    <display-name>HLN</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="HLN.HD.us2">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">A pair of tennis shoes are found near a victim who had been stabbed on the beach, less than ten yards from her hotel.</desc>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Live: Birds No Huddle</title>
-    <desc lang="en">Join Ashlyn Sullivan and Ryan Fowler to kick off Eagles game day with updates and live reports.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Birds Huddle</title>
-    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Birds Huddle</title>
-    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
-    <title lang="en">Pro Football Weekly</title>
-    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
-    <category lang="en">Football</category>
+  <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="HLN.HD.us2">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">Weeks after a student vanishes, the body of an unknown female is found in the ashes of a fire 700 miles away; an alert policeman realizes the crimes could be connected.</desc>
+    <category lang="en">Cricket</category>
   </programme>
   <channel id="LoveNature.au">
-    <display-name>Love Nature</display-name>
+    <display-name>Love Nature 4K</display-name>
     <icon src="https://www.fetchtv.com.au/v2/epg/channels/2404/image" />
   </channel>
   <programme start="20261123052000 +0000" stop="20261123061500 +0000" channel="LoveNature.au">
@@ -3223,117 +3289,6 @@
     <desc lang="en">Australia is home to an eclectic array of creatures, and the ways to succeed as an alpha are just as diverse. The beach turns into a dueling ground, and the outback becomes a boxing ring, as animals face off with their own kind.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <channel id="TRACE.URBAN.HD.za">
-    <display-name>TRACE URBAN</display-name>
-    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T26.png" />
-  </channel>
-  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="TRACE.URBAN.HD.za">
-    <title lang="en">Gqom Hits</title>
-    <desc lang="en">'S1/E1090 - Gqom Hits'. Get ready to move to the hard-hitting beats and raw, pulsating rhythms of Gqom, featuring the latest hits and underground anthems from the genre's top artists.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="BBC.One.Lon.HD.uk">
-    <display-name>BBC One</display-name>
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
-  </channel>
-  <programme start="20261125224000 +0000" stop="20261126000000 +0000" channel="BBC.One.Lon.HD.uk">
-    <title lang="en">MOTD: UEFA Champions League</title>
-    <desc lang="en">Highlights from the fifth round of matches in the UEFA Champions League group stage.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <channel id="Cooking.Channel.HD.us2">
-    <display-name>Cooking Channel</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s68065_ll_h15_aa.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="Cooking.Channel.HD.us2">
-    <title lang="en">Bizarre Foods With Andrew Zimmern</title>
-    <desc lang="en">Andrew Zimmern dives into the culinary treasures of Italy's Amalfi Coast; he samples raw red mullet aboard a fishing boat, tastes years-old fish sauce, visits the Sistine Chapel of salumi, and tucks into Mamma Agata's cloud-like meatballs.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="Crime.and.Investigation.Network.HD.us2">
-    <display-name>Crime &amp; Investigation Network</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s61469_ll_h15_ab.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="Crime.and.Investigation.Network.HD.us2">
-    <title lang="en">I Survived</title>
-    <desc lang="en">Two friends must fight for their lives when their plane goes down in the ocean; four men break into a family's home and threaten to shoot a woman in front of her daughters; a woman is abducted by an armed robber.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124220000 +0000" stop="20261124223000 +0000" channel="Crime.and.Investigation.Network.HD.us2">
-    <title lang="en">Manhunters: Fugitive Task Force</title>
-    <desc lang="en">A former corrections officer and boxing coach is wanted for kidnapping and sexual assault.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127140000 +0000" stop="20261127150000 +0000" channel="Crime.and.Investigation.Network.HD.us2">
-    <title lang="en">I Survived</title>
-    <desc lang="en">A pregnant woman is abducted, raped and left to die; a man faces freezing to death after a plane crash; a man must play dead to fight for his life.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="Crime.and.Investigation.Network.HD.us2">
-    <title lang="en">Nightwatch</title>
-    <desc lang="en">Chaos erupts at a high-school football game when shots are fired and a teenager is wounded; Mayville and Stokes investigate multiple bomb threats in the neighborhood of Ybor City; the ROC Squad chases a teen on a joyride with his parents' car.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <channel id="EWTN.ie">
-    <display-name>EWTN</display-name>
-    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1198_f.png" />
-  </channel>
-  <programme start="20261124100000 +0000" stop="20261124103000 +0000" channel="EWTN.ie">
-    <title lang="en">Fields and Faith</title>
-    <desc lang="en">EWTN contributor Bob Dolan introduces sports figures who turned their dreams of glory into faith on the field as they talk about after their achievements on what God has in mind for them now. Speed Skater Bonnie Blair joins host Bob Dolan to talk about her career, which included winning four gold Olympic medals and about her faith and her volunteer work for Catholic Relief Services.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124160000 +0000" channel="EWTN.ie">
-    <title lang="en">We Are Catholic</title>
-    <desc lang="en">Manuel and Phillip play soccer and break the stained glass of the Santa Clara Catholic Church.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <channel id="Galavision.Cable.Network.HD.us2">
-    <display-name>Galavisión</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s68367_ll_h15_ac.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="Galavision.Cable.Network.HD.us2">
-    <title lang="en">Renta congelada</title>
-    <desc lang="en">Federico roba muebles de los negocios que están alrededor de su casa, y un coleccionista de antigüedades ofrece 100 000 euros por el trinchador de Federico, por lo que Ana idea un plan para reconstruirlo.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <channel id="Game.Show.Network.HD.us2">
-    <display-name>Gameshow Network (1080p)</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261125220000 +0000" stop="20261125223000 +0000" channel="Game.Show.Network.HD.us2">
-    <title lang="en">Flip Side</title>
-    <desc lang="en">Former wrestlers Matt and Delenia take Katy and Ceil to the ring.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <channel id="HLN.HD.us2">
-    <display-name>HLN</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="HLN.HD.us2">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">A pair of tennis shoes are found near a victim who had been stabbed on the beach, less than ten yards from her hotel.</desc>
-    <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="HLN.HD.us2">
-    <title lang="en">Forensic Files</title>
-    <desc lang="en">Weeks after a student vanishes, the body of an unknown female is found in the ashes of a fire 700 miles away; an alert policeman realizes the crimes could be connected.</desc>
-    <category lang="en">Cricket</category>
-  </programme>
-  <channel id="Nicktoons.us2">
-    <display-name>Nicktoons</display-name>
-    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
-  </channel>
-  <programme start="20261126045000 +0000" stop="20261126051600 +0000" channel="Nicktoons.us2">
-    <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">After the Science Scouts begin selling biscuits to fund a trip to Mars, Mr. Krabs enters the ring and turns it into a competition; a new driving school opens in town.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
-  <programme start="20261127002900 +0000" stop="20261127005500 +0000" channel="Nicktoons.us2">
-    <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">After the Science Scouts begin selling biscuits to fund a trip to Mars, Mr. Krabs enters the ring and turns it into a competition; a new driving school opens in town.</desc>
-    <category lang="en">Combat Sports</category>
-  </programme>
   <channel id="TNT.HD.us2">
     <display-name>TNT</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s11164_dark_360w_270h.png" />
@@ -3350,6 +3305,15 @@
   <programme start="20261127040000 +0000" stop="20261127060000 +0000" channel="TNT.HD.(Pacific).us2">
     <title lang="en">All Elite Wrestling: Collision</title>
     <desc lang="en">The all new matches, more stories and more action, featuring the world-class All Elite Wrestling roster.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="TRACE.URBAN.HD.za">
+    <display-name>TRACE URBAN</display-name>
+    <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T26.png" />
+  </channel>
+  <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="TRACE.URBAN.HD.za">
+    <title lang="en">Gqom Hits</title>
+    <desc lang="en">'S1/E1090 - Gqom Hits'. Get ready to move to the hard-hitting beats and raw, pulsating rhythms of Gqom, featuring the latest hits and underground anthems from the genre's top artists.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
   <channel id="TUDN.us2">
@@ -3581,9 +3545,9 @@
     <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
     <category lang="en">Football</category>
   </programme>
-  <channel id="beinsportsxtraunitedstates_8d7e62bc18">
-    <display-name>beIN Sports XTRA (United States)</display-name>
-    <icon src="https://object-streamo.emonaja.com/img/beinsports.png" />
+  <channel id="EWTN.ie">
+    <display-name>EWTN</display-name>
+    <icon src="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1198_f.png" />
   </channel>
   <channel id="Family.Entertainment.Television.us2">
     <display-name>FETV</display-name>
@@ -3594,14 +3558,6 @@
     <desc lang="en">A former athlete pushes his daughter too hard in a quest for Olympic glory; a man becomes trapped within an aircraft's landing gear.</desc>
     <category lang="en">Combat Sports</category>
   </programme>
-  <channel id="dazn3_339b69dd3c">
-    <display-name>DAZN 3</display-name>
-    <icon src="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&amp;ssl=1" />
-  </channel>
-  <channel id="daznringside_2a92a0eb39">
-    <display-name>DAZN Ringside</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png?_=20170601155620" />
-  </channel>
   <channel id="beinsportsextra_1ca7e7036c">
     <display-name>BeiN Sports Extra</display-name>
   </channel>

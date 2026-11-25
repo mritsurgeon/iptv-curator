@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Tennis
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.ie" tvg-name="TNT Sports 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" tvg-language="English" group-title="Tennis - Grand Slams",TNT Sports 4
-https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Grand Slams",ESPN+
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
