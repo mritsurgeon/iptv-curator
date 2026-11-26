@@ -1,320 +1,29 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Upcoming 48h Sports Events (Confirmed EPG)
 
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel | 2026-11-26 00:45 SAST: The Art of Racing in the Rain" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Formula 1",FX Movie Channel | 2026-11-26 00:45 SAST: The Art of Racing in the Rain
-http://89.187.179.148:826/1368/gXwiagaXda/29312
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-26 14:45 SAST: Qatar F1 Grand Prix 2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-26 14:45 SAST: Qatar F1 Grand Prix 2023
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 02:30 SAST: PL Icons: Ruud Van Nistelrooy" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 02:30 SAST: PL Icons: Ruud Van Nistelrooy
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-26 15:00 SAST: Morning Footy" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-26 15:00 SAST: Morning Footy
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 02:30 SAST: Davis Cup Finals '26 QF Dbls ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 02:30 SAST: Davis Cup Finals '26 QF Dbls ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-26 17:00 SAST: Morning Footy" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-26 17:00 SAST: Morning Footy
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 2026-11-26 03:00 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 HD | 2026-11-26 03:00 SAST: College Football
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-26 18:00 SAST: Live: Horse Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FOX Sports 1 | 2026-11-26 18:00 SAST: Live: Horse Racing
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 03:00 SAST: The Best of Canada 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 03:00 SAST: The Best of Canada 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-26 18:45 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-26 18:45 SAST: Weekend Wrapped
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 03:00 SAST: PL Retro: Chelsea v Liverpool 2003" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 03:00 SAST: PL Retro: Chelsea v Liverpool 2003
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-26 19:00 SAST: Live: The Golazo! Show" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",CBS Sports Golazo Network | 2026-11-26 19:00 SAST: Live: The Golazo! Show
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 03:00 SAST: The Best of Canada 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 03:00 SAST: The Best of Canada 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS | 2026-11-26 03:00 SAST: All Elite Wrestling: Dynamite" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - AEW",TBS | 2026-11-26 03:00 SAST: All Elite Wrestling: Dynamite
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 03:30 SAST: The Best of Monaco 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 03:30 SAST: The Best of Monaco 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 03:30 SAST: The Best of Monaco 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 03:30 SAST: The Best of Monaco 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-26 03:30 SAST: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-26 03:30 SAST: Birds Huddle
-http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 04:00 SAST: The Best of Barcelona 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 04:00 SAST: The Best of Barcelona 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 04:00 SAST: Davis Cup Finals HL 26 QF M1 ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 04:00 SAST: Davis Cup Finals HL 26 QF M1 ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 04:00 SAST: The Best of Barcelona 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 04:00 SAST: The Best of Barcelona 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-26 04:00 SAST: The SZN With Nick Foles & Evan Moore" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-26 04:00 SAST: The SZN With Nick Foles & Evan Moore
-http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 04:15 SAST: Davis Cup Finals HL 26 QF M2 ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 04:15 SAST: Davis Cup Finals HL 26 QF M2 ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 04:30 SAST: The Best of Austria 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 04:30 SAST: The Best of Austria 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 04:30 SAST: Davis Cup Finals HL QF Dbls ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 04:30 SAST: Davis Cup Finals HL QF Dbls ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 04:30 SAST: The Best of Austria 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 04:30 SAST: The Best of Austria 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 04:45 SAST: Davis Cup Finals HL 26 QF M1 ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 04:45 SAST: Davis Cup Finals HL 26 QF M1 ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel | 2026-11-26 04:55 SAST: The Art of Racing in the Rain" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Formula 1",FX Movie Channel | 2026-11-26 04:55 SAST: The Art of Racing in the Rain
-http://89.187.179.148:826/1368/gXwiagaXda/29312
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 05:00 SAST: The Best of Britain 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 05:00 SAST: The Best of Britain 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 05:00 SAST: PL Greatest: Arsenal/Charlton 2001" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 05:00 SAST: PL Greatest: Arsenal/Charlton 2001
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 05:00 SAST: Davis Cup Finals HL 26 QF M2 ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 05:00 SAST: Davis Cup Finals HL 26 QF M2 ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 05:00 SAST: The Best of Britain 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 05:00 SAST: The Best of Britain 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 05:15 SAST: PL Greatest: Coventry/Man Utd 1997" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 05:15 SAST: PL Greatest: Coventry/Man Utd 1997
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 05:15 SAST: Davis Cup Finals HL QF Dbls ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 05:15 SAST: Davis Cup Finals HL QF Dbls ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 05:30 SAST: PL Greatest:Everton/Wimbledon 1994" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 05:30 SAST: PL Greatest:Everton/Wimbledon 1994
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 05:30 SAST: ATP Tour This Week" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - ATP Finals",Tennis | 2026-11-26 05:30 SAST: ATP Tour This Week
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 05:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 05:35 SAST: The Best of Hungary 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 05:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 05:35 SAST: The Best of Hungary 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 05:45 SAST: PL Greatest: Man City/Fulham 2008" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 05:45 SAST: PL Greatest: Man City/Fulham 2008
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 2026-11-26 06:00 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 HD | 2026-11-26 06:00 SAST: College Football
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 06:00 SAST: The Best of Australia 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 06:00 SAST: The Best of Australia 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 06:00 SAST: Best Premier League Goals 02/03" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 06:00 SAST: Best Premier League Goals 02/03
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Right.Now.TV.us2" tvg-name="RightNow TV | 2026-11-26 06:00 SAST: National Pro GRID League" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" tvg-language="English" group-title="Motorsport - General",RightNow TV | 2026-11-26 06:00 SAST: National Pro GRID League
-https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 06:00 SAST: Davis Cup Finals HL 26 QF M1 ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 06:00 SAST: Davis Cup Finals HL 26 QF M1 ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 06:00 SAST: The Best of Australia 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 06:00 SAST: The Best of Australia 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West | 2026-11-26 06:00 SAST: All Elite Wrestling: Dynamite" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - AEW",TBS West | 2026-11-26 06:00 SAST: All Elite Wrestling: Dynamite
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 06:05 SAST: Davis Cup Finals HL 26 QF M2 ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 06:05 SAST: Davis Cup Finals HL 26 QF M2 ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 06:10 SAST: Davis Cup Finals HL QF Dbls: ITA v KO" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 06:10 SAST: Davis Cup Finals HL QF Dbls: ITA v KO
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 06:15 SAST: Davis Cup Finals HL 26 QF M1 ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 06:15 SAST: Davis Cup Finals HL 26 QF M1 ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 06:20 SAST: Davis Cup Finals HL 26 QF M2 ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 06:20 SAST: Davis Cup Finals HL 26 QF M2 ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 06:25 SAST: The Best of China 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 06:25 SAST: The Best of China 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 06:25 SAST: Davis Cup Finals HL QF Dbls: ITA v KO" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 06:25 SAST: Davis Cup Finals HL QF Dbls: ITA v KO
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 06:25 SAST: The Best of China 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 06:25 SAST: The Best of China 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 06:30 SAST: Davis Cup Finals '26 QF M1: ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 06:30 SAST: Davis Cup Finals '26 QF M1: ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 07:00 SAST: The Best of Japan 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 07:00 SAST: The Best of Japan 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 07:00 SAST: PL Legends: Jamie Carragher" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - UEFA Champions League",Sky Sports Premier League SD | 2026-11-26 07:00 SAST: PL Legends: Jamie Carragher
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 07:00 SAST: The Best of Japan 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 07:00 SAST: The Best of Japan 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-26 07:00 SAST: Live: Línea de cuatro" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-26 07:00 SAST: Live: Línea de cuatro
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel | 2026-11-26 07:10 SAST: Breakthrough" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",FX Movie Channel | 2026-11-26 07:10 SAST: Breakthrough
-http://89.187.179.148:826/1368/gXwiagaXda/29312
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 07:15 SAST: The Best of Miami 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 07:15 SAST: The Best of Miami 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 07:15 SAST: The Best of Miami 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 07:15 SAST: The Best of Miami 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 07:30 SAST: PL 100: Robbie Fowler" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 07:30 SAST: PL 100: Robbie Fowler
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 08:00 SAST: PL Greatest Games:Charlton/WHU '01" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 08:00 SAST: PL Greatest Games:Charlton/WHU '01
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 08:00 SAST: Davis Cup Finals '26 QF M2: ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 08:00 SAST: Davis Cup Finals '26 QF M2: ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 08:15 SAST: PL Greatest: Man Utd/Everton 2012" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 08:15 SAST: PL Greatest: Man Utd/Everton 2012
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 08:30 SAST: PL Greatest: M'boro/Man City 2008" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 08:30 SAST: PL Greatest: M'boro/Man City 2008
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN | 2026-11-26 08:30 SAST: Forensic Files" tvg-logo="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Cricket - The Ashes",HLN | 2026-11-26 08:30 SAST: Forensic Files
-http://23.237.104.106:8080/USA_HLN/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 08:45 SAST: PL Greatest:Newcastle/Man Utd 1996" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 08:45 SAST: PL Greatest:Newcastle/Man Utd 1996
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 09:00 SAST: Qatar F1 GP Highlights 2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 09:00 SAST: Qatar F1 GP Highlights 2023
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 09:00 SAST: Best Premier League Goals 04/05" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 09:00 SAST: Best Premier League Goals 04/05
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 09:00 SAST: Qatar F1 GP Highlights 2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 09:00 SAST: Qatar F1 GP Highlights 2023
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 09:30 SAST: Davis Cup Finals '26 QF Dbls ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 09:30 SAST: Davis Cup Finals '26 QF Dbls ITA v KOR
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 2026-11-26 10:00 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 HD | 2026-11-26 10:00 SAST: College Football
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-26 10:00 SAST: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-26 10:00 SAST: Birds Huddle
-http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 10:30 SAST: PL 100: Petr Cech" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 10:30 SAST: PL 100: Petr Cech
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 11:00 SAST: Davis Cup Finals '26 D3 QF3: GBR v GER" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 11:00 SAST: Davis Cup Finals '26 D3 QF3: GBR v GER
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-26 11:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-26 11:00 SAST: UEFA Champions League en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 11:30 SAST: Premier League Netbusters" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 11:30 SAST: Premier League Netbusters
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 12:00 SAST: Live: Sky Sports FC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - General",Sky Sports Premier League SD | 2026-11-26 12:00 SAST: Live: Sky Sports FC
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS | 2026-11-26 12:30 SAST: American Dad!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-language="English" group-title="Football - General",TBS | 2026-11-26 12:30 SAST: American Dad!
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 13:00 SAST: Live: Sky Sports FC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - General",Sky Sports Premier League SD | 2026-11-26 13:00 SAST: Live: Sky Sports FC
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 14:30 SAST: Jamie Chadwick: An F1 Dream" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 14:30 SAST: Jamie Chadwick: An F1 Dream
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 14:30 SAST: Premier League Netbusters" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 14:30 SAST: Premier League Netbusters
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 14:30 SAST: Jamie Chadwick: An F1 Dream" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 14:30 SAST: Jamie Chadwick: An F1 Dream
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 14:45 SAST: Qatar F1 Grand Prix 2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 14:45 SAST: Qatar F1 Grand Prix 2023
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 14:45 SAST: Qatar F1 Grand Prix 2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 14:45 SAST: Qatar F1 Grand Prix 2023
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-26 15:00 SAST: Kop 10: Wins at Everton" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-26 15:00 SAST: Kop 10: Wins at Everton
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 15:30 SAST: PL Icons: Paolo Di Canio" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 15:30 SAST: PL Icons: Paolo Di Canio
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-26 15:30 SAST: Goal Rush: Premier League Season So Far" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-26 15:30 SAST: Goal Rush: Premier League Season So Far
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West | 2026-11-26 15:30 SAST: American Dad!" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",TBS West | 2026-11-26 15:30 SAST: American Dad!
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 16:00 SAST: Premier League Years 2022-2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 16:00 SAST: Premier League Years 2022-2023
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-26 16:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-26 16:00 SAST: UEFA Champions League en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 17:00 SAST: ATP World Tour Finals Review '26" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - ATP Tour",Tennis | 2026-11-26 17:00 SAST: ATP World Tour Finals Review '26
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Moonbug.au" tvg-name="Moonbug | 2026-11-26 17:04 SAST: Go Buster" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2613/image" tvg-language="English" group-title="Football - General",Moonbug | 2026-11-26 17:04 SAST: Go Buster
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz | 2026-11-26 17:55 SAST: Beast" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Starz | 2026-11-26 17:55 SAST: Beast
-http://89.187.179.148:826/1368/gXwiagaXda/1271
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 2026-11-26 18:00 SAST: Live: Horse Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FOX Sports 1 HD | 2026-11-26 18:00 SAST: Live: Horse Racing
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-26 18:00 SAST: Davis Cup Finals '26 D3 QF4: AUT v ESP" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-26 18:00 SAST: Davis Cup Finals '26 D3 QF4: AUT v ESP
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 18:30 SAST: Premier League Netbusters" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 18:30 SAST: Premier League Netbusters
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-26 18:30 SAST: Kop 10: Wins at Everton" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-26 18:30 SAST: Kop 10: Wins at Everton
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 18:45 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 18:45 SAST: Weekend Wrapped
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 18:45 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 18:45 SAST: Weekend Wrapped
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 19:00 SAST: Live: The Premier League Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 19:00 SAST: Live: The Premier League Show
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-26 19:00 SAST: Live: Fútbol central" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-26 19:00 SAST: Live: Fútbol central
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-26 19:30 SAST: Fútbol UEFA Europa League" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Europa League",TUDN 🇲🇽 | 2026-11-26 19:30 SAST: Fútbol UEFA Europa League
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-26 19:45 SAST: Goal Rush: Premier League Season So Far" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-26 19:45 SAST: Goal Rush: Premier League Season So Far
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 20:00 SAST: Live: The Premier League Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 20:00 SAST: Live: The Premier League Show
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-26 20:00 SAST: The Champions League Review Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - UEFA Champions League",LFC TV | 2026-11-26 20:00 SAST: The Champions League Review Show
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-26 20:30 SAST: Qatar F1 GP Highlights 2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-26 20:30 SAST: Qatar F1 GP Highlights 2023
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-26 20:30 SAST: Qatar F1 GP Highlights 2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-26 20:30 SAST: Qatar F1 GP Highlights 2023
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-26 20:30 SAST: Qatar F1 GP Highlights 2023" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-26 20:30 SAST: Qatar F1 GP Highlights 2023
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse | 2026-11-26 20:30 SAST: Elvis: The Vegas Years" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - GLORY Kickboxing",Fuse | 2026-11-26 20:30 SAST: Elvis: The Vegas Years
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS | 2026-11-26 20:30 SAST: Friends" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-language="English" group-title="Football - General",TBS | 2026-11-26 20:30 SAST: Friends
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 21:00 SAST: Premier League The Big Interview" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 21:00 SAST: Premier League The Big Interview
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT (720p) | 2026-11-26 21:00 SAST: Kick Off with Natalie Sawyer" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png" tvg-language="English" group-title="Football - General",talkSPORT (720p) | 2026-11-26 21:00 SAST: Kick Off with Natalie Sawyer
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
@@ -322,146 +31,65 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP | 2026-11-26 21:00 SAST: Wagon Train" tvg-logo="http://dtil.tmsimg.com/assets/s82773_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - GLORY Kickboxing",INSP | 2026-11-26 21:00 SAST: Wagon Train
 http://89.187.179.148:826/1368/gXwiagaXda/96965
 
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="LSTV HD | TH Lạng Sơn | 2026-11-26 21:00 SAST: The STV Radio Football Takeover" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Football - General",LSTV HD | TH Lạng Sơn | 2026-11-26 21:00 SAST: The STV Radio Football Takeover
-https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="LoveNature.au" tvg-name="Love Nature (HD) | 2026-11-26 21:00 SAST: Battle of the Alphas" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2404/image" tvg-language="English" group-title="Combat Sports - General",Love Nature (HD) | 2026-11-26 21:00 SAST: Battle of the Alphas
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-26 21:30 SAST: The SZN With Nick Foles & Evan Moore" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-26 21:30 SAST: The SZN With Nick Foles & Evan Moore
-http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-26 21:50 SAST: Live: Fútbol UEFA Europa League" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Europa League",TUDN 🇲🇽 | 2026-11-26 21:50 SAST: Live: Fútbol UEFA Europa League
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel | 2026-11-26 22:00 SAST: Breakthrough" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",FX Movie Channel | 2026-11-26 22:00 SAST: Breakthrough
 http://89.187.179.148:826/1368/gXwiagaXda/29312
 
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-26 22:00 SAST: Live: Birds No Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-26 22:00 SAST: Live: Birds No Huddle
-http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 01:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 01:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Right.Now.TV.us2" tvg-name="RightNow TV | 2026-11-26 22:30 SAST: United Fight Alliance" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" tvg-language="English" group-title="Combat Sports - ONE Friday Fights",RightNow TV | 2026-11-26 22:30 SAST: United Fight Alliance
-https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America | 2026-11-27 01:00 SAST: The Terminator" tvg-logo="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",BBC America | 2026-11-27 01:00 SAST: The Terminator
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-26 23:00 SAST: Premier League The Big Interview" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-26 23:00 SAST: Premier League The Big Interview
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 02:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 02:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-26 23:00 SAST: Retro Review Show - The Gary Mac derby" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-26 23:00 SAST: Retro Review Show - The Gary Mac derby
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 03:00 SAST: UEFA Champions League - Matchday 5 Goals" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",CBS Sports Golazo Network | 2026-11-27 03:00 SAST: UEFA Champions League - Matchday 5 Goals
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West | 2026-11-26 23:30 SAST: Friends" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",TBS West | 2026-11-26 23:30 SAST: Friends
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 00:00 SAST: The Champions League Review Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - UEFA Champions League",LFC TV | 2026-11-27 00:00 SAST: The Champions League Review Show
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 00:00 SAST: Live: Misión Europa" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-27 00:00 SAST: Live: Misión Europa
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 00:30 SAST: PL Icons: Cristiano Ronaldo" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 00:30 SAST: PL Icons: Cristiano Ronaldo
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 | 2026-11-27 00:30 SAST: WWE Survivor Series: WarGames Special" tvg-logo="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",ESPN2 | 2026-11-27 00:30 SAST: WWE Survivor Series: WarGames Special
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 01:00 SAST: Premier League Years 2023-2024" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 01:00 SAST: Premier League Years 2023-2024
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 01:00 SAST: Live: Línea de cuatro" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-27 01:00 SAST: Live: Línea de cuatro
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 01:30 SAST: Kop 10: Wins at Everton" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-27 01:30 SAST: Kop 10: Wins at Everton
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 02:00 SAST: Live: Fútbol central" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-27 02:00 SAST: Live: Fútbol central
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 | 2026-11-27 02:30 SAST: WWE Survivor Series: WarGames Special" tvg-logo="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",ESPN2 | 2026-11-27 02:30 SAST: WWE Survivor Series: WarGames Special
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+ | 2026-11-27 03:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN+ | 2026-11-27 03:00 SAST: Live: College Football
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 🇦🇷 | 2026-11-27 03:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN 🇦🇷 | 2026-11-27 03:00 SAST: Live: College Football
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 03:00 SAST: PL Retro: Fulham v Man Utd 2007" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 03:00 SAST: PL Retro: Fulham v Man Utd 2007
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 
 #EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-27 03:00 SAST: Inside the Crime With Elizabeth Millner" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-27 03:00 SAST: Inside the Crime With Elizabeth Millner
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD | 2026-11-27 03:00 SAST: All Elite Wrestling: Collision" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11164_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - AEW",TNT HD | 2026-11-27 03:00 SAST: All Elite Wrestling: Collision
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 03:15 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 03:15 SAST: Kimi Antonelli - World Champion
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 03:15 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 03:15 SAST: Kimi Antonelli - World Champion
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 03:25 SAST: The Best of China 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 03:25 SAST: The Best of China 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 03:15 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 03:15 SAST: Kimi Antonelli - World Champion
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 04:00 SAST: 90 in 60" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 04:00 SAST: 90 in 60
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 03:25 SAST: The Best of China 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 03:25 SAST: The Best of China 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 03:25 SAST: The Best of China 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 03:25 SAST: The Best of China 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 2026-11-27 04:00 SAST: The Joel Klatt Show: A College Football Podcast" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 HD | 2026-11-27 04:00 SAST: The Joel Klatt Show: A College Football Podcast
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-27 04:00 SAST: The Joel Klatt Show: A College Football Podcast" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 | 2026-11-27 04:00 SAST: The Joel Klatt Show: A College Football Podcast
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 04:00 SAST: The Best of Japan 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 04:00 SAST: The Best of Japan 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 04:00 SAST: The Best of Japan 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 04:00 SAST: The Best of Japan 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 04:00 SAST: The Best of Japan 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 04:00 SAST: The Best of Japan 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 04:15 SAST: The Best of Miami 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 04:15 SAST: The Best of Miami 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 04:15 SAST: The Best of Miami 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 04:15 SAST: The Best of Miami 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 04:15 SAST: The Best of Miami 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 04:15 SAST: The Best of Miami 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV | 2026-11-27 04:15 SAST: Emergency!" tvg-logo="http://dtil.tmsimg.com/assets/s73413_ll_h15_ab.png?w=360&h=270" group-title="Combat Sports - GLORY Kickboxing",FETV | 2026-11-27 04:15 SAST: Emergency!
-http://89.187.179.148:826/1368/gXwiagaXda/119032
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 2026-11-27 04:30 SAST: Big Noon Kickoff Presents Bear Bets" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 HD | 2026-11-27 04:30 SAST: Big Noon Kickoff Presents Bear Bets
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-27 04:30 SAST: Big Noon Kickoff Presents Bear Bets" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 | 2026-11-27 04:30 SAST: Big Noon Kickoff Presents Bear Bets
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 2026-11-27 05:00 SAST: Speed With Harvick & Buxton" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FOX Sports 1 HD | 2026-11-27 05:00 SAST: Speed With Harvick & Buxton
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 05:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 05:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-27 05:00 SAST: Speed With Harvick & Buxton" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FOX Sports 1 | 2026-11-27 05:00 SAST: Speed With Harvick & Buxton
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 05:00 SAST: The Best of Canada 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 05:00 SAST: The Best of Canada 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 05:00 SAST: The Best of Canada 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 05:00 SAST: The Best of Canada 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 05:00 SAST: PL Greatest: Man Utd/Norwich 2015" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 05:00 SAST: PL Greatest: Man Utd/Norwich 2015
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 05:30 SAST: The Best of Monaco 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 05:30 SAST: The Best of Monaco 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="Now.Rock.uk" tvg-name="Now Rock | 2026-11-27 05:00 SAST: The 90s: Guitars, Grunge & Glory!" tvg-logo="https://assets.tv24.co/channels/now-90-s-uk-l.webp" tvg-language="English" group-title="Combat Sports - GLORY Kickboxing",Now Rock | 2026-11-27 05:00 SAST: The 90s: Guitars, Grunge & Glory!
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 06:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 06:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 05:00 SAST: The Best of Canada 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 05:00 SAST: The Best of Canada 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 05:15 SAST: PL Greatest Liverpool/Arsenal 2004" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 05:15 SAST: PL Greatest Liverpool/Arsenal 2004
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 05:30 SAST: The Best of Monaco 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 05:30 SAST: The Best of Monaco 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 05:30 SAST: PL Greatest: Oldham/So'ton 1993" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 05:30 SAST: PL Greatest: Oldham/So'ton 1993
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 05:30 SAST: The Best of Monaco 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 05:30 SAST: The Best of Monaco 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 05:45 SAST: PL Greatest: P'mouth/So'ton 2005" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 05:45 SAST: PL Greatest: P'mouth/So'ton 2005
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 06:00 SAST: The Best of Barcelona 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 06:00 SAST: The Best of Barcelona 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 06:00 SAST: Best Premier League Goals 07/08" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 06:00 SAST: Best Premier League Goals 07/08
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 06:00 SAST: The Best of Barcelona 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 06:00 SAST: The Best of Barcelona 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 06:00 SAST: The Best of Barcelona 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 06:00 SAST: The Best of Barcelona 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-27 06:00 SAST: Hells Angels: At War" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-27 06:00 SAST: Hells Angels: At War
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
@@ -469,197 +97,98 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-27 06:00 SAST: Cops Reloaded" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-27 06:00 SAST: Cops Reloaded
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West | 2026-11-27 06:00 SAST: All Elite Wrestling: Collision" tvg-logo="http://dtil.tmsimg.com/assets/s42642_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - AEW",TNT West | 2026-11-27 06:00 SAST: All Elite Wrestling: Collision
-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 06:30 SAST: The Best of Austria 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 06:30 SAST: The Best of Austria 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 06:30 SAST: The Best of Austria 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 06:30 SAST: The Best of Austria 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 07:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 07:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 06:30 SAST: The Best of Austria 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 06:30 SAST: The Best of Austria 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 07:00 SAST: The Best of Britain 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 07:00 SAST: The Best of Britain 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 07:00 SAST: The Best of Britain 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 07:00 SAST: The Best of Britain 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 07:00 SAST: PL Legends: Juninho" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 07:00 SAST: PL Legends: Juninho
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Right.Now.TV.us2" tvg-name="RightNow TV | 2026-11-27 07:00 SAST: United Fight Alliance" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" tvg-language="English" group-title="Combat Sports - ONE Friday Fights",RightNow TV | 2026-11-27 07:00 SAST: United Fight Alliance
-https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 07:00 SAST: The Best of Britain 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 07:00 SAST: The Best of Britain 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America | 2026-11-27 07:00 SAST: The Terminator" tvg-logo="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",BBC America | 2026-11-27 07:00 SAST: The Terminator
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-27 07:00 SAST: Inside the Crime With Elizabeth Millner" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-27 07:00 SAST: Inside the Crime With Elizabeth Millner
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 07:00 SAST: Live: Línea de cuatro" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-27 07:00 SAST: Live: Línea de cuatro
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 07:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 07:35 SAST: The Best of Hungary 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 07:30 SAST: PL 100: Paul Scholes" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 07:30 SAST: PL 100: Paul Scholes
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 07:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 07:35 SAST: The Best of Hungary 2026
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 07:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 07:35 SAST: The Best of Hungary 2026
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 08:00 SAST: PL Greatest: QPR/Liverpool 2012" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 08:00 SAST: PL Greatest: QPR/Liverpool 2012
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 08:00 SAST: UEFA Champions League - Matchday 5 Goals" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",CBS Sports Golazo Network | 2026-11-27 08:00 SAST: UEFA Champions League - Matchday 5 Goals
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-27 08:00 SAST: Everybody Hates" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-27 08:00 SAST: Everybody Hates
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 08:15 SAST: PL Greatest Games:Reading/WHU '07" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 08:15 SAST: PL Greatest Games:Reading/WHU '07
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 09:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 09:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 08:30 SAST: PL Greatest:Sheff Utd/Arsenal 2006" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 08:30 SAST: PL Greatest:Sheff Utd/Arsenal 2006
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 | 2026-11-27 08:30 SAST: WWE Survivor Series: WarGames Special" tvg-logo="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",ESPN2 | 2026-11-27 08:30 SAST: WWE Survivor Series: WarGames Special
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 08:45 SAST: PL Greatest: Sheff Weds/Man U 1998" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 08:45 SAST: PL Greatest: Sheff Weds/Man U 1998
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 09:00 SAST: Best Premier League Goals 12/13" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 09:00 SAST: Best Premier League Goals 12/13
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 10:00 SAST: PL Legends: Tony Adams" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 10:00 SAST: PL Legends: Tony Adams
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 10:00 SAST: UEFA Champions League - Matchday 5 Goals" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",CBS Sports Golazo Network | 2026-11-27 10:00 SAST: UEFA Champions League - Matchday 5 Goals
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-27 10:00 SAST: Cops Reloaded" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-27 10:00 SAST: Cops Reloaded
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 | 2026-11-27 10:00 SAST: Saban" tvg-logo="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN2 | 2026-11-27 10:00 SAST: Saban
-http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 10:00 SAST: Liga MX en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - La Liga",TUDN 🇲🇽 | 2026-11-27 10:00 SAST: Liga MX en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+ | 2026-11-27 10:30 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN+ | 2026-11-27 10:30 SAST: College Football
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 🇦🇷 | 2026-11-27 10:30 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN 🇦🇷 | 2026-11-27 10:30 SAST: College Football
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 10:30 SAST: PL 100: Thierry Henry" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 10:30 SAST: PL 100: Thierry Henry
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 11:00 SAST: Premier League The Big Interview" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 11:00 SAST: Premier League The Big Interview
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 11:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 11:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-27 11:00 SAST: Everybody Hates" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-27 11:00 SAST: Everybody Hates
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 11:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-27 11:00 SAST: UEFA Champions League en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 12:00 SAST: UEFA Champions League - Matchday 5 Goals" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",CBS Sports Golazo Network | 2026-11-27 12:00 SAST: UEFA Champions League - Matchday 5 Goals
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 12:00 SAST: Live: Sky Sports FC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - General",Sky Sports Premier League SD | 2026-11-27 12:00 SAST: Live: Sky Sports FC
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 12:00 SAST: The Champions League Review Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - UEFA Champions League",LFC TV | 2026-11-27 12:00 SAST: The Champions League Review Show
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 13:00 SAST: Live: Sky Sports FC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - General",Sky Sports Premier League SD | 2026-11-27 13:00 SAST: Live: Sky Sports FC
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TRACE.URBAN.HD.za" tvg-name="TRACE URBAN | 2026-11-27 13:00 SAST: Gqom Hits" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T26.png" tvg-language="English" group-title="Combat Sports - WWE",TRACE URBAN | 2026-11-27 13:00 SAST: Gqom Hits
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 13:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 13:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-27 13:30 SAST: Cops Reloaded" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-27 13:30 SAST: Cops Reloaded
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 14:00 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 14:00 SAST: Simon & Naomi with Liam Lawson
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 14:00 SAST: UEFA Champions League - Matchday 5 Goals" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",CBS Sports Golazo Network | 2026-11-27 14:00 SAST: UEFA Champions League - Matchday 5 Goals
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 14:00 SAST: Total Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - General",Sky Sports Premier League SD | 2026-11-27 14:00 SAST: Total Football
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 14:00 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 14:00 SAST: Simon & Naomi with Liam Lawson
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 14:00 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 14:00 SAST: Simon & Naomi with Liam Lawson
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 15:00 SAST: Morning Footy" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 15:00 SAST: Morning Footy
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 14:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-27 14:00 SAST: UEFA Champions League en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="Channels.24.uk" tvg-name="Channels 24 (720p) | 2026-11-27 14:30 SAST: WILD AFRICA" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5520.png" tvg-language="English" group-title="Combat Sports - WWE",Channels 24 (720p) | 2026-11-27 14:30 SAST: WILD AFRICA
-http://edge1.cdn.tvnow.ids-africa.com/ch24/ch24_hi.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 15:00 SAST: Live Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 15:00 SAST: Live Qatar F1 GP: Practice 1
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 15:00 SAST: Total Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - General",Sky Sports Premier League SD | 2026-11-27 15:00 SAST: Total Football
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 15:00 SAST: Live Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 15:00 SAST: Live Qatar F1 GP: Practice 1
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 15:00 SAST: Live Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 15:00 SAST: Live Qatar F1 GP: Practice 1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-27 15:00 SAST: Brady vs. Belichick: The Verdict" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",VICE TV | 2026-11-27 15:00 SAST: Brady vs. Belichick: The Verdict
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="LSTV HD | TH Lạng Sơn | 2026-11-27 15:00 SAST: STV Racing: Live from Newbury" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Motorsport - General",LSTV HD | TH Lạng Sơn | 2026-11-27 15:00 SAST: STV Racing: Live from Newbury
-https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 17:00 SAST: Morning Footy" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 17:00 SAST: Morning Footy
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 15:15 SAST: Live: Premier League Preview Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-27 15:15 SAST: Live: Premier League Preview Show
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 16:00 SAST: Total Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - General",Sky Sports Premier League SD | 2026-11-27 16:00 SAST: Total Football
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 16:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-27 16:00 SAST: UEFA Champions League en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 16:45 SAST: Goal Rush: Premier League Season So Far" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-27 16:45 SAST: Goal Rush: Premier League Season So Far
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 17:00 SAST: Total Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - General",Sky Sports Premier League SD | 2026-11-27 17:00 SAST: Total Football
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 17:00 SAST: Kop 10: Wins at Everton" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-27 17:00 SAST: Kop 10: Wins at Everton
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 17:30 SAST: The Champions League Review Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - UEFA Champions League",LFC TV | 2026-11-27 17:30 SAST: The Champions League Review Show
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 17:40 SAST: Team Principals' Press Conference" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 17:40 SAST: Team Principals' Press Conference
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 17:40 SAST: Team Principals' Press Conference" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 17:40 SAST: Team Principals' Press Conference
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 17:40 SAST: Team Principals' Press Conference" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 17:40 SAST: Team Principals' Press Conference
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel | 2026-11-27 17:45 SAST: Quintet" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",FX Movie Channel | 2026-11-27 17:45 SAST: Quintet
 http://89.187.179.148:826/1368/gXwiagaXda/29312
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 18:00 SAST: Premier League Fantasy Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 18:00 SAST: Premier League Fantasy Show
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
 #EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-27 18:00 SAST: Cops Reloaded" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-27 18:00 SAST: Cops Reloaded
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="LSTV HD | TH Lạng Sơn | 2026-11-27 18:00 SAST: Nations Championship" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Rugby - Nations Championship",LSTV HD | TH Lạng Sơn | 2026-11-27 18:00 SAST: Nations Championship
-https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 18:15 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 18:15 SAST: Weekend Wrapped
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 18:15 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 18:15 SAST: Weekend Wrapped
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 18:45 SAST: Live Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 18:45 SAST: Live Qatar F1 GP: Practice 2
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 18:15 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 18:15 SAST: Weekend Wrapped
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 19:00 SAST: Morning Footy" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 19:00 SAST: Morning Footy
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 18:30 SAST: Premier League Preview" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 18:30 SAST: Premier League Preview
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 18:45 SAST: Live Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 18:45 SAST: Live Qatar F1 GP: Practice 2
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 18:45 SAST: Live Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 18:45 SAST: Live Qatar F1 GP: Practice 2
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+ | 2026-11-27 19:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN+ | 2026-11-27 19:00 SAST: Live: College Football
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 🇦🇷 | 2026-11-27 19:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN 🇦🇷 | 2026-11-27 19:00 SAST: Live: College Football
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 2026-11-27 19:00 SAST: Live: Horse Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FOX Sports 1 HD | 2026-11-27 19:00 SAST: Live: Horse Racing
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-27 19:00 SAST: Live: Horse Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FOX Sports 1 | 2026-11-27 19:00 SAST: Live: Horse Racing
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 19:00 SAST: Live: The Premier League Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 19:00 SAST: Live: The Premier League Show
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-27 19:00 SAST: Dark Side of the Cage" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - UFC",VICE TV | 2026-11-27 19:00 SAST: Dark Side of the Cage
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
@@ -667,23 +196,17 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-27 19:30 SAST: Cops Reloaded" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-27 19:30 SAST: Cops Reloaded
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 20:00 SAST: Live: The Premier League Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 20:00 SAST: Live: The Premier League Show
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America | 2026-11-27 19:45 SAST: Rocky Balboa" tvg-logo="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",BBC America | 2026-11-27 19:45 SAST: Rocky Balboa
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-27 20:00 SAST: Dark Side of the Cage" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - UFC",VICE TV | 2026-11-27 20:00 SAST: Dark Side of the Cage
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 20:00 SAST: The Premier League Preview Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-27 20:00 SAST: The Premier League Preview Show
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 20:00 SAST: Liga MX en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - La Liga",TUDN 🇲🇽 | 2026-11-27 20:00 SAST: Liga MX en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network | 2026-11-27 20:22 SAST: Yellowstone" tvg-logo="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Paramount Network | 2026-11-27 20:22 SAST: Yellowstone
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-27 21:00 SAST: Live FNF: Nott'm Forest v Chelsea" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-27 21:00 SAST: Live FNF: Nott'm Forest v Chelsea
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-27 21:00 SAST: Best of Morning Footy" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-27 21:00 SAST: Best of Morning Footy
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-27 21:00 SAST: Dark Side of the Cage" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-27 21:00 SAST: Dark Side of the Cage
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
@@ -691,96 +214,171 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT (720p) | 2026-11-27 21:00 SAST: Kick Off - Nottingham Forest v Chelsea" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png" tvg-language="English" group-title="Football - English Premier League",talkSPORT (720p) | 2026-11-27 21:00 SAST: Kick Off - Nottingham Forest v Chelsea
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-27 21:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-27 21:00 SAST: UEFA Champions League en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 21:15 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 21:15 SAST: Weekend Wrapped
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 21:15 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 21:15 SAST: Weekend Wrapped
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 21:45 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 21:45 SAST: Simon & Naomi with Liam Lawson
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 21:15 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 21:15 SAST: Weekend Wrapped
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 21:45 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 21:45 SAST: Simon & Naomi with Liam Lawson
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 21:45 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 21:45 SAST: Simon & Naomi with Liam Lawson
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+ | 2026-11-27 22:00 SAST: Live: College Football Scoreboard" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN+ | 2026-11-27 22:00 SAST: Live: College Football Scoreboard
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 🇦🇷 | 2026-11-27 22:00 SAST: Live: College Football Scoreboard" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN 🇦🇷 | 2026-11-27 22:00 SAST: Live: College Football Scoreboard
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz | 2026-11-27 22:13 SAST: Outlander: Blood of my Blood" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Starz | 2026-11-27 22:13 SAST: Outlander: Blood of my Blood
-http://89.187.179.148:826/1368/gXwiagaXda/1271
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+ | 2026-11-27 22:30 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN+ | 2026-11-27 22:30 SAST: Live: College Football
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 🇦🇷 | 2026-11-27 22:30 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN 🇦🇷 | 2026-11-27 22:30 SAST: Live: College Football
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Right.Now.TV.us2" tvg-name="RightNow TV | 2026-11-27 22:30 SAST: United Fight Alliance" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" tvg-language="English" group-title="Combat Sports - ONE Friday Fights",RightNow TV | 2026-11-27 22:30 SAST: United Fight Alliance
-https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 23:00 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 23:00 SAST: Weekend Wrapped
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-27 23:00 SAST: Davis Cup Finals '26: SF1 M1" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-27 23:00 SAST: Davis Cup Finals '26: SF1 M1
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 23:00 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 23:00 SAST: Weekend Wrapped
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 23:00 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 23:00 SAST: Weekend Wrapped
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-27 23:00 SAST: Dark Side of the Cage" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-27 23:00 SAST: Dark Side of the Cage
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-27 23:00 SAST: The Champions League Review Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - UEFA Champions League",LFC TV | 2026-11-27 23:00 SAST: The Champions League Review Show
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-27 23:30 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-27 23:30 SAST: Qatar F1 GP: Practice 2
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-27 23:30 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-27 23:30 SAST: Qatar F1 GP: Practice 2
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-27 23:30 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-27 23:30 SAST: Qatar F1 GP: Practice 2
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 2026-11-28 00:00 SAST: The Premier League Preview Show" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="Football - English Premier League",LFC TV | 2026-11-28 00:00 SAST: The Premier League Preview Show
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
-
-#EXTINF:-1 tvg-id="InTravel.au" tvg-name="INTRAVEL (1080p) | 2026-11-28 00:18 SAST: Road Less Traveled" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-language="English" group-title="Combat Sports - General",INTRAVEL (1080p) | 2026-11-28 00:18 SAST: Road Less Traveled
-https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-28 00:30 SAST: Davis Cup Finals '26: SF1 M2" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-28 00:30 SAST: Davis Cup Finals '26: SF1 M2
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 00:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 00:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 00:30 SAST: Spartan Bare Knuckle" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 00:30 SAST: Spartan Bare Knuckle
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-28 00:45 SAST: Boss with Jamie Carragher:Hurzeler" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-28 00:45 SAST: Boss with Jamie Carragher:Hurzeler
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax West | 2026-11-28 00:38 SAST: Grudge Match" tvg-logo="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",Cinemax West | 2026-11-28 00:38 SAST: Grudge Match
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 01:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 01:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 01:00 SAST: Spartan Bare Knuckle" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 01:00 SAST: Spartan Bare Knuckle
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+ | 2026-11-28 01:30 SAST: Live: College Football Scoreboard" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN+ | 2026-11-28 01:30 SAST: Live: College Football Scoreboard
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 🇦🇷 | 2026-11-28 01:30 SAST: Live: College Football Scoreboard" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN 🇦🇷 | 2026-11-28 01:30 SAST: Live: College Football Scoreboard
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse | 2026-11-28 01:30 SAST: Life's Funniest Moments" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Fuse | 2026-11-28 01:30 SAST: Life's Funniest Moments
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-28 01:30 SAST: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-28 01:30 SAST: Birds Huddle
-http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 FHD 25fps | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1
-http://doubleclicktv.live:80/natashahawkins/1784295306/746776
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-28 01:45 SAST: FNF: Nott'm Forest v Chelsea Hlts" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-28 01:45 SAST: FNF: Nott'm Forest v Chelsea Hlts
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="Motorsport - Formula 1",The Word Network (480p) | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1
-https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | 2026-11-28 02:00 SAST: Davis Cup Finals '26: SF1 Dbls" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Davis Cup",Tennis | 2026-11-28 02:00 SAST: Davis Cup Finals '26: SF1 Dbls
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 02:00 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 02:00 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP | 2026-11-28 02:00 SAST: Gunsmoke" tvg-logo="http://dtil.tmsimg.com/assets/s82773_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",INSP | 2026-11-28 02:00 SAST: Gunsmoke
 http://89.187.179.148:826/1368/gXwiagaXda/96965
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | 2026-11-28 02:15 SAST: Premier League The Big Interview" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - English Premier League",Sky Sports Premier League SD | 2026-11-28 02:15 SAST: Premier League The Big Interview
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-28 03:00 SAST: Live: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Major League Soccer",FOX Sports 1 | 2026-11-28 03:00 SAST: Live: MLS Soccer
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 03:00 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 03:00 SAST: Qatar F1 GP: Practice 2
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax West | 2026-11-28 04:54 SAST: Body at Brighton Rock" tvg-logo="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Cinemax West | 2026-11-28 04:54 SAST: Body at Brighton Rock
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-28 05:00 SAST: Live: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Major League Soccer",FOX Sports 1 | 2026-11-28 05:00 SAST: Live: MLS Soccer
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 05:15 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 05:15 SAST: Simon & Naomi with Liam Lawson
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 05:30 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 05:30 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 05:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 05:35 SAST: The Best of Hungary 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 06:00 SAST: The Best of Australia 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 06:00 SAST: The Best of Australia 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 06:00 SAST: The Ariel Helwani Show" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 06:00 SAST: The Ariel Helwani Show
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 06:25 SAST: The Best of China 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 06:25 SAST: The Best of China 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 06:30 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 06:30 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 07:00 SAST: The Best of Japan 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 07:00 SAST: The Best of Japan 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 07:00 SAST: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 07:00 SAST: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 07:15 SAST: The Best of Miami 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 07:15 SAST: The Best of Miami 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 07:30 SAST: Women's International Friendly Football" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 07:30 SAST: Women's International Friendly Football
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 08:00 SAST: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 08:00 SAST: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-28 08:30 SAST: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Major League Soccer",FOX Sports 1 | 2026-11-28 08:30 SAST: MLS Soccer
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 09:00 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 09:00 SAST: Qatar F1 GP: Practice 2
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 09:00 SAST: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - UFC",VICE TV | 2026-11-28 09:00 SAST: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-28 09:00 SAST: Cops Reloaded" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-28 09:00 SAST: Cops Reloaded
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 09:30 SAST: Inside Serie A" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Serie A",CBS Sports Golazo Network | 2026-11-28 09:30 SAST: Inside Serie A
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 10:00 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 10:00 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 10:00 SAST: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 10:00 SAST: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime | 2026-11-28 10:30 SAST: Cops Reloaded" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Law & Crime | 2026-11-28 10:30 SAST: Cops Reloaded
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 11:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 11:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 11:00 SAST: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 11:00 SAST: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 12:00 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 12:00 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 12:00 SAST: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - UFC",VICE TV | 2026-11-28 12:00 SAST: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 12:15 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 12:15 SAST: Kimi Antonelli - World Champion
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 12:45 SAST: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 12:45 SAST: Qatar F1 GP: Practice 1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 13:00 SAST: Inside Serie A" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Serie A",CBS Sports Golazo Network | 2026-11-28 13:00 SAST: Inside Serie A
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-28 13:00 SAST: The Joel Klatt Show: A College Football Podcast" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 | 2026-11-28 13:00 SAST: The Joel Klatt Show: A College Football Podcast
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 13:30 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 13:30 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-28 13:30 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 | 2026-11-28 13:30 SAST: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 | 2026-11-28 14:00 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",Sky Sports F1 | 2026-11-28 14:00 SAST: Qatar F1 GP: Practice 2
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-28 14:30 SAST: The Team: Michigan Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX Sports 1 | 2026-11-28 14:30 SAST: The Team: Michigan Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT (720p) | 2026-11-28 15:00 SAST: GameDay Live" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png" tvg-language="English" group-title="Football - English Premier League",talkSPORT (720p) | 2026-11-28 15:00 SAST: GameDay Live
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 2026-11-28 15:55 SAST: Live: MotoGP Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - MotoGP",FOX Sports 1 | 2026-11-28 15:55 SAST: Live: MotoGP Racing
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 🇦🇷 | 2026-11-28 16:00 SAST: Live: College GameDay" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN 🇦🇷 | 2026-11-28 16:00 SAST: Live: College GameDay
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 

@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Tennis
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Grand Slams",ESPN+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN 🇦🇷" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Grand Slams",ESPN 🇦🇷
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Season-ending championships",Tennis
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel 2" tvg-logo="https://image.xumo.com/v1/channels/channel/99951389/500x500.webp?type=color_onBlack" tvg-language="English" group-title="Tennis - Grand Slams",Tennis Channel 2
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c7dbf944-ca35-4a39-a52a-5ecfbcc83dda/4.m3u8
 
