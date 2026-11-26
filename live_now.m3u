@@ -1,24 +1,27 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Live Now & Starting Soon Sports (Confirmed EPG)
 
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | LIVE: Morning Footy" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",CBS Sports Golazo Network | LIVE: Morning Footy
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel | LIVE: The Art of Racing in the Rain" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Motorsport",FX Movie Channel | LIVE: The Art of Racing in the Rain
+http://89.187.179.148:826/1368/gXwiagaXda/29312
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | LIVE: Premier League Years 2020-2021" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="LIVE & SOON - Football",Sky Sports Premier League SD | LIVE: Premier League Years 2020-2021
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD | LIVE: PL Icons: Ruud Van Nistelrooy" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="LIVE & SOON - Football",Sky Sports Premier League SD | LIVE: PL Icons: Ruud Van Nistelrooy
 http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN | LIVE: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",TUDN | LIVE: UEFA Champions League en 60
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis+ | LIVE: ATP Tour This Week" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="LIVE & SOON - Tennis",Tennis+ | LIVE: ATP Tour This Week
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis | LIVE: Davis Cup Finals '26 QF Dbls ITA v KOR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="LIVE & SOON - Tennis",Tennis | LIVE: Davis Cup Finals '26 QF Dbls ITA v KOR
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channels.24.uk" tvg-name="Channels 24 (720p) | LIVE: WILD AFRICA" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5520.png" tvg-language="English" group-title="LIVE & SOON - Combat Sports",Channels 24 (720p) | LIVE: WILD AFRICA
-http://edge1.cdn.tvnow.ids-africa.com/ch24/ch24_hi.m3u8
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 HD | 03:00 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",FOX Sports 1 HD | 03:00 SAST: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFC TV | 18:00 SAST: Press Box" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png" tvg-language="English" group-title="LIVE & SOON - Football",LFC TV | 18:00 SAST: Press Box
-https://api.plus-server.sbs/play.php?key=1234&mac_id=1312823&portal=_light2
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps | 03:00 SAST: The Best of Canada 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",Sky Sports F1 FHD 25fps | 03:00 SAST: The Best of Canada 2026
+http://doubleclicktv.live:80/natashahawkins/1784295306/746776
 
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse | 18:30 SAST: Stevie Nicks: Wild at Heart" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Cricket",Fuse | 18:30 SAST: Stevie Nicks: Wild at Heart
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-id="Word.Network.uk" tvg-name="The Word Network (480p) | 03:00 SAST: The Best of Canada 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",The Word Network (480p) | 03:00 SAST: The Best of Canada 2026
+https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS | 03:00 SAST: All Elite Wrestling: Dynamite" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-language="English" group-title="LIVE & SOON - Combat Sports",TBS | 03:00 SAST: All Elite Wrestling: Dynamite
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 03:30 SAST: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",NBC Sports Philadelphia | 03:30 SAST: Birds Huddle
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 

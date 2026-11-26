@@ -7,17 +7,14 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Combat Sports",Sky Sports F1 FHD
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Combat Sports - Boxing",Sky Sports Premier League SD
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
+
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",FX Movie Channel
 http://89.187.179.148:826/1368/gXwiagaXda/29312
 
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",Fuse
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
-
 #EXTINF:-1 tvg-id="Now.Rock.uk" tvg-name="Now Rock" tvg-logo="https://assets.tv24.co/channels/now-90-s-uk-l.webp" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",Paramount Network
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Right.Now.TV.us2" tvg-name="RightNow TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s111508_h15_aa.png" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",RightNow TV
 https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
@@ -28,13 +25,16 @@ https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",VICE TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="CW.us2" tvg-name="CW" tvg-logo="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",CW
-http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT (720p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png" tvg-language="English" group-title="Combat Sports",talkSPORT (720p)
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channels.24.uk" tvg-name="Channels 24 (720p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5520.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Channels 24 (720p)
 http://edge1.cdn.tvnow.ids-africa.com/ch24/ch24_hi.m3u8
 
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV" tvg-logo="http://dtil.tmsimg.com/assets/s49788_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",HGTV
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="HGTV (V)" tvg-logo="http://dtil.tmsimg.com/assets/s49788_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",HGTV (V)
 http://89.187.179.148:826/1368/gXwiagaXda/1589
 
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="http://dtil.tmsimg.com/assets/s82773_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",INSP
@@ -46,20 +46,8 @@ https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law & Crime" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Law & Crime
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",Starz
-http://89.187.179.148:826/1368/gXwiagaXda/1271
-
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TBS HD
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TBS West
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",truTV
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",truTV West
-https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD 25fps" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Combat Sports",Sky Sports F1 FHD 25fps
 http://doubleclicktv.live:80/natashahawkins/1784295306/746776
@@ -70,19 +58,22 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",NBC Sports Philadelphia
 http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://dtil.tmsimg.com/assets/s68065_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Cooking Channel
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
-
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://dtil.tmsimg.com/assets/s61469_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",Crime & Investigation Network
-http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
-
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Gameshow Network (1080p)" tvg-logo="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",Gameshow Network (1080p)
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.au" tvg-name="Love Nature 4K" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2404/image" tvg-language="English" group-title="Combat Sports",Love Nature 4K
+#EXTINF:-1 tvg-id="LoveNature.au" tvg-name="Love Nature (HD)" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2404/image" tvg-language="English" group-title="Combat Sports",Love Nature (HD)
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11164_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TNT
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",Starz
+http://89.187.179.148:826/1368/gXwiagaXda/1271
+
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TBS West
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s11164_dark_360w_270h.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TNT HD
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West" tvg-logo="http://dtil.tmsimg.com/assets/s42642_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TNT West
@@ -91,8 +82,11 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TRACE.URBAN.HD.za" tvg-name="TRACE URBAN" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T26.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EWTN.ie" tvg-name="EWTN" tvg-logo="https://staticqbr-prod-ie.gnp.cloud.virginmediatv.ie/image-service/ImagesEPG/EventImages/IESVC1198_f.png" group-title="Combat Sports - Kickboxing and Muay Thai",EWTN
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="TRU TV" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",TRU TV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",truTV West
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="FETV" tvg-logo="http://dtil.tmsimg.com/assets/s73413_ll_h15_ab.png?w=360&h=270" group-title="Combat Sports - Kickboxing and Muay Thai",FETV
 http://89.187.179.148:826/1368/gXwiagaXda/119032

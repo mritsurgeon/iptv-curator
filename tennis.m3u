@@ -4,12 +4,6 @@
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN+" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Grand Slams",ESPN+
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis+" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - International team competitions",Tennis+
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="Tennis" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" tvg-language="English" group-title="Tennis - Season-ending championships",Tennis
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Tennis",VICE TV
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-
-#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" tvg-logo="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Tennis",HLN
-http://23.237.104.106:8080/USA_HLN/index.m3u8
 

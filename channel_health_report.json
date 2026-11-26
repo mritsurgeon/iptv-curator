@@ -1,57 +1,282 @@
 {
-  "generated_at_utc": "2026-11-25T14:47:14.859673+00:00",
-  "total_channels": 289,
+  "generated_at_utc": "2026-11-26T00:38:43.900357+00:00",
+  "total_channels": 234,
   "by_verification_status": {
-    "working": 48,
-    "inactive": 241
+    "working": 39,
+    "inactive": 162,
+    "auth_required": 33
   },
   "by_sport": {
-    "Football": 149,
-    "Tennis": 36,
-    "Combat Sports": 88,
-    "Motorsport": 85,
-    "Cricket": 32,
-    "Rugby": 43
+    "Tennis": 54,
+    "Combat Sports": 115,
+    "Football": 123,
+    "Motorsport": 88,
+    "Cricket": 25,
+    "Rugby": 35
   },
   "by_language": {
-    "English": 151,
-    "Unknown": 131,
+    "English": 172,
+    "Unknown": 60,
     "English + Other": 1,
-    "Other Language": 6
+    "Other Language": 1
   },
   "by_broadcaster": {
-    "CBS Sports": 2,
-    "ESPN": 23,
-    "Fox Sports": 5,
-    "NBC Sports": 3,
+    "ESPN": 35,
+    "Fox Sports": 6,
     "Sky Sports": 13,
-    "beIN Sports": 48,
-    "Unspecified": 179,
-    "Premier Sports": 2,
-    "Willow Cricket": 2,
+    "beIN Sports": 5,
+    "Unspecified": 145,
+    "NBC Sports": 1,
+    "Premier Sports": 4,
+    "SuperSport": 14,
+    "Willow Cricket": 1,
+    "CBS Sports": 2,
     "TNT Sports": 5,
-    "Tennis Channel": 3,
-    "DAZN": 4
+    "ITV Sport": 1,
+    "Tennis Channel": 2
   },
-  "auth_required_count": 0,
-  "inactive_count": 241,
-  "review_candidates": [],
-  "auth_required_channels": [],
-  "inactive_channels": [
+  "auth_required_count": 33,
+  "inactive_count": 162,
+  "review_candidates": [
     {
-      "channel_id": "afssespn2_06b58f363f",
-      "name": "AF | SS ESPN 2 HD",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/39036.m3u8"
+      "channel_id": "ewtn_ddb558ae56",
+      "name": "EWTN \u271d\ufe0f",
+      "score": 0.0,
+      "language": "Unknown"
+    }
+  ],
+  "auth_required_channels": [
+    {
+      "channel_id": "077nbaespn_edc2da762b",
+      "name": "077.Nba Espn",
+      "url": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-035/stream.mpd?p=web"
     },
     {
-      "channel_id": "afssespn_be1b01640e",
-      "name": "AF | SS ESPN HD",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/39038.m3u8"
+      "channel_id": "078nbaespn_1abe444f72",
+      "name": "078.Nba Espn",
+      "url": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-036/stream.mpd?p=web"
+    },
+    {
+      "channel_id": "079nbaespn_82b87e2597",
+      "name": "079.Nba Espn",
+      "url": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-041/stream.mpd?p=web"
+    },
+    {
+      "channel_id": "espn2arg_9076203079",
+      "name": "ESPN 2 ARG",
+      "url": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd"
+    },
+    {
+      "channel_id": "espn2mx_a94e60e605",
+      "name": "ESPN 2 mx",
+      "url": "http://168.227.22.18:1935/live/mobile-033/playlist.m3u8"
+    },
+    {
+      "channel_id": "espn3arg_46c4837596",
+      "name": "ESPN 3 ARG",
+      "url": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN3)/master.mpd"
+    },
+    {
+      "channel_id": "espn3mx_7a4a4ac27a",
+      "name": "ESPN 3 mx",
+      "url": "http://168.227.22.18:1935/live/mobile-121/playlist.m3u8"
+    },
+    {
+      "channel_id": "espnarg_fdeb78d430",
+      "name": "ESPN ARG",
+      "url": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd"
+    },
+    {
+      "channel_id": "espnmx_d600a1ad6e",
+      "name": "ESPN mx",
+      "url": "http://168.227.22.18:1935/live/mobile-032/playlist.m3u8"
+    },
+    {
+      "channel_id": "foxsports1arg_070202c211",
+      "name": "FOX SPORTS 1 ARG",
+      "url": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS)/master.mpd"
+    },
+    {
+      "channel_id": "premiersports1_6f4ceb39fb",
+      "name": "Premier Sports 1",
+      "url": "http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd"
+    },
+    {
+      "channel_id": "premiersports2_d41e40bea1",
+      "name": "Premier Sports 2",
+      "url": "http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier2sports50)/manifest_hd.mpd"
+    },
+    {
+      "channel_id": "willowcricket_f71d6d31ab",
+      "name": "Willow cricket HD",
+      "url": "https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd"
+    },
+    {
+      "channel_id": "astrobeinsports3_4eea69295e",
+      "name": "Astro beIN Sports 3",
+      "url": "https://sange-astro.palat.workers.dev/2705/default.mpd|Referer=I_Love_OnlyFans"
+    },
+    {
+      "channel_id": "beinsports2_7a020b2003",
+      "name": "BEIN SPORTS 2 HD",
+      "url": "https://sange-astro.palat.workers.dev/5066/default.mpd|Referer=I_Love_OnlyFans"
+    },
+    {
+      "channel_id": "studiouniversal_f92add6d76",
+      "name": "STUDIO UNIVERSAL",
+      "url": "http://168.227.22.18:1935/live/mobile-026/playlist.m3u8"
+    },
+    {
+      "channel_id": "universo_24fe072eee",
+      "name": "UNIVERSO",
+      "url": "http://168.227.22.18:1935/live/mobile-065/playlist.m3u8"
+    },
+    {
+      "channel_id": "foxdeportes_6f7b829a72",
+      "name": "FOX DEPORTES",
+      "url": "http://168.227.22.18:1935/live/mobile-104/playlist.m3u8"
+    },
+    {
+      "channel_id": "wwenetwork_4a75123b7a",
+      "name": "WWE Network FHD",
+      "url": "http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/15141"
+    },
+    {
+      "channel_id": "animalplanet_9c869625cb",
+      "name": "Animal Planet",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8"
+    },
+    {
+      "channel_id": "cgtndocumentary_66de571d56",
+      "name": "CGTN Documentary (HD)",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u8"
+    },
+    {
+      "channel_id": "cnn_e19150aa83",
+      "name": "CNN",
+      "url": "http://168.227.22.18:1935/live/mobile-061/playlist.m3u8"
+    },
+    {
+      "channel_id": "channel5_4fadc2fc20",
+      "name": "Channel 5",
+      "url": "https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd"
+    },
+    {
+      "channel_id": "discovery_c2c45258cc",
+      "name": "DISCOVERY",
+      "url": "http://168.227.22.18:1935/live/mobile-006/playlist.m3u8"
+    },
+    {
+      "channel_id": "dreamworks_8f9736d37c",
+      "name": "DREAMWORKS",
+      "url": "http://168.227.22.18:1935/live/mobile-099/playlist.m3u8"
+    },
+    {
+      "channel_id": "fashiontv_6fa9448154",
+      "name": "Fashion TV",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8"
+    },
+    {
+      "channel_id": "foodnetwork_2401f29aed",
+      "name": "Food Network",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8"
+    },
+    {
+      "channel_id": "holatv_5476a66a5e",
+      "name": "HOLA TV",
+      "url": "http://168.227.22.18:1935/live/mobile-013/playlist.m3u8"
+    },
+    {
+      "channel_id": "mtv_556f6645ee",
+      "name": "MTV",
+      "url": "http://168.227.22.18:1935/live/mobile-063/playlist.m3u8"
+    },
+    {
+      "channel_id": "nickmusic_ee768031e7",
+      "name": "NICK MUSIC",
+      "url": "http://168.227.22.18:1935/live/mobile-039/playlist.m3u8"
+    },
+    {
+      "channel_id": "tlc_b401342ed1",
+      "name": "TLC",
+      "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8"
+    },
+    {
+      "channel_id": "tve_3e9edf6b41",
+      "name": "TVE",
+      "url": "http://168.227.22.18:1935/live/mobile-128/playlist.m3u8"
+    },
+    {
+      "channel_id": "zoomoo_3e1c08e258",
+      "name": "ZooMoo",
+      "url": "http://168.227.22.18:1935/live/mobile-069/playlist.m3u8"
+    }
+  ],
+  "inactive_channels": [
+    {
+      "channel_id": "fs1_a100f35da4",
+      "name": "FS1",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd"
+    },
+    {
+      "channel_id": "fs2_a9f80da19e",
+      "name": "FS2",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
+    },
+    {
+      "channel_id": "070espnpremium_1ea8421f26",
+      "name": "070.Espn Premium",
+      "url": "https://cdn.cvattv.com.ar//live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd"
+    },
+    {
+      "channel_id": "071espnextra_a9ab7101ec",
+      "name": "071.Espn Extra",
+      "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd"
+    },
+    {
+      "channel_id": "accnespn_684595eaf9",
+      "name": "ACCN ESPN",
+      "url": "https://webudit.hlsjs.ru/lb/premium664/index.m3u8|Origin=https://weblivehdplay.ru"
+    },
+    {
+      "channel_id": "espn1_f5f8698152",
+      "name": "ESPN 1 (HD)",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/9802"
+    },
+    {
+      "channel_id": "espn1nl_61108ab5ca",
+      "name": "ESPN 1 NL",
+      "url": "https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000107_019441/manifest.mpd"
+    },
+    {
+      "channel_id": "espn1us_52e9173492",
+      "name": "ESPN 1 US",
+      "url": "https://webudit.hlsjs.ru/lb/premium44/index.m3u8|Origin=https://weblivehdplay.ru"
+    },
+    {
+      "channel_id": "espn2nl_bf4288c47a",
+      "name": "ESPN 2 NL",
+      "url": "https://wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000108_019561/manifest.mpd"
+    },
+    {
+      "channel_id": "espn2us_2da50934b8",
+      "name": "ESPN 2 US",
+      "url": "https://webudit.hlsjs.ru/lb/premium45/index.m3u8|Origin=https://weblivehdplay.ru"
+    },
+    {
+      "channel_id": "espn3nl_234b7049c2",
+      "name": "ESPN 3 NL",
+      "url": "https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000109_019464/manifest.mpd"
     },
     {
       "channel_id": "espn3_80430a6657",
       "name": "ESPN 3 \ud83c\udde8\ud83c\uddf4",
       "url": "http://190.102.246.93:9005/play/a02l"
+    },
+    {
+      "channel_id": "espn4nl_1436f31fe9",
+      "name": "ESPN 4 NL",
+      "url": "https://wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000110_019562/manifest.mpd"
     },
     {
       "channel_id": "espn4_738653eaca",
@@ -100,8 +325,8 @@
     },
     {
       "channel_id": "espnnews_9492709a5c",
-      "name": "ESPN NEWS",
-      "url": "https://ft.fbcdntv247.cfd/memfs/56cc18c4-1e9d-4af0-b1a2-76fc8fc86333_output_0.m3u8"
+      "name": "ESPN News HD",
+      "url": "https://ch.iptvmate.net/bb1983e7bfeb5a2478cdcbbe3b08d749.m3u8"
     },
     {
       "channel_id": "espnpremium_63d216ddba",
@@ -109,49 +334,24 @@
       "url": "http://190.102.246.93:9005/play/a00x"
     },
     {
-      "channel_id": "espnu_4c6775d1a4",
-      "name": "ESPN U",
-      "url": "https://ft.fbcdntv247.cfd/memfs/be6d8aa9-b18f-4004-9f5a-e587a49c3bc4_output_0.m3u8"
-    },
-    {
       "channel_id": "espnvivo_73f13f5fbc",
       "name": "ESPN VIVO \ud83c\udde6\ud83c\uddf7",
       "url": "http://hzcdn.vood.top:80/hls/309458_.m3u8"
     },
     {
-      "channel_id": "mxespn_c77283a96d",
-      "name": "MX | ESPN +",
-      "url": "https://ch.iptvmate.net/a822b19d325f6f7f9f71e9bf974a1731.m3u8"
+      "channel_id": "foxsports1usa_02452e2d92",
+      "name": "Fox Sports 1 USA",
+      "url": "https://01.webhd.ru/ddh2/premium39/playlist.m3u8"
     },
     {
-      "channel_id": "mxespn1_f4f595b849",
-      "name": "MX | ESPN 1",
-      "url": "https://ch.iptvmate.net/7d2a8ccc60d50262356a5c5fb4a0e295.m3u8"
+      "channel_id": "nowhkpremiersports1_fe91172b24",
+      "name": "Now HK Premier Sports 1",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304092"
     },
     {
-      "channel_id": "mxespn2_13195f21ad",
-      "name": "MX | ESPN 2",
-      "url": "https://ch.iptvmate.net/65d401fd95a3476eb0b306975e08842f.m3u8"
-    },
-    {
-      "channel_id": "mxespn3_865e13fbb1",
-      "name": "MX | ESPN 3",
-      "url": "https://ch.iptvmate.net/c67dac0a3fed1887e8311a11af9d8b7e.m3u8"
-    },
-    {
-      "channel_id": "mxfoxsports1_f7a8d466ae",
-      "name": "MX | Fox Sports 1",
-      "url": "https://ch.iptvmate.net/957d72bbdffdb7d69790f56438aeda9d.m3u8"
-    },
-    {
-      "channel_id": "mysastrofoxsports1_69931734ce",
-      "name": "MYS | Astro Fox Sports 1 FHD",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/57512.m3u8"
-    },
-    {
-      "channel_id": "skysportsf1v_72090b0228",
-      "name": "SKY SPORTS F1 (V)",
-      "url": "https://mvajro-strava.hf.space/proxy/hls/manifest.m3u8?api_password=Sally&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
+      "channel_id": "nowhkpremiersports2_b81243ae7f",
+      "name": "Now HK Premier Sports 2",
+      "url": "http://iptvtree.net:8080/F25093/29838750/304091"
     },
     {
       "channel_id": "skysportsf1h_0ab90d24fd",
@@ -159,134 +359,109 @@
       "url": "http://217.154.5.184:80/?url=https://oha.to/play/2289038972/index.m3u8"
     },
     {
-      "channel_id": "skysportscricket_bba4054601",
-      "name": "Sky Sports Cricket",
-      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/174.ts"
+      "channel_id": "skysportscricket50_ed6de515c7",
+      "name": "Sky Sports Cricket 50",
+      "url": "http://linear003-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportscricket50)/manifest_hd.mpd"
     },
     {
-      "channel_id": "skysportsmainevent_cabaf4ca62",
-      "name": "Sky Sports Main Event",
-      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/177.ts"
+      "channel_id": "skysportsf150_0be4895389",
+      "name": "Sky Sports F1 50",
+      "url": "https://linear004-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsf150)/manifest_hd.mpd"
     },
     {
-      "channel_id": "ukpremiersports1_3ec2f78a3c",
-      "name": "UK-Premier Sports 1 SD",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/15268.m3u8"
+      "channel_id": "skysportsmainevent50_cbb9215d5e",
+      "name": "Sky Sports Main Event 50",
+      "url": "http://linear011-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportsmainevent50)/manifest_mob.mpd"
     },
     {
-      "channel_id": "ukpremiersports2_deaac31daa",
-      "name": "UK-Premier Sports 2 SD",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/11973.m3u8"
+      "channel_id": "skysportspremierleague50_a447822b71",
+      "name": "Sky Sports Premier League 50",
+      "url": "http://linear010-gb-dash1-prd-ll.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(sportspremierleague50)/manifest_mob.mpd"
     },
     {
-      "channel_id": "ukskysportscricket_920f8006cc",
-      "name": "UK-Sky Sports Cricket  FHD 50FPS",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/164497.m3u8"
+      "channel_id": "supersportmotorsport_f85de44261",
+      "name": "SuperSport MotorSport HD",
+      "url": "https://webudit.hlsjs.ru/lb/premium424/index.m3u8|Origin=https://weblivehdplay.ru"
     },
     {
-      "channel_id": "ukskysportsf1_92ed1c7516",
-      "name": "UK-Sky Sports F1 FHD 50FPS",
-      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/724.ts"
+      "channel_id": "supersportaction_83464bfe47",
+      "name": "Supersport Action",
+      "url": "https://webudit.hlsjs.ru/lb/premium420/index.m3u8|Origin=https://weblivehdplay.ru"
     },
     {
-      "channel_id": "ukskysportsmainevent_07b52b92a4",
-      "name": "UK-Sky Sports Main Event FHD 50FPS",
-      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/720.ts"
+      "channel_id": "supersportcricket_3e8d9c238b",
+      "name": "Supersport Cricket",
+      "url": "https://webudit.hlsjs.ru/lb/premium368/index.m3u8|Origin=https://weblivehdplay.ru"
     },
     {
-      "channel_id": "willowcricket_f71d6d31ab",
-      "name": "Willow Cricket",
-      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/135.ts"
+      "channel_id": "supersportfootball_a03405b12c",
+      "name": "Supersport Football",
+      "url": "https://01.webhd.ru/ddh2/premium56/playlist.m3u8"
     },
     {
-      "channel_id": "willowcricketxtra_30fe7cdf3c",
-      "name": "Willow Cricket Xtra",
-      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/732.ts"
+      "channel_id": "supersportgrandstand_765fff610f",
+      "name": "Supersport Grandstand",
+      "url": "https://webudit.hlsjs.ru/lb/premium412/index.m3u8|Origin=https://weblivehdplay.ru"
     },
     {
-      "channel_id": "beinsports1_783353cb04",
-      "name": "Bein Sports 1",
-      "url": "https://ctrl.laotv.la/live/Bsport1/index.m3u8"
+      "channel_id": "supersportlaliga_5e9d6ea157",
+      "name": "Supersport LaLiga",
+      "url": "https://01.webhd.ru/ddh2/premium415/playlist.m3u8"
     },
     {
-      "channel_id": "beinsports2_7a020b2003",
-      "name": "Bein Sports 2",
-      "url": "https://ctrl.laotv.la/live/Bsport2/index.m3u8"
+      "channel_id": "supersportpsl_7cacb44343",
+      "name": "Supersport PSL",
+      "url": "https://webudit.hlsjs.ru/lb/premium413/index.m3u8|Origin=https://weblivehdplay.ru"
+    },
+    {
+      "channel_id": "supersportpremierleague_04dd4e9334",
+      "name": "Supersport Premier League",
+      "url": "https://01.webhd.ru/ddh2/premium414/playlist.m3u8"
+    },
+    {
+      "channel_id": "supersportrugby_be6e1f8eed",
+      "name": "Supersport Rugby",
+      "url": "https://webudit.hlsjs.ru/lb/premium421/index.m3u8|Origin=https://weblivehdplay.ru"
+    },
+    {
+      "channel_id": "usfoxsports1_9d6c08fee4",
+      "name": "US Fox Sports 1",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/1846"
     },
     {
       "channel_id": "cbssportsnetwork_8c797044b8",
-      "name": "CBS SPORTS NETWORK",
-      "url": "https://ch.iptvmate.net/5268e9d1cc746d33227976d1ce39a042.m3u8"
+      "name": "CBS Sports Network HD",
+      "url": "http://tvmate.icu:8080/69NpyV/884735/10454"
+    },
+    {
+      "channel_id": "tntsports5_c8e4f9eaca",
+      "name": "TNT Sports 5",
+      "url": "https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"
+    },
+    {
+      "channel_id": "beinsports1_783353cb04",
+      "name": "beINSports 1",
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd"
     },
     {
       "channel_id": "beinsports3_c282f9f33f",
-      "name": "beiN Sports 3 4K",
-      "url": "https://ch.iptvmate.net/08e2511821d111bb4d61b64ced59f0f3.m3u8"
+      "name": "beINSports 3",
+      "url": "https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
     },
     {
-      "channel_id": "ukskysportspremierleague_85e64adad6",
-      "name": "UK-Sky Sports Premier League FHD 50FPS",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/164499.m3u8"
+      "channel_id": "itv4uk_b24510237a",
+      "name": "ITV 4 UK",
+      "url": "https://ch.iptvmate.net/1a112c77b990c6d47cb1a9022788333a.m3u8"
     },
     {
-      "channel_id": "fs1_a100f35da4",
-      "name": "FS1",
-      "url": "https://ft.fbcdntv247.cfd/memfs/f140c459-525b-4cd6-b3ad-92d274d78903_output_0.m3u8"
+      "channel_id": "supersportvariety1_a3e4872e3d",
+      "name": "Supersport Variety 1",
+      "url": "https://webudit.hlsjs.ru/lb/premium416/index.m3u8|Origin=https://weblivehdplay.ru"
     },
     {
-      "channel_id": "fs2_a9f80da19e",
-      "name": "FS2",
-      "url": "https://ft.fbcdntv247.cfd/memfs/b97d13a4-fd30-434e-9e23-2cbd03687c1f_output_0.m3u8"
-    },
-    {
-      "channel_id": "tntsports2_fd83cf7cfa",
-      "name": "TnT Sports 2 \ud83c\udde7\ud83c\udde9",
-      "url": "http://ftv.fiberish.net.pk/live/myuser/1234/268.ts"
-    },
-    {
-      "channel_id": "uktntsports1_4db2631545",
-      "name": "UK-TNT Sports 1 HD",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/697057.m3u8"
-    },
-    {
-      "channel_id": "uktntsports2_b471e7413c",
-      "name": "UK-TNT Sports 2 HD",
-      "url": "http://b1g.ooo:80/live/Ada/Ada/697056.m3u8"
-    },
-    {
-      "channel_id": "tntsports4_fad9495b4f",
-      "name": "TNT Sports 4",
-      "url": "https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
-    },
-    {
-      "channel_id": "tntsports3_44120a39ea",
-      "name": "TnT Sports 3",
-      "url": "https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8"
-    },
-    {
-      "channel_id": "bbcamerica_2edd01a5de",
-      "name": "BBC AMERICA",
-      "url": "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8"
-    },
-    {
-      "channel_id": "cinemax_d0af5a2872",
-      "name": "Cinemax HD",
-      "url": "http://vthanhtivi.pw:5000/cinemax/index.m3u8"
-    },
-    {
-      "channel_id": "mutv_e71f2f1357",
-      "name": "MU TV",
-      "url": "https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8"
-    },
-    {
-      "channel_id": "marqueesportsnetwork_8a840a4320",
-      "name": "Marquee Sports Network (SD)",
-      "url": "https://ch.iptvmate.net/649de5d3b703f0938bf18e49ab56faa6.m3u8"
-    },
-    {
-      "channel_id": "nflredzone_1f09860cdd",
-      "name": "NFL RedZone",
-      "url": "https://ft.fbcdntv247.cfd/memfs/c61c4d8a-589f-4178-a203-74c53ac8ac2e_output_0.m3u8"
+      "channel_id": "supersportvariety2_669c67f4de",
+      "name": "Supersport Variety 2",
+      "url": "https://webudit.hlsjs.ru/lb/premium417/index.m3u8|Origin=https://weblivehdplay.ru"
     }
   ]
 }
