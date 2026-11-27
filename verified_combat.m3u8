@@ -1,24 +1,3 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Combat Sports
 
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",NBC Sports Philadelphia
-http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN +" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",ESPN +
-http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",BBC America
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax West" tvg-logo="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",Cinemax West
-http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
-
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",Comet
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-
-#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",VICE TV
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-

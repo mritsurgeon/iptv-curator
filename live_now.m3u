@@ -1,27 +1,6 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Live Now & Starting Soon Sports (Confirmed EPG)
 
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="TENNIS CHANNEL | LIVE: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Tennis",TENNIS CHANNEL | LIVE: 2026 Davis Cup Tennis
-http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League | LIVE: Premier League Years 2023-2024" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="LIVE & SOON - Football",Sky Sports Premier League | LIVE: Premier League Years 2023-2024
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America | LIVE: The Terminator" tvg-logo="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Combat Sports",BBC America | LIVE: The Terminator
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | LIVE: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",CBS Sports Golazo Network | LIVE: Scoreline: Soccer Highlights & Analysis
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-
-#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 02:46 SAST: Sprint To The Million: The Film" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Motorsport",FloRacing 24/7 | 02:46 SAST: Sprint To The Million: The Film
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN + | 03:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",ESPN + | 03:00 SAST: Live: College Football
-http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SkySports F1 FHD | 03:15 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",SkySports F1 FHD | 03:15 SAST: Kimi Antonelli - World Champion
-http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX Sports 1 | 04:00 SAST: The Joel Klatt Show: A College Football Podcast" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",FOX Sports 1 | 04:00 SAST: The Joel Klatt Show: A College Football Podcast
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | LIVE: Live Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",SKY SPORTS F1 | LIVE: Live Qatar F1 GP: Practice 1
+https://s7.iptv-24.net/blocked/index.m3u8
 

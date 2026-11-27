@@ -1,12 +1,3 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Tennis
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Tennis - Grand Slams",Sky Sports Premier League
-http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="TENNIS CHANNEL" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Grand Slams",TENNIS CHANNEL
-http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN +" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Grand Slams",ESPN +
-http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-
