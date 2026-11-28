@@ -1,6 +1,21 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Live Now & Starting Soon Sports (Confirmed EPG)
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | LIVE: Live Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",SKY SPORTS F1 | LIVE: Live Qatar F1 GP: Practice 1
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | LIVE: Live: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Tennis",Tennis Channel | LIVE: Live: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | LIVE: Live: USAC Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Motorsport",FloRacing 24/7 | LIVE: Live: USAC Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | LIVE: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",SKY Sports F1 HD | LIVE: Qatar F1 GP: Practice 1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | LIVE: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",CBS Sports Golazo Network | LIVE: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="BOOMERANG | 02:30 SAST: What's New Scooby-Doo?" tvg-logo="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Combat Sports",BOOMERANG | 02:30 SAST: What's New Scooby-Doo?
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 03:00 SAST: Live: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",FOX SPORTS 1 | 03:00 SAST: Live: MLS Soccer
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 

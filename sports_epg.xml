@@ -1,292 +1,2016 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="IPTV-Curator-2.0" date="20261127140625 +0000">
-  <channel id="SkySp.F1.HD.uk">
-    <display-name>SKY SPORTS F1</display-name>
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+<tv generator-info-name="IPTV-Curator-2.0" date="20261128001211 +0000">
+  <channel id="CBS.Sports.Golazo.Network.us2">
+    <display-name>CBS Sports Golazo Network</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&amp;h=270" />
   </channel>
-  <programme start="20261126010000 +0000" stop="20261126013000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Canada 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">UEFA Champions League - Matchday 5 Goals</title>
+    <desc lang="en">All the goals from Matchday 5 in the UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127070000 +0000" stop="20261127080000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">UEFA Champions League - Matchday 5 Goals</title>
+    <desc lang="en">All the goals from Matchday 5 in the UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">UEFA Champions League - Matchday 5 Goals</title>
+    <desc lang="en">All the goals from Matchday 5 in the UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127120000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">UEFA Champions League - Matchday 5 Goals</title>
+    <desc lang="en">All the goals from Matchday 5 in the UEFA Champions League.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127150000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Morning Footy</title>
+    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127150000 +0000" stop="20261127170000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Morning Footy</title>
+    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127170000 +0000" stop="20261127190000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Morning Footy</title>
+    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127190000 +0000" stop="20261127200000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Best of Morning Footy</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127220000 +0000" stop="20261127230000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127230000 +0000" stop="20261128000000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128000000 +0000" stop="20261128013000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchnight</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128033000 +0000" stop="20261128043000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchnight</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128043000 +0000" stop="20261128053000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128053000 +0000" stop="20261128073000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Women's International Friendly Football</title>
+    <desc lang="en">From Marcel Picot Stadium in Nancy, Meurthe-et-Moselle, France.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128073000 +0000" stop="20261128080000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">Preview of this weekend's Italian league soccer matches.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchnight</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchnight</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128113000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">Preview of this weekend's Italian league soccer matches.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128123000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128213000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129000000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchnight</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129000000 +0000" stop="20261129010000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129010000 +0000" stop="20261129030000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Live: Liga MX Soccer</title>
+    <desc lang="en">Quarterfinal, 2nd Leg.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129030000 +0000" stop="20261129050000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Live: Liga MX Soccer</title>
+    <desc lang="en">Quarterfinal, 2nd Leg.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129050000 +0000" stop="20261129060000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129070000 +0000" stop="20261129080000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129090000 +0000" stop="20261129100000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129110000 +0000" stop="20261129120000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129143000 +0000" stop="20261129150000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">Preview of this weekend's Italian league soccer matches.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129170000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Live: Scottish Premier League Soccer</title>
+    <desc lang="en">From Tynecastle Park in Edinburgh, Scotland, United Kingdom.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129190000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Live: Italian Serie A Soccer</title>
+    <desc lang="en">From Olimpico Stadium in Rome, Lazio, Italy.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129190000 +0000" stop="20261129194500 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129194500 +0000" stop="20261129220000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Live: Serie A Football</title>
+    <desc lang="en">From Giuseppe Sinigaglia Stadium in Como, Lombardy, Italy.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129220000 +0000" stop="20261129230000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129230000 +0000" stop="20261130000000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130000000 +0000" stop="20261130010000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130010000 +0000" stop="20261130030000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Women's International Soccer Friendlies</title>
+    <desc lang="en">From Estadio Reino de León in Castile and León, Spain.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130030000 +0000" stop="20261130040000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130040000 +0000" stop="20261130050000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130050000 +0000" stop="20261130060000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130060000 +0000" stop="20261130070000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130070000 +0000" stop="20261130080000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130080000 +0000" stop="20261130090000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130090000 +0000" stop="20261130100000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130100000 +0000" stop="20261130110000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130110000 +0000" stop="20261130120000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130120000 +0000" stop="20261130130000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">CBS Sports Golazo Matchday</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130130000 +0000" stop="20261130150000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Morning Footy</title>
+    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130150000 +0000" stop="20261130170000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Morning Footy</title>
+    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130170000 +0000" stop="20261130173000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Best of Morning Footy</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130173000 +0000" stop="20261130193000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Live: Italian Serie A Soccer</title>
+    <desc lang="en">From Via del Mare Stadium in Lecce, Apulia, Italy.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130193000 +0000" stop="20261130200000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Best of Morning Footy</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130200000 +0000" stop="20261130210000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">90 in 60</title>
+    <desc lang="en">Best of the football match in 60 minutes.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130220000 +0000" stop="20261130230000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130230000 +0000" stop="20261201000000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201000000 +0000" stop="20261201010000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201010000 +0000" stop="20261201020000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">90 in 60</title>
+    <desc lang="en">Best of the football match in 60 minutes.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201030000 +0000" stop="20261201040000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201040000 +0000" stop="20261201050000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201050000 +0000" stop="20261201060000 +0000" channel="CBS.Sports.Golazo.Network.us2">
+    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
+    <desc lang="en">News impacting global football and match highlights.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <channel id="ESPN.HD.us2">
+    <display-name>ESPN</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127085400 +0000" stop="20261127103000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The TCU Horned Frogs visit the No. 12 Texas Tech Red Raiders for an NCAA Division I FBS conference game. TCU lost 38-17 to Utah on Nov. 21 with Jeremy Payne, while the Texas Tech Red Raiders ride a four-game win streak with Will Hammond.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127170000 +0000" stop="20261127200000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The UTSA Roadrunners meet the Tulsa Golden Hurricane at the Alamodome in Week 13. First-place UTSA enters at 9-2 after edging UAB 19-17 on Saturday, while 7-4 Tulsa arrives on three straight wins after beating Charlotte 42-14 at home.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127200000 +0000" stop="20261127203000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football Scoreboard</title>
+    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127203000 +0000" stop="20261127233000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The Temple Owls (2-9, 1-6 American) take on the Memphis Tigers (8-3, 5-2) at Simmons Bank Liberty Stadium. Temple seeks to snap a six-game skid after falling 31-27 to Rice. Memphis snapped a three-game win streak with a 38-34 loss to Navy.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football Scoreboard</title>
+    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128170000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College GameDay</title>
+    <desc lang="en">Originating from the site of one of the day's best matchups, with a sea of fans cheering wildly in the background, host Rece Davis and analysts Lee Corso, Kirk Herbstreit and Desmond Howard talk college football for three hours, reporting on the top teams, games, players and storylines. David Pollack and Maria Taylor contribute reports, interviews and features. Davis replaced longtime host Chris Fowler in 2015.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128200000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The Boston College Eagles visit the No. 7 Miami Hurricanes at Hard Rock Stadium. Boston College beat Syracuse 27-15 behind quarterback Mason McKenzie. The Miami Hurricanes rides a two-game win streak led by quarterback Darian Mensah.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128203000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football Scoreboard</title>
+    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261128233000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The No. 8 Wake Forest Demon Deacons (10-1, 7-1 ACC) play the Duke Blue Devils (7-4, 4-4) in Winston-Salem. Duke has won three of its last five matchups but fell 20-10 to Clemson in Week 12. Wake Forest seeks its ninth straight victory.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129000000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football Scoreboard</title>
+    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129000000 +0000" stop="20261129030000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The Vanderbilt Commodores (4-7, 1-7 SEC) and the No. 5 Tennessee Volunteers (9-2, 6-2 SEC) face off at FirstBank Stadium. Tennessee aims for a four-game win streak after defeating LSU 27-13, while Vanderbilt looks to break a two-game skid.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129030000 +0000" stop="20261129033000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: College Football Scoreboard</title>
+    <desc lang="en">Presenting up-to-the-minute scores and highlights during the college football season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129080000 +0000" stop="20261129090000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">College Football Final</title>
+    <desc lang="en">Once the day's slate of college football games is complete, ESPN recaps the action and discusses its implications on the top 25. Matt Barrie hosts with analysts Joey Galloway and Dan Mullen.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129093000 +0000" stop="20261129113000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Boston College Eagles visit the No. 7 Miami Hurricanes at Hard Rock Stadium. Boston College beat Syracuse 27-15 behind quarterback Mason McKenzie. The Miami Hurricanes rides a two-game win streak led by quarterback Darian Mensah.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129180000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: Sunday NFL Countdown</title>
+    <desc lang="en">This Sunday pregame staple debuted in 1985 and soon became a signature ESPN series. Host Mike Greenberg introduces the features and directs the storylines associated with the day's games, joined by a roster of analysts highlighted by ex-NFL players, coaches and executives including Tedy Bruschi, Randy Moss, Alex Smith, and Rex Ryan. Adam Schefter deliver breaking news and injury updates, while reporters at game sites set the scenes.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130190000 +0000" stop="20261130200000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: Big Day With Peter Schrager</title>
+    <desc lang="en">Peter Schrager's daily show will feature rotating panelists focusing heavily on the NFL while also providing coverage of other major sports stories.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130200000 +0000" stop="20261130220000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">NFL Live</title>
+    <desc lang="en">Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Mina Kimes, and Adam Schefter. The "NFL Live" crew entertains fans while offering all the latest news and analysis from across the NFL.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130230000 +0000" stop="20261201010000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: Monday Night Countdown</title>
+    <desc lang="en">Previewing the Monday Night Football matchup airing later on ESPN. Host Scott Van Pelt is joined by Ryan Clark, Jason Kelce, Marcus Spears, Adam Schefter and Michelle Beisner-Buck as they analyze every last morsel of information pertaining to Monday night's combatants, plus discuss the latest news that developed out of Sunday's action.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201010000 +0000" stop="20261201011500 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: Monday Night Kickoff</title>
+    <desc lang="en">The legendary Monday Night Football crew of Joe Buck, Troy Aikman, and Lisa Salters preview the upcoming Monday Night Football action.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201011500 +0000" stop="20261201041500 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: NFL Football</title>
+    <desc lang="en">The Buccaneers host the Panthers in NFL regular-season play at Raymond James Stadium. Tampa Bay is 3-7 and has lost five of its last eight, while Carolina arrives at 5-5 after a 35-33 win over Baltimore.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201041500 +0000" stop="20261201043000 +0000" channel="ESPN.HD.us2">
+    <title lang="en">Live: Monday Night Postgame</title>
+    <desc lang="en">A recap of the Monday Night Football matchup with highlights, interviews and more.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <channel id="FS1.HD.us2">
+    <display-name>FOX SPORTS 1</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127170000 +0000" stop="20261127230000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: Horse Racing</title>
+    <desc lang="en">The best racehorses square off in the premiere races from across the country.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126013000 +0000" stop="20261126020000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Monaco 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
+  <programme start="20261128010000 +0000" stop="20261128030000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: MLS Soccer</title>
+    <desc lang="en">Columbus Crew host Inter Miami CF in the MLS Eastern Conference playoffs at ScottsMiracle-Gro Field. The Crew lead the best-of-three series 1-0 after a 3-0 win in Game 1, with Miami needing a victory to stay alive.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128053000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: MLS Soccer</title>
+    <desc lang="en">Real Salt Lake host Vancouver Whitecaps in MLS playoff Round One at America First Field. Vancouver lead the series 1-0 after a 2-0 win in Game 1, and have won all five of their recent meetings with Salt Lake.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128063000 +0000" stop="20261128083000 +0000" channel="FS1.HD.us2">
+    <title lang="en">MLS Soccer</title>
+    <desc lang="en">Columbus Crew host Inter Miami CF in the MLS Eastern Conference playoffs at ScottsMiracle-Gro Field. The Crew lead the best-of-three series 1-0 after a 3-0 win in Game 1, with Miami needing a victory to stay alive.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128113000 +0000" channel="FS1.HD.us2">
+    <title lang="en">The Joel Klatt Show: A College Football Podcast</title>
+    <desc lang="en">Joel Klatt analyzes college football with insights from his experience and thorough analysis.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128123000 +0000" channel="FS1.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The No. 2 Utah Utes clash with the West Virginia Mountaineers in Week 13. Utah relies on Devon Dampier after his four-touchdown game against TCU, while 5-6 West Virginia counts on Cam Cook after rushing for 131 yards in a 34-31 loss on Nov 21.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128123000 +0000" stop="20261128135500 +0000" channel="FS1.HD.us2">
+    <title lang="en">The Team: Michigan Football</title>
+    <desc lang="en">Part 1/2. A storied history, a bitter rivalry with Ohio State and Jim Harbaugh's half-century with Michigan football all collide in 2023, as the program chases a return to the top of the college football world amid scrutiny.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128135500 +0000" stop="20261128143000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: MotoGP Racing</title>
+    <desc lang="en">From Circuit Ricardo Tormo in Valencia, Valencia, Spain.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Barcelona 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+  <programme start="20261128153000 +0000" stop="20261128160000 +0000" channel="FS1.HD.us2">
+    <title lang="en">MotoGP Racing</title>
+    <desc lang="en">From Circuit Ricardo Tormo in Valencia, Valencia, Spain.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Austria 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: Big Noon Kickoff</title>
+    <desc lang="en">College football pregame show covering the top college football games from the country's best conferences, beginning each Saturday on FOX.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128203000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128203000 +0000" stop="20261129000000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The Penn State Nittany Lions (6-5, 3-5 Big Ten) and the Maryland Terrapins (4-7, 2-6 Big Ten) meet at SECU Stadium in College Park. Penn State broke a three-game win streak with a 25-24 loss to Rutgers, while Maryland fell to USC 35-21.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129000000 +0000" stop="20261129033000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">The Purdue Boilermakers (3-8, 2-6 Big Ten) and the No. 14 Indiana Hoosiers (9-2, 6-2 Big Ten) meet at Memorial Stadium. Purdue aims to break a five-game losing streak, while Indiana broke a three-game win streak with a 27-24 loss to Washington.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129033000 +0000" stop="20261129060000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: MLS Soccer</title>
+    <desc lang="en">Portland Timbers host FC Dallas in MLS Western Conference playoff action at Providence Park. Dallas lead the best-of-three series 1-0 after winning Game 1, 3-0, and the Timbers must respond at home to stay alive.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129060000 +0000" stop="20261129090000 +0000" channel="FS1.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Michigan Wolverines (6-5, 3-5 Big Ten) and the No. 21 Ohio State Buckeyes (7-4, 5-3 Big Ten) meet at Ohio Stadium. Michigan broke a two-game skid with a 18-16 triple overtime victory against UCLA, while Ohio State fell to Nebraska 31-28.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129090000 +0000" stop="20261129120000 +0000" channel="FS1.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Cincinnati Bearcats visit the No. 10 BYU Cougars for an NCAA Division I FBS conference game. The Cincinnati Bearcats defeated the Colorado Buffaloes 35-28 with JC French IV, while the BYU Cougars ride a two-game win streak with Bear Bachmeier.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129120000 +0000" stop="20261129123000 +0000" channel="FS1.HD.us2">
+    <title lang="en">MotoGP Racing</title>
+    <desc lang="en">From Circuit Ricardo Tormo in Valencia, Valencia, Spain.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126030000 +0000" stop="20261126033500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Britain 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+  <programme start="20261129123000 +0000" stop="20261129140000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: MotoGP Racing</title>
+    <desc lang="en">From Circuit Ricardo Tormo in Valencia, Valencia, Spain.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126033500 +0000" stop="20261126040000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Hungary 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+  <programme start="20261129140000 +0000" stop="20261129153000 +0000" channel="FS1.HD.us2">
+    <title lang="en">The Team: Michigan Football</title>
+    <desc lang="en">Part 1/2. A storied history, a bitter rivalry with Ohio State and Jim Harbaugh's half-century with Michigan football all collide in 2023, as the program chases a return to the top of the college football world amid scrutiny.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129223000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Live: Horse Racing</title>
+    <desc lang="en">Following all the action from the world of horse racing.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126040000 +0000" stop="20261126042500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Australia 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+  <programme start="20261129230000 +0000" stop="20261129233000 +0000" channel="FS1.HD.us2">
+    <title lang="en">MotoGP Racing</title>
+    <desc lang="en">From Circuit Ricardo Tormo in Valencia, Valencia, Spain.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126042500 +0000" stop="20261126050000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of China 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+  <programme start="20261129233000 +0000" stop="20261130003000 +0000" channel="FS1.HD.us2">
+    <title lang="en">MotoGP Racing</title>
+    <desc lang="en">From Circuit Ricardo Tormo in Valencia, Valencia, Spain.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126050000 +0000" stop="20261126051500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Japan 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+  <programme start="20261130023000 +0000" stop="20261130040000 +0000" channel="FS1.HD.us2">
+    <title lang="en">The Team: Michigan Football</title>
+    <desc lang="en">Part 1/2. A storied history, a bitter rivalry with Ohio State and Jim Harbaugh's half-century with Michigan football all collide in 2023, as the program chases a return to the top of the college football world amid scrutiny.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130040000 +0000" stop="20261130070000 +0000" channel="FS1.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Michigan Wolverines (6-5, 3-5 Big Ten) and the No. 21 Ohio State Buckeyes (7-4, 5-3 Big Ten) meet at Ohio Stadium. Michigan broke a two-game skid with a 18-16 triple overtime victory against UCLA, while Ohio State fell to Nebraska 31-28.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130070000 +0000" stop="20261130100000 +0000" channel="FS1.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The No. 2 Utah Utes clash with the West Virginia Mountaineers in Week 13. Utah relies on Devon Dampier after his four-touchdown game against TCU, while 5-6 West Virginia counts on Cam Cook after rushing for 131 yards in a 34-31 loss on Nov 21.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130100000 +0000" stop="20261130130000 +0000" channel="FS1.HD.us2">
+    <title lang="en">College Football</title>
+    <desc lang="en">The Purdue Boilermakers (3-8, 2-6 Big Ten) and the No. 14 Indiana Hoosiers (9-2, 6-2 Big Ten) meet at Memorial Stadium. Purdue aims to break a five-game losing streak, while Indiana broke a three-game win streak with a 27-24 loss to Washington.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130230000 +0000" stop="20261130233000 +0000" channel="FS1.HD.us2">
+    <title lang="en">The Gronk &amp; Jules Show</title>
+    <desc lang="en">Former teammates, best friends, and NFL legends Rob Gronkowski and Julian Edelman react to each week of the football season as only they can.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201013000 +0000" stop="20261201020000 +0000" channel="FS1.HD.us2">
+    <title lang="en">All In: Indycar</title>
+    <desc lang="en">Danish drivers Christian Rasmussen and Christian Lundgaard are superstars in the making—each with their own unique skill sets on Ovals and Road Courses; as Rasmussen battles to turn his season around, Lundgaard blocks out the noise surrounding his surprising departure from Arrow McLaren.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126051500 +0000" stop="20261126060000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">The Best of Miami 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+  <programme start="20261201020000 +0000" stop="20261201023000 +0000" channel="FS1.HD.us2">
+    <title lang="en">All In: Indycar</title>
+    <desc lang="en">As motorsports history unfolds within the nation's capital, superstar in the making, David Malukas, readies himself for one of the biggest tests of his young career.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 GP Highlights 2023</title>
-    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
+  <programme start="20261201023000 +0000" stop="20261201030000 +0000" channel="FS1.HD.us2">
+    <title lang="en">All In: Indycar</title>
+    <desc lang="en">After capturing his 5th NTT IndyCar Series Championship in Milwaukee, the final race of the season at Laguna Seca has turned into a celebration of Alex Palou's dominance. All eyes turn to the Battle for P2, where the next challenger hopes to emerge.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126123000 +0000" stop="20261126124500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Jamie Chadwick: An F1 Dream</title>
-    <desc lang="en">Join Jamie Chadwick as she fulfils her childhood dream of driving a Formula 1 car.</desc>
+  <programme start="20261201030000 +0000" stop="20261201040000 +0000" channel="FS1.HD.us2">
+    <title lang="en">Speed With Harvick &amp; Buxton</title>
+    <desc lang="en">Let's talk racing; Kevin Harvick and Will Buxton celebrate the world of motorsports.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261126124500 +0000" stop="20261126150000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 Grand Prix 2023</title>
-    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
-    <category lang="en">Motorsport</category>
+  <channel id="NBC.Sports.Philadelphia.HD.us2">
+    <display-name>NBC Sports Philadelphia</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261126164500 +0000" stop="20261126171500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Weekend Wrapped</title>
-    <desc lang="en">Throughout each round of the F1 Academy campaign, revisit each pivotal moment with a recap of the racing in the all-female category. Here, the season-ending stop in Las Vegas.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261126183000 +0000" stop="20261126193000 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 GP Highlights 2023</title>
-    <desc lang="en">Two years on from the inaugural Qatar Grand Prix, Lusail welcomes F1 racing once more. George Russell and Lewis Hamilton follow the newly crowned world champion Max Verstappen. (08.</desc>
-    <category lang="en">Motorsport</category>
+  <programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">NFL news and highlights plus a preview of the week's top match-ups.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261127011500 +0000" stop="20261127012500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128080000 +0000" stop="20261128083000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128233000 +0000" stop="20261129000000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130010000 +0000" stop="20261130020000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">United Fight Alliance</title>
+    <desc lang="en">United Fight Alliance showcases top-ranked and emerging fighters across combat sports, presenting action and footage from MMA, boxing, kickboxing, bare-knuckle boxing and Muay Thai.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130190000 +0000" stop="20261130230000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Live: Unfiltered with Ricky Bo and Bill Colarulo</title>
+    <desc lang="en">Ricky Bottalico and Bill Colarulo dive deep into the heart of Philadelphia sports with raw, real talk that reflects the city's passionate fan base.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130230000 +0000" stop="20261130233000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Live: Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130233000 +0000" stop="20261201000000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201040000 +0000" stop="20261201043000 +0000" channel="NBC.Sports.Philadelphia.HD.us2">
+    <title lang="en">Birds Huddle</title>
+    <desc lang="en">Host Barrett Brooks and special guests deliver the latest news, analysis, commentary and opinion surrounding the Eagles and the NFL, along with sports-betting content and pregame coverage.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <channel id="SkySp.F1.uk">
+    <display-name>SKY Sports F1 HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
+  </channel>
+  <programme start="20261127011500 +0000" stop="20261127012500 +0000" channel="SkySp.F1.uk">
     <title lang="en">Kimi Antonelli - World Champion</title>
     <desc lang="en">A special feature dedicated to Formula 1's youngest-ever world champion Kimi Antonelli, who clinched the title with a podium finish at the Mexico City Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127012500 +0000" stop="20261127020000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127012500 +0000" stop="20261127020000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of China 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127020000 +0000" stop="20261127021500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127020000 +0000" stop="20261127021500 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Japan 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127021500 +0000" stop="20261127030000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127021500 +0000" stop="20261127030000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Miami 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Canada 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Canadian Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127033000 +0000" stop="20261127040000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127033000 +0000" stop="20261127040000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Monaco 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261127043000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127040000 +0000" stop="20261127043000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Barcelona 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127043000 +0000" stop="20261127050000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127043000 +0000" stop="20261127050000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Austria 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127050000 +0000" stop="20261127053500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127050000 +0000" stop="20261127053500 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Britain 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127053500 +0000" stop="20261127060000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127053500 +0000" stop="20261127060000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Hungary 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127120000 +0000" stop="20261127121500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127120000 +0000" stop="20261127121500 +0000" channel="SkySp.F1.uk">
     <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
     <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127130000 +0000" stop="20261127145500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127130000 +0000" stop="20261127145500 +0000" channel="SkySp.F1.uk">
     <title lang="en">Live Qatar F1 GP: Practice 1</title>
     <desc lang="en">The opening Formula 1 practice session of Qatar Grand Prix weekend in Lusail. Max Verstappen emerged victorious in Vegas last weekend, surviving a staggering 35 changes of the lead.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127154000 +0000" stop="20261127161000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127154000 +0000" stop="20261127161000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Team Principals' Press Conference</title>
     <desc lang="en">Formula 1 team bosses sit down to answer questions from the media ahead of the Qatar Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127161500 +0000" stop="20261127164500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127161500 +0000" stop="20261127164500 +0000" channel="SkySp.F1.uk">
     <title lang="en">Weekend Wrapped</title>
     <desc lang="en">Throughout each round of the F1 Academy campaign, revisit each pivotal moment with a recap of the racing in the all-female category. Here, the season-ending stop in Las Vegas.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127164500 +0000" stop="20261127181500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Live Qatar F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session of Qatar Grand Prix weekend in Lusail.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261127191500 +0000" stop="20261127194500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127191500 +0000" stop="20261127194500 +0000" channel="SkySp.F1.uk">
     <title lang="en">Weekend Wrapped</title>
     <desc lang="en">Throughout each round of the F1 Academy campaign, revisit each pivotal moment with a recap of the racing in the all-female category. Here, the season-ending stop in Las Vegas.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127194500 +0000" stop="20261127200000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127194500 +0000" stop="20261127200000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
     <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Weekend Wrapped</title>
     <desc lang="en">Throughout each round of the F1 Academy campaign, revisit each pivotal moment with a recap of the racing in the all-female category. Here, the season-ending stop in Las Vegas.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261127213000 +0000" stop="20261127224500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session of Qatar Grand Prix weekend in Lusail. (27.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261127234500 +0000" stop="20261128010000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261127234500 +0000" stop="20261128010000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Qatar F1 GP: Practice 1</title>
     <desc lang="en">The opening Formula 1 practice session of Qatar Grand Prix weekend in Lusail. Max Verstappen emerged victorious in Vegas last weekend, surviving a staggering 35 changes of the lead. (27.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128010000 +0000" stop="20261128021500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session of Qatar Grand Prix weekend in Lusail. (27.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261128031500 +0000" stop="20261128033000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128031500 +0000" stop="20261128033000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
     <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128033500 +0000" stop="20261128040000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128033500 +0000" stop="20261128040000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Hungary 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128042500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128040000 +0000" stop="20261128042500 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Australia 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128042500 +0000" stop="20261128050000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128042500 +0000" stop="20261128050000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of China 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128050000 +0000" stop="20261128051500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128050000 +0000" stop="20261128051500 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Japan 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128051500 +0000" stop="20261128060000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128051500 +0000" stop="20261128060000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Miami 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128070000 +0000" stop="20261128081500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session of Qatar Grand Prix weekend in Lusail. (27.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261128101500 +0000" stop="20261128102500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128101500 +0000" stop="20261128102500 +0000" channel="SkySp.F1.uk">
     <title lang="en">Kimi Antonelli - World Champion</title>
     <desc lang="en">A special feature dedicated to Formula 1's youngest-ever world champion Kimi Antonelli, who clinched the title with a podium finish at the Mexico City Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128104500 +0000" stop="20261128120000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128104500 +0000" stop="20261128120000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Qatar F1 GP: Practice 1</title>
     <desc lang="en">The opening Formula 1 practice session of Qatar Grand Prix weekend in Lusail. Max Verstappen emerged victorious in Vegas last weekend, surviving a staggering 35 changes of the lead. (27.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261128120000 +0000" stop="20261128131500 +0000" channel="SkySp.F1.HD.uk">
-    <title lang="en">Qatar F1 GP: Practice 2</title>
-    <desc lang="en">The second Formula 1 practice session of Qatar Grand Prix weekend in Lusail. (27.</desc>
-    <category lang="en">Motorsport</category>
-  </programme>
-  <programme start="20261128141500 +0000" stop="20261128161000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261128141500 +0000" stop="20261128161000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Live Qatar F1 GP: Practice 3</title>
     <desc lang="en">The third and final Formula 1 practice session during Qatar Grand Prix weekend.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129000500 +0000" stop="20261129001500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129000500 +0000" stop="20261129001500 +0000" channel="SkySp.F1.uk">
     <title lang="en">Kimi Antonelli - World Champion</title>
     <desc lang="en">A special feature dedicated to Formula 1's youngest-ever world champion Kimi Antonelli, who clinched the title with a podium finish at the Mexico City Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129001500 +0000" stop="20261129013000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129001500 +0000" stop="20261129013000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Qatar F1 GP: Practice 3</title>
     <desc lang="en">The third and final Formula 1 practice session during Qatar Grand Prix weekend. (28.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129033000 +0000" stop="20261129040000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129033000 +0000" stop="20261129040000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Monaco 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Monaco Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129040000 +0000" stop="20261129043000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129040000 +0000" stop="20261129043000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Barcelona 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129043000 +0000" stop="20261129050000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129043000 +0000" stop="20261129050000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Austria 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129050000 +0000" stop="20261129053500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129050000 +0000" stop="20261129053500 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Britain 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129053500 +0000" stop="20261129060000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129053500 +0000" stop="20261129060000 +0000" channel="SkySp.F1.uk">
     <title lang="en">The Best of Hungary 2026</title>
     <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129063000 +0000" stop="20261129064000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129063000 +0000" stop="20261129064000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Kimi Antonelli - World Champion</title>
     <desc lang="en">A special feature dedicated to Formula 1's youngest-ever world champion Kimi Antonelli, who clinched the title with a podium finish at the Mexico City Grand Prix.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129070000 +0000" stop="20261129081500 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129070000 +0000" stop="20261129081500 +0000" channel="SkySp.F1.uk">
     <title lang="en">Qatar F1 GP: Practice 3</title>
     <desc lang="en">The third and final Formula 1 practice session during Qatar Grand Prix weekend. (28.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261129135000 +0000" stop="20261129140000 +0000" channel="SkySp.F1.HD.uk">
+  <programme start="20261129135000 +0000" stop="20261129140000 +0000" channel="SkySp.F1.uk">
     <title lang="en">Kimi Antonelli - World Champion</title>
     <desc lang="en">A special feature dedicated to Formula 1's youngest-ever world champion Kimi Antonelli, who clinched the title with a podium finish at the Mexico City Grand Prix.</desc>
     <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130013500 +0000" stop="20261130014500 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Arvid Lindblad Talks to Karun</title>
+    <desc lang="en">Sky F1's Karun Chandhok sits down for a chat with Arvid Lindblad - whose seat with the Racing Bulls has been confirmed for 2027.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130014500 +0000" stop="20261130020000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130020000 +0000" stop="20261130023000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Best of Barcelona 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Barcelona-Catalunya Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130023000 +0000" stop="20261130030000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Best of Austria 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Austrian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130030000 +0000" stop="20261130033500 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130033500 +0000" stop="20261130040000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Best of Hungary 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Hungarian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130040000 +0000" stop="20261130042500 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130042500 +0000" stop="20261130050000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Best of China 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Chinese Grand Prix in Shanghai.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130050000 +0000" stop="20261130051500 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130051500 +0000" stop="20261130060000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130103000 +0000" stop="20261130104000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">The Career of Kimi Antonelli</title>
+    <desc lang="en">A deep dive into the remarkable career thus far of Formula 1's youngest-ever world champion Kimi Antonelli.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130104000 +0000" stop="20261130105000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Arvid Lindblad Talks to Karun</title>
+    <desc lang="en">Sky F1's Karun Chandhok sits down for a chat with Arvid Lindblad - whose seat with the Racing Bulls has been confirmed for 2027.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130105000 +0000" stop="20261130110000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Kimi Antonelli - World Champion</title>
+    <desc lang="en">A special feature dedicated to Formula 1's youngest-ever world champion Kimi Antonelli, who clinched the title with a podium finish at the Mexico City Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130110000 +0000" stop="20261130121500 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Qatar F1 GP: Practice 1</title>
+    <desc lang="en">The opening Formula 1 practice session of Qatar Grand Prix weekend in Lusail. Max Verstappen emerged victorious in Vegas last weekend, surviving a staggering 35 changes of the lead. (27.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130143000 +0000" stop="20261130154500 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Qatar F1 GP: Practice 3</title>
+    <desc lang="en">The third and final Formula 1 practice session during Qatar Grand Prix weekend. (28.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130154500 +0000" stop="20261130160000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130184000 +0000" stop="20261130185000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Arvid Lindblad Talks to Karun</title>
+    <desc lang="en">Sky F1's Karun Chandhok sits down for a chat with Arvid Lindblad - whose seat with the Racing Bulls has been confirmed for 2027.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130185000 +0000" stop="20261130190000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Kimi Antonelli - World Champion</title>
+    <desc lang="en">A special feature dedicated to Formula 1's youngest-ever world champion Kimi Antonelli, who clinched the title with a podium finish at the Mexico City Grand Prix.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130214500 +0000" stop="20261130220000 +0000" channel="SkySp.F1.uk">
+    <title lang="en">Simon &amp; Naomi with Liam Lawson</title>
+    <desc lang="en">Sky F1 pair Simon Lazenby and Naomi Schiff join Kiwi driver Liam Lawson of the Racing Bulls for a chat about his 2026 F1 campaign and much more.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <channel id="Tennis.Channel.HD.us2">
+    <display-name>Tennis Channel</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127100000 +0000" stop="20261127110000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Davis Cup Tennis</title>
+    <desc lang="en">International event contested between teams from competing countries in a knock-out format.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261127110000 +0000" stop="20261127150000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Davis Cup Tennis</title>
+    <desc lang="en">International event contested between teams from competing countries in a knock-out format.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261127150000 +0000" stop="20261128030000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">Live: 2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128110000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">Live: 2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128170000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">Live: 2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261129050000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261129050000 +0000" stop="20261129110000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261129110000 +0000" stop="20261129140000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129200000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">Live: 2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261129200000 +0000" stop="20261130080000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261130080000 +0000" stop="20261130110000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261130110000 +0000" stop="20261130133000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Davis Cup Tennis</title>
+    <desc lang="en">From BolognaFiere in Bologna, Italy.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261130133000 +0000" stop="20261130153000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 United Cup Tennis</title>
+    <desc lang="en">Coverage of United Cup tennis action from Perth and Sydney, Australia.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261130153000 +0000" stop="20261130173000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 United Cup Tennis</title>
+    <desc lang="en">Coverage of United Cup tennis action from Perth and Sydney, Australia.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261130173000 +0000" stop="20261130193000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Adelaide International Tennis</title>
+    <desc lang="en">From Memorial Drive Tennis Centre in Adelaide, South Australia, Australia.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261130193000 +0000" stop="20261130213000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Adelaide International Tennis</title>
+    <desc lang="en">From Memorial Drive Tennis Centre in Adelaide, South Australia, Australia.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261130213000 +0000" stop="20261130230000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">Brisbane-ATP ENCORE</title>
+    <desc lang="en">Replay of tennis matches from the ATP event in Brisbane.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261130230000 +0000" stop="20261201010000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 United Cup Tennis</title>
+    <desc lang="en">Coverage of United Cup tennis action from Perth and Sydney, Australia.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261201010000 +0000" stop="20261201030000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 United Cup Tennis</title>
+    <desc lang="en">Coverage of United Cup tennis action from Perth and Sydney, Australia.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261201030000 +0000" stop="20261201050000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">2026 Adelaide International Tennis</title>
+    <desc lang="en">From Memorial Drive Tennis Centre in Adelaide, South Australia, Australia.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261201050000 +0000" stop="20261201063000 +0000" channel="Tennis.Channel.HD.us2">
+    <title lang="en">Brisbane-ATP ENCORE</title>
+    <desc lang="en">Replay of tennis matches from the ATP event in Brisbane.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <channel id="beINSportsXtra.au">
+    <display-name>beIN Sports XTRA</display-name>
+    <icon src="https://www.fetchtv.com.au/v2/epg/channels/2437/image" />
+  </channel>
+  <channel id="BBC.America.HD.us2">
+    <display-name>BBC America</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127050000 +0000" stop="20261127073000 +0000" channel="BBC.America.HD.us2">
+    <title lang="en">The Terminator</title>
+    <desc lang="en">Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent to protect Sarah is Kyle Reese (Michael Biehn), who divulges the coming of Skynet, an artificial intelligence system that will spark a nuclear holocaust. Sarah is targeted because Skynet knows that her unborn son will lead the fight against them. With the virtually unstoppable Terminator in hot pursuit, she and Kyle attempt to escape.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127174500 +0000" stop="20261127200000 +0000" channel="BBC.America.HD.us2">
+    <title lang="en">Rocky Balboa</title>
+    <desc lang="en">Now long-retired, Rocky (Sylvester Stallone) runs a Philadelphia eatery and mourns the loss of his beloved wife, Adrian. Yearning to recapture a bit of his glory days, he plans to re-enter the ring for a few low-profile, local matches. All that changes when Rocky accepts a challenge to fight the world's reigning heavyweight champion, Mason "the Line" Dixon (Antonio Tarver).</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Comet.us2">
+    <display-name>Comet</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="Comet.us2">
+    <title lang="en">WWE Rivals</title>
+    <desc lang="en">The on-screen rivalry between Kurt Angle and Brock Lesnar is a clash of two of the most highly decorated amateur wrestlers to ever lace up boots in WWE; personal issues outside the ring complicated things inside the squared circle.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="Comet.us2">
+    <title lang="en">WWE Rivals</title>
+    <desc lang="en">The battle between WWE and WCW for the top spot on television in the mid '90s and early 2000s takes the entertainment world by storm; commonly known as the "Monday Night Wars," WWE uses its cutting-edge product to combat Ted Turner's WCW.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="Comet.us2">
+    <title lang="en">WWE Rivals</title>
+    <desc lang="en">From street fights at Madison Square Garden to battling inside Hell in a Cell, Mick Foley becomes the measuring stick for "Hunter Hearst Helmsley" (aka Triple H) to prove his true toughness.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="Comet.us2">
+    <title lang="en">WWE Rivals</title>
+    <desc lang="en">Cena and Edge relive their epic conflicts against one another; Freddie Prinze Jr. breaks down what made this rivalry all so memorable in a roundtable discussion with Kevin Nash, Cody Rhodes, Beth Phoenix and John Bradshaw Layfield.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261128230000 +0000" channel="Comet.us2">
+    <title lang="en">WWE Rivals</title>
+    <desc lang="en">The on-screen rivalry between Eddie Guerrero and Rey Mysterio is a true battle between two of the most dynamic and successful luchadores in sports entertainment history; roundtable with Kevin Nash, Natalya Neidhart, Bayley and John Bradshaw Layfield.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129060000 +0000" stop="20261129070000 +0000" channel="Comet.us2">
+    <title lang="en">Xena: Warrior Princess</title>
+    <desc lang="en">Xena reverts to her bloodthirsty ways when she takes charge of a decimated army struggling to fight off one of her old enemies, the Horde.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130000000 +0000" stop="20261130010000 +0000" channel="Comet.us2">
+    <title lang="en">Grimm</title>
+    <desc lang="en">Following Juliette's latest betrayal, Nick, Monroe, Hank, Wu and Trubel take the fight directly to her and the royals.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130133000 +0000" stop="20261130140000 +0000" channel="Comet.us2">
+    <title lang="en">Tales From the Darkside</title>
+    <desc lang="en">Two feuding witches fight for ownership of a magical cat's paw.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="FX.HD.us2">
+    <display-name>FX HD</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127121500 +0000" stop="20261127142000 +0000" channel="FX.HD.us2">
+    <title lang="en">Dumb Money</title>
+    <desc lang="en">Everyday people flip the script on Wall Street and get rich by turning GameStop into one of the world's hottest companies. In the middle of everything is Keith Gill, a regular guy who starts it all by sinking his life savings into the stock. When his social media posts start blowing up, so does his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets wealthy -- until the billionaires fight back and both sides find their worlds turned upside down.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128023000 +0000" stop="20261128060000 +0000" channel="FX.HD.us2">
+    <title lang="en">Black Panther: Wakanda Forever</title>
+    <desc lang="en">Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T'Challa's death. As the Wakandans strive to embrace their next chapter, the heroes must band together with Nakia and Everett Ross to forge a new path for their beloved kingdom.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130020500 +0000" stop="20261130044000 +0000" channel="FX.HD.us2">
+    <title lang="en">Captain America: The First Avenger</title>
+    <desc lang="en">It is 1941 and the world is in the throes of war. Steve Rogers (Chris Evans) wants to do his part and join America's armed forces, but the military rejects him because of his small stature. Finally, Steve gets his chance when he is accepted into an experimental program that turns him into a supersoldier called Captain America. Joining forces with Bucky Barnes (Sebastian Stan) and Peggy Carter (Hayley Atwell), Captain America leads the fight against the Nazi-backed HYDRA organization.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130122000 +0000" stop="20261130152000 +0000" channel="FX.HD.us2">
+    <title lang="en">Father Stu</title>
+    <desc lang="en">When an injury ends his amateur boxing career, Stuart Long moves to Los Angeles to find money and fame. While scraping by as a supermarket clerk, he meets Carmen, a Sunday school teacher who seems immune to his bad-boy charm. Determined to win her over, the longtime agnostic starts going to church to impress her. However, a motorcycle accident leaves him wondering if he can use his second chance to help others, leading to the surprising realization that he's meant to be a Catholic priest.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130152000 +0000" stop="20261130182000 +0000" channel="FX.HD.us2">
+    <title lang="en">The Book of Clarence</title>
+    <desc lang="en">A down-on-his-luck man struggles to find a better life for his family while fighting to free himself of debt. Captivated by the power and glory of the rising Messiah, he risks everything to carve his own path to a divine life, ultimately discovering that the redemptive power of belief may be his only way out.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="FloRacing.24/7.us2">
+    <display-name>FloRacing 24/7</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127071100 +0000" stop="20261127082800 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Legends of Racing</title>
+    <desc lang="en">The story of Foyt takes us on a journey from his humble beginnings on the dusty fairgrounds tracks of his native Texas all the way to the greatest achievements in auto racing history around the globe at Indianapolis, Daytona and Le Mans; from reaching unprecedented heights in his racing career to the depths of despair in the hospital rooms just waiting to make his triumphant return, the life and times of SuperTex are chronicled.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127082800 +0000" stop="20261127090400 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From April 14, 2022.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127112400 +0000" stop="20261127133400 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">NASCAR Modified Tour</title>
+    <desc lang="en">The NASCAR Modified Tour hits the pavement at New Smyrna Speedway for open-wheel action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127133400 +0000" stop="20261127142500 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From April 26, 2025.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127152800 +0000" stop="20261127164700 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Legends of Racing</title>
+    <desc lang="en">The story of Foyt takes us on a journey from his humble beginnings on the dusty fairgrounds tracks of his native Texas all the way to the greatest achievements in auto racing history around the globe at Indianapolis, Daytona and Le Mans; from reaching unprecedented heights in his racing career to the depths of despair in the hospital rooms just waiting to make his triumphant return, the life and times of SuperTex are chronicled.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127164700 +0000" stop="20261127172300 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From April 14, 2022.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127194300 +0000" stop="20261127220300 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">NASCAR Modified Tour</title>
+    <desc lang="en">The NASCAR Modified Tour hits the pavement at New Smyrna Speedway for open-wheel action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127220300 +0000" stop="20261127233000 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">ARCA Racing Series</title>
+    <desc lang="en">ARCA rolls into Kevin Harvick's Kern Raceway for another chapter of stock car competition.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127233000 +0000" stop="20261128043000 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Live: USAC Racing</title>
+    <desc lang="en">From Ventura Raceway in Ventura, Calif.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261128043000 +0000" stop="20261128050600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From April 14, 2022.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261128104700 +0000" stop="20261128130600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Legends of Racing</title>
+    <desc lang="en">A look behind the curtain at the meteoric rise of a racer who gave it all on the track and gave it all even after his untimely death; Bryan Clauson's legacy will be forever known for his selfless decision to help others through organ donation.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261128184700 +0000" stop="20261128210600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Legends of Racing</title>
+    <desc lang="en">A look behind the curtain at the meteoric rise of a racer who gave it all on the track and gave it all even after his untimely death; Bryan Clauson's legacy will be forever known for his selfless decision to help others through organ donation.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261128210600 +0000" stop="20261128221100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Eldora Speedway Racing</title>
+    <desc lang="en">Legendary Eldora Speedway hosts one of its crown jewels for another unforgettable dirt showdown.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261128221100 +0000" stop="20261129002500 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From April 12, 2025.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129011500 +0000" stop="20261129020100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">High Limit Racing</title>
+    <desc lang="en">Action from "High Limit Racing," consisting of American touring sprint car events.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129020100 +0000" stop="20261129040100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From Aug. 25, 2018.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129050600 +0000" stop="20261129061100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Eldora Speedway Racing</title>
+    <desc lang="en">Legendary Eldora Speedway hosts one of its crown jewels for another unforgettable dirt showdown.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129061100 +0000" stop="20261129082500 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From April 12, 2025.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129091500 +0000" stop="20261129100100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">High Limit Racing</title>
+    <desc lang="en">Action from "High Limit Racing," consisting of American touring sprint car events.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129100100 +0000" stop="20261129120100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From Aug. 25, 2018.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129130600 +0000" stop="20261129141100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Eldora Speedway Racing</title>
+    <desc lang="en">Legendary Eldora Speedway hosts one of its crown jewels for another unforgettable dirt showdown.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129141100 +0000" stop="20261129162500 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From April 12, 2025.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129171500 +0000" stop="20261129180100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">High Limit Racing</title>
+    <desc lang="en">Action from "High Limit Racing," consisting of American touring sprint car events.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129180100 +0000" stop="20261129200100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From Aug. 25, 2018.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261129210600 +0000" stop="20261130000400 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Five Flags Speedway Racing</title>
+    <desc lang="en">Five Flags Speedway hosts the star-studded 58th Snowball Derby on December 8, 2025 - a staple in American short track tradition.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130000400 +0000" stop="20261130004300 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From January 30, 1993.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130004300 +0000" stop="20261130022700 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From May 23, 2003.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130022700 +0000" stop="20261130033600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the 410 Sprint Cars Eldora Million feature replay at Eldora Speedway from July 13, 2023.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130033600 +0000" stop="20261130042300 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From Aug. 30, 2025.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130042300 +0000" stop="20261130051100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">The Million Dollar Curse</title>
+    <desc lang="en">How can a life altering victory lead to a peculiar curse for a racing family? Watch The Million Dollar Curse, a FloRacing Original Documentary.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130051100 +0000" stop="20261130080900 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Five Flags Speedway Racing</title>
+    <desc lang="en">Five Flags Speedway hosts the star-studded 58th Snowball Derby on December 8, 2025 - a staple in American short track tradition.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130080900 +0000" stop="20261130084800 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From January 30, 1993.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130084800 +0000" stop="20261130103200 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From May 23, 2003.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130103200 +0000" stop="20261130114100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the 410 Sprint Cars Eldora Million feature replay at Eldora Speedway from July 13, 2023.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130114100 +0000" stop="20261130122900 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">The Million Dollar Curse</title>
+    <desc lang="en">How can a life altering victory lead to a peculiar curse for a racing family? Watch The Million Dollar Curse, a FloRacing Original Documentary.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130122900 +0000" stop="20261130152700 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Five Flags Speedway Racing</title>
+    <desc lang="en">Five Flags Speedway hosts the star-studded 58th Snowball Derby on December 8, 2025 - a staple in American short track tradition.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130152700 +0000" stop="20261130160600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From January 30, 1993.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130160600 +0000" stop="20261130175000 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From May 23, 2003.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130175000 +0000" stop="20261130185900 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the 410 Sprint Cars Eldora Million feature replay at Eldora Speedway from July 13, 2023.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130185900 +0000" stop="20261130194600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From Aug. 30, 2025.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130194600 +0000" stop="20261130203400 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">The Million Dollar Curse</title>
+    <desc lang="en">How can a life altering victory lead to a peculiar curse for a racing family? Watch The Million Dollar Curse, a FloRacing Original Documentary.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130203400 +0000" stop="20261130211100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Gateway Dirt Nationals Racing</title>
+    <desc lang="en">The Gateway Dirt Nationals hosts dirt track racing inside a football stadium in St. Louis, MO.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130211100 +0000" stop="20261130215800 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130215800 +0000" stop="20261130220900 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130220900 +0000" stop="20261130225500 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130225500 +0000" stop="20261130233000 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261130233000 +0000" stop="20261201000800 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201000800 +0000" stop="20261201004100 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201004100 +0000" stop="20261201012300 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201012300 +0000" stop="20261201014600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the Super Late Models feature replay at the Castrol Gateway Dirt Nationals from Dec 3, 2021.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201014600 +0000" stop="20261201022700 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the Super Late Models feature replay at the Castrol Gateway Dirt Nationals from Dec. 4, 2021.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201022700 +0000" stop="20261201025900 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201025900 +0000" stop="20261201032300 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">The Gateway Dirt Nationals hosts dirt track racing inside a football stadium in St. Louis, Mo.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201032300 +0000" stop="20261201034700 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the Super Late Models Friday Preliminary Night feature replay at the Castrol Gateway Dirt Nationals from Dec. 2, 2022.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201034700 +0000" stop="20261201042600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the Super Late Models feature replay at the Castrol Gateway Dirt Nationals from Dec. 3, 2022.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201042600 +0000" stop="20261201050000 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">From Dec. 3, 2022.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261201050000 +0000" stop="20261201053600 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Gateway Dirt Nationals Racing</title>
+    <desc lang="en">The Gateway Dirt Nationals hosts dirt track racing inside a football stadium in St. Louis, MO.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201053600 +0000" stop="20261201062300 +0000" channel="FloRacing.24/7.us2">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Watch the greatest motor racing action.</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <channel id="MTV.-.Music.Television.HD.us2">
+    <display-name>MTV</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="MTV.-.Music.Television.HD.us2">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">UFC star and MMA champ Paige VanZant joins Rob, Chanel and Steelo to celebrate some "First-Time Fighters" and order takeout with some "Chef Messes.".</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129080000 +0000" stop="20261129083000 +0000" channel="MTV.-.Music.Television.HD.us2">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">WWE Diva, Paige; "Born Badass"; "Everyday Divas"; "Proper Smack.".</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130023000 +0000" stop="20261130030000 +0000" channel="MTV.-.Music.Television.HD.us2">
+    <title lang="en">The Office</title>
+    <desc lang="en">Michael tries to combat his growing debt by asking employees for loans; Jim and Pam spend a night at Dwight's family farm.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130030000 +0000" stop="20261130033000 +0000" channel="MTV.-.Music.Television.HD.us2">
+    <title lang="en">The Office</title>
+    <desc lang="en">Michael tries to combat his growing debt by asking employees for loans; Jim and Pam spend a night at Dwight's family farm.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130120000 +0000" stop="20261130123000 +0000" channel="MTV.-.Music.Television.HD.us2">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Hitting the ring with pain-takers, getting wild with literal lions, and getting betrayed in modern-day Judas.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130150000 +0000" stop="20261130153000 +0000" channel="MTV.-.Music.Television.HD.us2">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Rob, Steelo, and Nina Agdal try to fight their momentum, raise a broken glass, and sit down for lunch.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="TUDN.us2">
+    <display-name>TUDN 🇲🇽</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127080000 +0000" stop="20261127090000 +0000" channel="TUDN.us2">
+    <title lang="en">Liga MX en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la fecha 6 del Torneo Apertura 2026 de la Liga MX. Pachuca recibe a Guadalajara. Desde el Estadio Hidalgo, en Pachuca, Hidalgo. Disputado el 29 de agosto de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Champions League 2026-27. Disputado el 24 de noviembre de 2026 en el Estadio Santiago Bernabéu.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la fecha 5 de la UEFA Champions League 2026-27. Galatasaray se enfrenta a Aston Villa. Desde el RAMS Park, en Estambul. Disputado el 24 de noviembre de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127140000 +0000" stop="20261127150000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Champions League 2026-27. Disputado el 24 de noviembre de 2026 en el Estadio Santiago Bernabéu.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="TUDN.us2">
+    <title lang="en">Liga MX en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la jornada 11 del Torneo Clausura 2026 de la Liga MX. Toluca se enfrenta a Atlas. Desde el estadio Nemesio Diez, en Toluca, Estado de México. Disputado el 14 de marzo de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127190000 +0000" stop="20261127200000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Compacto de la fecha 4 de la UEFA Champions League 2026-27. Encuentro entre Galatasary y VfB Stuttgart. Disputado el 3 de noviembre de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128130000 +0000" channel="TUDN.us2">
+    <title lang="en">Línea de cuatro</title>
+    <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128150000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Champions League 2026-27. Disputado el 25 de noviembre de 2026 en el Parc des Princes.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="TUDN.us2">
+    <title lang="en">Misión Europa</title>
+    <desc lang="en">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128175000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Europa League en 50</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Europa League 2026-27. Disputado el 26 de noviembre de 2026, en el Selhurst Park Stadium.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Fútbol central</title>
+    <desc lang="en">El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129000000 +0000" stop="20261129003000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Fútbol central</title>
+    <desc lang="en">El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129033000 +0000" stop="20261129040000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Línea de cuatro</title>
+    <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129040000 +0000" stop="20261129050000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Línea de cuatro</title>
+    <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129050000 +0000" stop="20261129060000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Línea de cuatro</title>
+    <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129080000 +0000" stop="20261129090000 +0000" channel="TUDN.us2">
+    <title lang="en">Liga MX en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de vuelta de los cuartos de final del Torneo Apertura 2025 de la Liga MX. América recibe a Monterrey. Desde el Estadio Ciudad de los Deportes, en Ciudad de México. Disputado el 29 de noviembre de 2025.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129090000 +0000" stop="20261129100000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la fecha 5 de la UEFA Champions League 2026-27. Galatasaray se enfrenta a Aston Villa. Desde el RAMS Park, en Estambul. Disputado el 24 de noviembre de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129140000 +0000" stop="20261129150000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la fecha 5 de la UEFA Champions League 2026-27. Galatasaray se enfrenta a Aston Villa. Desde el RAMS Park, en Estambul. Disputado el 24 de noviembre de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129150000 +0000" stop="20261129153000 +0000" channel="TUDN.us2">
+    <title lang="en">UCL Magazine</title>
+    <desc lang="en">Un resumen de todos los acontecimientos de la UEFA Champions League, con las mejores noticias, historias inéditas, entrevistas exclusivas y un vistazo detrás de las cámaras.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129153000 +0000" stop="20261129160000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Europa League en 30</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Europa League 2026-27. Disputado el 26 de noviembre de 2026, en el Selhurst Park Stadium.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129160000 +0000" stop="20261129170000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Europa League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Champions League 2026-27. Disputado el 26 de noviembre de 2026, en el estadio Georgios Karaiskákis.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129190000 +0000" stop="20261129200000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Compacto de la fecha 4 de la UEFA Champions League 2026-27. Encuentro entre AEK Atenas y Real Madrid. Disputado el 4 de noviembre de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129210000 +0000" stop="20261129220000 +0000" channel="TUDN.us2">
+    <title lang="en">Liga MX en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la jornada 11 del Torneo Clausura 2026 de la Liga MX. Toluca se enfrenta a Atlas. Desde el estadio Nemesio Diez, en Toluca, Estado de México. Disputado el 14 de marzo de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129220000 +0000" stop="20261129230000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Europa League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Champions League 2026-27. Disputado el 26 de noviembre de 2026, en el estadio Georgios Karaiskákis.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129230000 +0000" stop="20261130000000 +0000" channel="TUDN.us2">
+    <title lang="en">Liga MX en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la fecha 6 del Torneo Apertura 2026 de la Liga MX. Pachuca recibe a Guadalajara. Desde el Estadio Hidalgo, en Pachuca, Hidalgo. Disputado el 29 de agosto de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130010000 +0000" stop="20261130020000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Línea de cuatro</title>
+    <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130020000 +0000" stop="20261130023000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Fútbol central</title>
+    <desc lang="en">El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130060000 +0000" stop="20261130070000 +0000" channel="TUDN.us2">
+    <title lang="en">Liga MX en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la fecha 6 del Torneo Apertura 2026 de la Liga MX. Pachuca recibe a Guadalajara. Desde el Estadio Hidalgo, en Pachuca, Hidalgo. Disputado el 29 de agosto de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130080000 +0000" stop="20261130090000 +0000" channel="TUDN.us2">
+    <title lang="en">Liga MX en 60</title>
+    <desc lang="en">Los momentos más destacados de los cuartos de final, partido de vuelta de la Liga MX Clausura 2025. Cruz Azul recibe a León en el Estadio Olímpico Universitario. Disputado el 11 de mayo del 2025.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130090000 +0000" stop="20261130100000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Europa League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Europa League 2026-27. Disputado el 26 de noviembre de 2026, en el Selhurst Park Stadium.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130160000 +0000" stop="20261130170000 +0000" channel="TUDN.us2">
+    <title lang="en">Liga MX en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la jornada 11 del Torneo Clausura 2026 de la Liga MX. Toluca se enfrenta a Atlas. Desde el estadio Nemesio Diez, en Toluca, Estado de México. Disputado el 14 de marzo de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130170000 +0000" stop="20261130180000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Champions League 2026-27. Disputado el 25 de noviembre de 2026 en el Estadio Olímpico de Bakú.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130190000 +0000" stop="20261130200000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Europa League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Champions League 2026-27. Disputado el 26 de noviembre de 2026, en el estadio Georgios Karaiskákis.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130210000 +0000" stop="20261130220000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Europa League en 60</title>
+    <desc lang="en">Acción de la jornada 5 de la UEFA Europa League 2026-27. Disputado el 26 de noviembre de 2026, en el Selhurst Park Stadium.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261130220000 +0000" stop="20261130230000 +0000" channel="TUDN.us2">
+    <title lang="en">UEFA Champions League en 60</title>
+    <desc lang="en">Los momentos más destacados del partido de la fecha 5 de la UEFA Champions League 2026-27. Galatasaray se enfrenta a Aston Villa. Desde el RAMS Park, en Estambul. Disputado el 24 de noviembre de 2026.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201010000 +0000" stop="20261201020000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Línea de cuatro</title>
+    <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261201040000 +0000" stop="20261201050000 +0000" channel="TUDN.us2">
+    <title lang="en">Live: Línea de cuatro</title>
+    <desc lang="en">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <channel id="Vice.HD.us2">
+    <display-name>VICE TV</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Everybody Hates</title>
+    <desc lang="en">When fame and money aren't enough, Michael Vick turns to a dark chapter that reshapes his legacy and forces him to fight for a second chance.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Everybody Hates</title>
+    <desc lang="en">When fame and money aren't enough, Michael Vick turns to a dark chapter that reshapes his legacy and forces him to fight for a second chance.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127130000 +0000" stop="20261127140000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Brady vs. Belichick: The Verdict</title>
+    <desc lang="en">The case for Tom Brady is presented through five different arguments; Brady's intensity, football IQ, leadership, clutch performances and longevity.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261127170000 +0000" stop="20261127180000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Cage</title>
+    <desc lang="en">When UFC pioneer Evan Tanner is found dead of heat exposure alone in the California desert, the MMA world wonders what led to his passing.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Cage</title>
+    <desc lang="en">When UFC fighter Nick Diaz receives a five-year ban for marijuana use, people start to wonder: is the world against Nick Diaz, or is he his own worst enemy?</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127190000 +0000" stop="20261127200000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Cage</title>
+    <desc lang="en">One of MMA's most notorious figures, Jon "War Machine" Koppenhaver, commits a night of violence that earns him life in prison.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127210000 +0000" stop="20261127220000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Cage</title>
+    <desc lang="en">Dark clouds circle over PRIDE, a worldwide popular MMA promotion, when rival Yakuza gangs collide and shadowy secrets come out into the open.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Spartan Bare Knuckle</title>
+    <desc lang="en">Following several fighters in the buildup to the main summer event, Fight Fest, Spartan has turned into a form of community for men battling addiction and poor mental health.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Spartan Bare Knuckle</title>
+    <desc lang="en">Follow the combatants into battle at Fight Fest, the top event of the year.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128040000 +0000" stop="20261128050000 +0000" channel="Vice.HD.us2">
+    <title lang="en">The Ariel Helwani Show</title>
+    <desc lang="en">Speaking to UFC heavyweight star Josh Hokit and UFC welterweight title challenger Carlos Prates.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="Vice.HD.us2">
+    <title lang="en">BKB: Bare Knuckle Boxing</title>
+    <desc lang="en">Estevan Partida steps up against former title challenger Joshua Oxendine. Jarome Hatch looks for another KO of the Night against Dewitt Dixon. Rasheen Steele and Ricky Luckadoo debut.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Bare Knuckle Boxing</title>
+    <desc lang="en">LT Nelson looks to add the vacant BKB Middleweight Championship to his collection when he faces Robert Serna; top Super flyweights Shelby Cannon and Cecy Ulloa meet.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128070000 +0000" stop="20261128080000 +0000" channel="Vice.HD.us2">
+    <title lang="en">BKB: Bare Knuckle Boxing</title>
+    <desc lang="en">Nelson looks to become first two-division champion when he faces Barrie Jones in Jones' home country of Wales; UFC veteran Jack Marshman makes his debut.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128090000 +0000" channel="Vice.HD.us2">
+    <title lang="en">BKB: Bare Knuckle Boxing</title>
+    <desc lang="en">Estevan Partida steps up against former title challenger Joshua Oxendine. Jarome Hatch looks for another KO of the Night against Dewitt Dixon. Rasheen Steele and Ricky Luckadoo debut.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Bare Knuckle Boxing</title>
+    <desc lang="en">LT Nelson looks to add the vacant BKB Middleweight Championship to his collection when he faces Robert Serna; top Super flyweights Shelby Cannon and Cecy Ulloa meet.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="Vice.HD.us2">
+    <title lang="en">BKB: Bare Knuckle Boxing</title>
+    <desc lang="en">Nelson looks to become first two-division champion when he faces Barrie Jones in Jones' home country of Wales; UFC veteran Jack Marshman makes his debut.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128150000 +0000" stop="20261128160000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">Art collides with real life when the mythical love story between wrestling icons Randy Savage and Miss Elizabeth explodes beyond the ring with tragic consequences.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">The legacy of wrestling's biggest female star, The Fabulous Moolah, is re-examined after controversial allegations surface following her 2007 death.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">In one of wrestling's most infamous off-script moments, wrestler Bret Hart is stripped of his championship title through a backstage plot of betrayal that forever changes the sport.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">New revelations about wrestling star Gino Hernandez's death are revealed to his mother; his death was believed to be a drug-related murder.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128200000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">Wrestlers discuss the tragic evening in 1988 when they witnessed a locker room confrontation that resulted in the death of legendary wrestler Bruiser Brody.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128200000 +0000" stop="20261128210000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">The last surviving brother of the Von Erich wrestling dynasty revisits the tragedy that plagued his once iconic family.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128220000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">From prison guard to WWF star, Ray Traylor became the Big Boss Man, while behind the persona he battled pain and addiction.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261128230000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">Born into wrestling, Jeff Jarrett builds Total Nonstop Action Wrestling from scratch, battling the WWE through a decade of success and controversy.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129000000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">As Total Nonstop Action Wrestling grows, Jeff Jarrett faces internal chaos, power struggles, and scandal.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129000000 +0000" stop="20261129010000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">Exiled from the company he built, Jeff Jarrett battles alcoholism, enters rehab, and fights for redemption.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129020000 +0000" stop="20261129030000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Hells Angels: At War</title>
+    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129030000 +0000" stop="20261129040000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">In 2005, hardcore brawler Necro Butcher faced powerhouse Samoa Joe in a brutally savage match that became one of indie wrestling's most infamous.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129040000 +0000" stop="20261129050000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the Ring</title>
+    <desc lang="en">After losing his leg to cancer as a child, Zach Gowen chased wrestling stardom, rising in the WWE before a dramatic fall.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129210000 +0000" stop="20261129220000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Hells Angels: At War</title>
+    <desc lang="en">The Mongols wage war on all fronts, battling the Hells Angels, the Mexican Mafia and the law; but their biggest fight for survival is against an enemy within their own clubhouse.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130010000 +0000" stop="20261130030000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Ancient Aliens</title>
+    <desc lang="en">Strange evidence in cultures throughout history indicates aliens came to Earth on missions to explore, obtain raw materials, experiment on humans and conquer; Sumerian tablets describe an alien race; Egyptian hieroglyphs depict hybrid creatures.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130180000 +0000" stop="20261130190000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Dark Side of the 90s</title>
+    <desc lang="en">Hip-hop in the 1990s faces an uphill fight for airplay and recognition; when the media finally catches on, it tells a story that twists the narrative, sometimes with dangerous consequences.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261201050000 +0000" stop="20261201060000 +0000" channel="Vice.HD.us2">
+    <title lang="en">Hunting ISIS</title>
+    <desc lang="en">Unpaid and unsanctioned by their own government, a handful of American volunteers leave their homes and loved ones to join the fight against ISIS in Iraq and Syria.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Boomerang.us2">
+    <display-name>BOOMERANG</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127115000 +0000" stop="20261127120000 +0000" channel="Boomerang.us2">
+    <title lang="en">Looney Tunes</title>
+    <desc lang="en">Wile E. Coyote tries to use a spring-loaded boxing glove, an anvil and rocket-powered roller skates to catch the elusive Road Runner.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="Boomerang.us2">
+    <title lang="en">What's New Scooby-Doo?</title>
+    <desc lang="en">Fred engages in mortal combat with a gladiator; a volcano erupts.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127184500 +0000" stop="20261127190000 +0000" channel="Boomerang.us2">
+    <title lang="en">Clarence</title>
+    <desc lang="en">During the power outage, Sumo and his family hide in a bunker; Sumo and his dad fight over whether Sumo's pet badger should stay with them.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261127202000 +0000" stop="20261127203000 +0000" channel="Boomerang.us2">
+    <title lang="en">Looney Tunes</title>
+    <desc lang="en">Wile E. Coyote tries to use a spring-loaded boxing glove, an anvil and rocket-powered roller skates to catch the elusive Road Runner.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128003000 +0000" stop="20261128010000 +0000" channel="Boomerang.us2">
+    <title lang="en">What's New Scooby-Doo?</title>
+    <desc lang="en">Fred engages in mortal combat with a gladiator; a volcano erupts.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128031500 +0000" stop="20261128033000 +0000" channel="Boomerang.us2">
+    <title lang="en">Clarence</title>
+    <desc lang="en">During the power outage, Sumo and his family hide in a bunker; Sumo and his dad fight over whether Sumo's pet badger should stay with them.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130055000 +0000" stop="20261130060000 +0000" channel="Boomerang.us2">
+    <title lang="en">Looney Tunes</title>
+    <desc lang="en">Daffy Duck plays Cluck Trent by day and Stupor Duck by night to fight evil in a Superman parody.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130130000 +0000" stop="20261130131000 +0000" channel="Boomerang.us2">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">A simple snowball fight escalates into an all-out snow war when snowmen come to life.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130213000 +0000" stop="20261130214000 +0000" channel="Boomerang.us2">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">A simple snowball fight escalates into an all-out snow war when snowmen come to life.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Fuse.HD.us2">
+    <display-name>Fuse</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261127233000 +0000" stop="20261128000000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Life's Funniest Moments</title>
+    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Elvis: The Vegas Years</title>
+    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Life's Funniest Moments</title>
+    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129080000 +0000" stop="20261129090000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Elvis: The Vegas Years</title>
+    <desc lang="en">This documentary examines the complicated story of the King, from hometown glory to international stardom, where the price of fame is high.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129233000 +0000" stop="20261130010000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Stevie Nicks: Wild at Heart</title>
+    <desc lang="en">For decades, Stevie Nicks has fronted one of the most successful bands in history, resurrecting them from the ashes; even with the trials and tribulations of being a member of Fleetwood Mac, Stevie has remained a role model.</desc>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20261130063000 +0000" stop="20261130070000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Life's Funniest Moments</title>
+    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130223000 +0000" stop="20261130230000 +0000" channel="Fuse.HD.us2">
+    <title lang="en">Life's Funniest Moments</title>
+    <desc lang="en">A wedding couple flies off a boat; a girl picks up wedding petals; a wedding cake turns into food fight; a bride slips on entrance; parking garage skiing; a squirrel hits glass.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="Newsmax.TV.HD.us2">
+    <display-name>Newsmax TV</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261128110000 +0000" stop="20261128113000 +0000" channel="Newsmax.TV.HD.us2">
+    <title lang="en">Road Rage Raw</title>
+    <desc lang="en">Tempers ignite behind the wheel as aggressive drivers, heated confrontations and dangerous choices create chaos on streets and highways.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128200000 +0000" channel="Newsmax.TV.HD.us2">
+    <title lang="en">Live: Saturday Agenda</title>
+    <desc lang="en">Rob Astorino reveals Washington's inner workings and the fight for core values.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129073000 +0000" stop="20261129080000 +0000" channel="Newsmax.TV.HD.us2">
+    <title lang="en">Road Rage Raw</title>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261129170000 +0000" stop="20261129190000 +0000" channel="Newsmax.TV.HD.us2">
+    <title lang="en">Live: Sunday Agenda</title>
+    <desc lang="en">Lidia Curanaj reveals Washington's inner workings and the fight for core values.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130010000 +0000" stop="20261130013000 +0000" channel="Newsmax.TV.HD.us2">
+    <title lang="en">Road Rage Raw</title>
+    <desc lang="en">Drivers reach their breaking points in a collection of extreme road rage incidents where frustration turns into frightening confrontations.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="truTV.HD.us2">
+    <display-name>truTV</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261128100000 +0000" stop="20261128110000 +0000" channel="truTV.HD.us2">
+    <title lang="en">World's Dumbest ...</title>
+    <desc lang="en">Dumb competitions include unicycle football, geriatric scooter races, bra unfastening and flatulence; celebrity commentators include Danny Bonaduce, Todd Bridges, Tonya Harding and Leif Garrett.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="truTV.HD.us2">
+    <title lang="en">Live: Big 12 Football Pregame</title>
+    <desc lang="en">Champ Bailey, Takeo Spikes, Victor Cruz and Adam Lefkoe preview the Big 12 football game of the week.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128223000 +0000" channel="truTV.HD.us2">
+    <title lang="en">Live: College Football</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128223000 +0000" stop="20261128230000 +0000" channel="truTV.HD.us2">
+    <title lang="en">Live: Big 12 Football Postgame</title>
+    <desc lang="en">Champ Bailey, Takeo Spikes, Victor Cruz and Adam Lefkoe wrap up the night in the Big 12.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129163000 +0000" stop="20261129184500 +0000" channel="truTV.HD.us2">
+    <title lang="en">Kong: Skull Island</title>
+    <desc lang="en">Scientists, soldiers and adventurers unite to explore a mythical, uncharted island in the Pacific Ocean. Cut off from everything they know, they venture into the domain of the mighty Kong, igniting the ultimate battle between man and nature. As their mission of discovery soon becomes one of survival, they must fight to escape from a primal world where humanity does not belong.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130030000 +0000" stop="20261130053000 +0000" channel="truTV.HD.us2">
+    <title lang="en">Kong: Skull Island</title>
+    <desc lang="en">Scientists, soldiers and adventurers unite to explore a mythical, uncharted island in the Pacific Ocean. Cut off from everything they know, they venture into the domain of the mighty Kong, igniting the ultimate battle between man and nature. As their mission of discovery soon becomes one of survival, they must fight to escape from a primal world where humanity does not belong.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261201000000 +0000" stop="20261201023000 +0000" channel="truTV.HD.us2">
+    <title lang="en">Glory Road</title>
+    <desc lang="en">After being appointed the new coach of the 1966 Texas Miners, Don Haskins (Josh Lucas) decides to build a team based on talent rather than race. The conservative townsfolk balk at the new racially diverse lineup despite the fact that the team is winning all their games. When black players like Bobby Joe Hill (Derek Luke) and team captain Harry Flournoy (Mehcad Brooks) begin to dominate the court with flashy moves, the racial tension increases, jeopardizing the future of the team.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261201023000 +0000" stop="20261201050000 +0000" channel="truTV.HD.us2">
+    <title lang="en">Glory Road</title>
+    <desc lang="en">After being appointed the new coach of the 1966 Texas Miners, Don Haskins (Josh Lucas) decides to build a team based on talent rather than race. The conservative townsfolk balk at the new racially diverse lineup despite the fact that the team is winning all their games. When black players like Bobby Joe Hill (Derek Luke) and team captain Harry Flournoy (Mehcad Brooks) begin to dominate the court with flashy moves, the racial tension increases, jeopardizing the future of the team.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <channel id="truTV.HD.(Pacific).us2">
+    <display-name>truTV West</display-name>
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+  </channel>
+  <programme start="20261128130000 +0000" stop="20261128140000 +0000" channel="truTV.HD.(Pacific).us2">
+    <title lang="en">World's Dumbest ...</title>
+    <desc lang="en">Dumb competitions include unicycle football, geriatric scooter races, bra unfastening and flatulence; celebrity commentators include Danny Bonaduce, Todd Bridges, Tonya Harding and Leif Garrett.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128183000 +0000" stop="20261128190000 +0000" channel="truTV.HD.(Pacific).us2">
+    <title lang="en">Live: Big 12 Football Pregame</title>
+    <desc lang="en">Champ Bailey, Takeo Spikes, Victor Cruz and Adam Lefkoe preview the Big 12 football game of the week.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128190000 +0000" stop="20261128223000 +0000" channel="truTV.HD.(Pacific).us2">
+    <title lang="en">Live: College Football</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261128223000 +0000" stop="20261128230000 +0000" channel="truTV.HD.(Pacific).us2">
+    <title lang="en">Live: Big 12 Football Postgame</title>
+    <desc lang="en">Champ Bailey, Takeo Spikes, Victor Cruz and Adam Lefkoe wrap up the night in the Big 12.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261129193000 +0000" stop="20261129214500 +0000" channel="truTV.HD.(Pacific).us2">
+    <title lang="en">Kong: Skull Island</title>
+    <desc lang="en">Scientists, soldiers and adventurers unite to explore a mythical, uncharted island in the Pacific Ocean. Cut off from everything they know, they venture into the domain of the mighty Kong, igniting the ultimate battle between man and nature. As their mission of discovery soon becomes one of survival, they must fight to escape from a primal world where humanity does not belong.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261130060000 +0000" stop="20261130083000 +0000" channel="truTV.HD.(Pacific).us2">
+    <title lang="en">Kong: Skull Island</title>
+    <desc lang="en">Scientists, soldiers and adventurers unite to explore a mythical, uncharted island in the Pacific Ocean. Cut off from everything they know, they venture into the domain of the mighty Kong, igniting the ultimate battle between man and nature. As their mission of discovery soon becomes one of survival, they must fight to escape from a primal world where humanity does not belong.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261201030000 +0000" stop="20261201053000 +0000" channel="truTV.HD.(Pacific).us2">
+    <title lang="en">Glory Road</title>
+    <desc lang="en">After being appointed the new coach of the 1966 Texas Miners, Don Haskins (Josh Lucas) decides to build a team based on talent rather than race. The conservative townsfolk balk at the new racially diverse lineup despite the fact that the team is winning all their games. When black players like Bobby Joe Hill (Derek Luke) and team captain Harry Flournoy (Mehcad Brooks) begin to dominate the court with flashy moves, the racial tension increases, jeopardizing the future of the team.</desc>
+    <category lang="en">Combat Sports</category>
+  </programme>
+  <programme start="20261201053000 +0000" stop="20261201080000 +0000" channel="truTV.HD.(Pacific).us2">
+    <title lang="en">Glory Road</title>
+    <desc lang="en">After being appointed the new coach of the 1966 Texas Miners, Don Haskins (Josh Lucas) decides to build a team based on talent rather than race. The conservative townsfolk balk at the new racially diverse lineup despite the fact that the team is winning all their games. When black players like Bobby Joe Hill (Derek Luke) and team captain Harry Flournoy (Mehcad Brooks) begin to dominate the court with flashy moves, the racial tension increases, jeopardizing the future of the team.</desc>
+    <category lang="en">Combat Sports</category>
   </programme>
 </tv>

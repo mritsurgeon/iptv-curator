@@ -1,3 +1,39 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Combat Sports
 
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",NBC Sports Philadelphia
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Boxing",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX HD" tvg-logo="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",FX HD
+http://89.187.179.148:826/1368/gXwiagaXda/1364
+
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - MMA",VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="BOOMERANG" tvg-logo="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports",BOOMERANG
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",Fuse
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV" tvg-logo="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",truTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",truTV West
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+

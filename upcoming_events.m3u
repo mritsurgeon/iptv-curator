@@ -1,96 +1,546 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Upcoming 48h Sports Events (Confirmed EPG)
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-27 15:00 SAST: Live Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-27 15:00 SAST: Live Qatar F1 GP: Practice 1
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | 2026-11-27 17:00 SAST: Live: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Davis Cup",Tennis Channel | 2026-11-27 17:00 SAST: Live: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-27 17:40 SAST: Team Principals' Press Conference" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-27 17:40 SAST: Team Principals' Press Conference
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-28 01:30 SAST: Live: USAC Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-28 01:30 SAST: Live: USAC Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-27 18:15 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-27 18:15 SAST: Weekend Wrapped
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-27 18:45 SAST: Live Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-27 18:45 SAST: Live Qatar F1 GP: Practice 2
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 02:00 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 02:00 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-27 21:15 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-27 21:15 SAST: Weekend Wrapped
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="BOOMERANG | 2026-11-28 02:30 SAST: What's New Scooby-Doo?" tvg-logo="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",BOOMERANG | 2026-11-28 02:30 SAST: What's New Scooby-Doo?
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-27 21:45 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-27 21:45 SAST: Simon & Naomi with Liam Lawson
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 03:00 SAST: Live: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Major League Soccer",FOX SPORTS 1 | 2026-11-28 03:00 SAST: Live: MLS Soccer
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-27 23:00 SAST: Weekend Wrapped" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-27 23:00 SAST: Weekend Wrapped
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX HD | 2026-11-28 04:30 SAST: Black Panther: Wakanda Forever" tvg-logo="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",FX HD | 2026-11-28 04:30 SAST: Black Panther: Wakanda Forever
+http://89.187.179.148:826/1368/gXwiagaXda/1364
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-27 23:30 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-27 23:30 SAST: Qatar F1 GP: Practice 2
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 05:00 SAST: Live: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Major League Soccer",FOX SPORTS 1 | 2026-11-28 05:00 SAST: Live: MLS Soccer
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 01:45 SAST: Qatar F1 GP: Practice 1
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | 2026-11-28 05:00 SAST: Live: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Davis Cup",Tennis Channel | 2026-11-28 05:00 SAST: Live: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 03:00 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 03:00 SAST: Qatar F1 GP: Practice 2
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 05:15 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 05:15 SAST: Simon & Naomi with Liam Lawson
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 05:15 SAST: Simon & Naomi with Liam Lawson" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 05:15 SAST: Simon & Naomi with Liam Lawson
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="BOOMERANG | 2026-11-28 05:15 SAST: Clarence" tvg-logo="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",BOOMERANG | 2026-11-28 05:15 SAST: Clarence
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 05:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 05:35 SAST: The Best of Hungary 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 05:30 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 05:30 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 06:00 SAST: The Best of Australia 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 06:00 SAST: The Best of Australia 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 05:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 05:35 SAST: The Best of Hungary 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 06:25 SAST: The Best of China 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 06:25 SAST: The Best of China 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-28 06:00 SAST: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-28 06:00 SAST: Birds Huddle
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 07:00 SAST: The Best of Japan 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 07:00 SAST: The Best of Japan 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 06:00 SAST: The Best of Australia 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 06:00 SAST: The Best of Australia 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 07:15 SAST: The Best of Miami 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 07:15 SAST: The Best of Miami 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 06:00 SAST: The Ariel Helwani Show" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - UFC",VICE TV | 2026-11-28 06:00 SAST: The Ariel Helwani Show
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 09:00 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 09:00 SAST: Qatar F1 GP: Practice 2
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 06:25 SAST: The Best of China 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 06:25 SAST: The Best of China 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 12:15 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 12:15 SAST: Kimi Antonelli - World Champion
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 06:30 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 06:30 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 12:45 SAST: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 12:45 SAST: Qatar F1 GP: Practice 1
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-28 06:30 SAST: Pro Football Weekly" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-28 06:30 SAST: Pro Football Weekly
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 14:00 SAST: Qatar F1 GP: Practice 2" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 14:00 SAST: Qatar F1 GP: Practice 2
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-28 06:30 SAST: Auto Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-28 06:30 SAST: Auto Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-28 16:15 SAST: Live Qatar F1 GP: Practice 3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-28 16:15 SAST: Live Qatar F1 GP: Practice 3
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 07:00 SAST: The Best of Japan 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 07:00 SAST: The Best of Japan 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 02:05 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 02:05 SAST: Kimi Antonelli - World Champion
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 07:00 SAST: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 07:00 SAST: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 02:15 SAST: Qatar F1 GP: Practice 3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 02:15 SAST: Qatar F1 GP: Practice 3
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 07:15 SAST: The Best of Miami 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 07:15 SAST: The Best of Miami 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 05:30 SAST: The Best of Monaco 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 05:30 SAST: The Best of Monaco 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 07:30 SAST: Women's International Friendly Football" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 07:30 SAST: Women's International Friendly Football
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 06:00 SAST: The Best of Barcelona 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 06:00 SAST: The Best of Barcelona 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 08:00 SAST: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 08:00 SAST: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 06:30 SAST: The Best of Austria 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 06:30 SAST: The Best of Austria 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 08:30 SAST: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Major League Soccer",FOX SPORTS 1 | 2026-11-28 08:30 SAST: MLS Soccer
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 07:00 SAST: The Best of Britain 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 07:00 SAST: The Best of Britain 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 09:00 SAST: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - UFC",VICE TV | 2026-11-28 09:00 SAST: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 07:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 07:35 SAST: The Best of Hungary 2026
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 09:30 SAST: Inside Serie A" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Serie A",CBS Sports Golazo Network | 2026-11-28 09:30 SAST: Inside Serie A
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 08:30 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 08:30 SAST: Kimi Antonelli - World Champion
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 10:00 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 10:00 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 09:00 SAST: Qatar F1 GP: Practice 3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 09:00 SAST: Qatar F1 GP: Practice 3
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-28 10:00 SAST: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-28 10:00 SAST: Birds Huddle
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 | 2026-11-29 15:50 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY SPORTS F1 | 2026-11-29 15:50 SAST: Kimi Antonelli - World Champion
-https://s7.iptv-24.net/blocked/index.m3u8
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 10:00 SAST: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 10:00 SAST: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 11:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 11:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 11:00 SAST: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-28 11:00 SAST: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 12:00 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 12:00 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 12:00 SAST: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - UFC",VICE TV | 2026-11-28 12:00 SAST: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV | 2026-11-28 12:00 SAST: World's Dumbest ..." tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",truTV | 2026-11-28 12:00 SAST: World's Dumbest ...
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 12:15 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 12:15 SAST: Kimi Antonelli - World Champion
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 12:45 SAST: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 12:45 SAST: Qatar F1 GP: Practice 1
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-28 12:47 SAST: Legends of Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-28 12:47 SAST: Legends of Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 13:00 SAST: Inside Serie A" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Serie A",CBS Sports Golazo Network | 2026-11-28 13:00 SAST: Inside Serie A
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 13:00 SAST: The Joel Klatt Show: A College Football Podcast" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-28 13:00 SAST: The Joel Klatt Show: A College Football Podcast
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | 2026-11-28 13:00 SAST: Live: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Davis Cup",Tennis Channel | 2026-11-28 13:00 SAST: Live: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV | 2026-11-28 13:00 SAST: Road Rage Raw" tvg-logo="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",Newsmax TV | 2026-11-28 13:00 SAST: Road Rage Raw
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 13:30 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 13:30 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 13:30 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-28 13:30 SAST: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-28 14:00 SAST: Línea de cuatro" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-28 14:00 SAST: Línea de cuatro
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 14:30 SAST: The Team: Michigan Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-28 14:30 SAST: The Team: Michigan Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West | 2026-11-28 15:00 SAST: World's Dumbest ..." tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",truTV West | 2026-11-28 15:00 SAST: World's Dumbest ...
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 15:55 SAST: Live: MotoGP Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - MotoGP",FOX SPORTS 1 | 2026-11-28 15:55 SAST: Live: MotoGP Racing
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-28 16:00 SAST: Live: College GameDay" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-28 16:00 SAST: Live: College GameDay
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-28 16:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-28 16:00 SAST: UEFA Champions League en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-28 16:15 SAST: Live Qatar F1 GP: Practice 3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-28 16:15 SAST: Live Qatar F1 GP: Practice 3
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 16:30 SAST: CBS Sports Golazo Matchday" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 16:30 SAST: CBS Sports Golazo Matchday
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-28 16:30 SAST: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-28 16:30 SAST: Birds Huddle
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV | 2026-11-28 16:30 SAST: Ridiculousness" tvg-logo="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - UFC",MTV | 2026-11-28 16:30 SAST: Ridiculousness
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 17:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-28 17:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 17:30 SAST: MotoGP Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - MotoGP",FOX SPORTS 1 | 2026-11-28 17:30 SAST: MotoGP Racing
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 18:00 SAST: Live: Big Noon Kickoff" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-28 18:00 SAST: Live: Big Noon Kickoff
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-28 18:00 SAST: Misión Europa" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-28 18:00 SAST: Misión Europa
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 18:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-28 18:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse | 2026-11-28 18:00 SAST: Elvis: The Vegas Years" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - GLORY Kickboxing",Fuse | 2026-11-28 18:00 SAST: Elvis: The Vegas Years
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-28 19:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-28 19:00 SAST: Live: College Football
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 19:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-28 19:00 SAST: Live: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | 2026-11-28 19:00 SAST: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Davis Cup",Tennis Channel | 2026-11-28 19:00 SAST: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet | 2026-11-28 19:00 SAST: WWE Rivals" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",Comet | 2026-11-28 19:00 SAST: WWE Rivals
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-28 19:00 SAST: UEFA Europa League en 50" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Europa League",TUDN 🇲🇽 | 2026-11-28 19:00 SAST: UEFA Europa League en 50
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 19:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-28 19:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 19:30 SAST: CBS Sports Golazo Matchday" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 19:30 SAST: CBS Sports Golazo Matchday
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet | 2026-11-28 20:00 SAST: WWE Rivals" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",Comet | 2026-11-28 20:00 SAST: WWE Rivals
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 20:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-28 20:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV | 2026-11-28 20:00 SAST: Live: Saturday Agenda" tvg-logo="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Newsmax TV | 2026-11-28 20:00 SAST: Live: Saturday Agenda
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse | 2026-11-28 20:30 SAST: Life's Funniest Moments" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Fuse | 2026-11-28 20:30 SAST: Life's Funniest Moments
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV | 2026-11-28 20:30 SAST: Live: Big 12 Football Pregame" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",truTV | 2026-11-28 20:30 SAST: Live: Big 12 Football Pregame
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West | 2026-11-28 20:30 SAST: Live: Big 12 Football Pregame" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",truTV West | 2026-11-28 20:30 SAST: Live: Big 12 Football Pregame
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-28 20:47 SAST: Legends of Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-28 20:47 SAST: Legends of Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet | 2026-11-28 21:00 SAST: WWE Rivals" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",Comet | 2026-11-28 21:00 SAST: WWE Rivals
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 21:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-28 21:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV | 2026-11-28 21:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",truTV | 2026-11-28 21:00 SAST: Live: College Football
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West | 2026-11-28 21:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",truTV West | 2026-11-28 21:00 SAST: Live: College Football
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-28 22:00 SAST: CBS Sports Golazo Matchday" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-28 22:00 SAST: CBS Sports Golazo Matchday
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-28 22:00 SAST: Live: College Football Scoreboard" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-28 22:00 SAST: Live: College Football Scoreboard
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet | 2026-11-28 22:00 SAST: WWE Rivals" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",Comet | 2026-11-28 22:00 SAST: WWE Rivals
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-28 22:00 SAST: Live: Fútbol central" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-28 22:00 SAST: Live: Fútbol central
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 22:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-28 22:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-28 22:30 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-28 22:30 SAST: Live: College Football
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-28 22:30 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-28 22:30 SAST: Live: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-28 23:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-28 23:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-28 23:06 SAST: Eldora Speedway Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-28 23:06 SAST: Eldora Speedway Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet | 2026-11-29 00:00 SAST: WWE Rivals" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",Comet | 2026-11-29 00:00 SAST: WWE Rivals
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-29 00:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-29 00:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 00:11 SAST: Auto Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 00:11 SAST: Auto Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV | 2026-11-29 00:30 SAST: Live: Big 12 Football Postgame" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",truTV | 2026-11-29 00:30 SAST: Live: Big 12 Football Postgame
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West | 2026-11-29 00:30 SAST: Live: Big 12 Football Postgame" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",truTV West | 2026-11-29 00:30 SAST: Live: Big 12 Football Postgame
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-29 01:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-29 01:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 01:30 SAST: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 01:30 SAST: CBS Sports Golazo Matchnight
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-29 01:30 SAST: Live: College Football Scoreboard" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-29 01:30 SAST: Live: College Football Scoreboard
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | 2026-11-29 01:30 SAST: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football - General",NBC Sports Philadelphia | 2026-11-29 01:30 SAST: Birds Huddle
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 02:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 02:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-29 02:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-29 02:00 SAST: Live: College Football
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-29 02:00 SAST: Live: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-29 02:00 SAST: Live: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 02:00 SAST: Live: Fútbol central" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-29 02:00 SAST: Live: Fútbol central
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-29 02:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-29 02:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 02:05 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 02:05 SAST: Kimi Antonelli - World Champion
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 02:15 SAST: Qatar F1 GP: Practice 3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 02:15 SAST: Qatar F1 GP: Practice 3
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 03:00 SAST: Live: Liga MX Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 03:00 SAST: Live: Liga MX Soccer
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 03:15 SAST: High Limit Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 03:15 SAST: High Limit Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-29 04:00 SAST: Hells Angels: At War" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-29 04:00 SAST: Hells Angels: At War
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 04:01 SAST: Auto Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 04:01 SAST: Auto Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 05:00 SAST: Live: Liga MX Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 05:00 SAST: Live: Liga MX Soccer
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-29 05:00 SAST: Live: College Football Scoreboard" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-29 05:00 SAST: Live: College Football Scoreboard
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-29 05:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-29 05:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-29 05:30 SAST: Live: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Major League Soccer",FOX SPORTS 1 | 2026-11-29 05:30 SAST: Live: MLS Soccer
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 05:30 SAST: The Best of Monaco 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 05:30 SAST: The Best of Monaco 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 05:30 SAST: Live: Línea de cuatro" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-29 05:30 SAST: Live: Línea de cuatro
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 06:00 SAST: The Best of Barcelona 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 06:00 SAST: The Best of Barcelona 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 06:00 SAST: Live: Línea de cuatro" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-29 06:00 SAST: Live: Línea de cuatro
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-29 06:00 SAST: Dark Side of the Ring" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - The Ring",VICE TV | 2026-11-29 06:00 SAST: Dark Side of the Ring
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 06:30 SAST: The Best of Austria 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 06:30 SAST: The Best of Austria 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 07:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 07:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 07:00 SAST: The Best of Britain 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 07:00 SAST: The Best of Britain 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | 2026-11-29 07:00 SAST: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Davis Cup",Tennis Channel | 2026-11-29 07:00 SAST: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 07:00 SAST: Live: Línea de cuatro" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - General",TUDN 🇲🇽 | 2026-11-29 07:00 SAST: Live: Línea de cuatro
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 07:06 SAST: Eldora Speedway Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 07:06 SAST: Eldora Speedway Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 07:35 SAST: The Best of Hungary 2026" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 07:35 SAST: The Best of Hungary 2026
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-29 08:00 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-29 08:00 SAST: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet | 2026-11-29 08:00 SAST: Xena: Warrior Princess" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Comet | 2026-11-29 08:00 SAST: Xena: Warrior Princess
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 08:11 SAST: Auto Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 08:11 SAST: Auto Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 08:30 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 08:30 SAST: Kimi Antonelli - World Champion
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 09:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 09:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 09:00 SAST: Qatar F1 GP: Practice 3" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 09:00 SAST: Qatar F1 GP: Practice 3
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV | 2026-11-29 09:30 SAST: Road Rage Raw" tvg-logo="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",Newsmax TV | 2026-11-29 09:30 SAST: Road Rage Raw
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-29 10:00 SAST: College Football Final" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-29 10:00 SAST: College Football Final
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV | 2026-11-29 10:00 SAST: Ridiculousness" tvg-logo="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - WWE",MTV | 2026-11-29 10:00 SAST: Ridiculousness
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 10:00 SAST: Liga MX en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - La Liga",TUDN 🇲🇽 | 2026-11-29 10:00 SAST: Liga MX en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse | 2026-11-29 10:00 SAST: Elvis: The Vegas Years" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - GLORY Kickboxing",Fuse | 2026-11-29 10:00 SAST: Elvis: The Vegas Years
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 11:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 11:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-29 11:00 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-29 11:00 SAST: College Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 11:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-29 11:00 SAST: UEFA Champions League en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 11:15 SAST: High Limit Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 11:15 SAST: High Limit Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-29 11:30 SAST: College Football" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-29 11:30 SAST: College Football
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 12:01 SAST: Auto Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 12:01 SAST: Auto Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 13:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 13:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | 2026-11-29 13:00 SAST: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Davis Cup",Tennis Channel | 2026-11-29 13:00 SAST: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-29 14:00 SAST: MotoGP Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - MotoGP",FOX SPORTS 1 | 2026-11-29 14:00 SAST: MotoGP Racing
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-29 14:30 SAST: Live: MotoGP Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - MotoGP",FOX SPORTS 1 | 2026-11-29 14:30 SAST: Live: MotoGP Racing
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 15:06 SAST: Eldora Speedway Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 15:06 SAST: Eldora Speedway Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | 2026-11-29 15:50 SAST: Kimi Antonelli - World Champion" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="Motorsport - Formula 1",SKY Sports F1 HD | 2026-11-29 15:50 SAST: Kimi Antonelli - World Champion
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-29 16:00 SAST: The Team: Michigan Football" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",FOX SPORTS 1 | 2026-11-29 16:00 SAST: The Team: Michigan Football
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | 2026-11-29 16:00 SAST: Live: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Davis Cup",Tennis Channel | 2026-11-29 16:00 SAST: Live: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 16:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-29 16:00 SAST: UEFA Champions League en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 16:11 SAST: Auto Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 16:11 SAST: Auto Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 16:30 SAST: Inside Serie A" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Serie A",CBS Sports Golazo Network | 2026-11-29 16:30 SAST: Inside Serie A
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 17:00 SAST: Live: Scottish Premier League Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - English Premier League",CBS Sports Golazo Network | 2026-11-29 17:00 SAST: Live: Scottish Premier League Soccer
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN | 2026-11-29 17:00 SAST: Live: Sunday NFL Countdown" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football - General",ESPN | 2026-11-29 17:00 SAST: Live: Sunday NFL Countdown
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 17:00 SAST: UCL Magazine" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-29 17:00 SAST: UCL Magazine
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 17:30 SAST: UEFA Europa League en 30" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Europa League",TUDN 🇲🇽 | 2026-11-29 17:30 SAST: UEFA Europa League en 30
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 18:00 SAST: UEFA Europa League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-29 18:00 SAST: UEFA Europa League en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-29 18:30 SAST: Live: Horse Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FOX SPORTS 1 | 2026-11-29 18:30 SAST: Live: Horse Racing
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV | 2026-11-29 18:30 SAST: Kong: Skull Island" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",truTV | 2026-11-29 18:30 SAST: Kong: Skull Island
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 19:00 SAST: Live: Italian Serie A Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Serie A",CBS Sports Golazo Network | 2026-11-29 19:00 SAST: Live: Italian Serie A Soccer
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV | 2026-11-29 19:00 SAST: Live: Sunday Agenda" tvg-logo="http://dtil.tmsimg.com/assets/s97163_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Newsmax TV | 2026-11-29 19:00 SAST: Live: Sunday Agenda
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 19:15 SAST: High Limit Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 19:15 SAST: High Limit Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 20:01 SAST: Auto Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 20:01 SAST: Auto Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 21:00 SAST: CBS Sports Golazo Matchday" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-29 21:00 SAST: CBS Sports Golazo Matchday
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 21:00 SAST: UEFA Champions League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-29 21:00 SAST: UEFA Champions League en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West | 2026-11-29 21:30 SAST: Kong: Skull Island" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",truTV West | 2026-11-29 21:30 SAST: Kong: Skull Island
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-29 21:45 SAST: Live: Serie A Football" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Serie A",CBS Sports Golazo Network | 2026-11-29 21:45 SAST: Live: Serie A Football
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | 2026-11-29 22:00 SAST: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Davis Cup",Tennis Channel | 2026-11-29 22:00 SAST: 2026 Davis Cup Tennis
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-29 23:00 SAST: Liga MX en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - La Liga",TUDN 🇲🇽 | 2026-11-29 23:00 SAST: Liga MX en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | 2026-11-29 23:00 SAST: Hells Angels: At War" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",VICE TV | 2026-11-29 23:00 SAST: Hells Angels: At War
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-29 23:06 SAST: Five Flags Speedway Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-29 23:06 SAST: Five Flags Speedway Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-30 00:00 SAST: CBS Sports Golazo Matchday" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-30 00:00 SAST: CBS Sports Golazo Matchday
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-30 00:00 SAST: UEFA Europa League en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - UEFA Champions League",TUDN 🇲🇽 | 2026-11-30 00:00 SAST: UEFA Europa League en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-30 01:00 SAST: Scoreline: Soccer Highlights & Analysis" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-30 01:00 SAST: Scoreline: Soccer Highlights & Analysis
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-30 01:00 SAST: MotoGP Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - MotoGP",FOX SPORTS 1 | 2026-11-30 01:00 SAST: MotoGP Racing
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="TUDN 🇲🇽 | 2026-11-30 01:00 SAST: Liga MX en 60" tvg-logo="http://dtil.tmsimg.com/assets/s75176_ll_h15_ae.png?w=360&h=270" tvg-language="English" group-title="Football - La Liga",TUDN 🇲🇽 | 2026-11-30 01:00 SAST: Liga MX en 60
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 2026-11-30 01:30 SAST: MotoGP Racing" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Motorsport - MotoGP",FOX SPORTS 1 | 2026-11-30 01:30 SAST: MotoGP Racing
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse | 2026-11-30 01:30 SAST: Stevie Nicks: Wild at Heart" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Cricket - The Ashes",Fuse | 2026-11-30 01:30 SAST: Stevie Nicks: Wild at Heart
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | 2026-11-30 02:00 SAST: CBS Sports Golazo Matchday" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - General",CBS Sports Golazo Network | 2026-11-30 02:00 SAST: CBS Sports Golazo Matchday
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet | 2026-11-30 02:00 SAST: Grimm" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - General",Comet | 2026-11-30 02:00 SAST: Grimm
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | 2026-11-30 02:04 SAST: Auto Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - General",FloRacing 24/7 | 2026-11-30 02:04 SAST: Auto Racing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
