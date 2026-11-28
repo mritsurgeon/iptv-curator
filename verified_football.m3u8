@@ -1,8 +1,11 @@
 #EXTM3U url-tvg="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml" x-tvg-url="https://gist.githubusercontent.com/mritsurgeon/d6f9d772966e4ead4aac90331c6a6d9c/raw/sports_epg.xml"
 #PLAYLIST:Football
 
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="Football - Continental club competitions",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League HD 50 UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - Domestic leagues and cups",Sky Sports Premier League HD 50 UK
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/9334/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="Football - Domestic leagues and cups",Sky Sports Premier League HD UK
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/7335/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Football",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
@@ -22,9 +25,105 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football",VICE TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
+#EXTINF:-1 tvg-id="BBC.ALBA.HD.uk" tvg-name="BBC Alba UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3021.png" tvg-language="English" group-title="Football - Domestic leagues and cups",BBC Alba UK
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19179/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Football - Domestic leagues and cups",ITV1 UK
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19185/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV Pirmā! HD LV" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Football - Domestic leagues and cups",STV Pirmā! HD LV
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/6407/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="SVT Barn/STV24 HD SE" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Football - Domestic leagues and cups",SVT Barn/STV24 HD SE
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/12064/index.m3u8
+
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football",truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Football",truTV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Football.HD.uk" tvg-name="Sky Sports Football HD 50 UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" tvg-language="English" group-title="Football - Domestic leagues and cups",Sky Sports Football HD 50 UK
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/9289/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Football.HD.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-icon-uk.png" tvg-language="English" group-title="Football - Domestic leagues and cups",Sky Sports Football HD UK
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/7336/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.za" tvg-name="NICK JR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NJR.png" tvg-language="English + Other" group-title="Football",NICK JR
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/114/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="LSTV HD | TH Lạng Sơn" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Football - Domestic leagues and cups",LSTV HD | TH Lạng Sơn
+https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV HD | TH Sơn La" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Football - Domestic leagues and cups",STV HD | TH Sơn La
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2 HD US" tvg-language="English" group-title="Football - International tournaments",Fox Sports 2 HD US
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/7323/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="NICK TOONS" tvg-logo="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&h=270" tvg-language="English + Other" group-title="Football",NICK TOONS
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/849/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN F1 ES" group-title="Football - International tournaments",DAZN F1 ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/6071/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD ES" group-title="Football - International tournaments",DAZN LaLiga 2 HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31855/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN LaLiga HD ES" group-title="Football - International tournaments",DAZN LaLiga HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31856/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports 1 HD FR" group-title="Football - International tournaments",beIN Sports 1 HD FR
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2499/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports 6 HD QA" group-title="Football - International tournaments",beIN Sports 6 HD QA
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/6127/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports 7 HD QA" group-title="Football - International tournaments",beIN Sports 7 HD QA
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/6128/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports Haber HD TR" group-title="Football - International tournaments",beIN Sports Haber HD TR
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19064/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 Bar HD ES" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 1 Bar HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31831/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 HD DE" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 1 HD DE
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19042/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 PT" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 1 PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31954/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 Bar HD ES" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 2 Bar HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31832/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 HD DE" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 2 HD DE
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19043/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 HD PT" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 2 HD PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31955/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 3 Bar HD ES" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 3 Bar HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31861/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 3 HD PT" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 3 HD PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31956/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 4 Bar HD ES" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 4 Bar HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31862/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 4 HD PT" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 4 HD PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2534/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 5 HD PT" tvg-language="Other Language" group-title="Football - International tournaments",DAZN 5 HD PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2535/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports 2 HD FR" tvg-language="Other Language" group-title="Football - International tournaments",beIN Sports 2 HD FR
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2500/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports 3 HD FR" tvg-language="Other Language" group-title="Football - International tournaments",beIN Sports 3 HD FR
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2501/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports Max 1 FHD TR" tvg-language="Other Language" group-title="Football - International tournaments",beIN Sports Max 1 FHD TR
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19062/index.m3u8
 

@@ -13,3 +13,24 @@ http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
 #EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",FloRacing 24/7
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" tvg-language="English" group-title="Motorsport",ITV1 UK
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19185/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV Pirmā! HD LV" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Motorsport",STV Pirmā! HD LV
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/6407/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="SVT Barn/STV24 HD SE" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Motorsport",SVT Barn/STV24 HD SE
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/12064/index.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="LSTV HD | TH Lạng Sơn" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Motorsport",LSTV HD | TH Lạng Sơn
+https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="STV.HD.uk" tvg-name="STV HD | TH Sơn La" tvg-logo="https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png" tvg-language="English" group-title="Motorsport",STV HD | TH Sơn La
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2 HD US" tvg-language="English" group-title="Motorsport - Open Wheel & Endurance",Fox Sports 2 HD US
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/7323/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN F1 ES" group-title="Motorsport - Open Wheel & Endurance",DAZN F1 ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/6071/index.m3u8
+

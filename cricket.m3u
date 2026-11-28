@@ -4,3 +4,6 @@
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Cricket - Bilateral test series",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
+#EXTINF:-1 tvg-name="Star Sports 2 IN" group-title="Cricket - ICC global tournaments",Star Sports 2 IN
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2507/index.m3u8
+

@@ -4,18 +4,21 @@
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel | LIVE: Live: 2026 Davis Cup Tennis" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Tennis",Tennis Channel | LIVE: Live: 2026 Davis Cup Tennis
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
-#EXTINF:-1 tvg-id="FloRacing.24/7.us2" tvg-name="FloRacing 24/7 | LIVE: Live: USAC Racing" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002D2HJG.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Motorsport",FloRacing 24/7 | LIVE: Live: USAC Racing
-https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="SKY Sports F1 HD | LIVE: Qatar F1 GP: Practice 1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" tvg-language="English" group-title="LIVE & SOON - Motorsport",SKY Sports F1 HD | LIVE: Qatar F1 GP: Practice 1
-http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="CBS Sports Golazo Network | LIVE: CBS Sports Golazo Matchnight" tvg-logo="http://dtil.tmsimg.com/assets/s133691_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",CBS Sports Golazo Network | LIVE: CBS Sports Golazo Matchnight
-https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-
-#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="BOOMERANG | 02:30 SAST: What's New Scooby-Doo?" tvg-logo="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Combat Sports",BOOMERANG | 02:30 SAST: What's New Scooby-Doo?
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | 03:00 SAST: Live: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",FOX SPORTS 1 | 03:00 SAST: Live: MLS Soccer
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FOX SPORTS 1 | LIVE: MLS Soccer" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",FOX SPORTS 1 | LIVE: MLS Soccer
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League HD UK | LIVE: FNF: Nott'm Forest v Chelsea Hlts" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" tvg-language="English" group-title="LIVE & SOON - Football",Sky Sports Premier League HD UK | LIVE: FNF: Nott'm Forest v Chelsea Hlts
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/7335/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia | LIVE: Birds Huddle" tvg-logo="http://dtil.tmsimg.com/assets/s32571_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",NBC Sports Philadelphia | LIVE: Birds Huddle
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="VICE TV | LIVE: BKB: Bare Knuckle Boxing" tvg-logo="http://dtil.tmsimg.com/assets/s18822_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Combat Sports",VICE TV | LIVE: BKB: Bare Knuckle Boxing
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.za" tvg-name="NICK JR | 10:34 SAST: Blue's Clues & You" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NJR.png" tvg-language="English + Other" group-title="LIVE & SOON - Football",NICK JR | 10:34 SAST: Blue's Clues & You
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/114/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV | 12:00 SAST: World's Dumbest ..." tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="LIVE & SOON - Football",truTV | 12:00 SAST: World's Dumbest ...
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 

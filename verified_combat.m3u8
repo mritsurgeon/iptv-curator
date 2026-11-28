@@ -37,3 +37,57 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" tvg-language="English" group-title="Combat Sports - Kickboxing and Muay Thai",truTV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="TRACE.URBAN.HD.za" tvg-name="Trace Urban HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T26.png" tvg-language="English" group-title="Combat Sports - Grappling and wrestling",Trace Urban HD
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/15107/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.za" tvg-name="NICK JR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NJR.png" tvg-language="English + Other" group-title="Combat Sports - Boxing",NICK JR
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/114/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="NICK TOONS" tvg-logo="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&h=270" tvg-language="English + Other" group-title="Combat Sports - Boxing",NICK TOONS
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/849/index.m3u8
+
+#EXTINF:-1 tvg-id="National.Geographic.ie" tvg-name="NATIONAL GEOGRAPHIC" tvg-language="English + Other" group-title="Combat Sports",NATIONAL GEOGRAPHIC
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/14001/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN F1 ES" group-title="Combat Sports - MMA",DAZN F1 ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/6071/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN LaLiga 2 HD ES" group-title="Combat Sports - MMA",DAZN LaLiga 2 HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31855/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN LaLiga HD ES" group-title="Combat Sports - MMA",DAZN LaLiga HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31856/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 Bar HD ES" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 1 Bar HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31831/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 HD DE" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 1 HD DE
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19042/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 PT" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 1 PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31954/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 Bar HD ES" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 2 Bar HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31832/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 HD DE" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 2 HD DE
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19043/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2 HD PT" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 2 HD PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31955/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 3 Bar HD ES" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 3 Bar HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31861/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 3 HD PT" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 3 HD PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31956/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 4 Bar HD ES" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 4 Bar HD ES
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31862/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 4 HD PT" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 4 HD PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2534/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 5 HD PT" tvg-language="Other Language" group-title="Combat Sports - MMA",DAZN 5 HD PT
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2535/index.m3u8
+

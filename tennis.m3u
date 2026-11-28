@@ -7,3 +7,9 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&h=270" tvg-language="English" group-title="Tennis - Grand Slams",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
+#EXTINF:-1 tvg-id="BBC.ALBA.HD.uk" tvg-name="BBC Alba UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3021.png" tvg-language="English" group-title="Tennis",BBC Alba UK
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19179/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.za" tvg-name="NICK JR" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NJR.png" tvg-language="English + Other" group-title="Tennis",NICK JR
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/114/index.m3u8
+
